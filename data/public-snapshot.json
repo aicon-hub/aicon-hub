@@ -1,0 +1,594 @@
+{
+  "checked_at_utc": "2026-10-20 17:50 UTC",
+  "checked_at_ist": "20 Oct 2026, 11:20 PM IST",
+  "archive_entries": 723,
+  "homepage_status": 200,
+  "stars": 1,
+  "forks": 0,
+  "latest": [
+    {
+      "title": "Exercism: free coding practice and mentoring in 85 programming languages",
+      "url": "https://aicon-hub.github.io/posts/exercism-free-coding-practice-exercises-volunteer-mentoring-guide.html"
+    },
+    {
+      "title": "Free Music Archive: free music downloads, but check each track's licence",
+      "url": "https://aicon-hub.github.io/posts/free-music-archive-free-creative-commons-music-downloads-licence-guide.html"
+    },
+    {
+      "title": "Figma for Education free for students: Professional tier with education verification",
+      "url": "https://aicon-hub.github.io/posts/figma-education-free-professional-plan-students-guide.html"
+    },
+    {
+      "title": "NAPS2: free open source software to scan documents to PDF on Windows, Mac and Linux",
+      "url": "https://aicon-hub.github.io/posts/naps2-free-open-source-document-scanner-pdf-windows-mac-linux-guide.html"
+    },
+    {
+      "title": "Double Commander: free open source two-panel file manager for Windows, Linux and Mac",
+      "url": "https://aicon-hub.github.io/posts/double-commander-free-open-source-two-panel-file-manager-windows-linux-mac-guide.html"
+    }
+  ],
+  "sources": [
+    "https://aicon-hub.github.io/",
+    "https://aicon-hub.github.io/posts/index.html",
+    "https://api.github.com/repos/aicon-hub/aicon-hub.github.io",
+    "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
+    "https://github.com/users/aicon-hub/contributions"
+  ],
+  "activity": {
+    "commit_days": [
+      {
+        "date": "2026-10-07",
+        "count": 2040
+      },
+      {
+        "date": "2026-10-08",
+        "count": 283
+      },
+      {
+        "date": "2026-10-09",
+        "count": 205
+      },
+      {
+        "date": "2026-10-10",
+        "count": 202
+      },
+      {
+        "date": "2026-10-11",
+        "count": 215
+      },
+      {
+        "date": "2026-10-12",
+        "count": 205
+      },
+      {
+        "date": "2026-10-13",
+        "count": 183
+      },
+      {
+        "date": "2026-10-14",
+        "count": 242
+      },
+      {
+        "date": "2026-10-15",
+        "count": 249
+      },
+      {
+        "date": "2026-10-16",
+        "count": 223
+      },
+      {
+        "date": "2026-10-17",
+        "count": 202
+      },
+      {
+        "date": "2026-10-18",
+        "count": 187
+      },
+      {
+        "date": "2026-10-19",
+        "count": 223
+      },
+      {
+        "date": "2026-10-20",
+        "count": 162
+      }
+    ],
+    "commits": [
+      {
+        "sha": "ec0bfe53d0902467a64e718ff22b8e5290325e84",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ec0bfe53d0902467a64e718ff22b8e5290325e84",
+        "date_utc": "20 Oct 2026, 17:50 UTC",
+        "day": "2026-10-20",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "7d3125ff33696fb4b3a098d65a2c7829d5d555fe",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7d3125ff33696fb4b3a098d65a2c7829d5d555fe",
+        "date_utc": "20 Oct 2026, 17:50 UTC",
+        "day": "2026-10-20",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "97aeb71796716bcb0552e3a323a8cb2cbd99bbee",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/97aeb71796716bcb0552e3a323a8cb2cbd99bbee",
+        "date_utc": "20 Oct 2026, 17:50 UTC",
+        "day": "2026-10-20",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "1ed62aca32f7c57dc59b04baaf5dec09ae8b8273",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1ed62aca32f7c57dc59b04baaf5dec09ae8b8273",
+        "date_utc": "20 Oct 2026, 17:49 UTC",
+        "day": "2026-10-20",
+        "title": "Add Exercism official artwork to media registry (AI369)"
+      },
+      {
+        "sha": "773e1653db08418885f42ef65f260901dc063bb0",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/773e1653db08418885f42ef65f260901dc063bb0",
+        "date_utc": "20 Oct 2026, 17:38 UTC",
+        "day": "2026-10-20",
+        "title": "Add Exercism card to posts index (AI369)"
+      }
+    ],
+    "commit_total": 4821,
+    "calendar": [
+      {
+        "date": "2026-07-22",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-07-23",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-07-24",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-07-25",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-07-26",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-07-27",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-07-28",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-07-29",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-07-30",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-07-31",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-01",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-02",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-03",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-04",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-05",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-06",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-07",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-08",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-09",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-10",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-11",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-12",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-13",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-14",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-15",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-16",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-17",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-18",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-19",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-20",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-21",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-22",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-23",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-24",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-25",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-26",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-27",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-28",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-29",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-30",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-08-31",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-01",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-02",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-03",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-04",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-05",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-06",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-07",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-08",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-09",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-10",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-11",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-12",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-13",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-14",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-15",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-17",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-18",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-19",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-20",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-21",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-22",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-23",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-24",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-25",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-26",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-27",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-28",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-29",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-30",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-01",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-02",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-03",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-04",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-05",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-06",
+        "level": 4,
+        "count": 184
+      },
+      {
+        "date": "2026-10-07",
+        "level": 4,
+        "count": 1824
+      },
+      {
+        "date": "2026-10-08",
+        "level": 4,
+        "count": 218
+      },
+      {
+        "date": "2026-10-09",
+        "level": 2,
+        "count": 100
+      },
+      {
+        "date": "2026-10-10",
+        "level": 2,
+        "count": 108
+      },
+      {
+        "date": "2026-10-11",
+        "level": 3,
+        "count": 159
+      },
+      {
+        "date": "2026-10-12",
+        "level": 3,
+        "count": 124
+      },
+      {
+        "date": "2026-10-13",
+        "level": 2,
+        "count": 85
+      },
+      {
+        "date": "2026-10-14",
+        "level": 3,
+        "count": 113
+      },
+      {
+        "date": "2026-10-15",
+        "level": 3,
+        "count": 137
+      },
+      {
+        "date": "2026-10-16",
+        "level": 3,
+        "count": 117
+      },
+      {
+        "date": "2026-10-17",
+        "level": 3,
+        "count": 116
+      },
+      {
+        "date": "2026-10-18",
+        "level": 2,
+        "count": 107
+      },
+      {
+        "date": "2026-10-19",
+        "level": 2,
+        "count": 72
+      },
+      {
+        "date": "2026-10-20",
+        "level": 1,
+        "count": 12
+      }
+    ],
+    "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
+    "calendar_url": "https://github.com/users/aicon-hub/contributions"
+  }
+}
