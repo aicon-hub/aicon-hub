@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-20 22:50 UTC",
-  "checked_at_ist": "21 Oct 2026, 04:20 AM IST",
-  "archive_entries": 724,
+  "checked_at_utc": "2026-10-20 23:46 UTC",
+  "checked_at_ist": "21 Oct 2026, 05:16 AM IST",
+  "archive_entries": 725,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Subtitle Edit: free open source editor to create and fix video subtitles",
+      "url": "https://aicon-hub.github.io/posts/subtitle-edit-free-open-source-subtitle-editor-srt-windows-mac-linux-guide.html"
+    },
     {
       "title": "PrusaSlicer: free open source software to prepare 3D models for printing",
       "url": "https://aicon-hub.github.io/posts/prusaslicer-free-open-source-3d-printing-slicer-windows-mac-linux-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Figma for Education free for students: Professional tier with education verification",
       "url": "https://aicon-hub.github.io/posts/figma-education-free-professional-plan-students-guide.html"
-    },
-    {
-      "title": "NAPS2: free open source software to scan documents to PDF on Windows, Mac and Linux",
-      "url": "https://aicon-hub.github.io/posts/naps2-free-open-source-document-scanner-pdf-windows-mac-linux-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-20",
-        "count": 168
+        "count": 174
       }
     ],
     "commits": [
       {
-        "sha": "8a747d690abb3ac91300f22154ffadc324d47a75",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8a747d690abb3ac91300f22154ffadc324d47a75",
-        "date_utc": "20 Oct 2026, 18:39 UTC",
+        "sha": "1d6479cfa2503f8459df2aab3ab57ca41623c64d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1d6479cfa2503f8459df2aab3ab57ca41623c64d",
+        "date_utc": "20 Oct 2026, 23:44 UTC",
         "day": "2026-10-20",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "bc550349f360664f2c062a1a192b183a68995b88",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bc550349f360664f2c062a1a192b183a68995b88",
-        "date_utc": "20 Oct 2026, 18:39 UTC",
+        "sha": "945b14804c055ea68d085ec60b850d1263310b0f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/945b14804c055ea68d085ec60b850d1263310b0f",
+        "date_utc": "20 Oct 2026, 23:44 UTC",
         "day": "2026-10-20",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "ab9fa486b9b8ac52e652b1c7c6ead91677835062",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ab9fa486b9b8ac52e652b1c7c6ead91677835062",
-        "date_utc": "20 Oct 2026, 18:39 UTC",
+        "sha": "657d1cc5b5fed25500f10858b6248dc4c00747a8",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/657d1cc5b5fed25500f10858b6248dc4c00747a8",
+        "date_utc": "20 Oct 2026, 23:44 UTC",
         "day": "2026-10-20",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "185558aaf5ad69477b732d9548133cc8dfc4b94e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/185558aaf5ad69477b732d9548133cc8dfc4b94e",
-        "date_utc": "20 Oct 2026, 18:36 UTC",
+        "sha": "2abdda364647809f97bc3c898000a1eee6575f16",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2abdda364647809f97bc3c898000a1eee6575f16",
+        "date_utc": "20 Oct 2026, 23:40 UTC",
         "day": "2026-10-20",
-        "title": "Add PrusaSlicer guide entry to JSON file"
+        "title": "Register Subtitle Edit official icon (AI371)"
       },
       {
-        "sha": "81b65119e2fdb41582226457c890a1915a503040",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/81b65119e2fdb41582226457c890a1915a503040",
-        "date_utc": "20 Oct 2026, 18:35 UTC",
+        "sha": "8985493f8214db9e5cbc74514e87b8fc7d3faa73",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8985493f8214db9e5cbc74514e87b8fc7d3faa73",
+        "date_utc": "20 Oct 2026, 23:39 UTC",
         "day": "2026-10-20",
-        "title": "Add new posts to the index.html file"
+        "title": "Index Subtitle Edit guide (AI371)"
       }
     ],
-    "commit_total": 4827,
+    "commit_total": 4833,
     "calendar": [
       {
         "date": "2026-07-22",

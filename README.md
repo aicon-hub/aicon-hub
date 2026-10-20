@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **21 Oct 2026, 04:20 AM IST** (2026-10-20 22:50 UTC).
+Checked **21 Oct 2026, 05:16 AM IST** (2026-10-20 23:46 UTC).
 
-**724 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**725 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **21 Oct 2026, 04:20 AM IST** (2026-10-20 22:50 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**4827 website-repo main-branch commits** · 14 UTC days · includes automation.
+**4833 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`8a747d6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8a747d690abb3ac91300f22154ffadc324d47a75) · 20 Oct 2026, 18:39 UTC · Record Telegram publishing state
-- [`bc55034`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bc550349f360664f2c062a1a192b183a68995b88) · 20 Oct 2026, 18:39 UTC · Record Telegram publishing state
-- [`ab9fa48`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ab9fa486b9b8ac52e652b1c7c6ead91677835062) · 20 Oct 2026, 18:39 UTC · Record Telegram publishing state
-- [`185558a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/185558aaf5ad69477b732d9548133cc8dfc4b94e) · 20 Oct 2026, 18:36 UTC · Add PrusaSlicer guide entry to JSON file
-- [`81b6511`](https://github.com/aicon-hub/aicon-hub.github.io/commit/81b65119e2fdb41582226457c890a1915a503040) · 20 Oct 2026, 18:35 UTC · Add new posts to the index.html file
+- [`1d6479c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1d6479cfa2503f8459df2aab3ab57ca41623c64d) · 20 Oct 2026, 23:44 UTC · Record Telegram publishing state
+- [`945b148`](https://github.com/aicon-hub/aicon-hub.github.io/commit/945b14804c055ea68d085ec60b850d1263310b0f) · 20 Oct 2026, 23:44 UTC · Record Telegram publishing state
+- [`657d1cc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/657d1cc5b5fed25500f10858b6248dc4c00747a8) · 20 Oct 2026, 23:44 UTC · Record Telegram publishing state
+- [`2abdda3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2abdda364647809f97bc3c898000a1eee6575f16) · 20 Oct 2026, 23:40 UTC · Register Subtitle Edit official icon (AI371)
+- [`8985493`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8985493f8214db9e5cbc74514e87b8fc7d3faa73) · 20 Oct 2026, 23:39 UTC · Index Subtitle Edit guide (AI371)
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Subtitle Edit: free open source editor to create and fix video subtitles](https://aicon-hub.github.io/posts/subtitle-edit-free-open-source-subtitle-editor-srt-windows-mac-linux-guide.html)
 - [PrusaSlicer: free open source software to prepare 3D models for printing](https://aicon-hub.github.io/posts/prusaslicer-free-open-source-3d-printing-slicer-windows-mac-linux-guide.html)
 - [Exercism: free coding practice and mentoring in 85 programming languages](https://aicon-hub.github.io/posts/exercism-free-coding-practice-exercises-volunteer-mentoring-guide.html)
-- [Free Music Archive: free music downloads, but check each track's licence](https://aicon-hub.github.io/posts/free-music-archive-free-creative-commons-music-downloads-licence-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
