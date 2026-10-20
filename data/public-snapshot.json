@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-20 17:50 UTC",
-  "checked_at_ist": "20 Oct 2026, 11:20 PM IST",
-  "archive_entries": 723,
+  "checked_at_utc": "2026-10-20 19:02 UTC",
+  "checked_at_ist": "21 Oct 2026, 12:32 AM IST",
+  "archive_entries": 724,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "PrusaSlicer: free open source software to prepare 3D models for printing",
+      "url": "https://aicon-hub.github.io/posts/prusaslicer-free-open-source-3d-printing-slicer-windows-mac-linux-guide.html"
+    },
     {
       "title": "Exercism: free coding practice and mentoring in 85 programming languages",
       "url": "https://aicon-hub.github.io/posts/exercism-free-coding-practice-exercises-volunteer-mentoring-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "NAPS2: free open source software to scan documents to PDF on Windows, Mac and Linux",
       "url": "https://aicon-hub.github.io/posts/naps2-free-open-source-document-scanner-pdf-windows-mac-linux-guide.html"
-    },
-    {
-      "title": "Double Commander: free open source two-panel file manager for Windows, Linux and Mac",
-      "url": "https://aicon-hub.github.io/posts/double-commander-free-open-source-two-panel-file-manager-windows-linux-mac-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-20",
-        "count": 162
+        "count": 168
       }
     ],
     "commits": [
       {
-        "sha": "ec0bfe53d0902467a64e718ff22b8e5290325e84",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ec0bfe53d0902467a64e718ff22b8e5290325e84",
-        "date_utc": "20 Oct 2026, 17:50 UTC",
+        "sha": "8a747d690abb3ac91300f22154ffadc324d47a75",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8a747d690abb3ac91300f22154ffadc324d47a75",
+        "date_utc": "20 Oct 2026, 18:39 UTC",
         "day": "2026-10-20",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7d3125ff33696fb4b3a098d65a2c7829d5d555fe",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7d3125ff33696fb4b3a098d65a2c7829d5d555fe",
-        "date_utc": "20 Oct 2026, 17:50 UTC",
+        "sha": "bc550349f360664f2c062a1a192b183a68995b88",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bc550349f360664f2c062a1a192b183a68995b88",
+        "date_utc": "20 Oct 2026, 18:39 UTC",
         "day": "2026-10-20",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "97aeb71796716bcb0552e3a323a8cb2cbd99bbee",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/97aeb71796716bcb0552e3a323a8cb2cbd99bbee",
-        "date_utc": "20 Oct 2026, 17:50 UTC",
+        "sha": "ab9fa486b9b8ac52e652b1c7c6ead91677835062",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ab9fa486b9b8ac52e652b1c7c6ead91677835062",
+        "date_utc": "20 Oct 2026, 18:39 UTC",
         "day": "2026-10-20",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "1ed62aca32f7c57dc59b04baaf5dec09ae8b8273",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1ed62aca32f7c57dc59b04baaf5dec09ae8b8273",
-        "date_utc": "20 Oct 2026, 17:49 UTC",
+        "sha": "185558aaf5ad69477b732d9548133cc8dfc4b94e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/185558aaf5ad69477b732d9548133cc8dfc4b94e",
+        "date_utc": "20 Oct 2026, 18:36 UTC",
         "day": "2026-10-20",
-        "title": "Add Exercism official artwork to media registry (AI369)"
+        "title": "Add PrusaSlicer guide entry to JSON file"
       },
       {
-        "sha": "773e1653db08418885f42ef65f260901dc063bb0",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/773e1653db08418885f42ef65f260901dc063bb0",
-        "date_utc": "20 Oct 2026, 17:38 UTC",
+        "sha": "81b65119e2fdb41582226457c890a1915a503040",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/81b65119e2fdb41582226457c890a1915a503040",
+        "date_utc": "20 Oct 2026, 18:35 UTC",
         "day": "2026-10-20",
-        "title": "Add Exercism card to posts index (AI369)"
+        "title": "Add new posts to the index.html file"
       }
     ],
-    "commit_total": 4821,
+    "commit_total": 4827,
     "calendar": [
       {
         "date": "2026-07-22",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-20",
         "level": 1,
-        "count": 12
+        "count": 13
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

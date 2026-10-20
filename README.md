@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **20 Oct 2026, 11:20 PM IST** (2026-10-20 17:50 UTC).
+Checked **21 Oct 2026, 12:32 AM IST** (2026-10-20 19:02 UTC).
 
-**723 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**724 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **20 Oct 2026, 11:20 PM IST** (2026-10-20 17:50 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**4821 website-repo main-branch commits** · 14 UTC days · includes automation.
+**4827 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`ec0bfe5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ec0bfe53d0902467a64e718ff22b8e5290325e84) · 20 Oct 2026, 17:50 UTC · Record Telegram publishing state
-- [`7d3125f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7d3125ff33696fb4b3a098d65a2c7829d5d555fe) · 20 Oct 2026, 17:50 UTC · Record Telegram publishing state
-- [`97aeb71`](https://github.com/aicon-hub/aicon-hub.github.io/commit/97aeb71796716bcb0552e3a323a8cb2cbd99bbee) · 20 Oct 2026, 17:50 UTC · Record Telegram publishing state
-- [`1ed62ac`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1ed62aca32f7c57dc59b04baaf5dec09ae8b8273) · 20 Oct 2026, 17:49 UTC · Add Exercism official artwork to media registry (AI369)
-- [`773e165`](https://github.com/aicon-hub/aicon-hub.github.io/commit/773e1653db08418885f42ef65f260901dc063bb0) · 20 Oct 2026, 17:38 UTC · Add Exercism card to posts index (AI369)
+- [`8a747d6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8a747d690abb3ac91300f22154ffadc324d47a75) · 20 Oct 2026, 18:39 UTC · Record Telegram publishing state
+- [`bc55034`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bc550349f360664f2c062a1a192b183a68995b88) · 20 Oct 2026, 18:39 UTC · Record Telegram publishing state
+- [`ab9fa48`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ab9fa486b9b8ac52e652b1c7c6ead91677835062) · 20 Oct 2026, 18:39 UTC · Record Telegram publishing state
+- [`185558a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/185558aaf5ad69477b732d9548133cc8dfc4b94e) · 20 Oct 2026, 18:36 UTC · Add PrusaSlicer guide entry to JSON file
+- [`81b6511`](https://github.com/aicon-hub/aicon-hub.github.io/commit/81b65119e2fdb41582226457c890a1915a503040) · 20 Oct 2026, 18:35 UTC · Add new posts to the index.html file
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [PrusaSlicer: free open source software to prepare 3D models for printing](https://aicon-hub.github.io/posts/prusaslicer-free-open-source-3d-printing-slicer-windows-mac-linux-guide.html)
 - [Exercism: free coding practice and mentoring in 85 programming languages](https://aicon-hub.github.io/posts/exercism-free-coding-practice-exercises-volunteer-mentoring-guide.html)
 - [Free Music Archive: free music downloads, but check each track's licence](https://aicon-hub.github.io/posts/free-music-archive-free-creative-commons-music-downloads-licence-guide.html)
-- [Figma for Education free for students: Professional tier with education verification](https://aicon-hub.github.io/posts/figma-education-free-professional-plan-students-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
