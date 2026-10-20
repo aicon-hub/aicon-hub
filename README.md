@@ -37,7 +37,7 @@ Checked **20 Oct 2026, 10:26 PM IST** (2026-10-20 16:56 UTC).
 
 ## The contribution snake
 
-![AiCoN contribution snake, animated](assets/contribution-snake.gif)
+![AiCoN contribution snake, animated](assets/contribution-snake.svg)
 
 An orange-and-white snake explores **91 days of aicon-hub's public GitHub calendar**. Real calendar, playful motion. The animation is decorative, not extra activity.
 
