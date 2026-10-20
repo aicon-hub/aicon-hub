@@ -75,7 +75,7 @@ def dashboard(snapshot):
 
 def apply_snapshot(snapshot):
     readme = ROOT / 'README.md'
-    text = readme.read_text()
+    text = readme.read_text().replace('assets/contribution-snake.svg', 'assets/contribution-snake.gif')
     summary = f'![Public activity dashboard](assets/public-dashboard.svg)\n\nChecked **{snapshot["checked_at_ist"]}** ({snapshot["checked_at_utc"]}).\n\n**{snapshot["archive_entries"]} archive entries** · **Homepage HTTP {snapshot["homepage_status"]}** · **{snapshot["stars"]} site-repo star(s)** · **{snapshot["forks"]} site-repo fork(s)**'
     latest = '\n'.join(f'- [{safe_md(p["title"])}]({p["url"]})' for p in snapshot['latest'])
     commits = '\n'.join(f'- [`{c["sha"][:7]}`]({c["url"]}) · {c["date_utc"]} · {safe_md(c["title"])}' for c in snapshot['activity']['commits'])
