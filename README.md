@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **21 Oct 2026, 05:24 PM IST** (2026-10-21 11:54 UTC).
+Checked **21 Oct 2026, 06:39 PM IST** (2026-10-21 13:09 UTC).
 
-**741 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**742 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **21 Oct 2026, 05:24 PM IST** (2026-10-21 11:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2887 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2899 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`2770109`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2770109613bdce88c2acfe1101e7822b41c7ccb7) · 21 Oct 2026, 11:44 UTC · Add winter research admissions 2026-27 guide
-- [`917aeb8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/917aeb8deada1eef78ae83f31f2b10bde168ffea) · 21 Oct 2026, 11:41 UTC · Record Telegram publishing state
-- [`a309995`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a30999547b971f5ca81e2ae63994a1c33aad20b6) · 21 Oct 2026, 11:41 UTC · Record Telegram publishing state
-- [`d8e06ef`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d8e06efbd875ab24f394f7494bea21508b24535d) · 21 Oct 2026, 11:41 UTC · Record Telegram publishing state
-- [`01d1990`](https://github.com/aicon-hub/aicon-hub.github.io/commit/01d19902fe1dd78b9075cf4c7074500890cc72ad) · 21 Oct 2026, 11:37 UTC · Add Monkeytype guide (AI383)
+- [`f931e58`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f931e58e3ec1c6150dc51ab413eda8626a4daa3d) · 21 Oct 2026, 12:46 UTC · Fix winter admissions card: IIT Palakkad deadline is 1 Nov, 2 PM
+- [`135f3de`](https://github.com/aicon-hub/aicon-hub.github.io/commit/135f3dee6b8aed19c494ba0f45e7dbd0abf9fc62) · 21 Oct 2026, 12:45 UTC · Record Telegram publishing state
+- [`6a06645`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6a066452fb98eb67ac12cfb1f0ee4eef6d2e25c8) · 21 Oct 2026, 12:45 UTC · Record Telegram publishing state
+- [`fe92c8c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fe92c8c37f6f42b0190e16d0cfdc796bd150906b) · 21 Oct 2026, 12:44 UTC · Record Telegram publishing state
+- [`e6fc24f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e6fc24ffbb56e2fa00178bc30484af4ceb656452) · 21 Oct 2026, 12:40 UTC · Add Musicca guide (AI384)
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -74,7 +74,7 @@ The data and update scripts live in this profile repository. [Compare with the o
 <!-- AICON:LATEST:START -->
 - [Winter research admissions 2026-27: IIT MS and M.Tech (Research) deadlines, verified](https://aicon-hub.github.io/posts/winter-research-admissions-2026-27-iit-ms-mtech-research-guide.html)
 - [Monkeytype: free typing speed test, no account needed](https://aicon-hub.github.io/posts/monkeytype-free-typing-speed-test-no-account-guide.html)
-- [EarTrumpet: free volume mixer for Windows](https://aicon-hub.github.io/posts/eartrumpet-free-volume-mixer-windows-microsoft-store-guide.html)
+- [Musicca: learn music theory free, in your browser](https://aicon-hub.github.io/posts/musicca-free-music-theory-exercises-instruments-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
