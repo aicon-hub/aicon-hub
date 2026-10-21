@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-21 08:00 UTC",
-  "checked_at_ist": "21 Oct 2026, 01:30 PM IST",
-  "archive_entries": 735,
+  "checked_at_utc": "2026-10-21 08:58 UTC",
+  "checked_at_ist": "21 Oct 2026, 02:28 PM IST",
+  "archive_entries": 736,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "FxSound: free sound booster and equalizer for Windows",
+      "url": "https://aicon-hub.github.io/posts/fxsound-free-open-source-sound-booster-equalizer-windows-guide.html"
+    },
     {
       "title": "Twine: free tool to write interactive stories, no coding needed",
       "url": "https://aicon-hub.github.io/posts/twine-free-interactive-story-maker-no-coding-windows-mac-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "LosslessCut: free tool to trim videos without losing quality",
       "url": "https://aicon-hub.github.io/posts/losslesscut-free-lossless-video-trimmer-cut-without-quality-loss-guide.html"
-    },
-    {
-      "title": "MusicBrainz Picard: free music tagger to organize your collection",
-      "url": "https://aicon-hub.github.io/posts/musicbrainz-picard-free-music-tagger-organize-mp3-flac-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-21",
-        "count": 66
+        "count": 70
       }
     ],
     "commits": [
+      {
+        "sha": "1cfe9e4e3339c68fe9961010c5720bed0662d6e6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1cfe9e4e3339c68fe9961010c5720bed0662d6e6",
+        "date_utc": "21 Oct 2026, 08:43 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "469b6f97374c487437f928bad9de66a3a3f3891a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/469b6f97374c487437f928bad9de66a3a3f3891a",
+        "date_utc": "21 Oct 2026, 08:43 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "6a219fbfcb78a5876b083bd91358c959157dd2f5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6a219fbfcb78a5876b083bd91358c959157dd2f5",
+        "date_utc": "21 Oct 2026, 08:43 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "ff93d97cd4ec6ac3c149e37af35840193c4790b4",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ff93d97cd4ec6ac3c149e37af35840193c4790b4",
+        "date_utc": "21 Oct 2026, 08:37 UTC",
+        "day": "2026-10-21",
+        "title": "Add FxSound guide (AI380)"
+      },
       {
         "sha": "5708031baa025a2441d8e0eacd583fee95984dfb",
         "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5708031baa025a2441d8e0eacd583fee95984dfb",
         "date_utc": "21 Oct 2026, 07:55 UTC",
         "day": "2026-10-21",
         "title": "Update sitemap.xml with new URLs and last modified dates"
-      },
-      {
-        "sha": "03c4f6220205101a3917fb0a1998c910ad4a499b",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/03c4f6220205101a3917fb0a1998c910ad4a499b",
-        "date_utc": "21 Oct 2026, 07:54 UTC",
-        "day": "2026-10-21",
-        "title": "Update index.html"
-      },
-      {
-        "sha": "4dd7aa4adf01f7705252b7c2ff9774a3705e5ad1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4dd7aa4adf01f7705252b7c2ff9774a3705e5ad1",
-        "date_utc": "21 Oct 2026, 07:52 UTC",
-        "day": "2026-10-21",
-        "title": "Update index.html"
-      },
-      {
-        "sha": "8cb4e064f488b08ab41d59c965e56d02472ff6a5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8cb4e064f488b08ab41d59c965e56d02472ff6a5",
-        "date_utc": "21 Oct 2026, 07:51 UTC",
-        "day": "2026-10-21",
-        "title": "Update kerala-imbichi-bava-house-renovation-grant-50000-minority-women-apply-by-22-october-guide.html"
-      },
-      {
-        "sha": "da6080a2aaaf19cca265e2cb8a1eb203f3122408",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/da6080a2aaaf19cca265e2cb8a1eb203f3122408",
-        "date_utc": "21 Oct 2026, 07:50 UTC",
-        "day": "2026-10-21",
-        "title": "Create imbichi-step-02.svg"
       }
     ],
-    "commit_total": 2859,
+    "commit_total": 2863,
     "calendar": [
       {
         "date": "2026-07-23",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-21",
         "level": 1,
-        "count": 40
+        "count": 41
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
