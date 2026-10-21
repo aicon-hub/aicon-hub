@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-21 16:55 UTC",
-  "checked_at_ist": "21 Oct 2026, 10:25 PM IST",
-  "archive_entries": 748,
+  "checked_at_utc": "2026-10-21 17:52 UTC",
+  "checked_at_ist": "21 Oct 2026, 11:22 PM IST",
+  "archive_entries": 749,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Ezgif: free online GIF maker and editor, no sign-up",
+      "url": "https://aicon-hub.github.io/posts/ezgif-free-online-gif-maker-editor-no-signup-guide.html"
+    },
     {
       "title": "Coolors: free color palette generator, no account needed",
       "url": "https://aicon-hub.github.io/posts/coolors-free-color-palette-generator-no-account-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Stellarium Web: free online planetarium in your browser",
       "url": "https://aicon-hub.github.io/posts/stellarium-web-free-online-planetarium-night-sky-guide.html"
-    },
-    {
-      "title": "TranslucentTB: free transparent taskbar for Windows",
-      "url": "https://aicon-hub.github.io/posts/translucenttb-free-transparent-windows-taskbar-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-21",
-        "count": 158
+        "count": 162
       }
     ],
     "commits": [
+      {
+        "sha": "34712d0005eb1853357d38969aaf71a80897438a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/34712d0005eb1853357d38969aaf71a80897438a",
+        "date_utc": "21 Oct 2026, 17:44 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "ea9ee158422dd1dbc3096f62306b02f243b87436",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ea9ee158422dd1dbc3096f62306b02f243b87436",
+        "date_utc": "21 Oct 2026, 17:44 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "51c4ff757aad2372b443452fd8e543ba22535e34",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/51c4ff757aad2372b443452fd8e543ba22535e34",
+        "date_utc": "21 Oct 2026, 17:44 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "7bbd327135fea72d3ca644392243a57cb98f4509",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7bbd327135fea72d3ca644392243a57cb98f4509",
+        "date_utc": "21 Oct 2026, 17:39 UTC",
+        "day": "2026-10-21",
+        "title": "Add Ezgif guide (AI389)"
+      },
       {
         "sha": "a3d761045505f00a2287d2a932bac8bf3791f6da",
         "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a3d761045505f00a2287d2a932bac8bf3791f6da",
         "date_utc": "21 Oct 2026, 16:48 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "59a274e6b93886046c32d271f8f221957be6d6e6",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/59a274e6b93886046c32d271f8f221957be6d6e6",
-        "date_utc": "21 Oct 2026, 16:48 UTC",
-        "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "acd55b9fe3768c39d1b080ef27a1e6aa1b31ccb0",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/acd55b9fe3768c39d1b080ef27a1e6aa1b31ccb0",
-        "date_utc": "21 Oct 2026, 16:48 UTC",
-        "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "b26d128a0ee6ac9aebe588ce33872ce5c8b4affb",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b26d128a0ee6ac9aebe588ce33872ce5c8b4affb",
-        "date_utc": "21 Oct 2026, 16:43 UTC",
-        "day": "2026-10-21",
-        "title": "Coolors card: text-only (publisher image blocks hotlinking)"
-      },
-      {
-        "sha": "6c6eaab9b722ae66bf196b3347d726731564eec7",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6c6eaab9b722ae66bf196b3347d726731564eec7",
-        "date_utc": "21 Oct 2026, 16:39 UTC",
-        "day": "2026-10-21",
-        "title": "Add Coolors guide (AI388)"
       }
     ],
-    "commit_total": 2951,
+    "commit_total": 2955,
     "calendar": [
       {
         "date": "2026-07-23",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-21",
         "level": 2,
-        "count": 60
+        "count": 61
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
