@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **21 Oct 2026, 07:29 PM IST** (2026-10-21 13:59 UTC).
+Checked **21 Oct 2026, 08:25 PM IST** (2026-10-21 14:55 UTC).
 
-**744 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**745 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **21 Oct 2026, 07:29 PM IST** (2026-10-21 13:59 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2910 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2923 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`2de05a9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2de05a9d76d240ebfd7b7d813be9bee0df5a0fa1) · 21 Oct 2026, 13:54 UTC · Add TranslucentTB guide to sitemap (AI385)
-- [`ba21b71`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ba21b71adbf6cfc06d24fee8095acfdef2767c9c) · 21 Oct 2026, 13:53 UTC · Add TranslucentTB card to posts index (AI385)
-- [`7451376`](https://github.com/aicon-hub/aicon-hub.github.io/commit/745137623ac7c50b9c54213caccc862e31f916c0) · 21 Oct 2026, 13:52 UTC · Add TranslucentTB guide (AI385)
-- [`6fea98e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6fea98e18dc2415a15e189e2882f19e44674275a) · 21 Oct 2026, 13:26 UTC · Record Telegram publishing state
-- [`2b4ffaf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2b4ffaf14227a9d8e33e9a6c7f5168396a9f31b1) · 21 Oct 2026, 13:26 UTC · Record Telegram publishing state
+- [`8fc83c6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8fc83c6b1dddccc48dd173c3119b0eb7cc977a2d) · 21 Oct 2026, 14:54 UTC · Add VYUHAM'26 DUK fest guide
+- [`8396c4c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8396c4cd3c0143c43f2bd7ad7194a1cd4cf759ef) · 21 Oct 2026, 14:54 UTC · Record Telegram publishing state
+- [`312c43e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/312c43e853ed5ddc47c13359a1d29795625eeaaa) · 21 Oct 2026, 14:54 UTC · Record Telegram publishing state
+- [`946a625`](https://github.com/aicon-hub/aicon-hub.github.io/commit/946a6255917822b27da4e11b66c56b7f11ae7bfd) · 21 Oct 2026, 14:54 UTC · Record Telegram publishing state
+- [`0421606`](https://github.com/aicon-hub/aicon-hub.github.io/commit/04216061b68afc9c15113789ea9a86975c69d6ae) · 21 Oct 2026, 14:46 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Stellarium Web: free online planetarium in your browser](https://aicon-hub.github.io/posts/stellarium-web-free-online-planetarium-night-sky-guide.html)
 - [TranslucentTB: free transparent taskbar for Windows](https://aicon-hub.github.io/posts/translucenttb-free-transparent-windows-taskbar-guide.html)
 - [AICTE Saraswati Scholarship 2026-27: Rs 25,000 a year for girls in BBA, BCA and BMS](https://aicon-hub.github.io/posts/aicte-saraswati-scholarship-2026-27-bba-bca-bms-girls-guide.html)
-- [Winter research admissions 2026-27: IIT MS and M.Tech (Research) deadlines, verified](https://aicon-hub.github.io/posts/winter-research-admissions-2026-27-iit-ms-mtech-research-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
