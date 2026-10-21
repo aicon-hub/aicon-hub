@@ -1,11 +1,19 @@
 {
-  "checked_at_utc": "2026-10-21 07:10 UTC",
-  "checked_at_ist": "21 Oct 2026, 12:40 PM IST",
-  "archive_entries": 733,
+  "checked_at_utc": "2026-10-21 08:00 UTC",
+  "checked_at_ist": "21 Oct 2026, 01:30 PM IST",
+  "archive_entries": 735,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Twine: free tool to write interactive stories, no coding needed",
+      "url": "https://aicon-hub.github.io/posts/twine-free-interactive-story-maker-no-coding-windows-mac-guide.html"
+    },
+    {
+      "title": "Imbichi Bava house renovation grant 2026-27: ₹50,000 for minority widows, divorced and abandoned women, apply by 22 October",
+      "url": "https://aicon-hub.github.io/posts/kerala-imbichi-bava-house-renovation-grant-50000-minority-women-apply-by-22-october-guide.html"
+    },
     {
       "title": "WinSCP: free FTP and SFTP client for Windows",
       "url": "https://aicon-hub.github.io/posts/winscp-free-ftp-sftp-file-transfer-client-windows-guide.html"
@@ -17,14 +25,6 @@
     {
       "title": "MusicBrainz Picard: free music tagger to organize your collection",
       "url": "https://aicon-hub.github.io/posts/musicbrainz-picard-free-music-tagger-organize-mp3-flac-guide.html"
-    },
-    {
-      "title": "Kerala Waqf Board loan scholarship 2026: Rs 5,000 a month interest-free, apply by 31 October",
-      "url": "https://aicon-hub.github.io/posts/kerala-waqf-board-loan-scholarship-2026-rs-5000-monthly-professional-students-apply-by-31-october-guide.html"
-    },
-    {
-      "title": "MediaInfo: free tool to see what is inside a video or audio file",
-      "url": "https://aicon-hub.github.io/posts/mediainfo-free-video-audio-file-details-checker-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-21",
-        "count": 49
+        "count": 66
       }
     ],
     "commits": [
       {
-        "sha": "c079d44a94fcc43b242f1ce1df21b89ac143ae82",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c079d44a94fcc43b242f1ce1df21b89ac143ae82",
-        "date_utc": "21 Oct 2026, 06:43 UTC",
+        "sha": "5708031baa025a2441d8e0eacd583fee95984dfb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5708031baa025a2441d8e0eacd583fee95984dfb",
+        "date_utc": "21 Oct 2026, 07:55 UTC",
         "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
+        "title": "Update sitemap.xml with new URLs and last modified dates"
       },
       {
-        "sha": "1159daf88ab95095f41fde073653d29c7964c15c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1159daf88ab95095f41fde073653d29c7964c15c",
-        "date_utc": "21 Oct 2026, 06:43 UTC",
+        "sha": "03c4f6220205101a3917fb0a1998c910ad4a499b",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/03c4f6220205101a3917fb0a1998c910ad4a499b",
+        "date_utc": "21 Oct 2026, 07:54 UTC",
         "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
+        "title": "Update index.html"
       },
       {
-        "sha": "0b023cb0eaf06e263ae9fb641a5007c44f5aa1df",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0b023cb0eaf06e263ae9fb641a5007c44f5aa1df",
-        "date_utc": "21 Oct 2026, 06:43 UTC",
+        "sha": "4dd7aa4adf01f7705252b7c2ff9774a3705e5ad1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4dd7aa4adf01f7705252b7c2ff9774a3705e5ad1",
+        "date_utc": "21 Oct 2026, 07:52 UTC",
         "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
+        "title": "Update index.html"
       },
       {
-        "sha": "11eb4aa67a81fab7853c610c0bd6aeb7039c8e37",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/11eb4aa67a81fab7853c610c0bd6aeb7039c8e37",
-        "date_utc": "21 Oct 2026, 06:37 UTC",
+        "sha": "8cb4e064f488b08ab41d59c965e56d02472ff6a5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8cb4e064f488b08ab41d59c965e56d02472ff6a5",
+        "date_utc": "21 Oct 2026, 07:51 UTC",
         "day": "2026-10-21",
-        "title": "Add WinSCP guide (AI378)"
+        "title": "Update kerala-imbichi-bava-house-renovation-grant-50000-minority-women-apply-by-22-october-guide.html"
       },
       {
-        "sha": "027c406a23da8d5fc42bde5e028df243700ecdc3",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/027c406a23da8d5fc42bde5e028df243700ecdc3",
-        "date_utc": "21 Oct 2026, 05:41 UTC",
+        "sha": "da6080a2aaaf19cca265e2cb8a1eb203f3122408",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/da6080a2aaaf19cca265e2cb8a1eb203f3122408",
+        "date_utc": "21 Oct 2026, 07:50 UTC",
         "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
+        "title": "Create imbichi-step-02.svg"
       }
     ],
-    "commit_total": 2842,
+    "commit_total": 2859,
     "calendar": [
       {
         "date": "2026-07-23",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-21",
         "level": 1,
-        "count": 29
+        "count": 40
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

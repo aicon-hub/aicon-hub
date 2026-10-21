@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **21 Oct 2026, 12:40 PM IST** (2026-10-21 07:10 UTC).
+Checked **21 Oct 2026, 01:30 PM IST** (2026-10-21 08:00 UTC).
 
-**733 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**735 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **21 Oct 2026, 12:40 PM IST** (2026-10-21 07:10 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2842 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2859 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`c079d44`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c079d44a94fcc43b242f1ce1df21b89ac143ae82) · 21 Oct 2026, 06:43 UTC · Record Telegram publishing state
-- [`1159daf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1159daf88ab95095f41fde073653d29c7964c15c) · 21 Oct 2026, 06:43 UTC · Record Telegram publishing state
-- [`0b023cb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0b023cb0eaf06e263ae9fb641a5007c44f5aa1df) · 21 Oct 2026, 06:43 UTC · Record Telegram publishing state
-- [`11eb4aa`](https://github.com/aicon-hub/aicon-hub.github.io/commit/11eb4aa67a81fab7853c610c0bd6aeb7039c8e37) · 21 Oct 2026, 06:37 UTC · Add WinSCP guide (AI378)
-- [`027c406`](https://github.com/aicon-hub/aicon-hub.github.io/commit/027c406a23da8d5fc42bde5e028df243700ecdc3) · 21 Oct 2026, 05:41 UTC · Record Telegram publishing state
+- [`5708031`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5708031baa025a2441d8e0eacd583fee95984dfb) · 21 Oct 2026, 07:55 UTC · Update sitemap.xml with new URLs and last modified dates
+- [`03c4f62`](https://github.com/aicon-hub/aicon-hub.github.io/commit/03c4f6220205101a3917fb0a1998c910ad4a499b) · 21 Oct 2026, 07:54 UTC · Update index.html
+- [`4dd7aa4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4dd7aa4adf01f7705252b7c2ff9774a3705e5ad1) · 21 Oct 2026, 07:52 UTC · Update index.html
+- [`8cb4e06`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8cb4e064f488b08ab41d59c965e56d02472ff6a5) · 21 Oct 2026, 07:51 UTC · Update kerala-imbichi-bava-house-renovation-grant-50000-minority-women-apply-by-22-october-guide.html
+- [`da6080a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/da6080a2aaaf19cca265e2cb8a1eb203f3122408) · 21 Oct 2026, 07:50 UTC · Create imbichi-step-02.svg
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Twine: free tool to write interactive stories, no coding needed](https://aicon-hub.github.io/posts/twine-free-interactive-story-maker-no-coding-windows-mac-guide.html)
+- [Imbichi Bava house renovation grant 2026-27: ₹50,000 for minority widows, divorced and abandoned women, apply by 22 October](https://aicon-hub.github.io/posts/kerala-imbichi-bava-house-renovation-grant-50000-minority-women-apply-by-22-october-guide.html)
 - [WinSCP: free FTP and SFTP client for Windows](https://aicon-hub.github.io/posts/winscp-free-ftp-sftp-file-transfer-client-windows-guide.html)
-- [LosslessCut: free tool to trim videos without losing quality](https://aicon-hub.github.io/posts/losslesscut-free-lossless-video-trimmer-cut-without-quality-loss-guide.html)
-- [MusicBrainz Picard: free music tagger to organize your collection](https://aicon-hub.github.io/posts/musicbrainz-picard-free-music-tagger-organize-mp3-flac-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
