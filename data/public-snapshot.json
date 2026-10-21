@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-20 23:46 UTC",
-  "checked_at_ist": "21 Oct 2026, 05:16 AM IST",
-  "archive_entries": 725,
+  "checked_at_utc": "2026-10-21 01:06 UTC",
+  "checked_at_ist": "21 Oct 2026, 06:36 AM IST",
+  "archive_entries": 726,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "GParted: free partition editor to resize and manage disk partitions",
+      "url": "https://aicon-hub.github.io/posts/gparted-free-disk-partition-editor-resize-partitions-bootable-usb-guide.html"
+    },
     {
       "title": "Subtitle Edit: free open source editor to create and fix video subtitles",
       "url": "https://aicon-hub.github.io/posts/subtitle-edit-free-open-source-subtitle-editor-srt-windows-mac-linux-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Free Music Archive: free music downloads, but check each track's licence",
       "url": "https://aicon-hub.github.io/posts/free-music-archive-free-creative-commons-music-downloads-licence-guide.html"
-    },
-    {
-      "title": "Figma for Education free for students: Professional tier with education verification",
-      "url": "https://aicon-hub.github.io/posts/figma-education-free-professional-plan-students-guide.html"
     }
   ],
   "sources": [
@@ -36,10 +36,6 @@
   ],
   "activity": {
     "commit_days": [
-      {
-        "date": "2026-10-07",
-        "count": 2040
-      },
       {
         "date": "2026-10-08",
         "count": 283
@@ -91,52 +87,51 @@
       {
         "date": "2026-10-20",
         "count": 174
+      },
+      {
+        "date": "2026-10-21",
+        "count": 6
       }
     ],
     "commits": [
       {
-        "sha": "1d6479cfa2503f8459df2aab3ab57ca41623c64d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1d6479cfa2503f8459df2aab3ab57ca41623c64d",
-        "date_utc": "20 Oct 2026, 23:44 UTC",
-        "day": "2026-10-20",
+        "sha": "94fdf95e432e58722f0044aa8f6d2f33cd08fc4c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/94fdf95e432e58722f0044aa8f6d2f33cd08fc4c",
+        "date_utc": "21 Oct 2026, 00:40 UTC",
+        "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "945b14804c055ea68d085ec60b850d1263310b0f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/945b14804c055ea68d085ec60b850d1263310b0f",
-        "date_utc": "20 Oct 2026, 23:44 UTC",
-        "day": "2026-10-20",
+        "sha": "84ebbdca976e212bc195996a323e40981aa185a8",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/84ebbdca976e212bc195996a323e40981aa185a8",
+        "date_utc": "21 Oct 2026, 00:40 UTC",
+        "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "657d1cc5b5fed25500f10858b6248dc4c00747a8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/657d1cc5b5fed25500f10858b6248dc4c00747a8",
-        "date_utc": "20 Oct 2026, 23:44 UTC",
-        "day": "2026-10-20",
+        "sha": "bb479c6b861ce882cbe646c01f170a42b4504e95",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bb479c6b861ce882cbe646c01f170a42b4504e95",
+        "date_utc": "21 Oct 2026, 00:40 UTC",
+        "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "2abdda364647809f97bc3c898000a1eee6575f16",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2abdda364647809f97bc3c898000a1eee6575f16",
-        "date_utc": "20 Oct 2026, 23:40 UTC",
-        "day": "2026-10-20",
-        "title": "Register Subtitle Edit official icon (AI371)"
+        "sha": "eaf99509faa5096c3363fdebdbd859a1e4b82521",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/eaf99509faa5096c3363fdebdbd859a1e4b82521",
+        "date_utc": "21 Oct 2026, 00:36 UTC",
+        "day": "2026-10-21",
+        "title": "Register GParted official icon (AI372)"
       },
       {
-        "sha": "8985493f8214db9e5cbc74514e87b8fc7d3faa73",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8985493f8214db9e5cbc74514e87b8fc7d3faa73",
-        "date_utc": "20 Oct 2026, 23:39 UTC",
-        "day": "2026-10-20",
-        "title": "Index Subtitle Edit guide (AI371)"
+        "sha": "aae88c8bdc5958b6ce35797d1ba8733c6c5b4508",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/aae88c8bdc5958b6ce35797d1ba8733c6c5b4508",
+        "date_utc": "21 Oct 2026, 00:36 UTC",
+        "day": "2026-10-21",
+        "title": "Index GParted guide (AI372)"
       }
     ],
-    "commit_total": 4833,
+    "commit_total": 2799,
     "calendar": [
-      {
-        "date": "2026-07-22",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2026-07-23",
         "level": 0,
@@ -586,6 +581,11 @@
         "date": "2026-10-20",
         "level": 1,
         "count": 13
+      },
+      {
+        "date": "2026-10-21",
+        "level": 1,
+        "count": 7
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
