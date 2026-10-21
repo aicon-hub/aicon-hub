@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **21 Oct 2026, 07:24 AM IST** (2026-10-21 01:54 UTC).
+Checked **21 Oct 2026, 08:24 AM IST** (2026-10-21 02:54 UTC).
 
-**727 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**728 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **21 Oct 2026, 07:24 AM IST** (2026-10-21 01:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2805 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2811 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`4a9cb34`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4a9cb340b66af860e7cbaad886a1de83d577e419) · 21 Oct 2026, 01:37 UTC · Record Telegram publishing state
-- [`5e90133`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5e901338e94b33464ea99e010d0d893966e58b79) · 21 Oct 2026, 01:37 UTC · Record Telegram publishing state
-- [`c44e8cc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c44e8cc16d90b1d23f82bf8ce145048eff463780) · 21 Oct 2026, 01:37 UTC · Record Telegram publishing state
-- [`2042bf3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2042bf39ed82f196a8059f89284b4984080499a7) · 21 Oct 2026, 01:35 UTC · Register Sigil official icon (AI373)
-- [`bb699bc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bb699bc7f307a87740a0c4a12d843e01cd8c5679) · 21 Oct 2026, 01:34 UTC · Index Sigil guide (AI373)
+- [`8bb524b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8bb524bc3837ff0ee8ffb41e5ef0f227e0b6e68a) · 21 Oct 2026, 02:39 UTC · Record Telegram publishing state
+- [`7d646cb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7d646cb53acfc6228301c53ae51fab930003a83e) · 21 Oct 2026, 02:39 UTC · Record Telegram publishing state
+- [`d491f2f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d491f2f8829666395a1fd1b7dc4de7994888b37f) · 21 Oct 2026, 02:39 UTC · Record Telegram publishing state
+- [`a04c7e8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a04c7e84246c3f1c7257894cc28dd5798ff1947f) · 21 Oct 2026, 02:35 UTC · Register FontForge official icon (AI374)
+- [`bbc76ea`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bbc76ea26e204d991a3186dc00ea01a566fa7d66) · 21 Oct 2026, 02:35 UTC · Index FontForge guide (AI374)
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [FontForge: free font editor to design and edit typefaces](https://aicon-hub.github.io/posts/fontforge-free-font-editor-design-typefaces-windows-mac-guide.html)
 - [Sigil: free EPUB ebook editor for Windows and Mac](https://aicon-hub.github.io/posts/sigil-free-epub-ebook-editor-windows-mac-guide.html)
 - [GParted: free partition editor to resize and manage disk partitions](https://aicon-hub.github.io/posts/gparted-free-disk-partition-editor-resize-partitions-bootable-usb-guide.html)
-- [Subtitle Edit: free open source editor to create and fix video subtitles](https://aicon-hub.github.io/posts/subtitle-edit-free-open-source-subtitle-editor-srt-windows-mac-linux-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
