@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-21 17:52 UTC",
-  "checked_at_ist": "21 Oct 2026, 11:22 PM IST",
-  "archive_entries": 749,
+  "checked_at_utc": "2026-10-21 19:03 UTC",
+  "checked_at_ist": "22 Oct 2026, 12:33 AM IST",
+  "archive_entries": 750,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Vocaroo: free online voice recorder with instant share links",
+      "url": "https://aicon-hub.github.io/posts/vocaroo-free-online-voice-recorder-share-links-no-signup-guide.html"
+    },
     {
       "title": "Ezgif: free online GIF maker and editor, no sign-up",
       "url": "https://aicon-hub.github.io/posts/ezgif-free-online-gif-maker-editor-no-signup-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "VYUHAM'26: DUK national fest dates, fees and prize pools",
       "url": "https://aicon-hub.github.io/posts/vyuham-26-duk-fest-dates-fees-prize-pools-registration-guide.html"
-    },
-    {
-      "title": "Stellarium Web: free online planetarium in your browser",
-      "url": "https://aicon-hub.github.io/posts/stellarium-web-free-online-planetarium-night-sky-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-21",
-        "count": 162
+        "count": 168
       }
     ],
     "commits": [
       {
-        "sha": "34712d0005eb1853357d38969aaf71a80897438a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/34712d0005eb1853357d38969aaf71a80897438a",
-        "date_utc": "21 Oct 2026, 17:44 UTC",
+        "sha": "99106c50270a3716ea3a8f8e5391b228b5b9706a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/99106c50270a3716ea3a8f8e5391b228b5b9706a",
+        "date_utc": "21 Oct 2026, 19:03 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "ea9ee158422dd1dbc3096f62306b02f243b87436",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ea9ee158422dd1dbc3096f62306b02f243b87436",
-        "date_utc": "21 Oct 2026, 17:44 UTC",
+        "sha": "aefb630a529e9564926540ce15790e31a837157c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/aefb630a529e9564926540ce15790e31a837157c",
+        "date_utc": "21 Oct 2026, 19:03 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "51c4ff757aad2372b443452fd8e543ba22535e34",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/51c4ff757aad2372b443452fd8e543ba22535e34",
-        "date_utc": "21 Oct 2026, 17:44 UTC",
+        "sha": "ddc64d0331d0a9c57a6cae1c12b115cfffa2ddbb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ddc64d0331d0a9c57a6cae1c12b115cfffa2ddbb",
+        "date_utc": "21 Oct 2026, 19:03 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7bbd327135fea72d3ca644392243a57cb98f4509",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7bbd327135fea72d3ca644392243a57cb98f4509",
-        "date_utc": "21 Oct 2026, 17:39 UTC",
+        "sha": "a35db0a43cbbc9018d2cba72c12e8c26f8cd3774",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a35db0a43cbbc9018d2cba72c12e8c26f8cd3774",
+        "date_utc": "21 Oct 2026, 18:58 UTC",
         "day": "2026-10-21",
-        "title": "Add Ezgif guide (AI389)"
+        "title": "Qualify Vocaroo FAQ free answer on ads (AI390)"
       },
       {
-        "sha": "a3d761045505f00a2287d2a932bac8bf3791f6da",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a3d761045505f00a2287d2a932bac8bf3791f6da",
-        "date_utc": "21 Oct 2026, 16:48 UTC",
+        "sha": "0fe47af212a88ce41d15e342c42cf695b580c140",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0fe47af212a88ce41d15e342c42cf695b580c140",
+        "date_utc": "21 Oct 2026, 18:56 UTC",
         "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
+        "title": "Qualify Vocaroo ads wording in lead and metadata (AI390)"
       }
     ],
-    "commit_total": 2955,
+    "commit_total": 2961,
     "calendar": [
       {
         "date": "2026-07-23",

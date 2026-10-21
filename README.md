@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **21 Oct 2026, 11:22 PM IST** (2026-10-21 17:52 UTC).
+Checked **22 Oct 2026, 12:33 AM IST** (2026-10-21 19:03 UTC).
 
-**749 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**750 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **21 Oct 2026, 11:22 PM IST** (2026-10-21 17:52 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2955 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2961 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`34712d0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/34712d0005eb1853357d38969aaf71a80897438a) · 21 Oct 2026, 17:44 UTC · Record Telegram publishing state
-- [`ea9ee15`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ea9ee158422dd1dbc3096f62306b02f243b87436) · 21 Oct 2026, 17:44 UTC · Record Telegram publishing state
-- [`51c4ff7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/51c4ff757aad2372b443452fd8e543ba22535e34) · 21 Oct 2026, 17:44 UTC · Record Telegram publishing state
-- [`7bbd327`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7bbd327135fea72d3ca644392243a57cb98f4509) · 21 Oct 2026, 17:39 UTC · Add Ezgif guide (AI389)
-- [`a3d7610`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a3d761045505f00a2287d2a932bac8bf3791f6da) · 21 Oct 2026, 16:48 UTC · Record Telegram publishing state
+- [`99106c5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/99106c50270a3716ea3a8f8e5391b228b5b9706a) · 21 Oct 2026, 19:03 UTC · Record Telegram publishing state
+- [`aefb630`](https://github.com/aicon-hub/aicon-hub.github.io/commit/aefb630a529e9564926540ce15790e31a837157c) · 21 Oct 2026, 19:03 UTC · Record Telegram publishing state
+- [`ddc64d0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ddc64d0331d0a9c57a6cae1c12b115cfffa2ddbb) · 21 Oct 2026, 19:03 UTC · Record Telegram publishing state
+- [`a35db0a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a35db0a43cbbc9018d2cba72c12e8c26f8cd3774) · 21 Oct 2026, 18:58 UTC · Qualify Vocaroo FAQ free answer on ads (AI390)
+- [`0fe47af`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0fe47af212a88ce41d15e342c42cf695b580c140) · 21 Oct 2026, 18:56 UTC · Qualify Vocaroo ads wording in lead and metadata (AI390)
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Vocaroo: free online voice recorder with instant share links](https://aicon-hub.github.io/posts/vocaroo-free-online-voice-recorder-share-links-no-signup-guide.html)
 - [Ezgif: free online GIF maker and editor, no sign-up](https://aicon-hub.github.io/posts/ezgif-free-online-gif-maker-editor-no-signup-guide.html)
 - [Coolors: free color palette generator, no account needed](https://aicon-hub.github.io/posts/coolors-free-color-palette-generator-no-account-guide.html)
-- [Thevannoor Hackathon 2026: Rs 3.5 lakh prizes for school and polytechnic students](https://aicon-hub.github.io/posts/thevannoor-hackathon-2026-scms-school-polytechnic-students-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
