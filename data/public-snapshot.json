@@ -1,11 +1,19 @@
 {
-  "checked_at_utc": "2026-10-21 13:09 UTC",
-  "checked_at_ist": "21 Oct 2026, 06:39 PM IST",
-  "archive_entries": 742,
+  "checked_at_utc": "2026-10-21 13:59 UTC",
+  "checked_at_ist": "21 Oct 2026, 07:29 PM IST",
+  "archive_entries": 744,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "TranslucentTB: free transparent taskbar for Windows",
+      "url": "https://aicon-hub.github.io/posts/translucenttb-free-transparent-windows-taskbar-guide.html"
+    },
+    {
+      "title": "AICTE Saraswati Scholarship 2026-27: Rs 25,000 a year for girls in BBA, BCA and BMS",
+      "url": "https://aicon-hub.github.io/posts/aicte-saraswati-scholarship-2026-27-bba-bca-bms-girls-guide.html"
+    },
     {
       "title": "Winter research admissions 2026-27: IIT MS and M.Tech (Research) deadlines, verified",
       "url": "https://aicon-hub.github.io/posts/winter-research-admissions-2026-27-iit-ms-mtech-research-guide.html"
@@ -17,14 +25,6 @@
     {
       "title": "Musicca: learn music theory free, in your browser",
       "url": "https://aicon-hub.github.io/posts/musicca-free-music-theory-exercises-instruments-guide.html"
-    },
-    {
-      "title": "EarTrumpet: free volume mixer for Windows",
-      "url": "https://aicon-hub.github.io/posts/eartrumpet-free-volume-mixer-windows-microsoft-store-guide.html"
-    },
-    {
-      "title": "IndiaAI Fellowship 2026-27: up to Rs 2 lakh, eligibility and how to apply",
-      "url": "https://aicon-hub.github.io/posts/indiaai-fellowship-2026-27-apply-eligibility-amount-deadline-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-21",
-        "count": 106
+        "count": 117
       }
     ],
     "commits": [
       {
-        "sha": "f931e58e3ec1c6150dc51ab413eda8626a4daa3d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f931e58e3ec1c6150dc51ab413eda8626a4daa3d",
-        "date_utc": "21 Oct 2026, 12:46 UTC",
+        "sha": "2de05a9d76d240ebfd7b7d813be9bee0df5a0fa1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2de05a9d76d240ebfd7b7d813be9bee0df5a0fa1",
+        "date_utc": "21 Oct 2026, 13:54 UTC",
         "day": "2026-10-21",
-        "title": "Fix winter admissions card: IIT Palakkad deadline is 1 Nov, 2 PM"
+        "title": "Add TranslucentTB guide to sitemap (AI385)"
       },
       {
-        "sha": "135f3dee6b8aed19c494ba0f45e7dbd0abf9fc62",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/135f3dee6b8aed19c494ba0f45e7dbd0abf9fc62",
-        "date_utc": "21 Oct 2026, 12:45 UTC",
+        "sha": "ba21b71adbf6cfc06d24fee8095acfdef2767c9c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ba21b71adbf6cfc06d24fee8095acfdef2767c9c",
+        "date_utc": "21 Oct 2026, 13:53 UTC",
+        "day": "2026-10-21",
+        "title": "Add TranslucentTB card to posts index (AI385)"
+      },
+      {
+        "sha": "745137623ac7c50b9c54213caccc862e31f916c0",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/745137623ac7c50b9c54213caccc862e31f916c0",
+        "date_utc": "21 Oct 2026, 13:52 UTC",
+        "day": "2026-10-21",
+        "title": "Add TranslucentTB guide (AI385)"
+      },
+      {
+        "sha": "6fea98e18dc2415a15e189e2882f19e44674275a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6fea98e18dc2415a15e189e2882f19e44674275a",
+        "date_utc": "21 Oct 2026, 13:26 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "6a066452fb98eb67ac12cfb1f0ee4eef6d2e25c8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6a066452fb98eb67ac12cfb1f0ee4eef6d2e25c8",
-        "date_utc": "21 Oct 2026, 12:45 UTC",
+        "sha": "2b4ffaf14227a9d8e33e9a6c7f5168396a9f31b1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2b4ffaf14227a9d8e33e9a6c7f5168396a9f31b1",
+        "date_utc": "21 Oct 2026, 13:26 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "fe92c8c37f6f42b0190e16d0cfdc796bd150906b",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fe92c8c37f6f42b0190e16d0cfdc796bd150906b",
-        "date_utc": "21 Oct 2026, 12:44 UTC",
-        "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "e6fc24ffbb56e2fa00178bc30484af4ceb656452",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e6fc24ffbb56e2fa00178bc30484af4ceb656452",
-        "date_utc": "21 Oct 2026, 12:40 UTC",
-        "day": "2026-10-21",
-        "title": "Add Musicca guide (AI384)"
       }
     ],
-    "commit_total": 2899,
+    "commit_total": 2910,
     "calendar": [
       {
         "date": "2026-07-23",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-21",
         "level": 1,
-        "count": 51
+        "count": 54
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
