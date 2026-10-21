@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-21 04:54 UTC",
-  "checked_at_ist": "21 Oct 2026, 10:24 AM IST",
-  "archive_entries": 731,
+  "checked_at_utc": "2026-10-21 05:52 UTC",
+  "checked_at_ist": "21 Oct 2026, 11:22 AM IST",
+  "archive_entries": 732,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "LosslessCut: free tool to trim videos without losing quality",
+      "url": "https://aicon-hub.github.io/posts/losslesscut-free-lossless-video-trimmer-cut-without-quality-loss-guide.html"
+    },
     {
       "title": "MusicBrainz Picard: free music tagger to organize your collection",
       "url": "https://aicon-hub.github.io/posts/musicbrainz-picard-free-music-tagger-organize-mp3-flac-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "FontForge: free font editor to design and edit typefaces",
       "url": "https://aicon-hub.github.io/posts/fontforge-free-font-editor-design-typefaces-windows-mac-guide.html"
-    },
-    {
-      "title": "Sigil: free EPUB ebook editor for Windows and Mac",
-      "url": "https://aicon-hub.github.io/posts/sigil-free-epub-ebook-editor-windows-mac-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-21",
-        "count": 41
+        "count": 45
       }
     ],
     "commits": [
+      {
+        "sha": "027c406a23da8d5fc42bde5e028df243700ecdc3",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/027c406a23da8d5fc42bde5e028df243700ecdc3",
+        "date_utc": "21 Oct 2026, 05:41 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "7b133a1f5027805cdd47d1651d425101747b0bb5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7b133a1f5027805cdd47d1651d425101747b0bb5",
+        "date_utc": "21 Oct 2026, 05:41 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "73401510818f74098e6828ea9855b05adb72ae57",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/73401510818f74098e6828ea9855b05adb72ae57",
+        "date_utc": "21 Oct 2026, 05:41 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "75974ed695da2e8f8fec9c7ecaee58cc1a02072e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/75974ed695da2e8f8fec9c7ecaee58cc1a02072e",
+        "date_utc": "21 Oct 2026, 05:38 UTC",
+        "day": "2026-10-21",
+        "title": "Add LosslessCut guide (AI377)"
+      },
       {
         "sha": "d80d64caeba5fc46b0c32d8bc48435dcc8360f20",
         "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d80d64caeba5fc46b0c32d8bc48435dcc8360f20",
         "date_utc": "21 Oct 2026, 04:45 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "748dcd0926bdcd14cc4c408b13de5a26e74691a9",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/748dcd0926bdcd14cc4c408b13de5a26e74691a9",
-        "date_utc": "21 Oct 2026, 04:45 UTC",
-        "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "dd9707ccccc4840495d89ac38f3756b0b4f67a53",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/dd9707ccccc4840495d89ac38f3756b0b4f67a53",
-        "date_utc": "21 Oct 2026, 04:45 UTC",
-        "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "308c252a1a89becc0cea41d516a1cebcac818ba3",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/308c252a1a89becc0cea41d516a1cebcac818ba3",
-        "date_utc": "21 Oct 2026, 04:40 UTC",
-        "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "71ac66417f404d6b8ee81f633fe70dd479c69a10",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/71ac66417f404d6b8ee81f633fe70dd479c69a10",
-        "date_utc": "21 Oct 2026, 04:40 UTC",
-        "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 2834,
+    "commit_total": 2838,
     "calendar": [
       {
         "date": "2026-07-23",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-21",
         "level": 1,
-        "count": 27
+        "count": 28
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
