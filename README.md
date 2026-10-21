@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **21 Oct 2026, 09:26 AM IST** (2026-10-21 03:56 UTC).
+Checked **21 Oct 2026, 10:24 AM IST** (2026-10-21 04:54 UTC).
 
-**729 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**731 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **21 Oct 2026, 09:26 AM IST** (2026-10-21 03:56 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2817 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2834 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`fa1c34a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fa1c34af1f130bc5fed8a1a6f0980c4b3b812da3) · 21 Oct 2026, 03:46 UTC · Record Telegram publishing state
-- [`d7f3ec8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d7f3ec8db8487b2f705fe0f652a1df7647259547) · 21 Oct 2026, 03:46 UTC · Record Telegram publishing state
-- [`87a832f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/87a832fc76c33aa390f6a53be0a8719da5637171) · 21 Oct 2026, 03:46 UTC · Record Telegram publishing state
-- [`b754e7d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b754e7d22617f39b2398756ef315c4d4231cdc79) · 21 Oct 2026, 03:40 UTC · Register MediaInfo official icon (AI375)
-- [`3bb3c2c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3bb3c2ce49f0d6f2a5160c09316501efb09483cb) · 21 Oct 2026, 03:39 UTC · Index MediaInfo guide (AI375)
+- [`d80d64c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d80d64caeba5fc46b0c32d8bc48435dcc8360f20) · 21 Oct 2026, 04:45 UTC · Record Telegram publishing state
+- [`748dcd0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/748dcd0926bdcd14cc4c408b13de5a26e74691a9) · 21 Oct 2026, 04:45 UTC · Record Telegram publishing state
+- [`dd9707c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/dd9707ccccc4840495d89ac38f3756b0b4f67a53) · 21 Oct 2026, 04:45 UTC · Record Telegram publishing state
+- [`308c252`](https://github.com/aicon-hub/aicon-hub.github.io/commit/308c252a1a89becc0cea41d516a1cebcac818ba3) · 21 Oct 2026, 04:40 UTC · Record Telegram publishing state
+- [`71ac664`](https://github.com/aicon-hub/aicon-hub.github.io/commit/71ac66417f404d6b8ee81f633fe70dd479c69a10) · 21 Oct 2026, 04:40 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [MusicBrainz Picard: free music tagger to organize your collection](https://aicon-hub.github.io/posts/musicbrainz-picard-free-music-tagger-organize-mp3-flac-guide.html)
+- [Kerala Waqf Board loan scholarship 2026: Rs 5,000 a month interest-free, apply by 31 October](https://aicon-hub.github.io/posts/kerala-waqf-board-loan-scholarship-2026-rs-5000-monthly-professional-students-apply-by-31-october-guide.html)
 - [MediaInfo: free tool to see what is inside a video or audio file](https://aicon-hub.github.io/posts/mediainfo-free-video-audio-file-details-checker-guide.html)
-- [FontForge: free font editor to design and edit typefaces](https://aicon-hub.github.io/posts/fontforge-free-font-editor-design-typefaces-windows-mac-guide.html)
-- [Sigil: free EPUB ebook editor for Windows and Mac](https://aicon-hub.github.io/posts/sigil-free-epub-ebook-editor-windows-mac-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---

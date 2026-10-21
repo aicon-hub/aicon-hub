@@ -1,11 +1,19 @@
 {
-  "checked_at_utc": "2026-10-21 03:56 UTC",
-  "checked_at_ist": "21 Oct 2026, 09:26 AM IST",
-  "archive_entries": 729,
+  "checked_at_utc": "2026-10-21 04:54 UTC",
+  "checked_at_ist": "21 Oct 2026, 10:24 AM IST",
+  "archive_entries": 731,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "MusicBrainz Picard: free music tagger to organize your collection",
+      "url": "https://aicon-hub.github.io/posts/musicbrainz-picard-free-music-tagger-organize-mp3-flac-guide.html"
+    },
+    {
+      "title": "Kerala Waqf Board loan scholarship 2026: Rs 5,000 a month interest-free, apply by 31 October",
+      "url": "https://aicon-hub.github.io/posts/kerala-waqf-board-loan-scholarship-2026-rs-5000-monthly-professional-students-apply-by-31-october-guide.html"
+    },
     {
       "title": "MediaInfo: free tool to see what is inside a video or audio file",
       "url": "https://aicon-hub.github.io/posts/mediainfo-free-video-audio-file-details-checker-guide.html"
@@ -17,14 +25,6 @@
     {
       "title": "Sigil: free EPUB ebook editor for Windows and Mac",
       "url": "https://aicon-hub.github.io/posts/sigil-free-epub-ebook-editor-windows-mac-guide.html"
-    },
-    {
-      "title": "GParted: free partition editor to resize and manage disk partitions",
-      "url": "https://aicon-hub.github.io/posts/gparted-free-disk-partition-editor-resize-partitions-bootable-usb-guide.html"
-    },
-    {
-      "title": "Subtitle Edit: free open source editor to create and fix video subtitles",
-      "url": "https://aicon-hub.github.io/posts/subtitle-edit-free-open-source-subtitle-editor-srt-windows-mac-linux-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-21",
-        "count": 24
+        "count": 41
       }
     ],
     "commits": [
       {
-        "sha": "fa1c34af1f130bc5fed8a1a6f0980c4b3b812da3",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fa1c34af1f130bc5fed8a1a6f0980c4b3b812da3",
-        "date_utc": "21 Oct 2026, 03:46 UTC",
+        "sha": "d80d64caeba5fc46b0c32d8bc48435dcc8360f20",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d80d64caeba5fc46b0c32d8bc48435dcc8360f20",
+        "date_utc": "21 Oct 2026, 04:45 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "d7f3ec8db8487b2f705fe0f652a1df7647259547",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d7f3ec8db8487b2f705fe0f652a1df7647259547",
-        "date_utc": "21 Oct 2026, 03:46 UTC",
+        "sha": "748dcd0926bdcd14cc4c408b13de5a26e74691a9",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/748dcd0926bdcd14cc4c408b13de5a26e74691a9",
+        "date_utc": "21 Oct 2026, 04:45 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "87a832fc76c33aa390f6a53be0a8719da5637171",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/87a832fc76c33aa390f6a53be0a8719da5637171",
-        "date_utc": "21 Oct 2026, 03:46 UTC",
+        "sha": "dd9707ccccc4840495d89ac38f3756b0b4f67a53",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/dd9707ccccc4840495d89ac38f3756b0b4f67a53",
+        "date_utc": "21 Oct 2026, 04:45 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "b754e7d22617f39b2398756ef315c4d4231cdc79",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b754e7d22617f39b2398756ef315c4d4231cdc79",
-        "date_utc": "21 Oct 2026, 03:40 UTC",
+        "sha": "308c252a1a89becc0cea41d516a1cebcac818ba3",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/308c252a1a89becc0cea41d516a1cebcac818ba3",
+        "date_utc": "21 Oct 2026, 04:40 UTC",
         "day": "2026-10-21",
-        "title": "Register MediaInfo official icon (AI375)"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "3bb3c2ce49f0d6f2a5160c09316501efb09483cb",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3bb3c2ce49f0d6f2a5160c09316501efb09483cb",
-        "date_utc": "21 Oct 2026, 03:39 UTC",
+        "sha": "71ac66417f404d6b8ee81f633fe70dd479c69a10",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/71ac66417f404d6b8ee81f633fe70dd479c69a10",
+        "date_utc": "21 Oct 2026, 04:40 UTC",
         "day": "2026-10-21",
-        "title": "Index MediaInfo guide (AI375)"
+        "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 2817,
+    "commit_total": 2834,
     "calendar": [
       {
         "date": "2026-07-23",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-21",
         "level": 1,
-        "count": 16
+        "count": 27
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
