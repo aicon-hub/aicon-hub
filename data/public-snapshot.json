@@ -1,11 +1,19 @@
 {
-  "checked_at_utc": "2026-10-21 15:57 UTC",
-  "checked_at_ist": "21 Oct 2026, 09:27 PM IST",
-  "archive_entries": 746,
+  "checked_at_utc": "2026-10-21 16:55 UTC",
+  "checked_at_ist": "21 Oct 2026, 10:25 PM IST",
+  "archive_entries": 748,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Coolors: free color palette generator, no account needed",
+      "url": "https://aicon-hub.github.io/posts/coolors-free-color-palette-generator-no-account-guide.html"
+    },
+    {
+      "title": "Thevannoor Hackathon 2026: Rs 3.5 lakh prizes for school and polytechnic students",
+      "url": "https://aicon-hub.github.io/posts/thevannoor-hackathon-2026-scms-school-polytechnic-students-guide.html"
+    },
     {
       "title": "VYUHAM'26: DUK national fest dates, fees and prize pools",
       "url": "https://aicon-hub.github.io/posts/vyuham-26-duk-fest-dates-fees-prize-pools-registration-guide.html"
@@ -17,14 +25,6 @@
     {
       "title": "TranslucentTB: free transparent taskbar for Windows",
       "url": "https://aicon-hub.github.io/posts/translucenttb-free-transparent-windows-taskbar-guide.html"
-    },
-    {
-      "title": "AICTE Saraswati Scholarship 2026-27: Rs 25,000 a year for girls in BBA, BCA and BMS",
-      "url": "https://aicon-hub.github.io/posts/aicte-saraswati-scholarship-2026-27-bba-bca-bms-girls-guide.html"
-    },
-    {
-      "title": "Winter research admissions 2026-27: IIT MS and M.Tech (Research) deadlines, verified",
-      "url": "https://aicon-hub.github.io/posts/winter-research-admissions-2026-27-iit-ms-mtech-research-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-21",
-        "count": 146
+        "count": 158
       }
     ],
     "commits": [
       {
-        "sha": "f84d85ed24ceb34dcd39a0a7f49c0dccc2ced0c1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f84d85ed24ceb34dcd39a0a7f49c0dccc2ced0c1",
-        "date_utc": "21 Oct 2026, 15:50 UTC",
-        "day": "2026-10-21",
-        "title": "Remove Wordle guide (AI387)"
-      },
-      {
-        "sha": "44e13d0740203142c71b2e13bb483d1ae8af6a6f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/44e13d0740203142c71b2e13bb483d1ae8af6a6f",
-        "date_utc": "21 Oct 2026, 15:49 UTC",
-        "day": "2026-10-21",
-        "title": "Update telegram.yml"
-      },
-      {
-        "sha": "ed7c1fd505a877125cea95d3b30be0719e2ae382",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ed7c1fd505a877125cea95d3b30be0719e2ae382",
-        "date_utc": "21 Oct 2026, 15:40 UTC",
+        "sha": "a3d761045505f00a2287d2a932bac8bf3791f6da",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a3d761045505f00a2287d2a932bac8bf3791f6da",
+        "date_utc": "21 Oct 2026, 16:48 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "86a0e9dabb403e061aeddd4dcfc3eb348463e7e8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/86a0e9dabb403e061aeddd4dcfc3eb348463e7e8",
-        "date_utc": "21 Oct 2026, 15:40 UTC",
+        "sha": "59a274e6b93886046c32d271f8f221957be6d6e6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/59a274e6b93886046c32d271f8f221957be6d6e6",
+        "date_utc": "21 Oct 2026, 16:48 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "94ce469a3e71280e527b4f264dad187a12b5fb6e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/94ce469a3e71280e527b4f264dad187a12b5fb6e",
-        "date_utc": "21 Oct 2026, 15:40 UTC",
+        "sha": "acd55b9fe3768c39d1b080ef27a1e6aa1b31ccb0",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/acd55b9fe3768c39d1b080ef27a1e6aa1b31ccb0",
+        "date_utc": "21 Oct 2026, 16:48 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "b26d128a0ee6ac9aebe588ce33872ce5c8b4affb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b26d128a0ee6ac9aebe588ce33872ce5c8b4affb",
+        "date_utc": "21 Oct 2026, 16:43 UTC",
+        "day": "2026-10-21",
+        "title": "Coolors card: text-only (publisher image blocks hotlinking)"
+      },
+      {
+        "sha": "6c6eaab9b722ae66bf196b3347d726731564eec7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6c6eaab9b722ae66bf196b3347d726731564eec7",
+        "date_utc": "21 Oct 2026, 16:39 UTC",
+        "day": "2026-10-21",
+        "title": "Add Coolors guide (AI388)"
       }
     ],
-    "commit_total": 2939,
+    "commit_total": 2951,
     "calendar": [
       {
         "date": "2026-07-23",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-21",
         "level": 2,
-        "count": 57
+        "count": 60
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
