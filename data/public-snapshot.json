@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-21 01:06 UTC",
-  "checked_at_ist": "21 Oct 2026, 06:36 AM IST",
-  "archive_entries": 726,
+  "checked_at_utc": "2026-10-21 01:54 UTC",
+  "checked_at_ist": "21 Oct 2026, 07:24 AM IST",
+  "archive_entries": 727,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Sigil: free EPUB ebook editor for Windows and Mac",
+      "url": "https://aicon-hub.github.io/posts/sigil-free-epub-ebook-editor-windows-mac-guide.html"
+    },
     {
       "title": "GParted: free partition editor to resize and manage disk partitions",
       "url": "https://aicon-hub.github.io/posts/gparted-free-disk-partition-editor-resize-partitions-bootable-usb-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Exercism: free coding practice and mentoring in 85 programming languages",
       "url": "https://aicon-hub.github.io/posts/exercism-free-coding-practice-exercises-volunteer-mentoring-guide.html"
-    },
-    {
-      "title": "Free Music Archive: free music downloads, but check each track's licence",
-      "url": "https://aicon-hub.github.io/posts/free-music-archive-free-creative-commons-music-downloads-licence-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-21",
-        "count": 6
+        "count": 12
       }
     ],
     "commits": [
       {
-        "sha": "94fdf95e432e58722f0044aa8f6d2f33cd08fc4c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/94fdf95e432e58722f0044aa8f6d2f33cd08fc4c",
-        "date_utc": "21 Oct 2026, 00:40 UTC",
+        "sha": "4a9cb340b66af860e7cbaad886a1de83d577e419",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4a9cb340b66af860e7cbaad886a1de83d577e419",
+        "date_utc": "21 Oct 2026, 01:37 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "84ebbdca976e212bc195996a323e40981aa185a8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/84ebbdca976e212bc195996a323e40981aa185a8",
-        "date_utc": "21 Oct 2026, 00:40 UTC",
+        "sha": "5e901338e94b33464ea99e010d0d893966e58b79",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5e901338e94b33464ea99e010d0d893966e58b79",
+        "date_utc": "21 Oct 2026, 01:37 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "bb479c6b861ce882cbe646c01f170a42b4504e95",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bb479c6b861ce882cbe646c01f170a42b4504e95",
-        "date_utc": "21 Oct 2026, 00:40 UTC",
+        "sha": "c44e8cc16d90b1d23f82bf8ce145048eff463780",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c44e8cc16d90b1d23f82bf8ce145048eff463780",
+        "date_utc": "21 Oct 2026, 01:37 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "eaf99509faa5096c3363fdebdbd859a1e4b82521",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/eaf99509faa5096c3363fdebdbd859a1e4b82521",
-        "date_utc": "21 Oct 2026, 00:36 UTC",
+        "sha": "2042bf39ed82f196a8059f89284b4984080499a7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2042bf39ed82f196a8059f89284b4984080499a7",
+        "date_utc": "21 Oct 2026, 01:35 UTC",
         "day": "2026-10-21",
-        "title": "Register GParted official icon (AI372)"
+        "title": "Register Sigil official icon (AI373)"
       },
       {
-        "sha": "aae88c8bdc5958b6ce35797d1ba8733c6c5b4508",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/aae88c8bdc5958b6ce35797d1ba8733c6c5b4508",
-        "date_utc": "21 Oct 2026, 00:36 UTC",
+        "sha": "bb699bc7f307a87740a0c4a12d843e01cd8c5679",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bb699bc7f307a87740a0c4a12d843e01cd8c5679",
+        "date_utc": "21 Oct 2026, 01:34 UTC",
         "day": "2026-10-21",
-        "title": "Index GParted guide (AI372)"
+        "title": "Index Sigil guide (AI373)"
       }
     ],
-    "commit_total": 2799,
+    "commit_total": 2805,
     "calendar": [
       {
         "date": "2026-07-23",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-21",
         "level": 1,
-        "count": 7
+        "count": 10
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
