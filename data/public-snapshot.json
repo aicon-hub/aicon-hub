@@ -1,11 +1,19 @@
 {
-  "checked_at_utc": "2026-10-21 09:55 UTC",
-  "checked_at_ist": "21 Oct 2026, 03:25 PM IST",
-  "archive_entries": 737,
+  "checked_at_utc": "2026-10-21 10:55 UTC",
+  "checked_at_ist": "21 Oct 2026, 04:25 PM IST",
+  "archive_entries": 739,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "EarTrumpet: free volume mixer for Windows",
+      "url": "https://aicon-hub.github.io/posts/eartrumpet-free-volume-mixer-windows-microsoft-store-guide.html"
+    },
+    {
+      "title": "IndiaAI Fellowship 2026-27: up to Rs 2 lakh, eligibility and how to apply",
+      "url": "https://aicon-hub.github.io/posts/indiaai-fellowship-2026-27-apply-eligibility-amount-deadline-guide.html"
+    },
     {
       "title": "Auto Dark Mode: free automatic dark and light theme for Windows",
       "url": "https://aicon-hub.github.io/posts/auto-dark-mode-free-automatic-windows-theme-switcher-guide.html"
@@ -17,14 +25,6 @@
     {
       "title": "Twine: free tool to write interactive stories, no coding needed",
       "url": "https://aicon-hub.github.io/posts/twine-free-interactive-story-maker-no-coding-windows-mac-guide.html"
-    },
-    {
-      "title": "Imbichi Bava house renovation grant 2026-27: ₹50,000 for minority widows, divorced and abandoned women, apply by 22 October",
-      "url": "https://aicon-hub.github.io/posts/kerala-imbichi-bava-house-renovation-grant-50000-minority-women-apply-by-22-october-guide.html"
-    },
-    {
-      "title": "WinSCP: free FTP and SFTP client for Windows",
-      "url": "https://aicon-hub.github.io/posts/winscp-free-ftp-sftp-file-transfer-client-windows-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-21",
-        "count": 75
+        "count": 88
       }
     ],
     "commits": [
       {
-        "sha": "b9c671ed209580749fd786bd0dfe7aa4eebe418c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b9c671ed209580749fd786bd0dfe7aa4eebe418c",
-        "date_utc": "21 Oct 2026, 09:43 UTC",
+        "sha": "ffb116a4930886d5e99aa49aea0d7ea5432445ec",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ffb116a4930886d5e99aa49aea0d7ea5432445ec",
+        "date_utc": "21 Oct 2026, 10:43 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "6066026f5675b1a53b7381357944d1a32a0562b9",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6066026f5675b1a53b7381357944d1a32a0562b9",
-        "date_utc": "21 Oct 2026, 09:42 UTC",
+        "sha": "327e01c3bcceb0a445380cdb7c7561aaa662c987",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/327e01c3bcceb0a445380cdb7c7561aaa662c987",
+        "date_utc": "21 Oct 2026, 10:43 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "35025138326fc99df1e37324d9782e52d657ba66",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/35025138326fc99df1e37324d9782e52d657ba66",
-        "date_utc": "21 Oct 2026, 09:42 UTC",
+        "sha": "b3184421e84dd76e1b752d9b77e158d54c27dd59",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b3184421e84dd76e1b752d9b77e158d54c27dd59",
+        "date_utc": "21 Oct 2026, 10:43 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "4c34567d8b95b47da08332f09aba3e83f6e5f210",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4c34567d8b95b47da08332f09aba3e83f6e5f210",
-        "date_utc": "21 Oct 2026, 09:35 UTC",
+        "sha": "c202a84abddb0de02fb3c5c433d2f110b0deb455",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c202a84abddb0de02fb3c5c433d2f110b0deb455",
+        "date_utc": "21 Oct 2026, 10:38 UTC",
         "day": "2026-10-21",
-        "title": "Add Auto Dark Mode guide (AI381)"
+        "title": "Add EarTrumpet guide (AI382)"
       },
       {
-        "sha": "43a750ad6f6ff0d3a0bf71cb9370e5b6c99945ca",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/43a750ad6f6ff0d3a0bf71cb9370e5b6c99945ca",
-        "date_utc": "21 Oct 2026, 09:23 UTC",
+        "sha": "95f15c19b9947dea443d62f217ed69087251785a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/95f15c19b9947dea443d62f217ed69087251785a",
+        "date_utc": "21 Oct 2026, 10:30 UTC",
         "day": "2026-10-21",
-        "title": "Use Zoho's required logo notice on Zoho guide covers and cards"
+        "title": "Enhance application guide with images and FAQs"
       }
     ],
-    "commit_total": 2868,
+    "commit_total": 2881,
     "calendar": [
       {
         "date": "2026-07-23",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-21",
         "level": 1,
-        "count": 42
+        "count": 49
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
