@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-21 02:54 UTC",
-  "checked_at_ist": "21 Oct 2026, 08:24 AM IST",
-  "archive_entries": 728,
+  "checked_at_utc": "2026-10-21 03:56 UTC",
+  "checked_at_ist": "21 Oct 2026, 09:26 AM IST",
+  "archive_entries": 729,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "MediaInfo: free tool to see what is inside a video or audio file",
+      "url": "https://aicon-hub.github.io/posts/mediainfo-free-video-audio-file-details-checker-guide.html"
+    },
     {
       "title": "FontForge: free font editor to design and edit typefaces",
       "url": "https://aicon-hub.github.io/posts/fontforge-free-font-editor-design-typefaces-windows-mac-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Subtitle Edit: free open source editor to create and fix video subtitles",
       "url": "https://aicon-hub.github.io/posts/subtitle-edit-free-open-source-subtitle-editor-srt-windows-mac-linux-guide.html"
-    },
-    {
-      "title": "PrusaSlicer: free open source software to prepare 3D models for printing",
-      "url": "https://aicon-hub.github.io/posts/prusaslicer-free-open-source-3d-printing-slicer-windows-mac-linux-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-21",
-        "count": 18
+        "count": 24
       }
     ],
     "commits": [
       {
-        "sha": "8bb524bc3837ff0ee8ffb41e5ef0f227e0b6e68a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8bb524bc3837ff0ee8ffb41e5ef0f227e0b6e68a",
-        "date_utc": "21 Oct 2026, 02:39 UTC",
+        "sha": "fa1c34af1f130bc5fed8a1a6f0980c4b3b812da3",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fa1c34af1f130bc5fed8a1a6f0980c4b3b812da3",
+        "date_utc": "21 Oct 2026, 03:46 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7d646cb53acfc6228301c53ae51fab930003a83e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7d646cb53acfc6228301c53ae51fab930003a83e",
-        "date_utc": "21 Oct 2026, 02:39 UTC",
+        "sha": "d7f3ec8db8487b2f705fe0f652a1df7647259547",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d7f3ec8db8487b2f705fe0f652a1df7647259547",
+        "date_utc": "21 Oct 2026, 03:46 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "d491f2f8829666395a1fd1b7dc4de7994888b37f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d491f2f8829666395a1fd1b7dc4de7994888b37f",
-        "date_utc": "21 Oct 2026, 02:39 UTC",
+        "sha": "87a832fc76c33aa390f6a53be0a8719da5637171",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/87a832fc76c33aa390f6a53be0a8719da5637171",
+        "date_utc": "21 Oct 2026, 03:46 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "a04c7e84246c3f1c7257894cc28dd5798ff1947f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a04c7e84246c3f1c7257894cc28dd5798ff1947f",
-        "date_utc": "21 Oct 2026, 02:35 UTC",
+        "sha": "b754e7d22617f39b2398756ef315c4d4231cdc79",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b754e7d22617f39b2398756ef315c4d4231cdc79",
+        "date_utc": "21 Oct 2026, 03:40 UTC",
         "day": "2026-10-21",
-        "title": "Register FontForge official icon (AI374)"
+        "title": "Register MediaInfo official icon (AI375)"
       },
       {
-        "sha": "bbc76ea26e204d991a3186dc00ea01a566fa7d66",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bbc76ea26e204d991a3186dc00ea01a566fa7d66",
-        "date_utc": "21 Oct 2026, 02:35 UTC",
+        "sha": "3bb3c2ce49f0d6f2a5160c09316501efb09483cb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3bb3c2ce49f0d6f2a5160c09316501efb09483cb",
+        "date_utc": "21 Oct 2026, 03:39 UTC",
         "day": "2026-10-21",
-        "title": "Index FontForge guide (AI374)"
+        "title": "Index MediaInfo guide (AI375)"
       }
     ],
-    "commit_total": 2811,
+    "commit_total": 2817,
     "calendar": [
       {
         "date": "2026-07-23",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-21",
         "level": 1,
-        "count": 13
+        "count": 16
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
