@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-22 14:55 UTC",
-  "checked_at_ist": "22 Oct 2026, 08:25 PM IST",
-  "archive_entries": 659,
+  "checked_at_utc": "2026-10-22 15:54 UTC",
+  "checked_at_ist": "22 Oct 2026, 09:24 PM IST",
+  "archive_entries": 660,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "JustWatch India: a free guide to where movies and shows stream",
+      "url": "https://aicon-hub.github.io/posts/justwatch-find-where-to-stream-india-free-guide.html"
+    },
     {
       "title": "Numbeo: compare cost-of-living estimates between cities, free",
       "url": "https://aicon-hub.github.io/posts/numbeo-cost-of-living-compare-cities-free-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Flightradar24: watch flights live on a world map",
       "url": "https://aicon-hub.github.io/posts/flightradar24-live-flight-tracker-free-map-guide.html"
-    },
-    {
-      "title": "Photopea: a full Photoshop-style editor, free in your browser",
-      "url": "https://aicon-hub.github.io/posts/photopea-free-online-photo-editor-psd-browser-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 178
+        "count": 186
       }
     ],
     "commits": [
       {
-        "sha": "09729179a73f285d040e72b1b7868904030249be",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/09729179a73f285d040e72b1b7868904030249be",
-        "date_utc": "22 Oct 2026, 14:50 UTC",
+        "sha": "192c56219562571a3996ef778d54557b2efed812",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/192c56219562571a3996ef778d54557b2efed812",
+        "date_utc": "22 Oct 2026, 15:52 UTC",
         "day": "2026-10-22",
-        "title": "Record Telegram publishing state"
+        "title": "Delete posts/justwatch-find-where-to-stream-india-free-guide.html"
       },
       {
-        "sha": "2a3fb358faceddb2fccc183ada2a622f143d99f7",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2a3fb358faceddb2fccc183ada2a622f143d99f7",
-        "date_utc": "22 Oct 2026, 14:50 UTC",
-        "day": "2026-10-22",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "dc2bf78061e1c7536819f7a0b811f10e19f4dc6e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/dc2bf78061e1c7536819f7a0b811f10e19f4dc6e",
-        "date_utc": "22 Oct 2026, 14:50 UTC",
-        "day": "2026-10-22",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "2b3c7c60211d34c7f2808d4931b2a20f2cf6dc77",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2b3c7c60211d34c7f2808d4931b2a20f2cf6dc77",
-        "date_utc": "22 Oct 2026, 14:40 UTC",
+        "sha": "0794b9acbe5c658c49d7de0b8e33856aac4d1708",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0794b9acbe5c658c49d7de0b8e33856aac4d1708",
+        "date_utc": "22 Oct 2026, 15:45 UTC",
         "day": "2026-10-22",
         "title": "Add new posts to index.html"
       },
       {
-        "sha": "16bab737fd4c8eb9c0bb1e81ea7743db08cc7b5c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/16bab737fd4c8eb9c0bb1e81ea7743db08cc7b5c",
-        "date_utc": "22 Oct 2026, 14:40 UTC",
+        "sha": "4b55312090555038e54565d1a9cf43c0fadf858b",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4b55312090555038e54565d1a9cf43c0fadf858b",
+        "date_utc": "22 Oct 2026, 15:44 UTC",
         "day": "2026-10-22",
-        "title": "Add Numbeo cost of living comparison entry"
+        "title": "Update justwatch-find-where-to-stream-india-free-guide.html"
+      },
+      {
+        "sha": "80e3ad3f36533de2972a1fa549de9385e4958832",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/80e3ad3f36533de2972a1fa549de9385e4958832",
+        "date_utc": "22 Oct 2026, 15:41 UTC",
+        "day": "2026-10-22",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "6897aaeab2d20aaf5b61b77cc534678de4985200",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6897aaeab2d20aaf5b61b77cc534678de4985200",
+        "date_utc": "22 Oct 2026, 15:41 UTC",
+        "day": "2026-10-22",
+        "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 2860,
+    "commit_total": 2868,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-22",
         "level": 2,
-        "count": 86
+        "count": 87
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
