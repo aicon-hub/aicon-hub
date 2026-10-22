@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-21 23:49 UTC",
-  "checked_at_ist": "22 Oct 2026, 05:19 AM IST",
-  "archive_entries": 750,
+  "checked_at_utc": "2026-10-22 01:04 UTC",
+  "checked_at_ist": "22 Oct 2026, 06:34 AM IST",
+  "archive_entries": 751,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "World Time Buddy: free time zone converter and meeting planner",
+      "url": "https://aicon-hub.github.io/posts/world-time-buddy-free-time-zone-converter-meeting-planner-guide.html"
+    },
     {
       "title": "Vocaroo: free online voice recorder with instant share links",
       "url": "https://aicon-hub.github.io/posts/vocaroo-free-online-voice-recorder-share-links-no-signup-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Thevannoor Hackathon 2026: Rs 3.5 lakh prizes for school and polytechnic students",
       "url": "https://aicon-hub.github.io/posts/thevannoor-hackathon-2026-scms-school-polytechnic-students-guide.html"
-    },
-    {
-      "title": "VYUHAM'26: DUK national fest dates, fees and prize pools",
-      "url": "https://aicon-hub.github.io/posts/vyuham-26-duk-fest-dates-fees-prize-pools-registration-guide.html"
     }
   ],
   "sources": [
@@ -36,10 +36,6 @@
   ],
   "activity": {
     "commit_days": [
-      {
-        "date": "2026-10-08",
-        "count": 283
-      },
       {
         "date": "2026-10-09",
         "count": 205
@@ -90,53 +86,52 @@
       },
       {
         "date": "2026-10-21",
-        "count": 168
+        "count": 172
+      },
+      {
+        "date": "2026-10-22",
+        "count": 0
       }
     ],
     "commits": [
+      {
+        "sha": "23dd14ea9985793e2e138c5aed33a43a8bc07503",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/23dd14ea9985793e2e138c5aed33a43a8bc07503",
+        "date_utc": "21 Oct 2026, 23:56 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "a08c6b2c0fa9e34d50ada8cc3b6900e17b57a43f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a08c6b2c0fa9e34d50ada8cc3b6900e17b57a43f",
+        "date_utc": "21 Oct 2026, 23:56 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "9782373c5923776784bb82efa97167a0a9abde6d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9782373c5923776784bb82efa97167a0a9abde6d",
+        "date_utc": "21 Oct 2026, 23:56 UTC",
+        "day": "2026-10-21",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "e4323876bd9735993a4c1b75a3ffc85eeff5127f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e4323876bd9735993a4c1b75a3ffc85eeff5127f",
+        "date_utc": "21 Oct 2026, 23:53 UTC",
+        "day": "2026-10-21",
+        "title": "Add World Time Buddy guide (AI391)"
+      },
       {
         "sha": "99106c50270a3716ea3a8f8e5391b228b5b9706a",
         "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/99106c50270a3716ea3a8f8e5391b228b5b9706a",
         "date_utc": "21 Oct 2026, 19:03 UTC",
         "day": "2026-10-21",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "aefb630a529e9564926540ce15790e31a837157c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/aefb630a529e9564926540ce15790e31a837157c",
-        "date_utc": "21 Oct 2026, 19:03 UTC",
-        "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "ddc64d0331d0a9c57a6cae1c12b115cfffa2ddbb",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ddc64d0331d0a9c57a6cae1c12b115cfffa2ddbb",
-        "date_utc": "21 Oct 2026, 19:03 UTC",
-        "day": "2026-10-21",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "a35db0a43cbbc9018d2cba72c12e8c26f8cd3774",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a35db0a43cbbc9018d2cba72c12e8c26f8cd3774",
-        "date_utc": "21 Oct 2026, 18:58 UTC",
-        "day": "2026-10-21",
-        "title": "Qualify Vocaroo FAQ free answer on ads (AI390)"
-      },
-      {
-        "sha": "0fe47af212a88ce41d15e342c42cf695b580c140",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0fe47af212a88ce41d15e342c42cf695b580c140",
-        "date_utc": "21 Oct 2026, 18:56 UTC",
-        "day": "2026-10-21",
-        "title": "Qualify Vocaroo ads wording in lead and metadata (AI390)"
       }
     ],
-    "commit_total": 2961,
+    "commit_total": 2682,
     "calendar": [
-      {
-        "date": "2026-07-23",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2026-07-24",
         "level": 0,
@@ -586,6 +581,11 @@
         "date": "2026-10-21",
         "level": 2,
         "count": 61
+      },
+      {
+        "date": "2026-10-22",
+        "level": 1,
+        "count": 4
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
