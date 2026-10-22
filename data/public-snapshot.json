@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-22 03:57 UTC",
-  "checked_at_ist": "22 Oct 2026, 09:27 AM IST",
-  "archive_entries": 645,
+  "checked_at_utc": "2026-10-22 04:55 UTC",
+  "checked_at_ist": "22 Oct 2026, 10:25 AM IST",
+  "archive_entries": 647,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "MolView: sketch molecules and see them in 3D, free in your browser",
+      "url": "https://aicon-hub.github.io/posts/molview-free-browser-chemistry-sketcher-3d-molecules-no-signup-guide.html"
+    },
     {
       "title": "DAREBEE: 2,821 free home workouts, no ads and no sign-up",
       "url": "https://aicon-hub.github.io/posts/darebee-free-ad-free-home-workouts-no-signup-2821-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "OpenHands: free, open-source AI coding agents you control",
       "url": "https://aicon-hub.github.io/posts/openhands-free-open-source-ai-coding-agent-self-host-guide.html"
-    },
-    {
-      "title": "GhostESP: learn wireless security on a cheap ESP32 board",
-      "url": "https://aicon-hub.github.io/posts/ghostesp-esp32-wireless-security-learning-own-devices-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 67
+        "count": 79
       }
     ],
     "commits": [
       {
-        "sha": "45919f5f570aed7212dbecb356afbb17fc878856",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/45919f5f570aed7212dbecb356afbb17fc878856",
-        "date_utc": "22 Oct 2026, 03:40 UTC",
+        "sha": "498de1bedb97f21b5b95c60a75bde98feacde2aa",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/498de1bedb97f21b5b95c60a75bde98feacde2aa",
+        "date_utc": "22 Oct 2026, 04:47 UTC",
+        "day": "2026-10-22",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "3b5487c1a3e5a8107a3c7bf75b17fde50332cd0f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3b5487c1a3e5a8107a3c7bf75b17fde50332cd0f",
+        "date_utc": "22 Oct 2026, 04:47 UTC",
+        "day": "2026-10-22",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "5e1bc6abcea2f1b3256c1a46142d891e046af874",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5e1bc6abcea2f1b3256c1a46142d891e046af874",
+        "date_utc": "22 Oct 2026, 04:47 UTC",
+        "day": "2026-10-22",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "53c2ea524e78fb303194a3a0e24f9487178d1e6a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/53c2ea524e78fb303194a3a0e24f9487178d1e6a",
+        "date_utc": "22 Oct 2026, 04:43 UTC",
         "day": "2026-10-22",
         "title": "Update index.html"
       },
       {
-        "sha": "f2ab795f3dfa5859037b3d8451d3a782f48a54ec",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f2ab795f3dfa5859037b3d8451d3a782f48a54ec",
-        "date_utc": "22 Oct 2026, 03:38 UTC",
+        "sha": "0d21b956c72c533372638a70f41e4acf4764afad",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0d21b956c72c533372638a70f41e4acf4764afad",
+        "date_utc": "22 Oct 2026, 04:42 UTC",
         "day": "2026-10-22",
         "title": "Update official-remote-media.json"
-      },
-      {
-        "sha": "87bf6451ca6c08d4961b4aa5acc13b3b333ebe6a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/87bf6451ca6c08d4961b4aa5acc13b3b333ebe6a",
-        "date_utc": "22 Oct 2026, 03:35 UTC",
-        "day": "2026-10-22",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "7edad0307137a5afabb3f6a0743a7bc62bc3c865",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7edad0307137a5afabb3f6a0743a7bc62bc3c865",
-        "date_utc": "22 Oct 2026, 03:35 UTC",
-        "day": "2026-10-22",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "d1c90ca083854d565d319546b2a7334de52ee396",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d1c90ca083854d565d319546b2a7334de52ee396",
-        "date_utc": "22 Oct 2026, 03:35 UTC",
-        "day": "2026-10-22",
-        "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 2749,
+    "commit_total": 2761,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-22",
         "level": 1,
-        "count": 29
+        "count": 35
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
