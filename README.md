@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 03:27 PM IST** (2026-10-22 09:57 UTC).
+Checked **22 Oct 2026, 04:24 PM IST** (2026-10-22 10:54 UTC).
 
-**652 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**654 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 03:27 PM IST** (2026-10-22 09:57 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2813 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2829 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`45fae68`](https://github.com/aicon-hub/aicon-hub.github.io/commit/45fae68e868bf989b3cdd95d69f9acb1d9960722) · 22 Oct 2026, 09:44 UTC · Record Telegram publishing state
-- [`08bdae0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/08bdae099eefe5993dc12cd0265d4674ec876014) · 22 Oct 2026, 09:44 UTC · Record Telegram publishing state
-- [`272c786`](https://github.com/aicon-hub/aicon-hub.github.io/commit/272c786b0dd2922e59d93b59ff3fc25f4ceddad4) · 22 Oct 2026, 09:44 UTC · Record Telegram publishing state
-- [`c1c50f9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c1c50f9e2c0db2ea4caff2620e80fa4229a9f9df) · 22 Oct 2026, 09:42 UTC · Update index.html
-- [`d74e103`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d74e1038a6c1c997d48bc0e2a06f89899ca253ca) · 22 Oct 2026, 09:40 UTC · Add new posts to index.html
+- [`a2d2cb7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a2d2cb788e73903cae1887e89b06498ea8dcf64e) · 22 Oct 2026, 10:47 UTC · Add new posts to the index.html
+- [`30124e2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/30124e2df7195c9ba5c45368ebe11203075d6c65) · 22 Oct 2026, 10:47 UTC · Update radio-garden-live-world-radio-globe-free-guide.html
+- [`3b4f3cd`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3b4f3cd30188b95eab6f1c8c976d14d71abbb555) · 22 Oct 2026, 10:44 UTC · Record Telegram publishing state
+- [`33d2ab6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/33d2ab618ad42cb6d92bce32d6c56e0d996127c5) · 22 Oct 2026, 10:44 UTC · Record Telegram publishing state
+- [`acc069f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/acc069f6fcdf1d08da1d9c5aa1d8122f55d1f258) · 22 Oct 2026, 10:44 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Radio Garden: explore live radio around the world, free](https://aicon-hub.github.io/posts/radio-garden-live-world-radio-globe-free-guide.html)
+- [SDEF India Scholarship 2026-27: up to Rs 50,000 a year for professional degree students](https://aicon-hub.github.io/posts/sdef-india-scholarship-2026-27-professional-ug-50000-guide.html)
 - [TensorFlow Playground: watch a neural network learn in your browser](https://aicon-hub.github.io/posts/tensorflow-playground-neural-network-learn-browser-free-guide.html)
-- [Machine Learning for Kids: train a real AI model in your browser, free](https://aicon-hub.github.io/posts/machine-learning-for-kids-train-ai-models-browser-free-scratch-guide.html)
-- [Instructables: 135,000+ free step-by-step DIY project guides](https://aicon-hub.github.io/posts/instructables-free-diy-projects-step-by-step-guides-makers-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---

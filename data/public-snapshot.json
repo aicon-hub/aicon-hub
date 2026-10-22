@@ -1,11 +1,19 @@
 {
-  "checked_at_utc": "2026-10-22 09:57 UTC",
-  "checked_at_ist": "22 Oct 2026, 03:27 PM IST",
-  "archive_entries": 652,
+  "checked_at_utc": "2026-10-22 10:54 UTC",
+  "checked_at_ist": "22 Oct 2026, 04:24 PM IST",
+  "archive_entries": 654,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Radio Garden: explore live radio around the world, free",
+      "url": "https://aicon-hub.github.io/posts/radio-garden-live-world-radio-globe-free-guide.html"
+    },
+    {
+      "title": "SDEF India Scholarship 2026-27: up to Rs 50,000 a year for professional degree students",
+      "url": "https://aicon-hub.github.io/posts/sdef-india-scholarship-2026-27-professional-ug-50000-guide.html"
+    },
     {
       "title": "TensorFlow Playground: watch a neural network learn in your browser",
       "url": "https://aicon-hub.github.io/posts/tensorflow-playground-neural-network-learn-browser-free-guide.html"
@@ -17,14 +25,6 @@
     {
       "title": "Instructables: 135,000+ free step-by-step DIY project guides",
       "url": "https://aicon-hub.github.io/posts/instructables-free-diy-projects-step-by-step-guides-makers-guide.html"
-    },
-    {
-      "title": "Musopen: free classical music and sheet music from a nonprofit",
-      "url": "https://aicon-hub.github.io/posts/musopen-free-classical-music-recordings-sheet-music-nonprofit-guide.html"
-    },
-    {
-      "title": "Oppia: free story-style maths and science lessons in your browser",
-      "url": "https://aicon-hub.github.io/posts/oppia-free-interactive-maths-science-lessons-story-hindi-browser-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 131
+        "count": 147
       }
     ],
     "commits": [
       {
-        "sha": "45fae68e868bf989b3cdd95d69f9acb1d9960722",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/45fae68e868bf989b3cdd95d69f9acb1d9960722",
-        "date_utc": "22 Oct 2026, 09:44 UTC",
+        "sha": "a2d2cb788e73903cae1887e89b06498ea8dcf64e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a2d2cb788e73903cae1887e89b06498ea8dcf64e",
+        "date_utc": "22 Oct 2026, 10:47 UTC",
+        "day": "2026-10-22",
+        "title": "Add new posts to the index.html"
+      },
+      {
+        "sha": "30124e2df7195c9ba5c45368ebe11203075d6c65",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/30124e2df7195c9ba5c45368ebe11203075d6c65",
+        "date_utc": "22 Oct 2026, 10:47 UTC",
+        "day": "2026-10-22",
+        "title": "Update radio-garden-live-world-radio-globe-free-guide.html"
+      },
+      {
+        "sha": "3b4f3cd30188b95eab6f1c8c976d14d71abbb555",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3b4f3cd30188b95eab6f1c8c976d14d71abbb555",
+        "date_utc": "22 Oct 2026, 10:44 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "08bdae099eefe5993dc12cd0265d4674ec876014",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/08bdae099eefe5993dc12cd0265d4674ec876014",
-        "date_utc": "22 Oct 2026, 09:44 UTC",
+        "sha": "33d2ab618ad42cb6d92bce32d6c56e0d996127c5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/33d2ab618ad42cb6d92bce32d6c56e0d996127c5",
+        "date_utc": "22 Oct 2026, 10:44 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "272c786b0dd2922e59d93b59ff3fc25f4ceddad4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/272c786b0dd2922e59d93b59ff3fc25f4ceddad4",
-        "date_utc": "22 Oct 2026, 09:44 UTC",
+        "sha": "acc069f6fcdf1d08da1d9c5aa1d8122f55d1f258",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/acc069f6fcdf1d08da1d9c5aa1d8122f55d1f258",
+        "date_utc": "22 Oct 2026, 10:44 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "c1c50f9e2c0db2ea4caff2620e80fa4229a9f9df",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c1c50f9e2c0db2ea4caff2620e80fa4229a9f9df",
-        "date_utc": "22 Oct 2026, 09:42 UTC",
-        "day": "2026-10-22",
-        "title": "Update index.html"
-      },
-      {
-        "sha": "d74e1038a6c1c997d48bc0e2a06f89899ca253ca",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d74e1038a6c1c997d48bc0e2a06f89899ca253ca",
-        "date_utc": "22 Oct 2026, 09:40 UTC",
-        "day": "2026-10-22",
-        "title": "Add new posts to index.html"
       }
     ],
-    "commit_total": 2813,
+    "commit_total": 2829,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-22",
         "level": 2,
-        "count": 65
+        "count": 75
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
