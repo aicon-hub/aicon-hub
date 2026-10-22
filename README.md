@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 11:21 PM IST** (2026-10-22 17:51 UTC).
+Checked **23 Oct 2026, 12:33 AM IST** (2026-10-22 19:03 UTC).
 
-**658 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**659 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 11:21 PM IST** (2026-10-22 17:51 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2935 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2967 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`8f22ac0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8f22ac0161fda511549a6d3b06127fd7552bc924) · 22 Oct 2026, 17:50 UTC · Add new posts and update search form
-- [`3a9e860`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3a9e860e9c7e91ba13923b21db1c60258a13bdbe) · 22 Oct 2026, 17:50 UTC · Create ttsmaker-free-text-to-speech-indian-languages-guide.html
-- [`a4f74e2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a4f74e2319d68a8ba79c8640aec7a593874f6af1) · 22 Oct 2026, 17:49 UTC · Add files via upload
-- [`ab423d0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ab423d05dbc2fdc33a5863868d981e251afb807d) · 22 Oct 2026, 17:41 UTC · Remove obsolete local cover references from logo-only articles
-- [`352b9b2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/352b9b264f0f7450997c1670e6a121d1a5a9cd8e) · 22 Oct 2026, 17:38 UTC · Keep batch4 logos compact and prevent duplicate cover art
+- [`7345031`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7345031fb820c7be8f7f8e898cababb099d0e495) · 22 Oct 2026, 19:02 UTC · Add source-checked official media for qgis
+- [`8dd43bf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8dd43bfbcbc171c94cdaa579704706b782a75afc) · 22 Oct 2026, 18:54 UTC · Match Thunderbird original image dimensions to live publisher asset
+- [`b94bb5a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b94bb5a8c1904879a9fb77a435f840d55c76db7a) · 22 Oct 2026, 18:50 UTC · Add source-checked official media for archive articles
+- [`93652c6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/93652c673e6af7d2ec0646e3d95d35bc4b27cb99) · 22 Oct 2026, 18:50 UTC · Add source-checked official media for thunderbird
+- [`75129b2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/75129b2dff5dc83e21ec488f38ef5910dd24af74) · 22 Oct 2026, 18:49 UTC · Add source-checked official media for libreoffice
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [TTSMaker: free text to speech in Malayalam, Hindi and 77 more languages](https://aicon-hub.github.io/posts/ttsmaker-free-text-to-speech-indian-languages-guide.html)
 - [Windy.com: free animated weather forecasts and rain radar for India](https://aicon-hub.github.io/posts/windy-com-free-weather-maps-radar-india.html)
 - [Kerala AEDP apprenticeship: reported Rs 10,900 a month stipend, official rollout notice not yet verified](https://aicon-hub.github.io/posts/kerala-aedp-apprenticeship-embedded-degree-programme-rs-10900-stipend-announced-guide.html)
-- [Muskaan Scholarship 2026-27: up to Rs 12,000 for Classes 9 to 12, apply by 30 October](https://aicon-hub.github.io/posts/muskaan-scholarship-2026-27-classes-9-12-rs-12000-apply-by-30-october-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---

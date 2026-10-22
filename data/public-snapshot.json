@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-22 17:51 UTC",
-  "checked_at_ist": "22 Oct 2026, 11:21 PM IST",
-  "archive_entries": 658,
+  "checked_at_utc": "2026-10-22 19:03 UTC",
+  "checked_at_ist": "23 Oct 2026, 12:33 AM IST",
+  "archive_entries": 659,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "TTSMaker: free text to speech in Malayalam, Hindi and 77 more languages",
+      "url": "https://aicon-hub.github.io/posts/ttsmaker-free-text-to-speech-indian-languages-guide.html"
+    },
     {
       "title": "Windy.com: free animated weather forecasts and rain radar for India",
       "url": "https://aicon-hub.github.io/posts/windy-com-free-weather-maps-radar-india.html"
@@ -21,10 +25,6 @@
     {
       "title": "Flightradar24: watch flights live on a world map",
       "url": "https://aicon-hub.github.io/posts/flightradar24-live-flight-tracker-free-map-guide.html"
-    },
-    {
-      "title": "Photopea: a full Photoshop-style editor, free in your browser",
-      "url": "https://aicon-hub.github.io/posts/photopea-free-online-photo-editor-psd-browser-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 253
+        "count": 285
       }
     ],
     "commits": [
       {
-        "sha": "8f22ac0161fda511549a6d3b06127fd7552bc924",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8f22ac0161fda511549a6d3b06127fd7552bc924",
-        "date_utc": "22 Oct 2026, 17:50 UTC",
+        "sha": "7345031fb820c7be8f7f8e898cababb099d0e495",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7345031fb820c7be8f7f8e898cababb099d0e495",
+        "date_utc": "22 Oct 2026, 19:02 UTC",
         "day": "2026-10-22",
-        "title": "Add new posts and update search form"
+        "title": "Add source-checked official media for qgis"
       },
       {
-        "sha": "3a9e860e9c7e91ba13923b21db1c60258a13bdbe",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3a9e860e9c7e91ba13923b21db1c60258a13bdbe",
-        "date_utc": "22 Oct 2026, 17:50 UTC",
+        "sha": "8dd43bfbcbc171c94cdaa579704706b782a75afc",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8dd43bfbcbc171c94cdaa579704706b782a75afc",
+        "date_utc": "22 Oct 2026, 18:54 UTC",
         "day": "2026-10-22",
-        "title": "Create ttsmaker-free-text-to-speech-indian-languages-guide.html"
+        "title": "Match Thunderbird original image dimensions to live publisher asset"
       },
       {
-        "sha": "a4f74e2319d68a8ba79c8640aec7a593874f6af1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a4f74e2319d68a8ba79c8640aec7a593874f6af1",
-        "date_utc": "22 Oct 2026, 17:49 UTC",
+        "sha": "b94bb5a8c1904879a9fb77a435f840d55c76db7a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b94bb5a8c1904879a9fb77a435f840d55c76db7a",
+        "date_utc": "22 Oct 2026, 18:50 UTC",
         "day": "2026-10-22",
-        "title": "Add files via upload"
+        "title": "Add source-checked official media for archive articles"
       },
       {
-        "sha": "ab423d05dbc2fdc33a5863868d981e251afb807d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ab423d05dbc2fdc33a5863868d981e251afb807d",
-        "date_utc": "22 Oct 2026, 17:41 UTC",
+        "sha": "93652c673e6af7d2ec0646e3d95d35bc4b27cb99",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/93652c673e6af7d2ec0646e3d95d35bc4b27cb99",
+        "date_utc": "22 Oct 2026, 18:50 UTC",
         "day": "2026-10-22",
-        "title": "Remove obsolete local cover references from logo-only articles"
+        "title": "Add source-checked official media for thunderbird"
       },
       {
-        "sha": "352b9b264f0f7450997c1670e6a121d1a5a9cd8e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/352b9b264f0f7450997c1670e6a121d1a5a9cd8e",
-        "date_utc": "22 Oct 2026, 17:38 UTC",
+        "sha": "75129b2dff5dc83e21ec488f38ef5910dd24af74",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/75129b2dff5dc83e21ec488f38ef5910dd24af74",
+        "date_utc": "22 Oct 2026, 18:49 UTC",
         "day": "2026-10-22",
-        "title": "Keep batch4 logos compact and prevent duplicate cover art"
+        "title": "Add source-checked official media for libreoffice"
       }
     ],
-    "commit_total": 2935,
+    "commit_total": 2967,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -584,8 +584,8 @@
       },
       {
         "date": "2026-10-22",
-        "level": 2,
-        "count": 108
+        "level": 3,
+        "count": 122
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
