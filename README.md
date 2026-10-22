@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 12:33 AM IST** (2026-10-22 19:03 UTC).
+Checked **23 Oct 2026, 01:24 AM IST** (2026-10-22 19:54 UTC).
 
 **659 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 12:33 AM IST** (2026-10-22 19:03 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2967 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2982 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`7345031`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7345031fb820c7be8f7f8e898cababb099d0e495) · 22 Oct 2026, 19:02 UTC · Add source-checked official media for qgis
-- [`8dd43bf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8dd43bfbcbc171c94cdaa579704706b782a75afc) · 22 Oct 2026, 18:54 UTC · Match Thunderbird original image dimensions to live publisher asset
-- [`b94bb5a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b94bb5a8c1904879a9fb77a435f840d55c76db7a) · 22 Oct 2026, 18:50 UTC · Add source-checked official media for archive articles
-- [`93652c6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/93652c673e6af7d2ec0646e3d95d35bc4b27cb99) · 22 Oct 2026, 18:50 UTC · Add source-checked official media for thunderbird
-- [`75129b2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/75129b2dff5dc83e21ec488f38ef5910dd24af74) · 22 Oct 2026, 18:49 UTC · Add source-checked official media for libreoffice
+- [`6c7c6ff`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6c7c6ff3c97b74c18edf12f99324b5a5da6da42d) · 22 Oct 2026, 19:48 UTC · Add source-checked official media for archive articles
+- [`f4e878b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f4e878bc6cfea049309d05f6073abf730ee12e37) · 22 Oct 2026, 19:48 UTC · Add source-checked official media for anki
+- [`d510169`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d510169afc81598e4c5f4fc7a002cdf41ada8771) · 22 Oct 2026, 19:39 UTC · Add source-checked official media for archive articles
+- [`010a276`](https://github.com/aicon-hub/aicon-hub.github.io/commit/010a276569aa6a23b43b66e61e06cb10bbfaa3be) · 22 Oct 2026, 19:34 UTC · Add source-checked official media for archive articles
+- [`0893e25`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0893e250b100fefd9a824c01bbc75c9699a4f953) · 22 Oct 2026, 19:34 UTC · Add source-checked official media for freecad
 <!-- AICON:COMMITS:END -->
 
 </details>
