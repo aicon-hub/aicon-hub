@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 05:24 PM IST** (2026-10-22 11:54 UTC).
+Checked **22 Oct 2026, 06:39 PM IST** (2026-10-22 13:09 UTC).
 
-**655 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**656 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 05:24 PM IST** (2026-10-22 11:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2835 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2843 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`29c8110`](https://github.com/aicon-hub/aicon-hub.github.io/commit/29c811026d76fde38cdeda70b51294e2305d87e2) · 22 Oct 2026, 11:42 UTC · Record Telegram publishing state
-- [`2d6d5e7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2d6d5e7c97bd17fec872a96c9840d6657bdfda96) · 22 Oct 2026, 11:42 UTC · Record Telegram publishing state
-- [`8860467`](https://github.com/aicon-hub/aicon-hub.github.io/commit/88604678a23f36f0d7ad8966677d48dd21de7582) · 22 Oct 2026, 11:42 UTC · Record Telegram publishing state
-- [`96ca718`](https://github.com/aicon-hub/aicon-hub.github.io/commit/96ca718ec073d8709ba1dfe08d629587b649c561) · 22 Oct 2026, 11:40 UTC · Add new posts for various resources and scholarships
-- [`b369494`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b3694948f27b641590522b43f7a163f0995553f7) · 22 Oct 2026, 11:39 UTC · Update official-remote-media.json
+- [`2dad046`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2dad0464fd126c5dfa8366bddb673f1f7b3c30e3) · 22 Oct 2026, 13:09 UTC · Create muskaan-step-02.svg
+- [`78d4023`](https://github.com/aicon-hub/aicon-hub.github.io/commit/78d40233f5d208f1c135a3cebea8399070477f2b) · 22 Oct 2026, 13:08 UTC · Create muskaan-step-01.svg
+- [`dc5464b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/dc5464b852ccfea9c34b7680064774ede08a525d) · 22 Oct 2026, 12:43 UTC · Record Telegram publishing state
+- [`b373365`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b3733651c7d1a5b9441c46a3c149944f48785fb8) · 22 Oct 2026, 12:43 UTC · Record Telegram publishing state
+- [`3f76c32`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3f76c325d53614f5b79f97eaee717de45114fa5a) · 22 Oct 2026, 12:43 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Flightradar24: watch flights live on a world map](https://aicon-hub.github.io/posts/flightradar24-live-flight-tracker-free-map-guide.html)
 - [Photopea: a full Photoshop-style editor, free in your browser](https://aicon-hub.github.io/posts/photopea-free-online-photo-editor-psd-browser-guide.html)
 - [Radio Garden: explore live radio around the world, free](https://aicon-hub.github.io/posts/radio-garden-live-world-radio-globe-free-guide.html)
-- [SDEF India Scholarship 2026-27: up to Rs 50,000 a year for professional degree students](https://aicon-hub.github.io/posts/sdef-india-scholarship-2026-27-professional-ug-50000-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
