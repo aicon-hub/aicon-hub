@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-22 05:52 UTC",
-  "checked_at_ist": "22 Oct 2026, 11:22 AM IST",
-  "archive_entries": 648,
+  "checked_at_utc": "2026-10-22 07:12 UTC",
+  "checked_at_ist": "22 Oct 2026, 12:42 PM IST",
+  "archive_entries": 650,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Musopen: free classical music and sheet music from a nonprofit",
+      "url": "https://aicon-hub.github.io/posts/musopen-free-classical-music-recordings-sheet-music-nonprofit-guide.html"
+    },
     {
       "title": "Oppia: free story-style maths and science lessons in your browser",
       "url": "https://aicon-hub.github.io/posts/oppia-free-interactive-maths-science-lessons-story-hindi-browser-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Stirling PDF: 50+ free PDF tools you can run yourself",
       "url": "https://aicon-hub.github.io/posts/stirling-pdf-free-open-source-50-tools-offline-guide.html"
-    },
-    {
-      "title": "Supabase: Postgres backend with a genuinely usable free tier",
-      "url": "https://aicon-hub.github.io/posts/supabase-free-postgres-backend-auth-storage-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 85
+        "count": 94
       }
     ],
     "commits": [
       {
-        "sha": "2431956f43042caf207cce0946374868a910f3f0",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2431956f43042caf207cce0946374868a910f3f0",
-        "date_utc": "22 Oct 2026, 05:46 UTC",
+        "sha": "84c1aa071f9a0d5a13792a9fabcc60bee9a3b150",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/84c1aa071f9a0d5a13792a9fabcc60bee9a3b150",
+        "date_utc": "22 Oct 2026, 07:08 UTC",
+        "day": "2026-10-22",
+        "title": "Add Concentrix Scholarship 2026-27 card"
+      },
+      {
+        "sha": "e91d84c2185eb3c9fef29cfb7326b9d3e41b742c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e91d84c2185eb3c9fef29cfb7326b9d3e41b742c",
+        "date_utc": "22 Oct 2026, 07:06 UTC",
+        "day": "2026-10-22",
+        "title": "Add Concentrix Scholarship 2026-27 guide (women MBBS, Rs 65,000/yr)"
+      },
+      {
+        "sha": "6182e00989183ee21977a96609b856df9c8b2a4e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6182e00989183ee21977a96609b856df9c8b2a4e",
+        "date_utc": "22 Oct 2026, 06:49 UTC",
+        "day": "2026-10-22",
+        "title": "Update official-remote-media.json"
+      },
+      {
+        "sha": "b4b9035d611a4aec1076144285eb98b9ac472e78",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b4b9035d611a4aec1076144285eb98b9ac472e78",
+        "date_utc": "22 Oct 2026, 06:47 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7266a227ee8de111b5ea53d5a3d6c5f35646dc23",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7266a227ee8de111b5ea53d5a3d6c5f35646dc23",
-        "date_utc": "22 Oct 2026, 05:46 UTC",
+        "sha": "7c88e2dbb9284faaf74ee55065acf3df52648456",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7c88e2dbb9284faaf74ee55065acf3df52648456",
+        "date_utc": "22 Oct 2026, 06:47 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "b4b1c336edd5a6eceafff64e78ac5c456dff815b",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b4b1c336edd5a6eceafff64e78ac5c456dff815b",
-        "date_utc": "22 Oct 2026, 05:46 UTC",
-        "day": "2026-10-22",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "02e0a20c444aedb06c33cadad3d3ec52a07f78ef",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/02e0a20c444aedb06c33cadad3d3ec52a07f78ef",
-        "date_utc": "22 Oct 2026, 05:44 UTC",
-        "day": "2026-10-22",
-        "title": "Update index.html"
-      },
-      {
-        "sha": "91e692d51bbfdc60ae247373f3331163c4b67939",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/91e692d51bbfdc60ae247373f3331163c4b67939",
-        "date_utc": "22 Oct 2026, 05:43 UTC",
-        "day": "2026-10-22",
-        "title": "Add Oppia interactive math and science lessons entry"
       }
     ],
-    "commit_total": 2767,
+    "commit_total": 2776,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-22",
         "level": 1,
-        "count": 38
+        "count": 43
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

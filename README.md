@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 11:22 AM IST** (2026-10-22 05:52 UTC).
+Checked **22 Oct 2026, 12:42 PM IST** (2026-10-22 07:12 UTC).
 
-**648 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**650 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 11:22 AM IST** (2026-10-22 05:52 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2767 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2776 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`2431956`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2431956f43042caf207cce0946374868a910f3f0) · 22 Oct 2026, 05:46 UTC · Record Telegram publishing state
-- [`7266a22`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7266a227ee8de111b5ea53d5a3d6c5f35646dc23) · 22 Oct 2026, 05:46 UTC · Record Telegram publishing state
-- [`b4b1c33`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b4b1c336edd5a6eceafff64e78ac5c456dff815b) · 22 Oct 2026, 05:46 UTC · Record Telegram publishing state
-- [`02e0a20`](https://github.com/aicon-hub/aicon-hub.github.io/commit/02e0a20c444aedb06c33cadad3d3ec52a07f78ef) · 22 Oct 2026, 05:44 UTC · Update index.html
-- [`91e692d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/91e692d51bbfdc60ae247373f3331163c4b67939) · 22 Oct 2026, 05:43 UTC · Add Oppia interactive math and science lessons entry
+- [`84c1aa0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/84c1aa071f9a0d5a13792a9fabcc60bee9a3b150) · 22 Oct 2026, 07:08 UTC · Add Concentrix Scholarship 2026-27 card
+- [`e91d84c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e91d84c2185eb3c9fef29cfb7326b9d3e41b742c) · 22 Oct 2026, 07:06 UTC · Add Concentrix Scholarship 2026-27 guide (women MBBS, Rs 65,000/yr)
+- [`6182e00`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6182e00989183ee21977a96609b856df9c8b2a4e) · 22 Oct 2026, 06:49 UTC · Update official-remote-media.json
+- [`b4b9035`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b4b9035d611a4aec1076144285eb98b9ac472e78) · 22 Oct 2026, 06:47 UTC · Record Telegram publishing state
+- [`7c88e2d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7c88e2dbb9284faaf74ee55065acf3df52648456) · 22 Oct 2026, 06:47 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Musopen: free classical music and sheet music from a nonprofit](https://aicon-hub.github.io/posts/musopen-free-classical-music-recordings-sheet-music-nonprofit-guide.html)
 - [Oppia: free story-style maths and science lessons in your browser](https://aicon-hub.github.io/posts/oppia-free-interactive-maths-science-lessons-story-hindi-browser-guide.html)
 - [MolView: sketch molecules and see them in 3D, free in your browser](https://aicon-hub.github.io/posts/molview-free-browser-chemistry-sketcher-3d-molecules-no-signup-guide.html)
-- [DAREBEE: 2,821 free home workouts, no ads and no sign-up](https://aicon-hub.github.io/posts/darebee-free-ad-free-home-workouts-no-signup-2821-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
