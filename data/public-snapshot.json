@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-22 04:55 UTC",
-  "checked_at_ist": "22 Oct 2026, 10:25 AM IST",
-  "archive_entries": 647,
+  "checked_at_utc": "2026-10-22 05:52 UTC",
+  "checked_at_ist": "22 Oct 2026, 11:22 AM IST",
+  "archive_entries": 648,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Oppia: free story-style maths and science lessons in your browser",
+      "url": "https://aicon-hub.github.io/posts/oppia-free-interactive-maths-science-lessons-story-hindi-browser-guide.html"
+    },
     {
       "title": "MolView: sketch molecules and see them in 3D, free in your browser",
       "url": "https://aicon-hub.github.io/posts/molview-free-browser-chemistry-sketcher-3d-molecules-no-signup-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Supabase: Postgres backend with a genuinely usable free tier",
       "url": "https://aicon-hub.github.io/posts/supabase-free-postgres-backend-auth-storage-guide.html"
-    },
-    {
-      "title": "OpenHands: free, open-source AI coding agents you control",
-      "url": "https://aicon-hub.github.io/posts/openhands-free-open-source-ai-coding-agent-self-host-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 79
+        "count": 85
       }
     ],
     "commits": [
       {
-        "sha": "498de1bedb97f21b5b95c60a75bde98feacde2aa",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/498de1bedb97f21b5b95c60a75bde98feacde2aa",
-        "date_utc": "22 Oct 2026, 04:47 UTC",
+        "sha": "2431956f43042caf207cce0946374868a910f3f0",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2431956f43042caf207cce0946374868a910f3f0",
+        "date_utc": "22 Oct 2026, 05:46 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "3b5487c1a3e5a8107a3c7bf75b17fde50332cd0f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3b5487c1a3e5a8107a3c7bf75b17fde50332cd0f",
-        "date_utc": "22 Oct 2026, 04:47 UTC",
+        "sha": "7266a227ee8de111b5ea53d5a3d6c5f35646dc23",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7266a227ee8de111b5ea53d5a3d6c5f35646dc23",
+        "date_utc": "22 Oct 2026, 05:46 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "5e1bc6abcea2f1b3256c1a46142d891e046af874",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5e1bc6abcea2f1b3256c1a46142d891e046af874",
-        "date_utc": "22 Oct 2026, 04:47 UTC",
+        "sha": "b4b1c336edd5a6eceafff64e78ac5c456dff815b",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b4b1c336edd5a6eceafff64e78ac5c456dff815b",
+        "date_utc": "22 Oct 2026, 05:46 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "53c2ea524e78fb303194a3a0e24f9487178d1e6a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/53c2ea524e78fb303194a3a0e24f9487178d1e6a",
-        "date_utc": "22 Oct 2026, 04:43 UTC",
+        "sha": "02e0a20c444aedb06c33cadad3d3ec52a07f78ef",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/02e0a20c444aedb06c33cadad3d3ec52a07f78ef",
+        "date_utc": "22 Oct 2026, 05:44 UTC",
         "day": "2026-10-22",
         "title": "Update index.html"
       },
       {
-        "sha": "0d21b956c72c533372638a70f41e4acf4764afad",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0d21b956c72c533372638a70f41e4acf4764afad",
-        "date_utc": "22 Oct 2026, 04:42 UTC",
+        "sha": "91e692d51bbfdc60ae247373f3331163c4b67939",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/91e692d51bbfdc60ae247373f3331163c4b67939",
+        "date_utc": "22 Oct 2026, 05:43 UTC",
         "day": "2026-10-22",
-        "title": "Update official-remote-media.json"
+        "title": "Add Oppia interactive math and science lessons entry"
       }
     ],
-    "commit_total": 2761,
+    "commit_total": 2767,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-22",
         "level": 1,
-        "count": 35
+        "count": 38
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 10:25 AM IST** (2026-10-22 04:55 UTC).
+Checked **22 Oct 2026, 11:22 AM IST** (2026-10-22 05:52 UTC).
 
-**647 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**648 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 10:25 AM IST** (2026-10-22 04:55 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2761 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2767 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`498de1b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/498de1bedb97f21b5b95c60a75bde98feacde2aa) · 22 Oct 2026, 04:47 UTC · Record Telegram publishing state
-- [`3b5487c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3b5487c1a3e5a8107a3c7bf75b17fde50332cd0f) · 22 Oct 2026, 04:47 UTC · Record Telegram publishing state
-- [`5e1bc6a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5e1bc6abcea2f1b3256c1a46142d891e046af874) · 22 Oct 2026, 04:47 UTC · Record Telegram publishing state
-- [`53c2ea5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/53c2ea524e78fb303194a3a0e24f9487178d1e6a) · 22 Oct 2026, 04:43 UTC · Update index.html
-- [`0d21b95`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0d21b956c72c533372638a70f41e4acf4764afad) · 22 Oct 2026, 04:42 UTC · Update official-remote-media.json
+- [`2431956`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2431956f43042caf207cce0946374868a910f3f0) · 22 Oct 2026, 05:46 UTC · Record Telegram publishing state
+- [`7266a22`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7266a227ee8de111b5ea53d5a3d6c5f35646dc23) · 22 Oct 2026, 05:46 UTC · Record Telegram publishing state
+- [`b4b1c33`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b4b1c336edd5a6eceafff64e78ac5c456dff815b) · 22 Oct 2026, 05:46 UTC · Record Telegram publishing state
+- [`02e0a20`](https://github.com/aicon-hub/aicon-hub.github.io/commit/02e0a20c444aedb06c33cadad3d3ec52a07f78ef) · 22 Oct 2026, 05:44 UTC · Update index.html
+- [`91e692d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/91e692d51bbfdc60ae247373f3331163c4b67939) · 22 Oct 2026, 05:43 UTC · Add Oppia interactive math and science lessons entry
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Oppia: free story-style maths and science lessons in your browser](https://aicon-hub.github.io/posts/oppia-free-interactive-maths-science-lessons-story-hindi-browser-guide.html)
 - [MolView: sketch molecules and see them in 3D, free in your browser](https://aicon-hub.github.io/posts/molview-free-browser-chemistry-sketcher-3d-molecules-no-signup-guide.html)
 - [DAREBEE: 2,821 free home workouts, no ads and no sign-up](https://aicon-hub.github.io/posts/darebee-free-ad-free-home-workouts-no-signup-2821-guide.html)
-- [Stirling PDF: 50+ free PDF tools you can run yourself](https://aicon-hub.github.io/posts/stirling-pdf-free-open-source-50-tools-offline-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
