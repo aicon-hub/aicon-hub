@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 08:25 AM IST** (2026-10-22 02:55 UTC).
+Checked **22 Oct 2026, 09:27 AM IST** (2026-10-22 03:57 UTC).
 
-**644 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**645 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 08:25 AM IST** (2026-10-22 02:55 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2719 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2749 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`d571488`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d5714888ad5be13b2dbe9fb4b5b5cfa85fc3f5fc) · 22 Oct 2026, 02:53 UTC · Update ghostesp-esp32-wireless-security-learning-own-devices-guide.html
-- [`62e782c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/62e782cb3cfebd8ecd6a35ce6c76f9216f17350a) · 22 Oct 2026, 02:52 UTC · Update official-remote-media.json
-- [`32a8fae`](https://github.com/aicon-hub/aicon-hub.github.io/commit/32a8fae530e4bde4dc672e928a26c6611be6cf32) · 22 Oct 2026, 02:47 UTC · Record Telegram publishing state
-- [`42479b9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/42479b980e48b163cc43b27573a4d2e7048fdad1) · 22 Oct 2026, 02:47 UTC · Record Telegram publishing state
-- [`cd1aa7d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/cd1aa7d3b783edb761d0cf13555e9807b695bfd6) · 22 Oct 2026, 02:47 UTC · Record Telegram publishing state
+- [`45919f5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/45919f5f570aed7212dbecb356afbb17fc878856) · 22 Oct 2026, 03:40 UTC · Update index.html
+- [`f2ab795`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f2ab795f3dfa5859037b3d8451d3a782f48a54ec) · 22 Oct 2026, 03:38 UTC · Update official-remote-media.json
+- [`87bf645`](https://github.com/aicon-hub/aicon-hub.github.io/commit/87bf6451ca6c08d4961b4aa5acc13b3b333ebe6a) · 22 Oct 2026, 03:35 UTC · Record Telegram publishing state
+- [`7edad03`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7edad0307137a5afabb3f6a0743a7bc62bc3c865) · 22 Oct 2026, 03:35 UTC · Record Telegram publishing state
+- [`d1c90ca`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d1c90ca083854d565d319546b2a7334de52ee396) · 22 Oct 2026, 03:35 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [DAREBEE: 2,821 free home workouts, no ads and no sign-up](https://aicon-hub.github.io/posts/darebee-free-ad-free-home-workouts-no-signup-2821-guide.html)
 - [Stirling PDF: 50+ free PDF tools you can run yourself](https://aicon-hub.github.io/posts/stirling-pdf-free-open-source-50-tools-offline-guide.html)
 - [Supabase: Postgres backend with a genuinely usable free tier](https://aicon-hub.github.io/posts/supabase-free-postgres-backend-auth-storage-guide.html)
-- [OpenHands: free, open-source AI coding agents you control](https://aicon-hub.github.io/posts/openhands-free-open-source-ai-coding-agent-self-host-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
