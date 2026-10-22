@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 09:24 PM IST** (2026-10-22 15:54 UTC).
+Checked **22 Oct 2026, 10:26 PM IST** (2026-10-22 16:56 UTC).
 
-**660 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**658 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 09:24 PM IST** (2026-10-22 15:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2868 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2904 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`192c562`](https://github.com/aicon-hub/aicon-hub.github.io/commit/192c56219562571a3996ef778d54557b2efed812) · 22 Oct 2026, 15:52 UTC · Delete posts/justwatch-find-where-to-stream-india-free-guide.html
-- [`0794b9a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0794b9acbe5c658c49d7de0b8e33856aac4d1708) · 22 Oct 2026, 15:45 UTC · Add new posts to index.html
-- [`4b55312`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4b55312090555038e54565d1a9cf43c0fadf858b) · 22 Oct 2026, 15:44 UTC · Update justwatch-find-where-to-stream-india-free-guide.html
-- [`80e3ad3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/80e3ad3f36533de2972a1fa549de9385e4958832) · 22 Oct 2026, 15:41 UTC · Record Telegram publishing state
-- [`6897aae`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6897aaeab2d20aaf5b61b77cc534678de4985200) · 22 Oct 2026, 15:41 UTC · Record Telegram publishing state
+- [`307949e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/307949e9d7493860118d1ac62ed8b91d14597429) · 22 Oct 2026, 16:54 UTC · Record Telegram publishing state
+- [`09e93ef`](https://github.com/aicon-hub/aicon-hub.github.io/commit/09e93ef736fd6b9e9082c12be71aa684a9b269ef) · 22 Oct 2026, 16:54 UTC · Record Telegram publishing state
+- [`f1c2e75`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f1c2e75a179a5d0decd15e98beff3272e2647289) · 22 Oct 2026, 16:54 UTC · Record Telegram publishing state
+- [`7e425cc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7e425cc3943f05bfc01d4a7dcfad3079b3f42849) · 22 Oct 2026, 16:53 UTC · Add windy-com-free-weather-maps-radar-india entry
+- [`a995be4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a995be4ce19bcfff41faa696f8611e93b4da32e4) · 22 Oct 2026, 16:53 UTC · Add new posts to index.html
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
-- [JustWatch India: a free guide to where movies and shows stream](https://aicon-hub.github.io/posts/justwatch-find-where-to-stream-india-free-guide.html)
-- [Numbeo: compare cost-of-living estimates between cities, free](https://aicon-hub.github.io/posts/numbeo-cost-of-living-compare-cities-free-guide.html)
-- [The True Size Of: drag a country, see how big it really is](https://aicon-hub.github.io/posts/the-true-size-of-drag-countries-compare-map-free-guide.html)
+- [Windy.com: free animated weather forecasts and rain radar for India](https://aicon-hub.github.io/posts/windy-com-free-weather-maps-radar-india.html)
+- [Kerala AEDP apprenticeship: reported Rs 10,900 a month stipend, official rollout notice not yet verified](https://aicon-hub.github.io/posts/kerala-aedp-apprenticeship-embedded-degree-programme-rs-10900-stipend-announced-guide.html)
+- [Muskaan Scholarship 2026-27: up to Rs 12,000 for Classes 9 to 12, apply by 30 October](https://aicon-hub.github.io/posts/muskaan-scholarship-2026-27-classes-9-12-rs-12000-apply-by-30-october-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
