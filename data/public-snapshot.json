@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-22 10:54 UTC",
-  "checked_at_ist": "22 Oct 2026, 04:24 PM IST",
-  "archive_entries": 654,
+  "checked_at_utc": "2026-10-22 11:54 UTC",
+  "checked_at_ist": "22 Oct 2026, 05:24 PM IST",
+  "archive_entries": 655,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Photopea: a full Photoshop-style editor, free in your browser",
+      "url": "https://aicon-hub.github.io/posts/photopea-free-online-photo-editor-psd-browser-guide.html"
+    },
     {
       "title": "Radio Garden: explore live radio around the world, free",
       "url": "https://aicon-hub.github.io/posts/radio-garden-live-world-radio-globe-free-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Machine Learning for Kids: train a real AI model in your browser, free",
       "url": "https://aicon-hub.github.io/posts/machine-learning-for-kids-train-ai-models-browser-free-scratch-guide.html"
-    },
-    {
-      "title": "Instructables: 135,000+ free step-by-step DIY project guides",
-      "url": "https://aicon-hub.github.io/posts/instructables-free-diy-projects-step-by-step-guides-makers-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 147
+        "count": 153
       }
     ],
     "commits": [
       {
-        "sha": "a2d2cb788e73903cae1887e89b06498ea8dcf64e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a2d2cb788e73903cae1887e89b06498ea8dcf64e",
-        "date_utc": "22 Oct 2026, 10:47 UTC",
-        "day": "2026-10-22",
-        "title": "Add new posts to the index.html"
-      },
-      {
-        "sha": "30124e2df7195c9ba5c45368ebe11203075d6c65",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/30124e2df7195c9ba5c45368ebe11203075d6c65",
-        "date_utc": "22 Oct 2026, 10:47 UTC",
-        "day": "2026-10-22",
-        "title": "Update radio-garden-live-world-radio-globe-free-guide.html"
-      },
-      {
-        "sha": "3b4f3cd30188b95eab6f1c8c976d14d71abbb555",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3b4f3cd30188b95eab6f1c8c976d14d71abbb555",
-        "date_utc": "22 Oct 2026, 10:44 UTC",
+        "sha": "29c811026d76fde38cdeda70b51294e2305d87e2",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/29c811026d76fde38cdeda70b51294e2305d87e2",
+        "date_utc": "22 Oct 2026, 11:42 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "33d2ab618ad42cb6d92bce32d6c56e0d996127c5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/33d2ab618ad42cb6d92bce32d6c56e0d996127c5",
-        "date_utc": "22 Oct 2026, 10:44 UTC",
+        "sha": "2d6d5e7c97bd17fec872a96c9840d6657bdfda96",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2d6d5e7c97bd17fec872a96c9840d6657bdfda96",
+        "date_utc": "22 Oct 2026, 11:42 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "acc069f6fcdf1d08da1d9c5aa1d8122f55d1f258",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/acc069f6fcdf1d08da1d9c5aa1d8122f55d1f258",
-        "date_utc": "22 Oct 2026, 10:44 UTC",
+        "sha": "88604678a23f36f0d7ad8966677d48dd21de7582",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/88604678a23f36f0d7ad8966677d48dd21de7582",
+        "date_utc": "22 Oct 2026, 11:42 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "96ca718ec073d8709ba1dfe08d629587b649c561",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/96ca718ec073d8709ba1dfe08d629587b649c561",
+        "date_utc": "22 Oct 2026, 11:40 UTC",
+        "day": "2026-10-22",
+        "title": "Add new posts for various resources and scholarships"
+      },
+      {
+        "sha": "b3694948f27b641590522b43f7a163f0995553f7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b3694948f27b641590522b43f7a163f0995553f7",
+        "date_utc": "22 Oct 2026, 11:39 UTC",
+        "day": "2026-10-22",
+        "title": "Update official-remote-media.json"
       }
     ],
-    "commit_total": 2829,
+    "commit_total": 2835,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-22",
         "level": 2,
-        "count": 75
+        "count": 78
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
