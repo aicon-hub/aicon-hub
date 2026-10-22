@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 01:32 PM IST** (2026-10-22 08:02 UTC).
+Checked **22 Oct 2026, 02:29 PM IST** (2026-10-22 08:59 UTC).
 
-**650 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**651 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 01:32 PM IST** (2026-10-22 08:02 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2796 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2806 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`74f8f8c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/74f8f8c68ed94dd367c7d212909e774bfb27418b) · 22 Oct 2026, 07:59 UTC · Delete posts/concentrix-scholarship-2026-27-mbbs-women-government-college-guide.html
-- [`5a460d4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5a460d4f2c1865537f305b494b091e798e496057) · 22 Oct 2026, 07:59 UTC · Update official-remote-media.json
-- [`8effcbf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8effcbfd4e653c285fbeef92f92b31fa9684c913) · 22 Oct 2026, 07:58 UTC · Update index.html
-- [`9d5f35c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9d5f35c6d2f7096932343689d4d4398651482a0d) · 22 Oct 2026, 07:55 UTC · Update concentrix-scholarship-2026-27-mbbs-women-government-college-guide.html
-- [`800adf4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/800adf4226c04bf0c30e4048dcd2a802a70bff12) · 22 Oct 2026, 07:49 UTC · Record Telegram publishing state
+- [`c18f8fc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c18f8fc0b368de94909ff67ba2d847291f635ce7) · 22 Oct 2026, 08:50 UTC · Record Telegram publishing state
+- [`f12baea`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f12baea2f464619bda8aaa1ee1e71f4d69f0a98c) · 22 Oct 2026, 08:50 UTC · Record Telegram publishing state
+- [`943fcb1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/943fcb1c1ad9c219615db143369d3323f6ffcb3e) · 22 Oct 2026, 08:50 UTC · Record Telegram publishing state
+- [`c3135b1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c3135b1e66e350a11433e9833a47553c443b8b8c) · 22 Oct 2026, 08:47 UTC · Update machine-learning-for-kids-train-ai-models-browser-free-scratch-guide.html
+- [`da65f56`](https://github.com/aicon-hub/aicon-hub.github.io/commit/da65f5615494df68cdb4a0f3bb5bf6bbe3a9aca3) · 22 Oct 2026, 08:47 UTC · Update index.html
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Machine Learning for Kids: train a real AI model in your browser, free](https://aicon-hub.github.io/posts/machine-learning-for-kids-train-ai-models-browser-free-scratch-guide.html)
 - [Instructables: 135,000+ free step-by-step DIY project guides](https://aicon-hub.github.io/posts/instructables-free-diy-projects-step-by-step-guides-makers-guide.html)
 - [Musopen: free classical music and sheet music from a nonprofit](https://aicon-hub.github.io/posts/musopen-free-classical-music-recordings-sheet-music-nonprofit-guide.html)
-- [Oppia: free story-style maths and science lessons in your browser](https://aicon-hub.github.io/posts/oppia-free-interactive-maths-science-lessons-story-hindi-browser-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---

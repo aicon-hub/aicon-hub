@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-22 08:02 UTC",
-  "checked_at_ist": "22 Oct 2026, 01:32 PM IST",
-  "archive_entries": 650,
+  "checked_at_utc": "2026-10-22 08:59 UTC",
+  "checked_at_ist": "22 Oct 2026, 02:29 PM IST",
+  "archive_entries": 651,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Machine Learning for Kids: train a real AI model in your browser, free",
+      "url": "https://aicon-hub.github.io/posts/machine-learning-for-kids-train-ai-models-browser-free-scratch-guide.html"
+    },
     {
       "title": "Instructables: 135,000+ free step-by-step DIY project guides",
       "url": "https://aicon-hub.github.io/posts/instructables-free-diy-projects-step-by-step-guides-makers-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "MolView: sketch molecules and see them in 3D, free in your browser",
       "url": "https://aicon-hub.github.io/posts/molview-free-browser-chemistry-sketcher-3d-molecules-no-signup-guide.html"
-    },
-    {
-      "title": "DAREBEE: 2,821 free home workouts, no ads and no sign-up",
-      "url": "https://aicon-hub.github.io/posts/darebee-free-ad-free-home-workouts-no-signup-2821-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 114
+        "count": 124
       }
     ],
     "commits": [
       {
-        "sha": "74f8f8c68ed94dd367c7d212909e774bfb27418b",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/74f8f8c68ed94dd367c7d212909e774bfb27418b",
-        "date_utc": "22 Oct 2026, 07:59 UTC",
-        "day": "2026-10-22",
-        "title": "Delete posts/concentrix-scholarship-2026-27-mbbs-women-government-college-guide.html"
-      },
-      {
-        "sha": "5a460d4f2c1865537f305b494b091e798e496057",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5a460d4f2c1865537f305b494b091e798e496057",
-        "date_utc": "22 Oct 2026, 07:59 UTC",
-        "day": "2026-10-22",
-        "title": "Update official-remote-media.json"
-      },
-      {
-        "sha": "8effcbfd4e653c285fbeef92f92b31fa9684c913",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8effcbfd4e653c285fbeef92f92b31fa9684c913",
-        "date_utc": "22 Oct 2026, 07:58 UTC",
-        "day": "2026-10-22",
-        "title": "Update index.html"
-      },
-      {
-        "sha": "9d5f35c6d2f7096932343689d4d4398651482a0d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9d5f35c6d2f7096932343689d4d4398651482a0d",
-        "date_utc": "22 Oct 2026, 07:55 UTC",
-        "day": "2026-10-22",
-        "title": "Update concentrix-scholarship-2026-27-mbbs-women-government-college-guide.html"
-      },
-      {
-        "sha": "800adf4226c04bf0c30e4048dcd2a802a70bff12",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/800adf4226c04bf0c30e4048dcd2a802a70bff12",
-        "date_utc": "22 Oct 2026, 07:49 UTC",
+        "sha": "c18f8fc0b368de94909ff67ba2d847291f635ce7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c18f8fc0b368de94909ff67ba2d847291f635ce7",
+        "date_utc": "22 Oct 2026, 08:50 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "f12baea2f464619bda8aaa1ee1e71f4d69f0a98c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f12baea2f464619bda8aaa1ee1e71f4d69f0a98c",
+        "date_utc": "22 Oct 2026, 08:50 UTC",
+        "day": "2026-10-22",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "943fcb1c1ad9c219615db143369d3323f6ffcb3e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/943fcb1c1ad9c219615db143369d3323f6ffcb3e",
+        "date_utc": "22 Oct 2026, 08:50 UTC",
+        "day": "2026-10-22",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "c3135b1e66e350a11433e9833a47553c443b8b8c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c3135b1e66e350a11433e9833a47553c443b8b8c",
+        "date_utc": "22 Oct 2026, 08:47 UTC",
+        "day": "2026-10-22",
+        "title": "Update machine-learning-for-kids-train-ai-models-browser-free-scratch-guide.html"
+      },
+      {
+        "sha": "da65f5615494df68cdb4a0f3bb5bf6bbe3a9aca3",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/da65f5615494df68cdb4a0f3bb5bf6bbe3a9aca3",
+        "date_utc": "22 Oct 2026, 08:47 UTC",
+        "day": "2026-10-22",
+        "title": "Update index.html"
       }
     ],
-    "commit_total": 2796,
+    "commit_total": 2806,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-22",
         "level": 2,
-        "count": 55
+        "count": 61
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
