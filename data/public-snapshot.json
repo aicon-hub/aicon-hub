@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-22 13:59 UTC",
-  "checked_at_ist": "22 Oct 2026, 07:29 PM IST",
-  "archive_entries": 658,
+  "checked_at_utc": "2026-10-22 14:55 UTC",
+  "checked_at_ist": "22 Oct 2026, 08:25 PM IST",
+  "archive_entries": 659,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Numbeo: compare cost-of-living estimates between cities, free",
+      "url": "https://aicon-hub.github.io/posts/numbeo-cost-of-living-compare-cities-free-guide.html"
+    },
     {
       "title": "The True Size Of: drag a country, see how big it really is",
       "url": "https://aicon-hub.github.io/posts/the-true-size-of-drag-countries-compare-map-free-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Photopea: a full Photoshop-style editor, free in your browser",
       "url": "https://aicon-hub.github.io/posts/photopea-free-online-photo-editor-psd-browser-guide.html"
-    },
-    {
-      "title": "Radio Garden: explore live radio around the world, free",
-      "url": "https://aicon-hub.github.io/posts/radio-garden-live-world-radio-globe-free-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 172
+        "count": 178
       }
     ],
     "commits": [
       {
-        "sha": "cf68102edbdbd90c21bd4dbb2ecdf3d7542f6445",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cf68102edbdbd90c21bd4dbb2ecdf3d7542f6445",
-        "date_utc": "22 Oct 2026, 13:45 UTC",
+        "sha": "09729179a73f285d040e72b1b7868904030249be",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/09729179a73f285d040e72b1b7868904030249be",
+        "date_utc": "22 Oct 2026, 14:50 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "82a98e84bcddb3881080b807ec8976406494bdc8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/82a98e84bcddb3881080b807ec8976406494bdc8",
-        "date_utc": "22 Oct 2026, 13:45 UTC",
+        "sha": "2a3fb358faceddb2fccc183ada2a622f143d99f7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2a3fb358faceddb2fccc183ada2a622f143d99f7",
+        "date_utc": "22 Oct 2026, 14:50 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "0b6070a1e7ff6ea3870f9c4279a9545762ea2d1b",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0b6070a1e7ff6ea3870f9c4279a9545762ea2d1b",
-        "date_utc": "22 Oct 2026, 13:45 UTC",
+        "sha": "dc2bf78061e1c7536819f7a0b811f10e19f4dc6e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/dc2bf78061e1c7536819f7a0b811f10e19f4dc6e",
+        "date_utc": "22 Oct 2026, 14:50 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "59c302d096474dd359b1b07148c55486c803d715",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/59c302d096474dd359b1b07148c55486c803d715",
-        "date_utc": "22 Oct 2026, 13:40 UTC",
+        "sha": "2b3c7c60211d34c7f2808d4931b2a20f2cf6dc77",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2b3c7c60211d34c7f2808d4931b2a20f2cf6dc77",
+        "date_utc": "22 Oct 2026, 14:40 UTC",
         "day": "2026-10-22",
         "title": "Add new posts to index.html"
       },
       {
-        "sha": "b0b57125def1bf3e6f25b834012dccd4641cf8d7",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b0b57125def1bf3e6f25b834012dccd4641cf8d7",
-        "date_utc": "22 Oct 2026, 13:40 UTC",
+        "sha": "16bab737fd4c8eb9c0bb1e81ea7743db08cc7b5c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/16bab737fd4c8eb9c0bb1e81ea7743db08cc7b5c",
+        "date_utc": "22 Oct 2026, 14:40 UTC",
         "day": "2026-10-22",
-        "title": "Add new entry for 'the-true-size-of-drag-countries'"
+        "title": "Add Numbeo cost of living comparison entry"
       }
     ],
-    "commit_total": 2854,
+    "commit_total": 2860,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-22",
         "level": 2,
-        "count": 85
+        "count": 86
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 07:29 PM IST** (2026-10-22 13:59 UTC).
+Checked **22 Oct 2026, 08:25 PM IST** (2026-10-22 14:55 UTC).
 
-**658 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**659 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 07:29 PM IST** (2026-10-22 13:59 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2854 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2860 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`cf68102`](https://github.com/aicon-hub/aicon-hub.github.io/commit/cf68102edbdbd90c21bd4dbb2ecdf3d7542f6445) · 22 Oct 2026, 13:45 UTC · Record Telegram publishing state
-- [`82a98e8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/82a98e84bcddb3881080b807ec8976406494bdc8) · 22 Oct 2026, 13:45 UTC · Record Telegram publishing state
-- [`0b6070a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0b6070a1e7ff6ea3870f9c4279a9545762ea2d1b) · 22 Oct 2026, 13:45 UTC · Record Telegram publishing state
-- [`59c302d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/59c302d096474dd359b1b07148c55486c803d715) · 22 Oct 2026, 13:40 UTC · Add new posts to index.html
-- [`b0b5712`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b0b57125def1bf3e6f25b834012dccd4641cf8d7) · 22 Oct 2026, 13:40 UTC · Add new entry for 'the-true-size-of-drag-countries'
+- [`0972917`](https://github.com/aicon-hub/aicon-hub.github.io/commit/09729179a73f285d040e72b1b7868904030249be) · 22 Oct 2026, 14:50 UTC · Record Telegram publishing state
+- [`2a3fb35`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2a3fb358faceddb2fccc183ada2a622f143d99f7) · 22 Oct 2026, 14:50 UTC · Record Telegram publishing state
+- [`dc2bf78`](https://github.com/aicon-hub/aicon-hub.github.io/commit/dc2bf78061e1c7536819f7a0b811f10e19f4dc6e) · 22 Oct 2026, 14:50 UTC · Record Telegram publishing state
+- [`2b3c7c6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2b3c7c60211d34c7f2808d4931b2a20f2cf6dc77) · 22 Oct 2026, 14:40 UTC · Add new posts to index.html
+- [`16bab73`](https://github.com/aicon-hub/aicon-hub.github.io/commit/16bab737fd4c8eb9c0bb1e81ea7743db08cc7b5c) · 22 Oct 2026, 14:40 UTC · Add Numbeo cost of living comparison entry
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Numbeo: compare cost-of-living estimates between cities, free](https://aicon-hub.github.io/posts/numbeo-cost-of-living-compare-cities-free-guide.html)
 - [The True Size Of: drag a country, see how big it really is](https://aicon-hub.github.io/posts/the-true-size-of-drag-countries-compare-map-free-guide.html)
 - [Muskaan Scholarship 2026-27: up to Rs 12,000 for Classes 9 to 12, apply by 30 October](https://aicon-hub.github.io/posts/muskaan-scholarship-2026-27-classes-9-12-rs-12000-apply-by-30-october-guide.html)
-- [Flightradar24: watch flights live on a world map](https://aicon-hub.github.io/posts/flightradar24-live-flight-tracker-free-map-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
