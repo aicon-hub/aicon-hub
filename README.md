@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 10:26 PM IST** (2026-10-22 16:56 UTC).
+Checked **22 Oct 2026, 11:21 PM IST** (2026-10-22 17:51 UTC).
 
 **658 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 10:26 PM IST** (2026-10-22 16:56 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2904 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2935 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`307949e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/307949e9d7493860118d1ac62ed8b91d14597429) · 22 Oct 2026, 16:54 UTC · Record Telegram publishing state
-- [`09e93ef`](https://github.com/aicon-hub/aicon-hub.github.io/commit/09e93ef736fd6b9e9082c12be71aa684a9b269ef) · 22 Oct 2026, 16:54 UTC · Record Telegram publishing state
-- [`f1c2e75`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f1c2e75a179a5d0decd15e98beff3272e2647289) · 22 Oct 2026, 16:54 UTC · Record Telegram publishing state
-- [`7e425cc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7e425cc3943f05bfc01d4a7dcfad3079b3f42849) · 22 Oct 2026, 16:53 UTC · Add windy-com-free-weather-maps-radar-india entry
-- [`a995be4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a995be4ce19bcfff41faa696f8611e93b4da32e4) · 22 Oct 2026, 16:53 UTC · Add new posts to index.html
+- [`8f22ac0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8f22ac0161fda511549a6d3b06127fd7552bc924) · 22 Oct 2026, 17:50 UTC · Add new posts and update search form
+- [`3a9e860`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3a9e860e9c7e91ba13923b21db1c60258a13bdbe) · 22 Oct 2026, 17:50 UTC · Create ttsmaker-free-text-to-speech-indian-languages-guide.html
+- [`a4f74e2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a4f74e2319d68a8ba79c8640aec7a593874f6af1) · 22 Oct 2026, 17:49 UTC · Add files via upload
+- [`ab423d0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ab423d05dbc2fdc33a5863868d981e251afb807d) · 22 Oct 2026, 17:41 UTC · Remove obsolete local cover references from logo-only articles
+- [`352b9b2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/352b9b264f0f7450997c1670e6a121d1a5a9cd8e) · 22 Oct 2026, 17:38 UTC · Keep batch4 logos compact and prevent duplicate cover art
 <!-- AICON:COMMITS:END -->
 
 </details>
