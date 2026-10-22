@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-22 08:59 UTC",
-  "checked_at_ist": "22 Oct 2026, 02:29 PM IST",
-  "archive_entries": 651,
+  "checked_at_utc": "2026-10-22 09:57 UTC",
+  "checked_at_ist": "22 Oct 2026, 03:27 PM IST",
+  "archive_entries": 652,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "TensorFlow Playground: watch a neural network learn in your browser",
+      "url": "https://aicon-hub.github.io/posts/tensorflow-playground-neural-network-learn-browser-free-guide.html"
+    },
     {
       "title": "Machine Learning for Kids: train a real AI model in your browser, free",
       "url": "https://aicon-hub.github.io/posts/machine-learning-for-kids-train-ai-models-browser-free-scratch-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Oppia: free story-style maths and science lessons in your browser",
       "url": "https://aicon-hub.github.io/posts/oppia-free-interactive-maths-science-lessons-story-hindi-browser-guide.html"
-    },
-    {
-      "title": "MolView: sketch molecules and see them in 3D, free in your browser",
-      "url": "https://aicon-hub.github.io/posts/molview-free-browser-chemistry-sketcher-3d-molecules-no-signup-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 124
+        "count": 131
       }
     ],
     "commits": [
       {
-        "sha": "c18f8fc0b368de94909ff67ba2d847291f635ce7",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c18f8fc0b368de94909ff67ba2d847291f635ce7",
-        "date_utc": "22 Oct 2026, 08:50 UTC",
+        "sha": "45fae68e868bf989b3cdd95d69f9acb1d9960722",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/45fae68e868bf989b3cdd95d69f9acb1d9960722",
+        "date_utc": "22 Oct 2026, 09:44 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "f12baea2f464619bda8aaa1ee1e71f4d69f0a98c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f12baea2f464619bda8aaa1ee1e71f4d69f0a98c",
-        "date_utc": "22 Oct 2026, 08:50 UTC",
+        "sha": "08bdae099eefe5993dc12cd0265d4674ec876014",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/08bdae099eefe5993dc12cd0265d4674ec876014",
+        "date_utc": "22 Oct 2026, 09:44 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "943fcb1c1ad9c219615db143369d3323f6ffcb3e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/943fcb1c1ad9c219615db143369d3323f6ffcb3e",
-        "date_utc": "22 Oct 2026, 08:50 UTC",
+        "sha": "272c786b0dd2922e59d93b59ff3fc25f4ceddad4",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/272c786b0dd2922e59d93b59ff3fc25f4ceddad4",
+        "date_utc": "22 Oct 2026, 09:44 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "c3135b1e66e350a11433e9833a47553c443b8b8c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c3135b1e66e350a11433e9833a47553c443b8b8c",
-        "date_utc": "22 Oct 2026, 08:47 UTC",
-        "day": "2026-10-22",
-        "title": "Update machine-learning-for-kids-train-ai-models-browser-free-scratch-guide.html"
-      },
-      {
-        "sha": "da65f5615494df68cdb4a0f3bb5bf6bbe3a9aca3",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/da65f5615494df68cdb4a0f3bb5bf6bbe3a9aca3",
-        "date_utc": "22 Oct 2026, 08:47 UTC",
+        "sha": "c1c50f9e2c0db2ea4caff2620e80fa4229a9f9df",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c1c50f9e2c0db2ea4caff2620e80fa4229a9f9df",
+        "date_utc": "22 Oct 2026, 09:42 UTC",
         "day": "2026-10-22",
         "title": "Update index.html"
+      },
+      {
+        "sha": "d74e1038a6c1c997d48bc0e2a06f89899ca253ca",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d74e1038a6c1c997d48bc0e2a06f89899ca253ca",
+        "date_utc": "22 Oct 2026, 09:40 UTC",
+        "day": "2026-10-22",
+        "title": "Add new posts to index.html"
       }
     ],
-    "commit_total": 2806,
+    "commit_total": 2813,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-22",
         "level": 2,
-        "count": 61
+        "count": 65
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

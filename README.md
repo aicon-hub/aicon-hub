@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 02:29 PM IST** (2026-10-22 08:59 UTC).
+Checked **22 Oct 2026, 03:27 PM IST** (2026-10-22 09:57 UTC).
 
-**651 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**652 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 02:29 PM IST** (2026-10-22 08:59 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2806 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2813 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`c18f8fc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c18f8fc0b368de94909ff67ba2d847291f635ce7) · 22 Oct 2026, 08:50 UTC · Record Telegram publishing state
-- [`f12baea`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f12baea2f464619bda8aaa1ee1e71f4d69f0a98c) · 22 Oct 2026, 08:50 UTC · Record Telegram publishing state
-- [`943fcb1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/943fcb1c1ad9c219615db143369d3323f6ffcb3e) · 22 Oct 2026, 08:50 UTC · Record Telegram publishing state
-- [`c3135b1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c3135b1e66e350a11433e9833a47553c443b8b8c) · 22 Oct 2026, 08:47 UTC · Update machine-learning-for-kids-train-ai-models-browser-free-scratch-guide.html
-- [`da65f56`](https://github.com/aicon-hub/aicon-hub.github.io/commit/da65f5615494df68cdb4a0f3bb5bf6bbe3a9aca3) · 22 Oct 2026, 08:47 UTC · Update index.html
+- [`45fae68`](https://github.com/aicon-hub/aicon-hub.github.io/commit/45fae68e868bf989b3cdd95d69f9acb1d9960722) · 22 Oct 2026, 09:44 UTC · Record Telegram publishing state
+- [`08bdae0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/08bdae099eefe5993dc12cd0265d4674ec876014) · 22 Oct 2026, 09:44 UTC · Record Telegram publishing state
+- [`272c786`](https://github.com/aicon-hub/aicon-hub.github.io/commit/272c786b0dd2922e59d93b59ff3fc25f4ceddad4) · 22 Oct 2026, 09:44 UTC · Record Telegram publishing state
+- [`c1c50f9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c1c50f9e2c0db2ea4caff2620e80fa4229a9f9df) · 22 Oct 2026, 09:42 UTC · Update index.html
+- [`d74e103`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d74e1038a6c1c997d48bc0e2a06f89899ca253ca) · 22 Oct 2026, 09:40 UTC · Add new posts to index.html
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [TensorFlow Playground: watch a neural network learn in your browser](https://aicon-hub.github.io/posts/tensorflow-playground-neural-network-learn-browser-free-guide.html)
 - [Machine Learning for Kids: train a real AI model in your browser, free](https://aicon-hub.github.io/posts/machine-learning-for-kids-train-ai-models-browser-free-scratch-guide.html)
 - [Instructables: 135,000+ free step-by-step DIY project guides](https://aicon-hub.github.io/posts/instructables-free-diy-projects-step-by-step-guides-makers-guide.html)
-- [Musopen: free classical music and sheet music from a nonprofit](https://aicon-hub.github.io/posts/musopen-free-classical-music-recordings-sheet-music-nonprofit-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
