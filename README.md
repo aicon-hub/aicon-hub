@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 07:24 AM IST** (2026-10-22 01:54 UTC).
+Checked **22 Oct 2026, 08:25 AM IST** (2026-10-22 02:55 UTC).
 
-**638 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**644 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 07:24 AM IST** (2026-10-22 01:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2695 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2719 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`b78c730`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b78c7308826b910e7b9f8cc728e0e059cf2c44ff) · 22 Oct 2026, 01:41 UTC · Enhance error handling and permissions verification
-- [`e78cdc2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e78cdc204b163c225142a79c018897bcab58f6d1) · 22 Oct 2026, 01:38 UTC · Record Telegram publishing state
-- [`f749f5c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f749f5c1800f7021607327155f9824fe102d7606) · 22 Oct 2026, 01:38 UTC · Record Telegram publishing state
-- [`54be640`](https://github.com/aicon-hub/aicon-hub.github.io/commit/54be6400b529a1e904f528c2bc663f7519dea053) · 22 Oct 2026, 01:38 UTC · Record Telegram publishing state
-- [`85bad33`](https://github.com/aicon-hub/aicon-hub.github.io/commit/85bad333946a55feb9959ea0be86b92266049066) · 22 Oct 2026, 01:36 UTC · Add official Bloom screenshots and demo video to guide
+- [`d571488`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d5714888ad5be13b2dbe9fb4b5b5cfa85fc3f5fc) · 22 Oct 2026, 02:53 UTC · Update ghostesp-esp32-wireless-security-learning-own-devices-guide.html
+- [`62e782c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/62e782cb3cfebd8ecd6a35ce6c76f9216f17350a) · 22 Oct 2026, 02:52 UTC · Update official-remote-media.json
+- [`32a8fae`](https://github.com/aicon-hub/aicon-hub.github.io/commit/32a8fae530e4bde4dc672e928a26c6611be6cf32) · 22 Oct 2026, 02:47 UTC · Record Telegram publishing state
+- [`42479b9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/42479b980e48b163cc43b27573a4d2e7048fdad1) · 22 Oct 2026, 02:47 UTC · Record Telegram publishing state
+- [`cd1aa7d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/cd1aa7d3b783edb761d0cf13555e9807b695bfd6) · 22 Oct 2026, 02:47 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
-- [Bloom: free Dynamic Island notch and dock for Windows (check this first)](https://aicon-hub.github.io/posts/bloom-windows-dynamic-island-dock-free-open-source-guide.html)
-- [Ezgif: free online GIF maker and editor, no sign-up](https://aicon-hub.github.io/posts/ezgif-free-online-gif-maker-editor-no-signup-guide.html)
-- [Thevannoor Hackathon 2026: Rs 3.5 lakh prizes for school and polytechnic students](https://aicon-hub.github.io/posts/thevannoor-hackathon-2026-scms-school-polytechnic-students-guide.html)
+- [Stirling PDF: 50+ free PDF tools you can run yourself](https://aicon-hub.github.io/posts/stirling-pdf-free-open-source-50-tools-offline-guide.html)
+- [Supabase: Postgres backend with a genuinely usable free tier](https://aicon-hub.github.io/posts/supabase-free-postgres-backend-auth-storage-guide.html)
+- [OpenHands: free, open-source AI coding agents you control](https://aicon-hub.github.io/posts/openhands-free-open-source-ai-coding-agent-self-host-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---

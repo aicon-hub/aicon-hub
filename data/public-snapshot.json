@@ -1,30 +1,30 @@
 {
-  "checked_at_utc": "2026-10-22 01:54 UTC",
-  "checked_at_ist": "22 Oct 2026, 07:24 AM IST",
-  "archive_entries": 638,
+  "checked_at_utc": "2026-10-22 02:55 UTC",
+  "checked_at_ist": "22 Oct 2026, 08:25 AM IST",
+  "archive_entries": 644,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
     {
-      "title": "Bloom: free Dynamic Island notch and dock for Windows (check this first)",
-      "url": "https://aicon-hub.github.io/posts/bloom-windows-dynamic-island-dock-free-open-source-guide.html"
+      "title": "Stirling PDF: 50+ free PDF tools you can run yourself",
+      "url": "https://aicon-hub.github.io/posts/stirling-pdf-free-open-source-50-tools-offline-guide.html"
     },
     {
-      "title": "Ezgif: free online GIF maker and editor, no sign-up",
-      "url": "https://aicon-hub.github.io/posts/ezgif-free-online-gif-maker-editor-no-signup-guide.html"
+      "title": "Supabase: Postgres backend with a genuinely usable free tier",
+      "url": "https://aicon-hub.github.io/posts/supabase-free-postgres-backend-auth-storage-guide.html"
     },
     {
-      "title": "Thevannoor Hackathon 2026: Rs 3.5 lakh prizes for school and polytechnic students",
-      "url": "https://aicon-hub.github.io/posts/thevannoor-hackathon-2026-scms-school-polytechnic-students-guide.html"
+      "title": "OpenHands: free, open-source AI coding agents you control",
+      "url": "https://aicon-hub.github.io/posts/openhands-free-open-source-ai-coding-agent-self-host-guide.html"
     },
     {
-      "title": "VYUHAM'26: DUK national fest dates, fees and prize pools",
-      "url": "https://aicon-hub.github.io/posts/vyuham-26-duk-fest-dates-fees-prize-pools-registration-guide.html"
+      "title": "GhostESP: learn wireless security on a cheap ESP32 board",
+      "url": "https://aicon-hub.github.io/posts/ghostesp-esp32-wireless-security-learning-own-devices-guide.html"
     },
     {
-      "title": "Stellarium Web: free online planetarium in your browser",
-      "url": "https://aicon-hub.github.io/posts/stellarium-web-free-online-planetarium-night-sky-guide.html"
+      "title": "Coolify: free, open-source hosting platform for your own server",
+      "url": "https://aicon-hub.github.io/posts/coolify-free-self-hosted-paas-deploy-apps-databases-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 13
+        "count": 37
       }
     ],
     "commits": [
       {
-        "sha": "b78c7308826b910e7b9f8cc728e0e059cf2c44ff",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b78c7308826b910e7b9f8cc728e0e059cf2c44ff",
-        "date_utc": "22 Oct 2026, 01:41 UTC",
+        "sha": "d5714888ad5be13b2dbe9fb4b5b5cfa85fc3f5fc",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d5714888ad5be13b2dbe9fb4b5b5cfa85fc3f5fc",
+        "date_utc": "22 Oct 2026, 02:53 UTC",
         "day": "2026-10-22",
-        "title": "Enhance error handling and permissions verification"
+        "title": "Update ghostesp-esp32-wireless-security-learning-own-devices-guide.html"
       },
       {
-        "sha": "e78cdc204b163c225142a79c018897bcab58f6d1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e78cdc204b163c225142a79c018897bcab58f6d1",
-        "date_utc": "22 Oct 2026, 01:38 UTC",
+        "sha": "62e782cb3cfebd8ecd6a35ce6c76f9216f17350a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/62e782cb3cfebd8ecd6a35ce6c76f9216f17350a",
+        "date_utc": "22 Oct 2026, 02:52 UTC",
+        "day": "2026-10-22",
+        "title": "Update official-remote-media.json"
+      },
+      {
+        "sha": "32a8fae530e4bde4dc672e928a26c6611be6cf32",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/32a8fae530e4bde4dc672e928a26c6611be6cf32",
+        "date_utc": "22 Oct 2026, 02:47 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "f749f5c1800f7021607327155f9824fe102d7606",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f749f5c1800f7021607327155f9824fe102d7606",
-        "date_utc": "22 Oct 2026, 01:38 UTC",
+        "sha": "42479b980e48b163cc43b27573a4d2e7048fdad1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/42479b980e48b163cc43b27573a4d2e7048fdad1",
+        "date_utc": "22 Oct 2026, 02:47 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "54be6400b529a1e904f528c2bc663f7519dea053",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/54be6400b529a1e904f528c2bc663f7519dea053",
-        "date_utc": "22 Oct 2026, 01:38 UTC",
+        "sha": "cd1aa7d3b783edb761d0cf13555e9807b695bfd6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cd1aa7d3b783edb761d0cf13555e9807b695bfd6",
+        "date_utc": "22 Oct 2026, 02:47 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "85bad333946a55feb9959ea0be86b92266049066",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/85bad333946a55feb9959ea0be86b92266049066",
-        "date_utc": "22 Oct 2026, 01:36 UTC",
-        "day": "2026-10-22",
-        "title": "Add official Bloom screenshots and demo video to guide"
       }
     ],
-    "commit_total": 2695,
+    "commit_total": 2719,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-22",
         "level": 1,
-        "count": 9
+        "count": 21
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
