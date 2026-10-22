@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 02:24 AM IST** (2026-10-22 20:54 UTC).
+Checked **23 Oct 2026, 03:23 AM IST** (2026-10-22 21:53 UTC).
 
 **659 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 02:24 AM IST** (2026-10-22 20:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2993 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3000 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`db81067`](https://github.com/aicon-hub/aicon-hub.github.io/commit/db810678ca069e87d328ee93f020fa912ac58d81) · 22 Oct 2026, 20:50 UTC · Add source-checked official media for archive articles
-- [`d58a1b0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d58a1b0efc909554231c35d06f15ea36b4ad6402) · 22 Oct 2026, 20:49 UTC · Add source-checked official media for exercism
-- [`f1db88b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f1db88b4d0a2ba49aae58a8f2494a7c7af231ecb) · 22 Oct 2026, 20:49 UTC · Add source-checked official media for calibre
-- [`15b949b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/15b949b488bffc5bfec5a49e7df907fee89cbcdf) · 22 Oct 2026, 20:38 UTC · Add source-checked official media for battle
-- [`d47c812`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d47c81279b44fccdd64da5b887d8c26fbaa1260e) · 22 Oct 2026, 20:23 UTC · Add source-checked official media for archive articles
+- [`b7a0f77`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b7a0f771c178c6d9c5515871f54ef559917850bd) · 22 Oct 2026, 21:05 UTC · Add source-checked official media for fossify
+- [`fb40434`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fb404349dd21f07159760aa15394f49c78816256) · 22 Oct 2026, 21:04 UTC · Add source-checked official media for f
+- [`72a6b1e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/72a6b1e80928de040a8301cada6a9430bef76778) · 22 Oct 2026, 21:04 UTC · Add source-checked official media for loop
+- [`2025137`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2025137629b67e69abeb62fdbd9fef21fb6f633d) · 22 Oct 2026, 21:00 UTC · Add source-checked official media for archive articles
+- [`dad5df7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/dad5df7326c9e2748217a6acfd852ae78d796dae) · 22 Oct 2026, 21:00 UTC · Add source-checked official media for fossify
 <!-- AICON:COMMITS:END -->
 
 </details>
