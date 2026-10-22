@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-22 07:12 UTC",
-  "checked_at_ist": "22 Oct 2026, 12:42 PM IST",
+  "checked_at_utc": "2026-10-22 08:02 UTC",
+  "checked_at_ist": "22 Oct 2026, 01:32 PM IST",
   "archive_entries": 650,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Instructables: 135,000+ free step-by-step DIY project guides",
+      "url": "https://aicon-hub.github.io/posts/instructables-free-diy-projects-step-by-step-guides-makers-guide.html"
+    },
     {
       "title": "Musopen: free classical music and sheet music from a nonprofit",
       "url": "https://aicon-hub.github.io/posts/musopen-free-classical-music-recordings-sheet-music-nonprofit-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "DAREBEE: 2,821 free home workouts, no ads and no sign-up",
       "url": "https://aicon-hub.github.io/posts/darebee-free-ad-free-home-workouts-no-signup-2821-guide.html"
-    },
-    {
-      "title": "Stirling PDF: 50+ free PDF tools you can run yourself",
-      "url": "https://aicon-hub.github.io/posts/stirling-pdf-free-open-source-50-tools-offline-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 94
+        "count": 114
       }
     ],
     "commits": [
       {
-        "sha": "84c1aa071f9a0d5a13792a9fabcc60bee9a3b150",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/84c1aa071f9a0d5a13792a9fabcc60bee9a3b150",
-        "date_utc": "22 Oct 2026, 07:08 UTC",
+        "sha": "74f8f8c68ed94dd367c7d212909e774bfb27418b",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/74f8f8c68ed94dd367c7d212909e774bfb27418b",
+        "date_utc": "22 Oct 2026, 07:59 UTC",
         "day": "2026-10-22",
-        "title": "Add Concentrix Scholarship 2026-27 card"
+        "title": "Delete posts/concentrix-scholarship-2026-27-mbbs-women-government-college-guide.html"
       },
       {
-        "sha": "e91d84c2185eb3c9fef29cfb7326b9d3e41b742c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e91d84c2185eb3c9fef29cfb7326b9d3e41b742c",
-        "date_utc": "22 Oct 2026, 07:06 UTC",
-        "day": "2026-10-22",
-        "title": "Add Concentrix Scholarship 2026-27 guide (women MBBS, Rs 65,000/yr)"
-      },
-      {
-        "sha": "6182e00989183ee21977a96609b856df9c8b2a4e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6182e00989183ee21977a96609b856df9c8b2a4e",
-        "date_utc": "22 Oct 2026, 06:49 UTC",
+        "sha": "5a460d4f2c1865537f305b494b091e798e496057",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5a460d4f2c1865537f305b494b091e798e496057",
+        "date_utc": "22 Oct 2026, 07:59 UTC",
         "day": "2026-10-22",
         "title": "Update official-remote-media.json"
       },
       {
-        "sha": "b4b9035d611a4aec1076144285eb98b9ac472e78",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b4b9035d611a4aec1076144285eb98b9ac472e78",
-        "date_utc": "22 Oct 2026, 06:47 UTC",
+        "sha": "8effcbfd4e653c285fbeef92f92b31fa9684c913",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8effcbfd4e653c285fbeef92f92b31fa9684c913",
+        "date_utc": "22 Oct 2026, 07:58 UTC",
         "day": "2026-10-22",
-        "title": "Record Telegram publishing state"
+        "title": "Update index.html"
       },
       {
-        "sha": "7c88e2dbb9284faaf74ee55065acf3df52648456",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7c88e2dbb9284faaf74ee55065acf3df52648456",
-        "date_utc": "22 Oct 2026, 06:47 UTC",
+        "sha": "9d5f35c6d2f7096932343689d4d4398651482a0d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9d5f35c6d2f7096932343689d4d4398651482a0d",
+        "date_utc": "22 Oct 2026, 07:55 UTC",
+        "day": "2026-10-22",
+        "title": "Update concentrix-scholarship-2026-27-mbbs-women-government-college-guide.html"
+      },
+      {
+        "sha": "800adf4226c04bf0c30e4048dcd2a802a70bff12",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/800adf4226c04bf0c30e4048dcd2a802a70bff12",
+        "date_utc": "22 Oct 2026, 07:49 UTC",
         "day": "2026-10-22",
         "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 2776,
+    "commit_total": 2796,
     "calendar": [
       {
         "date": "2026-07-24",
@@ -584,8 +584,8 @@
       },
       {
         "date": "2026-10-22",
-        "level": 1,
-        "count": 43
+        "level": 2,
+        "count": 55
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

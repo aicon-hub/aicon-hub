@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **22 Oct 2026, 12:42 PM IST** (2026-10-22 07:12 UTC).
+Checked **22 Oct 2026, 01:32 PM IST** (2026-10-22 08:02 UTC).
 
 **650 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **22 Oct 2026, 12:42 PM IST** (2026-10-22 07:12 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2776 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2796 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`84c1aa0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/84c1aa071f9a0d5a13792a9fabcc60bee9a3b150) · 22 Oct 2026, 07:08 UTC · Add Concentrix Scholarship 2026-27 card
-- [`e91d84c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e91d84c2185eb3c9fef29cfb7326b9d3e41b742c) · 22 Oct 2026, 07:06 UTC · Add Concentrix Scholarship 2026-27 guide (women MBBS, Rs 65,000/yr)
-- [`6182e00`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6182e00989183ee21977a96609b856df9c8b2a4e) · 22 Oct 2026, 06:49 UTC · Update official-remote-media.json
-- [`b4b9035`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b4b9035d611a4aec1076144285eb98b9ac472e78) · 22 Oct 2026, 06:47 UTC · Record Telegram publishing state
-- [`7c88e2d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7c88e2dbb9284faaf74ee55065acf3df52648456) · 22 Oct 2026, 06:47 UTC · Record Telegram publishing state
+- [`74f8f8c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/74f8f8c68ed94dd367c7d212909e774bfb27418b) · 22 Oct 2026, 07:59 UTC · Delete posts/concentrix-scholarship-2026-27-mbbs-women-government-college-guide.html
+- [`5a460d4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5a460d4f2c1865537f305b494b091e798e496057) · 22 Oct 2026, 07:59 UTC · Update official-remote-media.json
+- [`8effcbf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8effcbfd4e653c285fbeef92f92b31fa9684c913) · 22 Oct 2026, 07:58 UTC · Update index.html
+- [`9d5f35c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9d5f35c6d2f7096932343689d4d4398651482a0d) · 22 Oct 2026, 07:55 UTC · Update concentrix-scholarship-2026-27-mbbs-women-government-college-guide.html
+- [`800adf4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/800adf4226c04bf0c30e4048dcd2a802a70bff12) · 22 Oct 2026, 07:49 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Instructables: 135,000+ free step-by-step DIY project guides](https://aicon-hub.github.io/posts/instructables-free-diy-projects-step-by-step-guides-makers-guide.html)
 - [Musopen: free classical music and sheet music from a nonprofit](https://aicon-hub.github.io/posts/musopen-free-classical-music-recordings-sheet-music-nonprofit-guide.html)
 - [Oppia: free story-style maths and science lessons in your browser](https://aicon-hub.github.io/posts/oppia-free-interactive-maths-science-lessons-story-hindi-browser-guide.html)
-- [MolView: sketch molecules and see them in 3D, free in your browser](https://aicon-hub.github.io/posts/molview-free-browser-chemistry-sketcher-3d-molecules-no-signup-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
