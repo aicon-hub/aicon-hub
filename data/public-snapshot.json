@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-10-22 19:54 UTC",
-  "checked_at_ist": "23 Oct 2026, 01:24 AM IST",
+  "checked_at_utc": "2026-10-22 20:54 UTC",
+  "checked_at_ist": "23 Oct 2026, 02:24 AM IST",
   "archive_entries": 659,
   "homepage_status": 200,
   "stars": 1,
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-22",
-        "count": 300
+        "count": 311
       }
     ],
     "commits": [
       {
-        "sha": "6c7c6ff3c97b74c18edf12f99324b5a5da6da42d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6c7c6ff3c97b74c18edf12f99324b5a5da6da42d",
-        "date_utc": "22 Oct 2026, 19:48 UTC",
+        "sha": "db810678ca069e87d328ee93f020fa912ac58d81",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/db810678ca069e87d328ee93f020fa912ac58d81",
+        "date_utc": "22 Oct 2026, 20:50 UTC",
         "day": "2026-10-22",
         "title": "Add source-checked official media for archive articles"
       },
       {
-        "sha": "f4e878bc6cfea049309d05f6073abf730ee12e37",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f4e878bc6cfea049309d05f6073abf730ee12e37",
-        "date_utc": "22 Oct 2026, 19:48 UTC",
+        "sha": "d58a1b0efc909554231c35d06f15ea36b4ad6402",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d58a1b0efc909554231c35d06f15ea36b4ad6402",
+        "date_utc": "22 Oct 2026, 20:49 UTC",
         "day": "2026-10-22",
-        "title": "Add source-checked official media for anki"
+        "title": "Add source-checked official media for exercism"
       },
       {
-        "sha": "d510169afc81598e4c5f4fc7a002cdf41ada8771",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d510169afc81598e4c5f4fc7a002cdf41ada8771",
-        "date_utc": "22 Oct 2026, 19:39 UTC",
+        "sha": "f1db88b4d0a2ba49aae58a8f2494a7c7af231ecb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f1db88b4d0a2ba49aae58a8f2494a7c7af231ecb",
+        "date_utc": "22 Oct 2026, 20:49 UTC",
+        "day": "2026-10-22",
+        "title": "Add source-checked official media for calibre"
+      },
+      {
+        "sha": "15b949b488bffc5bfec5a49e7df907fee89cbcdf",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/15b949b488bffc5bfec5a49e7df907fee89cbcdf",
+        "date_utc": "22 Oct 2026, 20:38 UTC",
+        "day": "2026-10-22",
+        "title": "Add source-checked official media for battle"
+      },
+      {
+        "sha": "d47c81279b44fccdd64da5b887d8c26fbaa1260e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d47c81279b44fccdd64da5b887d8c26fbaa1260e",
+        "date_utc": "22 Oct 2026, 20:23 UTC",
         "day": "2026-10-22",
         "title": "Add source-checked official media for archive articles"
-      },
-      {
-        "sha": "010a276569aa6a23b43b66e61e06cb10bbfaa3be",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/010a276569aa6a23b43b66e61e06cb10bbfaa3be",
-        "date_utc": "22 Oct 2026, 19:34 UTC",
-        "day": "2026-10-22",
-        "title": "Add source-checked official media for archive articles"
-      },
-      {
-        "sha": "0893e250b100fefd9a824c01bbc75c9699a4f953",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0893e250b100fefd9a824c01bbc75c9699a4f953",
-        "date_utc": "22 Oct 2026, 19:34 UTC",
-        "day": "2026-10-22",
-        "title": "Add source-checked official media for freecad"
       }
     ],
-    "commit_total": 2982,
+    "commit_total": 2993,
     "calendar": [
       {
         "date": "2026-07-24",
