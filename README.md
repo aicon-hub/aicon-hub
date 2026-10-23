@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 04:22 PM IST** (2026-10-23 10:52 UTC).
+Checked **23 Oct 2026, 05:24 PM IST** (2026-10-23 11:54 UTC).
 
 **666 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 04:22 PM IST** (2026-10-23 10:52 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2895 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2902 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`ceaca19`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ceaca19db1cb343ab8cd65fa784100f816c886d0) · 23 Oct 2026, 10:31 UTC · Add new scholarship and tool listings to index.html
-- [`f560fc7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f560fc7148297498e090f296badd9b064cfc4d31) · 23 Oct 2026, 10:30 UTC · Replace PNG images with SVG versions in guide
-- [`8773d82`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8773d825ec02c95d7d4b64077128727e63715a81) · 23 Oct 2026, 10:29 UTC · Create kswcfc-coaching-step-02.svg
-- [`8df919b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8df919b64f7e264587f871dda550802dafa027ab) · 23 Oct 2026, 10:27 UTC · Create kswcfc-coaching-step-01.svg
-- [`bfa8091`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bfa80912b9dde643b6ced2f12f455c8fdc37b65f) · 23 Oct 2026, 10:16 UTC · Fix deadline weekday to Saturday 7 November 2026
+- [`5cbd201`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5cbd201337b65ae2f71e123204a25e1cabc17fff) · 23 Oct 2026, 11:53 UTC · Update index.html
+- [`a8e0f8b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a8e0f8b231a34d5683a3c27fd588438974138960) · 23 Oct 2026, 11:52 UTC · Update remote\_media.py
+- [`3c8672c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3c8672c88c0c82d59a4bc307092dd70708beca4d) · 23 Oct 2026, 11:42 UTC · Update index.html
+- [`8f6bdb0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8f6bdb06cbb3535b41c9d9b10afeb04e14201c59) · 23 Oct 2026, 11:33 UTC · Update index.html
+- [`4080fb6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4080fb60fa64bd9c8558d3ded1e006fe048d82ba) · 23 Oct 2026, 11:27 UTC · Update eddie-ai-video-editing-credits-guide.html
 <!-- AICON:COMMITS:END -->
 
 </details>
