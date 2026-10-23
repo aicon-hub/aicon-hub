@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 05:17 AM IST** (2026-10-22 23:47 UTC).
+Checked **23 Oct 2026, 06:39 AM IST** (2026-10-23 01:09 UTC).
 
-**659 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**661 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 05:17 AM IST** (2026-10-22 23:47 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3004 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2808 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`a3029f1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a3029f145e21d4174c34931856f253b16edc6a64) · 22 Oct 2026, 23:47 UTC · Add new posts and update search form in index.html
-- [`8017210`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8017210e2106d6b824aceb8033c44458a7a3ab37) · 22 Oct 2026, 23:47 UTC · Add CloudConvert file converter to remote media
-- [`5bea5d2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5bea5d2a9e21cbe882c6ad0bbfaf62c3fd86a682) · 22 Oct 2026, 23:46 UTC · Add files via upload
-- [`e24c4fd`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e24c4fda8a50f1b441404cb28078e286e6a1375f) · 22 Oct 2026, 23:46 UTC · Create cloudconvert-free-file-converter-200-formats-guide.html
-- [`b7a0f77`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b7a0f771c178c6d9c5515871f54ef559917850bd) · 22 Oct 2026, 21:05 UTC · Add source-checked official media for fossify
+- [`2165477`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2165477897b31237d41af38006f4baf72899f8b2) · 23 Oct 2026, 00:47 UTC · Record Telegram publishing state
+- [`32b146c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/32b146cacbe623d726f75c2af8ed7a2d6b76d23a) · 23 Oct 2026, 00:47 UTC · Record Telegram publishing state
+- [`d7fd109`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d7fd10917a73e2e2a434659238649b8e6e2f3562) · 23 Oct 2026, 00:47 UTC · Record Telegram publishing state
+- [`1b68317`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1b68317033d151b0e4040d35b080554586bc205f) · 23 Oct 2026, 00:45 UTC · Add files via upload
+- [`c185f14`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c185f14b415eaa6678d3212b7c8624711edccfc2) · 23 Oct 2026, 00:44 UTC · Add new posts to the index.html
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Rallly: pick a group meeting time with one link, no sign-up](https://aicon-hub.github.io/posts/rallly-free-group-scheduling-polls-no-signup-guide.html)
+- [CloudConvert: convert files free in the browser, no app needed](https://aicon-hub.github.io/posts/cloudconvert-free-file-converter-200-formats-guide.html)
 - [TTSMaker: free text to speech in Malayalam, Hindi and 77 more languages](https://aicon-hub.github.io/posts/ttsmaker-free-text-to-speech-indian-languages-guide.html)
-- [Windy.com: free animated weather forecasts and rain radar for India](https://aicon-hub.github.io/posts/windy-com-free-weather-maps-radar-india.html)
-- [Kerala AEDP apprenticeship: reported Rs 10,900 a month stipend, official rollout notice not yet verified](https://aicon-hub.github.io/posts/kerala-aedp-apprenticeship-embedded-degree-programme-rs-10900-stipend-announced-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---

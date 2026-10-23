@@ -1,11 +1,19 @@
 {
-  "checked_at_utc": "2026-10-22 23:47 UTC",
-  "checked_at_ist": "23 Oct 2026, 05:17 AM IST",
-  "archive_entries": 659,
+  "checked_at_utc": "2026-10-23 01:09 UTC",
+  "checked_at_ist": "23 Oct 2026, 06:39 AM IST",
+  "archive_entries": 661,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Rallly: pick a group meeting time with one link, no sign-up",
+      "url": "https://aicon-hub.github.io/posts/rallly-free-group-scheduling-polls-no-signup-guide.html"
+    },
+    {
+      "title": "CloudConvert: convert files free in the browser, no app needed",
+      "url": "https://aicon-hub.github.io/posts/cloudconvert-free-file-converter-200-formats-guide.html"
+    },
     {
       "title": "TTSMaker: free text to speech in Malayalam, Hindi and 77 more languages",
       "url": "https://aicon-hub.github.io/posts/ttsmaker-free-text-to-speech-indian-languages-guide.html"
@@ -17,14 +25,6 @@
     {
       "title": "Kerala AEDP apprenticeship: reported Rs 10,900 a month stipend, official rollout notice not yet verified",
       "url": "https://aicon-hub.github.io/posts/kerala-aedp-apprenticeship-embedded-degree-programme-rs-10900-stipend-announced-guide.html"
-    },
-    {
-      "title": "Muskaan Scholarship 2026-27: up to Rs 12,000 for Classes 9 to 12, apply by 30 October",
-      "url": "https://aicon-hub.github.io/posts/muskaan-scholarship-2026-27-classes-9-12-rs-12000-apply-by-30-october-guide.html"
-    },
-    {
-      "title": "Flightradar24: watch flights live on a world map",
-      "url": "https://aicon-hub.github.io/posts/flightradar24-live-flight-tracker-free-map-guide.html"
     }
   ],
   "sources": [
@@ -36,10 +36,6 @@
   ],
   "activity": {
     "commit_days": [
-      {
-        "date": "2026-10-09",
-        "count": 205
-      },
       {
         "date": "2026-10-10",
         "count": 202
@@ -90,53 +86,52 @@
       },
       {
         "date": "2026-10-22",
-        "count": 322
+        "count": 325
+      },
+      {
+        "date": "2026-10-23",
+        "count": 6
       }
     ],
     "commits": [
       {
-        "sha": "a3029f145e21d4174c34931856f253b16edc6a64",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a3029f145e21d4174c34931856f253b16edc6a64",
-        "date_utc": "22 Oct 2026, 23:47 UTC",
-        "day": "2026-10-22",
-        "title": "Add new posts and update search form in index.html"
+        "sha": "2165477897b31237d41af38006f4baf72899f8b2",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2165477897b31237d41af38006f4baf72899f8b2",
+        "date_utc": "23 Oct 2026, 00:47 UTC",
+        "day": "2026-10-23",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "8017210e2106d6b824aceb8033c44458a7a3ab37",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8017210e2106d6b824aceb8033c44458a7a3ab37",
-        "date_utc": "22 Oct 2026, 23:47 UTC",
-        "day": "2026-10-22",
-        "title": "Add CloudConvert file converter to remote media"
+        "sha": "32b146cacbe623d726f75c2af8ed7a2d6b76d23a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/32b146cacbe623d726f75c2af8ed7a2d6b76d23a",
+        "date_utc": "23 Oct 2026, 00:47 UTC",
+        "day": "2026-10-23",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "5bea5d2a9e21cbe882c6ad0bbfaf62c3fd86a682",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5bea5d2a9e21cbe882c6ad0bbfaf62c3fd86a682",
-        "date_utc": "22 Oct 2026, 23:46 UTC",
-        "day": "2026-10-22",
+        "sha": "d7fd10917a73e2e2a434659238649b8e6e2f3562",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d7fd10917a73e2e2a434659238649b8e6e2f3562",
+        "date_utc": "23 Oct 2026, 00:47 UTC",
+        "day": "2026-10-23",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "1b68317033d151b0e4040d35b080554586bc205f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1b68317033d151b0e4040d35b080554586bc205f",
+        "date_utc": "23 Oct 2026, 00:45 UTC",
+        "day": "2026-10-23",
         "title": "Add files via upload"
       },
       {
-        "sha": "e24c4fda8a50f1b441404cb28078e286e6a1375f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e24c4fda8a50f1b441404cb28078e286e6a1375f",
-        "date_utc": "22 Oct 2026, 23:46 UTC",
-        "day": "2026-10-22",
-        "title": "Create cloudconvert-free-file-converter-200-formats-guide.html"
-      },
-      {
-        "sha": "b7a0f771c178c6d9c5515871f54ef559917850bd",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b7a0f771c178c6d9c5515871f54ef559917850bd",
-        "date_utc": "22 Oct 2026, 21:05 UTC",
-        "day": "2026-10-22",
-        "title": "Add source-checked official media for fossify"
+        "sha": "c185f14b415eaa6678d3212b7c8624711edccfc2",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c185f14b415eaa6678d3212b7c8624711edccfc2",
+        "date_utc": "23 Oct 2026, 00:44 UTC",
+        "day": "2026-10-23",
+        "title": "Add new posts to the index.html"
       }
     ],
-    "commit_total": 3004,
+    "commit_total": 2808,
     "calendar": [
-      {
-        "date": "2026-07-24",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2026-07-25",
         "level": 0,
@@ -586,6 +581,11 @@
         "date": "2026-10-22",
         "level": 3,
         "count": 122
+      },
+      {
+        "date": "2026-10-23",
+        "level": 1,
+        "count": 42
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
