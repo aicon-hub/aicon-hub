@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 09:26 AM IST** (2026-10-23 03:56 UTC).
+Checked **23 Oct 2026, 10:24 AM IST** (2026-10-23 04:54 UTC).
 
 **664 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 09:26 AM IST** (2026-10-23 03:56 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2857 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2858 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
+- [`0606e98`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0606e9820cccda25adda5b2a9a3e578084e51ce9) · 23 Oct 2026, 04:01 UTC · Rotate tg-reader certificate
 - [`53db9cc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/53db9cce41a36bc723612c8c19ab5eca3754b436) · 23 Oct 2026, 03:44 UTC · Record Telegram publishing state
 - [`b50cc88`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b50cc887687cfaa2d6bbee6b81cc756d03aa25aa) · 23 Oct 2026, 03:44 UTC · Record Telegram publishing state
 - [`f3ae6f6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f3ae6f6e22b39a7fb03121a6d2fbf55b0cd29d22) · 23 Oct 2026, 03:44 UTC · Record Telegram publishing state
 - [`9b8d337`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9b8d3374e576593cb0e5904640f66a645c99a9fb) · 23 Oct 2026, 03:43 UTC · Add multiple free tool listings to posts
-- [`3f9c96b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3f9c96bc2ccd568b283f78c38ee7d6f0c8aa3f7f) · 23 Oct 2026, 03:42 UTC · Add AQICN air quality index guide to JSON
 <!-- AICON:COMMITS:END -->
 
 </details>
