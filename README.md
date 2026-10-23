@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 09:27 PM IST** (2026-10-23 15:57 UTC).
+Checked **23 Oct 2026, 10:26 PM IST** (2026-10-23 16:56 UTC).
 
-**666 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**667 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 09:27 PM IST** (2026-10-23 15:57 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2945 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2973 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`729671c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/729671c74192ad7bfaf859db542e9029b758e09d) · 23 Oct 2026, 15:55 UTC · Update claude-fable-mythos-51-pricing-access-safeguards-guide.html
-- [`ca091a5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ca091a5ed352cf8edbaf266dcf187fbb81a11069) · 23 Oct 2026, 15:55 UTC · Update claude-cowork-web-mobile-cloud-guide.html
-- [`723956f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/723956f785fcddb44bf6d43c10c6b70d29b903ee) · 23 Oct 2026, 15:52 UTC · Revise ChatGPT site guide with updated OpenAI info
-- [`b5340e1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b5340e173bc3739511557ca757ed365a56dbe606) · 23 Oct 2026, 15:51 UTC · Update footer section in index.html
-- [`b5e45f0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b5e45f0cf801038d6e1576183ed32d15b80f1ebe) · 23 Oct 2026, 15:51 UTC · Update index.html by modifying AI web building entry
+- [`e34b0e7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e34b0e7e5747e3fa5ddc8e9d0b9e88d8bc473318) · 23 Oct 2026, 16:43 UTC · Update cpgrams-file-government-grievance-online.html
+- [`d669bf8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d669bf8448e4d55ca5cda5995699312b51d0e845) · 23 Oct 2026, 16:43 UTC · Update coolify-free-self-hosted-paas-deploy-apps-databases-guide.html
+- [`db9d7d5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/db9d7d5d94dd892c1fc39672a7fffffa7cd5f94c) · 23 Oct 2026, 16:42 UTC · Update remote\_media.py
+- [`7e7d1df`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7e7d1df45c1466a4e401af853dbd1466ba0946ee) · 23 Oct 2026, 16:33 UTC · Update constructor-ai-online-paid-access-print-safety-guide.html
+- [`7a5bc73`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7a5bc73fddb06482ebceb6ca4af053f9de50a87b) · 23 Oct 2026, 16:33 UTC · Update consensus-ai-research-search-free-limits.html
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Kerala PSC 151-161/2026: 11 notifications, apply by 4 November](https://aicon-hub.github.io/posts/kerala-psc-151-161-2026-november-4-deadline-guide.html)
 - [Vidyasamunnathi Coaching Assistance 2026-27: up to Rs 30,000 for exam coaching, Kerala, apply by 7 November 2026](https://aicon-hub.github.io/posts/vidyasamunnathi-coaching-assistance-2026-27-kerala-up-to-rs-30000-apply-by-7-november-guide.html)
 - [PM YASASVI School Scholarship 2026-27: up to Rs 1,25,000 a year, apply by 30 November](https://aicon-hub.github.io/posts/pm-yasasvi-school-scholarship-2026-27-obc-ebc-dnt-apply-by-30-november-guide.html)
-- [AQICN: check your city's live air quality before you step out](https://aicon-hub.github.io/posts/aqicn-free-live-air-quality-index-india-cities-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
