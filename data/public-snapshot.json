@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-23 08:57 UTC",
-  "checked_at_ist": "23 Oct 2026, 02:27 PM IST",
-  "archive_entries": 665,
+  "checked_at_utc": "2026-10-23 10:52 UTC",
+  "checked_at_ist": "23 Oct 2026, 04:22 PM IST",
+  "archive_entries": 666,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Vidyasamunnathi Coaching Assistance 2026-27: up to Rs 30,000 for exam coaching, Kerala, apply by 7 November 2026",
+      "url": "https://aicon-hub.github.io/posts/vidyasamunnathi-coaching-assistance-2026-27-kerala-up-to-rs-30000-apply-by-7-november-guide.html"
+    },
     {
       "title": "PM YASASVI School Scholarship 2026-27: up to Rs 1,25,000 a year, apply by 30 November",
       "url": "https://aicon-hub.github.io/posts/pm-yasasvi-school-scholarship-2026-27-obc-ebc-dnt-apply-by-30-november-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "IDPhoto4You: make ID photo print sheets free in the browser, no sign-up",
       "url": "https://aicon-hub.github.io/posts/idphoto4you-free-passport-photo-maker-guide.html"
-    },
-    {
-      "title": "Rallly: pick a group meeting time with one link, no sign-up",
-      "url": "https://aicon-hub.github.io/posts/rallly-free-group-scheduling-polls-no-signup-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-23",
-        "count": 87
+        "count": 93
       }
     ],
     "commits": [
       {
-        "sha": "2ea8b6f0ff8b573d0f308d67a9310f7c1f4b4a7d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2ea8b6f0ff8b573d0f308d67a9310f7c1f4b4a7d",
-        "date_utc": "23 Oct 2026, 07:38 UTC",
+        "sha": "ceaca19db1cb343ab8cd65fa784100f816c886d0",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ceaca19db1cb343ab8cd65fa784100f816c886d0",
+        "date_utc": "23 Oct 2026, 10:31 UTC",
         "day": "2026-10-23",
-        "title": "Record Telegram publishing state"
+        "title": "Add new scholarship and tool listings to index.html"
       },
       {
-        "sha": "2f94133b8b8683aa330d53410ef342f30da2a2ae",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2f94133b8b8683aa330d53410ef342f30da2a2ae",
-        "date_utc": "23 Oct 2026, 07:38 UTC",
+        "sha": "f560fc7148297498e090f296badd9b064cfc4d31",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f560fc7148297498e090f296badd9b064cfc4d31",
+        "date_utc": "23 Oct 2026, 10:30 UTC",
         "day": "2026-10-23",
-        "title": "Record Telegram publishing state"
+        "title": "Replace PNG images with SVG versions in guide"
       },
       {
-        "sha": "24080d8ff6097ecf21e19cbcee8b11a0d9e4ab29",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/24080d8ff6097ecf21e19cbcee8b11a0d9e4ab29",
-        "date_utc": "23 Oct 2026, 07:38 UTC",
+        "sha": "8773d825ec02c95d7d4b64077128727e63715a81",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8773d825ec02c95d7d4b64077128727e63715a81",
+        "date_utc": "23 Oct 2026, 10:29 UTC",
         "day": "2026-10-23",
-        "title": "Record Telegram publishing state"
+        "title": "Create kswcfc-coaching-step-02.svg"
       },
       {
-        "sha": "8ea80bc5446088a63007e7d851753fc96adf492f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8ea80bc5446088a63007e7d851753fc96adf492f",
-        "date_utc": "23 Oct 2026, 07:31 UTC",
+        "sha": "8df919b64f7e264587f871dda550802dafa027ab",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8df919b64f7e264587f871dda550802dafa027ab",
+        "date_utc": "23 Oct 2026, 10:27 UTC",
         "day": "2026-10-23",
-        "title": "Add PM YASASVI school scholarship index card"
+        "title": "Create kswcfc-coaching-step-01.svg"
       },
       {
-        "sha": "d5ee631001d1d04485c0d842607b34c7f94e4e5d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d5ee631001d1d04485c0d842607b34c7f94e4e5d",
-        "date_utc": "23 Oct 2026, 07:30 UTC",
+        "sha": "bfa80912b9dde643b6ced2f12f455c8fdc37b65f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bfa80912b9dde643b6ced2f12f455c8fdc37b65f",
+        "date_utc": "23 Oct 2026, 10:16 UTC",
         "day": "2026-10-23",
-        "title": "Create yasasvi-school-step-02.svg"
+        "title": "Fix deadline weekday to Saturday 7 November 2026"
       }
     ],
-    "commit_total": 2889,
+    "commit_total": 2895,
     "calendar": [
       {
         "date": "2026-07-25",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-23",
         "level": 2,
-        "count": 98
+        "count": 103
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
