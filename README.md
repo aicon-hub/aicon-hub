@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 08:25 AM IST** (2026-10-23 02:55 UTC).
+Checked **23 Oct 2026, 09:26 AM IST** (2026-10-23 03:56 UTC).
 
-**663 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**664 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 08:25 AM IST** (2026-10-23 02:55 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2846 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2857 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`e904b97`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e904b97cde8b24abfa5b032f83fbd35642cae1f4) · 23 Oct 2026, 02:51 UTC · Revise Notepad++ guide for version and security updates
-- [`7b34def`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7b34defdb41b3938f9ba7a94cfb5f90fa9163863) · 23 Oct 2026, 02:51 UTC · Update pricehistory-app-free-price-history-tracker-amazon-flipkart-guide.html
-- [`d5cfbc9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d5cfbc9ecb4cd1bd54fb31ed5a9f423bf73f9fcc) · 23 Oct 2026, 02:51 UTC · Revise Jellyfin guide with updated information and screenshot
-- [`79c181e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/79c181efa9f7b1cb0c3d7cd85a28de5b6a8a8e27) · 23 Oct 2026, 02:50 UTC · Add source-checked official media for joplin
-- [`3abc700`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3abc7000cf2be6e3a33285459722153ccc248f56) · 23 Oct 2026, 02:49 UTC · Record Telegram publishing state
+- [`53db9cc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/53db9cce41a36bc723612c8c19ab5eca3754b436) · 23 Oct 2026, 03:44 UTC · Record Telegram publishing state
+- [`b50cc88`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b50cc887687cfaa2d6bbee6b81cc756d03aa25aa) · 23 Oct 2026, 03:44 UTC · Record Telegram publishing state
+- [`f3ae6f6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f3ae6f6e22b39a7fb03121a6d2fbf55b0cd29d22) · 23 Oct 2026, 03:44 UTC · Record Telegram publishing state
+- [`9b8d337`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9b8d3374e576593cb0e5904640f66a645c99a9fb) · 23 Oct 2026, 03:43 UTC · Add multiple free tool listings to posts
+- [`3f9c96b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3f9c96bc2ccd568b283f78c38ee7d6f0c8aa3f7f) · 23 Oct 2026, 03:42 UTC · Add AQICN air quality index guide to JSON
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [AQICN: check your city's live air quality before you step out](https://aicon-hub.github.io/posts/aqicn-free-live-air-quality-index-india-cities-guide.html)
 - [PriceHistory: check a product's price history before you buy](https://aicon-hub.github.io/posts/pricehistory-app-free-price-history-tracker-amazon-flipkart-guide.html)
 - [IDPhoto4You: make ID photo print sheets free in the browser, no sign-up](https://aicon-hub.github.io/posts/idphoto4you-free-passport-photo-maker-guide.html)
-- [Rallly: pick a group meeting time with one link, no sign-up](https://aicon-hub.github.io/posts/rallly-free-group-scheduling-polls-no-signup-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---

@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-23 02:55 UTC",
-  "checked_at_ist": "23 Oct 2026, 08:25 AM IST",
-  "archive_entries": 663,
+  "checked_at_utc": "2026-10-23 03:56 UTC",
+  "checked_at_ist": "23 Oct 2026, 09:26 AM IST",
+  "archive_entries": 664,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "AQICN: check your city's live air quality before you step out",
+      "url": "https://aicon-hub.github.io/posts/aqicn-free-live-air-quality-index-india-cities-guide.html"
+    },
     {
       "title": "PriceHistory: check a product's price history before you buy",
       "url": "https://aicon-hub.github.io/posts/pricehistory-app-free-price-history-tracker-amazon-flipkart-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "CloudConvert: convert files free in the browser, no app needed",
       "url": "https://aicon-hub.github.io/posts/cloudconvert-free-file-converter-200-formats-guide.html"
-    },
-    {
-      "title": "TTSMaker: free text to speech in Malayalam, Hindi and 77 more languages",
-      "url": "https://aicon-hub.github.io/posts/ttsmaker-free-text-to-speech-indian-languages-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-23",
-        "count": 44
+        "count": 55
       }
     ],
     "commits": [
       {
-        "sha": "e904b97cde8b24abfa5b032f83fbd35642cae1f4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e904b97cde8b24abfa5b032f83fbd35642cae1f4",
-        "date_utc": "23 Oct 2026, 02:51 UTC",
-        "day": "2026-10-23",
-        "title": "Revise Notepad++ guide for version and security updates"
-      },
-      {
-        "sha": "7b34defdb41b3938f9ba7a94cfb5f90fa9163863",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7b34defdb41b3938f9ba7a94cfb5f90fa9163863",
-        "date_utc": "23 Oct 2026, 02:51 UTC",
-        "day": "2026-10-23",
-        "title": "Update pricehistory-app-free-price-history-tracker-amazon-flipkart-guide.html"
-      },
-      {
-        "sha": "d5cfbc9ecb4cd1bd54fb31ed5a9f423bf73f9fcc",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d5cfbc9ecb4cd1bd54fb31ed5a9f423bf73f9fcc",
-        "date_utc": "23 Oct 2026, 02:51 UTC",
-        "day": "2026-10-23",
-        "title": "Revise Jellyfin guide with updated information and screenshot"
-      },
-      {
-        "sha": "79c181efa9f7b1cb0c3d7cd85a28de5b6a8a8e27",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/79c181efa9f7b1cb0c3d7cd85a28de5b6a8a8e27",
-        "date_utc": "23 Oct 2026, 02:50 UTC",
-        "day": "2026-10-23",
-        "title": "Add source-checked official media for joplin"
-      },
-      {
-        "sha": "3abc7000cf2be6e3a33285459722153ccc248f56",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3abc7000cf2be6e3a33285459722153ccc248f56",
-        "date_utc": "23 Oct 2026, 02:49 UTC",
+        "sha": "53db9cce41a36bc723612c8c19ab5eca3754b436",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/53db9cce41a36bc723612c8c19ab5eca3754b436",
+        "date_utc": "23 Oct 2026, 03:44 UTC",
         "day": "2026-10-23",
         "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "b50cc887687cfaa2d6bbee6b81cc756d03aa25aa",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b50cc887687cfaa2d6bbee6b81cc756d03aa25aa",
+        "date_utc": "23 Oct 2026, 03:44 UTC",
+        "day": "2026-10-23",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "f3ae6f6e22b39a7fb03121a6d2fbf55b0cd29d22",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f3ae6f6e22b39a7fb03121a6d2fbf55b0cd29d22",
+        "date_utc": "23 Oct 2026, 03:44 UTC",
+        "day": "2026-10-23",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "9b8d3374e576593cb0e5904640f66a645c99a9fb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9b8d3374e576593cb0e5904640f66a645c99a9fb",
+        "date_utc": "23 Oct 2026, 03:43 UTC",
+        "day": "2026-10-23",
+        "title": "Add multiple free tool listings to posts"
+      },
+      {
+        "sha": "3f9c96bc2ccd568b283f78c38ee7d6f0c8aa3f7f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3f9c96bc2ccd568b283f78c38ee7d6f0c8aa3f7f",
+        "date_utc": "23 Oct 2026, 03:42 UTC",
+        "day": "2026-10-23",
+        "title": "Add AQICN air quality index guide to JSON"
       }
     ],
-    "commit_total": 2846,
+    "commit_total": 2857,
     "calendar": [
       {
         "date": "2026-07-25",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-23",
         "level": 2,
-        "count": 68
+        "count": 74
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
