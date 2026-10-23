@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-23 01:55 UTC",
-  "checked_at_ist": "23 Oct 2026, 07:25 AM IST",
-  "archive_entries": 662,
+  "checked_at_utc": "2026-10-23 02:55 UTC",
+  "checked_at_ist": "23 Oct 2026, 08:25 AM IST",
+  "archive_entries": 663,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "PriceHistory: check a product's price history before you buy",
+      "url": "https://aicon-hub.github.io/posts/pricehistory-app-free-price-history-tracker-amazon-flipkart-guide.html"
+    },
     {
       "title": "IDPhoto4You: make ID photo print sheets free in the browser, no sign-up",
       "url": "https://aicon-hub.github.io/posts/idphoto4you-free-passport-photo-maker-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "TTSMaker: free text to speech in Malayalam, Hindi and 77 more languages",
       "url": "https://aicon-hub.github.io/posts/ttsmaker-free-text-to-speech-indian-languages-guide.html"
-    },
-    {
-      "title": "Windy.com: free animated weather forecasts and rain radar for India",
-      "url": "https://aicon-hub.github.io/posts/windy-com-free-weather-maps-radar-india.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-23",
-        "count": 24
+        "count": 44
       }
     ],
     "commits": [
       {
-        "sha": "80d2ef4318bcd94001bdd3fbc6664f05d740c007",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/80d2ef4318bcd94001bdd3fbc6664f05d740c007",
-        "date_utc": "23 Oct 2026, 01:52 UTC",
+        "sha": "e904b97cde8b24abfa5b032f83fbd35642cae1f4",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e904b97cde8b24abfa5b032f83fbd35642cae1f4",
+        "date_utc": "23 Oct 2026, 02:51 UTC",
         "day": "2026-10-23",
-        "title": "Xournal++ intro: state free of charge and GPL-2.0 instead of source-review narration"
+        "title": "Revise Notepad++ guide for version and security updates"
       },
       {
-        "sha": "e124cdb8d44aefe701bff81cbb4c6c05c690dc18",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e124cdb8d44aefe701bff81cbb4c6c05c690dc18",
-        "date_utc": "23 Oct 2026, 01:48 UTC",
+        "sha": "7b34defdb41b3938f9ba7a94cfb5f90fa9163863",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7b34defdb41b3938f9ba7a94cfb5f90fa9163863",
+        "date_utc": "23 Oct 2026, 02:51 UTC",
+        "day": "2026-10-23",
+        "title": "Update pricehistory-app-free-price-history-tracker-amazon-flipkart-guide.html"
+      },
+      {
+        "sha": "d5cfbc9ecb4cd1bd54fb31ed5a9f423bf73f9fcc",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d5cfbc9ecb4cd1bd54fb31ed5a9f423bf73f9fcc",
+        "date_utc": "23 Oct 2026, 02:51 UTC",
+        "day": "2026-10-23",
+        "title": "Revise Jellyfin guide with updated information and screenshot"
+      },
+      {
+        "sha": "79c181efa9f7b1cb0c3d7cd85a28de5b6a8a8e27",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/79c181efa9f7b1cb0c3d7cd85a28de5b6a8a8e27",
+        "date_utc": "23 Oct 2026, 02:50 UTC",
+        "day": "2026-10-23",
+        "title": "Add source-checked official media for joplin"
+      },
+      {
+        "sha": "3abc7000cf2be6e3a33285459722153ccc248f56",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3abc7000cf2be6e3a33285459722153ccc248f56",
+        "date_utc": "23 Oct 2026, 02:49 UTC",
         "day": "2026-10-23",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "50913c38d303ca335fed174bcaec4f0441aa3da8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/50913c38d303ca335fed174bcaec4f0441aa3da8",
-        "date_utc": "23 Oct 2026, 01:48 UTC",
-        "day": "2026-10-23",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "592a3fb031dadd8f1ae4e33ac31c61b2da1fe179",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/592a3fb031dadd8f1ae4e33ac31c61b2da1fe179",
-        "date_utc": "23 Oct 2026, 01:47 UTC",
-        "day": "2026-10-23",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "63c304ab88f4ece7a4db20869d3ccce5a6e9a76a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/63c304ab88f4ece7a4db20869d3ccce5a6e9a76a",
-        "date_utc": "23 Oct 2026, 01:47 UTC",
-        "day": "2026-10-23",
-        "title": "Fix Xournal++ chip logo: swap undecodable favicon.ico for source-repo SVG"
       }
     ],
-    "commit_total": 2826,
+    "commit_total": 2846,
     "calendar": [
       {
         "date": "2026-07-25",
@@ -584,8 +584,8 @@
       },
       {
         "date": "2026-10-23",
-        "level": 1,
-        "count": 53
+        "level": 2,
+        "count": 68
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

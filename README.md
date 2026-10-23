@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 07:25 AM IST** (2026-10-23 01:55 UTC).
+Checked **23 Oct 2026, 08:25 AM IST** (2026-10-23 02:55 UTC).
 
-**662 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**663 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 07:25 AM IST** (2026-10-23 01:55 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2826 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2846 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`80d2ef4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/80d2ef4318bcd94001bdd3fbc6664f05d740c007) · 23 Oct 2026, 01:52 UTC · Xournal++ intro: state free of charge and GPL-2.0 instead of source-review narration
-- [`e124cdb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e124cdb8d44aefe701bff81cbb4c6c05c690dc18) · 23 Oct 2026, 01:48 UTC · Record Telegram publishing state
-- [`50913c3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/50913c38d303ca335fed174bcaec4f0441aa3da8) · 23 Oct 2026, 01:48 UTC · Record Telegram publishing state
-- [`592a3fb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/592a3fb031dadd8f1ae4e33ac31c61b2da1fe179) · 23 Oct 2026, 01:47 UTC · Record Telegram publishing state
-- [`63c304a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/63c304ab88f4ece7a4db20869d3ccce5a6e9a76a) · 23 Oct 2026, 01:47 UTC · Fix Xournal++ chip logo: swap undecodable favicon.ico for source-repo SVG
+- [`e904b97`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e904b97cde8b24abfa5b032f83fbd35642cae1f4) · 23 Oct 2026, 02:51 UTC · Revise Notepad++ guide for version and security updates
+- [`7b34def`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7b34defdb41b3938f9ba7a94cfb5f90fa9163863) · 23 Oct 2026, 02:51 UTC · Update pricehistory-app-free-price-history-tracker-amazon-flipkart-guide.html
+- [`d5cfbc9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d5cfbc9ecb4cd1bd54fb31ed5a9f423bf73f9fcc) · 23 Oct 2026, 02:51 UTC · Revise Jellyfin guide with updated information and screenshot
+- [`79c181e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/79c181efa9f7b1cb0c3d7cd85a28de5b6a8a8e27) · 23 Oct 2026, 02:50 UTC · Add source-checked official media for joplin
+- [`3abc700`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3abc7000cf2be6e3a33285459722153ccc248f56) · 23 Oct 2026, 02:49 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [PriceHistory: check a product's price history before you buy](https://aicon-hub.github.io/posts/pricehistory-app-free-price-history-tracker-amazon-flipkart-guide.html)
 - [IDPhoto4You: make ID photo print sheets free in the browser, no sign-up](https://aicon-hub.github.io/posts/idphoto4you-free-passport-photo-maker-guide.html)
 - [Rallly: pick a group meeting time with one link, no sign-up](https://aicon-hub.github.io/posts/rallly-free-group-scheduling-polls-no-signup-guide.html)
-- [CloudConvert: convert files free in the browser, no app needed](https://aicon-hub.github.io/posts/cloudconvert-free-file-converter-200-formats-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
