@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 10:24 AM IST** (2026-10-23 04:54 UTC).
+Checked **23 Oct 2026, 11:23 AM IST** (2026-10-23 05:53 UTC).
 
 **664 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 10:24 AM IST** (2026-10-23 04:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2858 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2861 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
+- [`e0efbf0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e0efbf03db09fdb0c934d9b8a3f882ffb4ea7684) · 23 Oct 2026, 05:47 UTC · Add source-checked official media and requirements correction: Bulk Crap Uninstaller
+- [`78330e7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/78330e7c1c83806500d798bbe4d4c34fb4762f40) · 23 Oct 2026, 05:47 UTC · Add source-checked official media and scoped recheck: KDE Connect
+- [`957e6f3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/957e6f3471f5f40fc5bb1cca27b723816a7ea3b7) · 23 Oct 2026, 05:46 UTC · Add source-checked official media and scoped recheck: darktable
 - [`0606e98`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0606e9820cccda25adda5b2a9a3e578084e51ce9) · 23 Oct 2026, 04:01 UTC · Rotate tg-reader certificate
 - [`53db9cc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/53db9cce41a36bc723612c8c19ab5eca3754b436) · 23 Oct 2026, 03:44 UTC · Record Telegram publishing state
-- [`b50cc88`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b50cc887687cfaa2d6bbee6b81cc756d03aa25aa) · 23 Oct 2026, 03:44 UTC · Record Telegram publishing state
-- [`f3ae6f6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f3ae6f6e22b39a7fb03121a6d2fbf55b0cd29d22) · 23 Oct 2026, 03:44 UTC · Record Telegram publishing state
-- [`9b8d337`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9b8d3374e576593cb0e5904640f66a645c99a9fb) · 23 Oct 2026, 03:43 UTC · Add multiple free tool listings to posts
 <!-- AICON:COMMITS:END -->
 
 </details>

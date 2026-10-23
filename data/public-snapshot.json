@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-10-23 04:54 UTC",
-  "checked_at_ist": "23 Oct 2026, 10:24 AM IST",
+  "checked_at_utc": "2026-10-23 05:53 UTC",
+  "checked_at_ist": "23 Oct 2026, 11:23 AM IST",
   "archive_entries": 664,
   "homepage_status": 200,
   "stars": 1,
@@ -90,10 +90,31 @@
       },
       {
         "date": "2026-10-23",
-        "count": 56
+        "count": 59
       }
     ],
     "commits": [
+      {
+        "sha": "e0efbf03db09fdb0c934d9b8a3f882ffb4ea7684",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e0efbf03db09fdb0c934d9b8a3f882ffb4ea7684",
+        "date_utc": "23 Oct 2026, 05:47 UTC",
+        "day": "2026-10-23",
+        "title": "Add source-checked official media and requirements correction: Bulk Crap Uninstaller"
+      },
+      {
+        "sha": "78330e7c1c83806500d798bbe4d4c34fb4762f40",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/78330e7c1c83806500d798bbe4d4c34fb4762f40",
+        "date_utc": "23 Oct 2026, 05:47 UTC",
+        "day": "2026-10-23",
+        "title": "Add source-checked official media and scoped recheck: KDE Connect"
+      },
+      {
+        "sha": "957e6f3471f5f40fc5bb1cca27b723816a7ea3b7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/957e6f3471f5f40fc5bb1cca27b723816a7ea3b7",
+        "date_utc": "23 Oct 2026, 05:46 UTC",
+        "day": "2026-10-23",
+        "title": "Add source-checked official media and scoped recheck: darktable"
+      },
       {
         "sha": "0606e9820cccda25adda5b2a9a3e578084e51ce9",
         "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0606e9820cccda25adda5b2a9a3e578084e51ce9",
@@ -107,30 +128,9 @@
         "date_utc": "23 Oct 2026, 03:44 UTC",
         "day": "2026-10-23",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "b50cc887687cfaa2d6bbee6b81cc756d03aa25aa",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b50cc887687cfaa2d6bbee6b81cc756d03aa25aa",
-        "date_utc": "23 Oct 2026, 03:44 UTC",
-        "day": "2026-10-23",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "f3ae6f6e22b39a7fb03121a6d2fbf55b0cd29d22",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f3ae6f6e22b39a7fb03121a6d2fbf55b0cd29d22",
-        "date_utc": "23 Oct 2026, 03:44 UTC",
-        "day": "2026-10-23",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "9b8d3374e576593cb0e5904640f66a645c99a9fb",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9b8d3374e576593cb0e5904640f66a645c99a9fb",
-        "date_utc": "23 Oct 2026, 03:43 UTC",
-        "day": "2026-10-23",
-        "title": "Add multiple free tool listings to posts"
       }
     ],
-    "commit_total": 2858,
+    "commit_total": 2861,
     "calendar": [
       {
         "date": "2026-07-25",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-23",
         "level": 2,
-        "count": 75
+        "count": 78
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
