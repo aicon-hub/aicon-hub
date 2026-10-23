@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-23 01:09 UTC",
-  "checked_at_ist": "23 Oct 2026, 06:39 AM IST",
-  "archive_entries": 661,
+  "checked_at_utc": "2026-10-23 01:55 UTC",
+  "checked_at_ist": "23 Oct 2026, 07:25 AM IST",
+  "archive_entries": 662,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "IDPhoto4You: make ID photo print sheets free in the browser, no sign-up",
+      "url": "https://aicon-hub.github.io/posts/idphoto4you-free-passport-photo-maker-guide.html"
+    },
     {
       "title": "Rallly: pick a group meeting time with one link, no sign-up",
       "url": "https://aicon-hub.github.io/posts/rallly-free-group-scheduling-polls-no-signup-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Windy.com: free animated weather forecasts and rain radar for India",
       "url": "https://aicon-hub.github.io/posts/windy-com-free-weather-maps-radar-india.html"
-    },
-    {
-      "title": "Kerala AEDP apprenticeship: reported Rs 10,900 a month stipend, official rollout notice not yet verified",
-      "url": "https://aicon-hub.github.io/posts/kerala-aedp-apprenticeship-embedded-degree-programme-rs-10900-stipend-announced-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-23",
-        "count": 6
+        "count": 24
       }
     ],
     "commits": [
       {
-        "sha": "2165477897b31237d41af38006f4baf72899f8b2",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2165477897b31237d41af38006f4baf72899f8b2",
-        "date_utc": "23 Oct 2026, 00:47 UTC",
+        "sha": "80d2ef4318bcd94001bdd3fbc6664f05d740c007",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/80d2ef4318bcd94001bdd3fbc6664f05d740c007",
+        "date_utc": "23 Oct 2026, 01:52 UTC",
+        "day": "2026-10-23",
+        "title": "Xournal++ intro: state free of charge and GPL-2.0 instead of source-review narration"
+      },
+      {
+        "sha": "e124cdb8d44aefe701bff81cbb4c6c05c690dc18",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e124cdb8d44aefe701bff81cbb4c6c05c690dc18",
+        "date_utc": "23 Oct 2026, 01:48 UTC",
         "day": "2026-10-23",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "32b146cacbe623d726f75c2af8ed7a2d6b76d23a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/32b146cacbe623d726f75c2af8ed7a2d6b76d23a",
-        "date_utc": "23 Oct 2026, 00:47 UTC",
+        "sha": "50913c38d303ca335fed174bcaec4f0441aa3da8",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/50913c38d303ca335fed174bcaec4f0441aa3da8",
+        "date_utc": "23 Oct 2026, 01:48 UTC",
         "day": "2026-10-23",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "d7fd10917a73e2e2a434659238649b8e6e2f3562",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d7fd10917a73e2e2a434659238649b8e6e2f3562",
-        "date_utc": "23 Oct 2026, 00:47 UTC",
+        "sha": "592a3fb031dadd8f1ae4e33ac31c61b2da1fe179",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/592a3fb031dadd8f1ae4e33ac31c61b2da1fe179",
+        "date_utc": "23 Oct 2026, 01:47 UTC",
         "day": "2026-10-23",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "1b68317033d151b0e4040d35b080554586bc205f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1b68317033d151b0e4040d35b080554586bc205f",
-        "date_utc": "23 Oct 2026, 00:45 UTC",
+        "sha": "63c304ab88f4ece7a4db20869d3ccce5a6e9a76a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/63c304ab88f4ece7a4db20869d3ccce5a6e9a76a",
+        "date_utc": "23 Oct 2026, 01:47 UTC",
         "day": "2026-10-23",
-        "title": "Add files via upload"
-      },
-      {
-        "sha": "c185f14b415eaa6678d3212b7c8624711edccfc2",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c185f14b415eaa6678d3212b7c8624711edccfc2",
-        "date_utc": "23 Oct 2026, 00:44 UTC",
-        "day": "2026-10-23",
-        "title": "Add new posts to the index.html"
+        "title": "Fix Xournal++ chip logo: swap undecodable favicon.ico for source-repo SVG"
       }
     ],
-    "commit_total": 2808,
+    "commit_total": 2826,
     "calendar": [
       {
         "date": "2026-07-25",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-23",
         "level": 1,
-        "count": 42
+        "count": 53
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

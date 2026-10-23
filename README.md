@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 06:39 AM IST** (2026-10-23 01:09 UTC).
+Checked **23 Oct 2026, 07:25 AM IST** (2026-10-23 01:55 UTC).
 
-**661 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**662 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 06:39 AM IST** (2026-10-23 01:09 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2808 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2826 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`2165477`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2165477897b31237d41af38006f4baf72899f8b2) · 23 Oct 2026, 00:47 UTC · Record Telegram publishing state
-- [`32b146c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/32b146cacbe623d726f75c2af8ed7a2d6b76d23a) · 23 Oct 2026, 00:47 UTC · Record Telegram publishing state
-- [`d7fd109`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d7fd10917a73e2e2a434659238649b8e6e2f3562) · 23 Oct 2026, 00:47 UTC · Record Telegram publishing state
-- [`1b68317`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1b68317033d151b0e4040d35b080554586bc205f) · 23 Oct 2026, 00:45 UTC · Add files via upload
-- [`c185f14`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c185f14b415eaa6678d3212b7c8624711edccfc2) · 23 Oct 2026, 00:44 UTC · Add new posts to the index.html
+- [`80d2ef4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/80d2ef4318bcd94001bdd3fbc6664f05d740c007) · 23 Oct 2026, 01:52 UTC · Xournal++ intro: state free of charge and GPL-2.0 instead of source-review narration
+- [`e124cdb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e124cdb8d44aefe701bff81cbb4c6c05c690dc18) · 23 Oct 2026, 01:48 UTC · Record Telegram publishing state
+- [`50913c3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/50913c38d303ca335fed174bcaec4f0441aa3da8) · 23 Oct 2026, 01:48 UTC · Record Telegram publishing state
+- [`592a3fb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/592a3fb031dadd8f1ae4e33ac31c61b2da1fe179) · 23 Oct 2026, 01:47 UTC · Record Telegram publishing state
+- [`63c304a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/63c304ab88f4ece7a4db20869d3ccce5a6e9a76a) · 23 Oct 2026, 01:47 UTC · Fix Xournal++ chip logo: swap undecodable favicon.ico for source-repo SVG
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [IDPhoto4You: make ID photo print sheets free in the browser, no sign-up](https://aicon-hub.github.io/posts/idphoto4you-free-passport-photo-maker-guide.html)
 - [Rallly: pick a group meeting time with one link, no sign-up](https://aicon-hub.github.io/posts/rallly-free-group-scheduling-polls-no-signup-guide.html)
 - [CloudConvert: convert files free in the browser, no app needed](https://aicon-hub.github.io/posts/cloudconvert-free-file-converter-200-formats-guide.html)
-- [TTSMaker: free text to speech in Malayalam, Hindi and 77 more languages](https://aicon-hub.github.io/posts/ttsmaker-free-text-to-speech-indian-languages-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
