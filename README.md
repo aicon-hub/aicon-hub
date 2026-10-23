@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 05:24 PM IST** (2026-10-23 11:54 UTC).
+Checked **23 Oct 2026, 06:35 PM IST** (2026-10-23 13:05 UTC).
 
 **666 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 05:24 PM IST** (2026-10-23 11:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2902 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2916 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`5cbd201`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5cbd201337b65ae2f71e123204a25e1cabc17fff) · 23 Oct 2026, 11:53 UTC · Update index.html
-- [`a8e0f8b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a8e0f8b231a34d5683a3c27fd588438974138960) · 23 Oct 2026, 11:52 UTC · Update remote\_media.py
-- [`3c8672c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3c8672c88c0c82d59a4bc307092dd70708beca4d) · 23 Oct 2026, 11:42 UTC · Update index.html
-- [`8f6bdb0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8f6bdb06cbb3535b41c9d9b10afeb04e14201c59) · 23 Oct 2026, 11:33 UTC · Update index.html
-- [`4080fb6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4080fb60fa64bd9c8558d3ded1e006fe048d82ba) · 23 Oct 2026, 11:27 UTC · Update eddie-ai-video-editing-credits-guide.html
+- [`30001c0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/30001c0039416385fb01db6cfa6017942eb3aba2) · 23 Oct 2026, 13:04 UTC · Revise AI Data Checker guide for updated policies
+- [`f64cb15`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f64cb15fe30c89f07ad2b360f091f595254ada2f) · 23 Oct 2026, 12:55 UTC · Update gemini-spark-india-access-activity-privacy-guide.html
+- [`c22ac40`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c22ac40b357783c02d23050b7c82926f7e53eefb) · 23 Oct 2026, 12:53 UTC · Update gemini-spark-india-access-activity-privacy-guide.html
+- [`4abcf6f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4abcf6f0550b16efecb735c89672e2c8dcd9a7ec) · 23 Oct 2026, 12:48 UTC · Update gemini-3-8-live-avatar-enterprise-access-safety-guide.html
+- [`c65a2c5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c65a2c5464e52bbf3e82a507ad603c53081e5337) · 23 Oct 2026, 12:42 UTC · Update future-agi-open-source-agent-testing-guide.html
 <!-- AICON:COMMITS:END -->
 
 </details>
