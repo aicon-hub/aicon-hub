@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 06:35 PM IST** (2026-10-23 13:05 UTC).
+Checked **23 Oct 2026, 07:29 PM IST** (2026-10-23 13:59 UTC).
 
 **666 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 06:35 PM IST** (2026-10-23 13:05 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2916 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2923 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`30001c0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/30001c0039416385fb01db6cfa6017942eb3aba2) · 23 Oct 2026, 13:04 UTC · Revise AI Data Checker guide for updated policies
-- [`f64cb15`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f64cb15fe30c89f07ad2b360f091f595254ada2f) · 23 Oct 2026, 12:55 UTC · Update gemini-spark-india-access-activity-privacy-guide.html
-- [`c22ac40`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c22ac40b357783c02d23050b7c82926f7e53eefb) · 23 Oct 2026, 12:53 UTC · Update gemini-spark-india-access-activity-privacy-guide.html
-- [`4abcf6f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4abcf6f0550b16efecb735c89672e2c8dcd9a7ec) · 23 Oct 2026, 12:48 UTC · Update gemini-3-8-live-avatar-enterprise-access-safety-guide.html
-- [`c65a2c5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c65a2c5464e52bbf3e82a507ad603c53081e5337) · 23 Oct 2026, 12:42 UTC · Update future-agi-open-source-agent-testing-guide.html
+- [`4538049`](https://github.com/aicon-hub/aicon-hub.github.io/commit/45380496d7f795af5a0d710253de3b87e40cee1e) · 23 Oct 2026, 13:44 UTC · Revise Airtel Adobe Express Premium offer details
+- [`323a9af`](https://github.com/aicon-hub/aicon-hub.github.io/commit/323a9af1632c09d4ec278d07f3e4495b9cc3dcc5) · 23 Oct 2026, 13:38 UTC · Update airtel-adobe-express-premium-12-months-free-offer-claim-deadline-guide.html
+- [`c8eb0a0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c8eb0a0b87227c056e8cfb44332549aa22d15938) · 23 Oct 2026, 13:31 UTC · Update ai-total-agent-skill-sandbox-check-guide.html
+- [`bacd6c5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bacd6c557467094a8ed95f864b7519f912a8cb1f) · 23 Oct 2026, 13:23 UTC · Update aadhaar-biometric-lock-unlock.html
+- [`7bdb293`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7bdb293e31c54e80ffbfb9711486da37fe8af63a) · 23 Oct 2026, 13:14 UTC · Revise Veer Gatha 6.0 guide HTML and redirect
 <!-- AICON:COMMITS:END -->
 
 </details>
