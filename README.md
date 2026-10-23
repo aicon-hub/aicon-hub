@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **23 Oct 2026, 07:29 PM IST** (2026-10-23 13:59 UTC).
+Checked **23 Oct 2026, 08:28 PM IST** (2026-10-23 14:58 UTC).
 
 **666 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **23 Oct 2026, 07:29 PM IST** (2026-10-23 13:59 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2923 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2931 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`4538049`](https://github.com/aicon-hub/aicon-hub.github.io/commit/45380496d7f795af5a0d710253de3b87e40cee1e) · 23 Oct 2026, 13:44 UTC · Revise Airtel Adobe Express Premium offer details
-- [`323a9af`](https://github.com/aicon-hub/aicon-hub.github.io/commit/323a9af1632c09d4ec278d07f3e4495b9cc3dcc5) · 23 Oct 2026, 13:38 UTC · Update airtel-adobe-express-premium-12-months-free-offer-claim-deadline-guide.html
-- [`c8eb0a0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c8eb0a0b87227c056e8cfb44332549aa22d15938) · 23 Oct 2026, 13:31 UTC · Update ai-total-agent-skill-sandbox-check-guide.html
-- [`bacd6c5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bacd6c557467094a8ed95f864b7519f912a8cb1f) · 23 Oct 2026, 13:23 UTC · Update aadhaar-biometric-lock-unlock.html
-- [`7bdb293`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7bdb293e31c54e80ffbfb9711486da37fe8af63a) · 23 Oct 2026, 13:14 UTC · Revise Veer Gatha 6.0 guide HTML and redirect
+- [`a1a6370`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a1a63705d85aeb9d2773db272a76d98ebac69471) · 23 Oct 2026, 14:56 UTC · Update bitdefender-ai-guardian-beta-macos-privacy-guide.html
+- [`2e085fc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2e085fc62a3d2dc33a567cea2d15d7e7417672ef) · 23 Oct 2026, 14:43 UTC · Revise Ayushman Vay Vandana Card eligibility details
+- [`6e0beec`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6e0beec6f8eb47c2e34f061640feec4e924bedc7) · 23 Oct 2026, 14:27 UTC · Update Autoheal funding guide and self-improvement details
+- [`944fce7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/944fce71053374fedf217145e3fc574fef85daa9) · 23 Oct 2026, 14:27 UTC · Revise AutoClip guide for version 1.5.6 updates
+- [`689f264`](https://github.com/aicon-hub/aicon-hub.github.io/commit/689f264cd548e27abedd15aac65e4d61b58aed80) · 23 Oct 2026, 14:26 UTC · Update AutoHotkey version and recheck details
 <!-- AICON:COMMITS:END -->
 
 </details>
