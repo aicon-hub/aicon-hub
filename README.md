@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 11:22 AM IST** (2026-10-24 05:52 UTC).
+Checked **24 Oct 2026, 12:35 PM IST** (2026-10-24 07:05 UTC).
 
 **671 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 11:22 AM IST** (2026-10-24 05:52 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2964 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3008 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`c2a043e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c2a043ebe8320d149508f1bc3ff2fa8fa2075014) · 24 Oct 2026, 05:33 UTC · Update remote\_media.py
-- [`3f0d2f8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3f0d2f89a896f89aa14aabbf531a09bf3a962ed4) · 24 Oct 2026, 05:33 UTC · Update k-dense-byok-local-research-assistant-guide.html
-- [`5b196e4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5b196e441bb6e678e04bfd94bf5581f5c61bb89b) · 24 Oct 2026, 05:33 UTC · Update julius-ai-free-spreadsheet-data-analysis-guide.html
-- [`3d768fa`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3d768faaca3d167758d25f573901400723e0b5f5) · 24 Oct 2026, 05:33 UTC · Update jio-google-ai-pro-18-months-free-offer-eligibility-deadline-guide.html
-- [`dc242a4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/dc242a4c0a90cc18a36ea0691c356b8ce267d0ed) · 24 Oct 2026, 05:26 UTC · Update jenni-ai-academic-writing-free-limits-guide.html
+- [`e9887c3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e9887c32e450d04c3fb2a79649b8a1b6fdb1536f) · 24 Oct 2026, 07:03 UTC · Update kisan-credit-card-farm-loan-collateral-guide.html
+- [`f8eeca2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f8eeca2b45030d6b5b60a4ddc4743c4fe3285b69) · 24 Oct 2026, 07:03 UTC · Update index.html
+- [`bb8281c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bb8281c1578ec801e4846547bfefba796721e12b) · 24 Oct 2026, 07:02 UTC · Update remote\_media.py
+- [`fcd917a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fcd917a0a85473e1dce55410e17c1b824b404052) · 24 Oct 2026, 07:02 UTC · Update index.html
+- [`132a85f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/132a85fcbdadd00208a1d3a46a066bc4351f4b9c) · 24 Oct 2026, 07:02 UTC · Update kolibri-free-offline-learning-platform-lessons-videos-android-guide.html
 <!-- AICON:COMMITS:END -->
 
 </details>
