@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-10-24 09:51 UTC",
-  "checked_at_ist": "24 Oct 2026, 03:21 PM IST",
+  "checked_at_utc": "2026-10-24 10:50 UTC",
+  "checked_at_ist": "24 Oct 2026, 04:20 PM IST",
   "archive_entries": 671,
   "homepage_status": 200,
   "stars": 1,
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-24",
-        "count": 286
+        "count": 310
       }
     ],
     "commits": [
       {
-        "sha": "81b3b5dab2168fb01a141b63715cb1eea92be8d0",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/81b3b5dab2168fb01a141b63715cb1eea92be8d0",
-        "date_utc": "24 Oct 2026, 09:34 UTC",
+        "sha": "eb34d9ddccd02bc60693824a4495981cc0d7655c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/eb34d9ddccd02bc60693824a4495981cc0d7655c",
+        "date_utc": "24 Oct 2026, 10:40 UTC",
         "day": "2026-10-24",
-        "title": "Listing search text: MXC audit-mode wording"
+        "title": "Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size"
       },
       {
-        "sha": "7a93d240391e82ededfe9bad57a6c943152e3882",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7a93d240391e82ededfe9bad57a6c943152e3882",
-        "date_utc": "24 Oct 2026, 09:34 UTC",
+        "sha": "a029e25449022ab62311444d6360a36850df8281",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a029e25449022ab62311444d6360a36850df8281",
+        "date_utc": "24 Oct 2026, 10:39 UTC",
         "day": "2026-10-24",
-        "title": "MXC post: source label no longer cites a preview warning"
+        "title": "Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size"
       },
       {
-        "sha": "72b86d6dc2573a9e1ac7a3ab33b436fc87734eaa",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/72b86d6dc2573a9e1ac7a3ab33b436fc87734eaa",
-        "date_utc": "24 Oct 2026, 09:30 UTC",
+        "sha": "811223f378ad733784f5eae649f1528c6ec9018f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/811223f378ad733784f5eae649f1528c6ec9018f",
+        "date_utc": "24 Oct 2026, 10:39 UTC",
         "day": "2026-10-24",
-        "title": "Scoped recheck 24 Oct: index"
+        "title": "Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size"
       },
       {
-        "sha": "c3962dde27a7bab1789a7906e2100f4f165f58a4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c3962dde27a7bab1789a7906e2100f4f165f58a4",
-        "date_utc": "24 Oct 2026, 09:30 UTC",
+        "sha": "56676eb2ed05c8a3d659e0e0abdf5a3f9d0565f9",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/56676eb2ed05c8a3d659e0e0abdf5a3f9d0565f9",
+        "date_utc": "24 Oct 2026, 10:38 UTC",
         "day": "2026-10-24",
-        "title": "Scoped recheck 24 Oct: microsoft-mxc-preview-sandbox-security-warning-guide"
+        "title": "Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size"
       },
       {
-        "sha": "f73ac295ba65f513ad2eb31835e5da35495c10b8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f73ac295ba65f513ad2eb31835e5da35495c10b8",
-        "date_utc": "24 Oct 2026, 09:29 UTC",
+        "sha": "6c849fba77f9b55d549c62505414da0060f7c125",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6c849fba77f9b55d549c62505414da0060f7c125",
+        "date_utc": "24 Oct 2026, 10:38 UTC",
         "day": "2026-10-24",
-        "title": "Scoped recheck: MAI-Transcribe-2 regions per current Learn overview"
+        "title": "Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size"
       }
     ],
-    "commit_total": 3057,
+    "commit_total": 3081,
     "calendar": [
       {
         "date": "2026-07-26",
@@ -544,12 +544,12 @@
       },
       {
         "date": "2026-10-16",
-        "level": 3,
+        "level": 2,
         "count": 117
       },
       {
         "date": "2026-10-17",
-        "level": 3,
+        "level": 2,
         "count": 116
       },
       {
@@ -569,12 +569,12 @@
       },
       {
         "date": "2026-10-21",
-        "level": 2,
+        "level": 1,
         "count": 61
       },
       {
         "date": "2026-10-22",
-        "level": 3,
+        "level": 2,
         "count": 122
       },
       {
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-24",
         "level": 4,
-        "count": 227
+        "count": 244
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 03:21 PM IST** (2026-10-24 09:51 UTC).
+Checked **24 Oct 2026, 04:20 PM IST** (2026-10-24 10:50 UTC).
 
 **671 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 03:21 PM IST** (2026-10-24 09:51 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3057 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3081 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`81b3b5d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/81b3b5dab2168fb01a141b63715cb1eea92be8d0) · 24 Oct 2026, 09:34 UTC · Listing search text: MXC audit-mode wording
-- [`7a93d24`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7a93d240391e82ededfe9bad57a6c943152e3882) · 24 Oct 2026, 09:34 UTC · MXC post: source label no longer cites a preview warning
-- [`72b86d6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/72b86d6dc2573a9e1ac7a3ab33b436fc87734eaa) · 24 Oct 2026, 09:30 UTC · Scoped recheck 24 Oct: index
-- [`c3962dd`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c3962dde27a7bab1789a7906e2100f4f165f58a4) · 24 Oct 2026, 09:30 UTC · Scoped recheck 24 Oct: microsoft-mxc-preview-sandbox-security-warning-guide
-- [`f73ac29`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f73ac295ba65f513ad2eb31835e5da35495c10b8) · 24 Oct 2026, 09:29 UTC · Scoped recheck: MAI-Transcribe-2 regions per current Learn overview
+- [`eb34d9d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/eb34d9ddccd02bc60693824a4495981cc0d7655c) · 24 Oct 2026, 10:40 UTC · Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size
+- [`a029e25`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a029e25449022ab62311444d6360a36850df8281) · 24 Oct 2026, 10:39 UTC · Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size
+- [`811223f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/811223f378ad733784f5eae649f1528c6ec9018f) · 24 Oct 2026, 10:39 UTC · Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size
+- [`56676eb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/56676eb2ed05c8a3d659e0e0abdf5a3f9d0565f9) · 24 Oct 2026, 10:38 UTC · Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size
+- [`6c849fb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6c849fba77f9b55d549c62505414da0060f7c125) · 24 Oct 2026, 10:38 UTC · Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size
 <!-- AICON:COMMITS:END -->
 
 </details>
