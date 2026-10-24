@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-24 13:00 UTC",
-  "checked_at_ist": "24 Oct 2026, 06:30 PM IST",
-  "archive_entries": 671,
+  "checked_at_utc": "2026-10-24 13:48 UTC",
+  "checked_at_ist": "24 Oct 2026, 07:18 PM IST",
+  "archive_entries": 672,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "PM-USP Special Scholarship for J&K and Ladakh: renew on NSP by 31 October",
+      "url": "https://aicon-hub.github.io/posts/pm-usp-sss-jk-ladakh-renewal-2026.html"
+    },
     {
       "title": "CSIR NET December 2026: apply by 5 November",
       "url": "https://aicon-hub.github.io/posts/csir-ugc-net-december-2026-apply-by-5-november-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Metrolist: ad-free YouTube Music for Android, with privacy caveats",
       "url": "https://aicon-hub.github.io/posts/metrolist-youtube-music-client.html"
-    },
-    {
-      "title": "Kerala PSC 151-161/2026: 11 notifications, apply by 4 November",
-      "url": "https://aicon-hub.github.io/posts/kerala-psc-151-161-2026-november-4-deadline-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-24",
-        "count": 365
+        "count": 373
       }
     ],
     "commits": [
       {
-        "sha": "b3bdd105f731bd44cad997ad12d440dac17ddcac",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b3bdd105f731bd44cad997ad12d440dac17ddcac",
-        "date_utc": "24 Oct 2026, 12:50 UTC",
+        "sha": "34f68aeb36d78cccf0e2fb6fa76e3715d35ec472",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/34f68aeb36d78cccf0e2fb6fa76e3715d35ec472",
+        "date_utc": "24 Oct 2026, 13:21 UTC",
         "day": "2026-10-24",
-        "title": "MIT App Inventor: clarify India line and 24 Oct recheck"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "fb15e4ae1d16437ba779c7e2ed7a390c6df85fb5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fb15e4ae1d16437ba779c7e2ed7a390c6df85fb5",
-        "date_utc": "24 Oct 2026, 12:45 UTC",
+        "sha": "83cee049adb029b0452131b2bf67b913c8257d9a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/83cee049adb029b0452131b2bf67b913c8257d9a",
+        "date_utc": "24 Oct 2026, 13:21 UTC",
         "day": "2026-10-24",
-        "title": "Update logo URLs and handle broken images"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "bf97e121f1a6d43fe24092cb7662ce76c993b7a3",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bf97e121f1a6d43fe24092cb7662ce76c993b7a3",
-        "date_utc": "24 Oct 2026, 12:41 UTC",
+        "sha": "f5ebc8dc1f985134e10feb9d324060d1defe11c7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f5ebc8dc1f985134e10feb9d324060d1defe11c7",
+        "date_utc": "24 Oct 2026, 13:21 UTC",
         "day": "2026-10-24",
-        "title": "Poshan 2.0: fix recheck note wording"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "54e74bed821aa65799f79e46b77faabfbc21357c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/54e74bed821aa65799f79e46b77faabfbc21357c",
-        "date_utc": "24 Oct 2026, 12:40 UTC",
+        "sha": "70c10a42b7b62a1a5241ead2dff8058af55454ec",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/70c10a42b7b62a1a5241ead2dff8058af55454ec",
+        "date_utc": "24 Oct 2026, 13:17 UTC",
         "day": "2026-10-24",
-        "title": "MIT App Inventor: scoped recheck 24 Oct; 200-countries line not found"
+        "title": "Fix duplicate options in category select dropdown"
       },
       {
-        "sha": "e43b5358bfc561b07987966fb8e24e9be58ab2e5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e43b5358bfc561b07987966fb8e24e9be58ab2e5",
-        "date_utc": "24 Oct 2026, 12:38 UTC",
+        "sha": "ea86a69eef672cce31fb46c9da4d731ceef95ab1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ea86a69eef672cce31fb46c9da4d731ceef95ab1",
+        "date_utc": "24 Oct 2026, 13:14 UTC",
         "day": "2026-10-24",
-        "title": "Poshan 2.0: scoped recheck 24 Oct, adolescent-girl Aadhaar requirement from guidelines"
+        "title": "SSS J&K Ladakh renewal: add 24 Oct NSP screenshots (open full size)"
       }
     ],
-    "commit_total": 3136,
+    "commit_total": 3144,
     "calendar": [
       {
         "date": "2026-07-26",
@@ -504,7 +504,7 @@
       },
       {
         "date": "2026-10-08",
-        "level": 4,
+        "level": 3,
         "count": 218
       },
       {
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-24",
         "level": 4,
-        "count": 288
+        "count": 293
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

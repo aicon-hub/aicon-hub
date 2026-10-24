@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 06:30 PM IST** (2026-10-24 13:00 UTC).
+Checked **24 Oct 2026, 07:18 PM IST** (2026-10-24 13:48 UTC).
 
-**671 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**672 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 06:30 PM IST** (2026-10-24 13:00 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3136 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3144 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`b3bdd10`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b3bdd105f731bd44cad997ad12d440dac17ddcac) · 24 Oct 2026, 12:50 UTC · MIT App Inventor: clarify India line and 24 Oct recheck
-- [`fb15e4a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fb15e4ae1d16437ba779c7e2ed7a390c6df85fb5) · 24 Oct 2026, 12:45 UTC · Update logo URLs and handle broken images
-- [`bf97e12`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bf97e121f1a6d43fe24092cb7662ce76c993b7a3) · 24 Oct 2026, 12:41 UTC · Poshan 2.0: fix recheck note wording
-- [`54e74be`](https://github.com/aicon-hub/aicon-hub.github.io/commit/54e74bed821aa65799f79e46b77faabfbc21357c) · 24 Oct 2026, 12:40 UTC · MIT App Inventor: scoped recheck 24 Oct; 200-countries line not found
-- [`e43b535`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e43b5358bfc561b07987966fb8e24e9be58ab2e5) · 24 Oct 2026, 12:38 UTC · Poshan 2.0: scoped recheck 24 Oct, adolescent-girl Aadhaar requirement from guidelines
+- [`34f68ae`](https://github.com/aicon-hub/aicon-hub.github.io/commit/34f68aeb36d78cccf0e2fb6fa76e3715d35ec472) · 24 Oct 2026, 13:21 UTC · Record Telegram publishing state
+- [`83cee04`](https://github.com/aicon-hub/aicon-hub.github.io/commit/83cee049adb029b0452131b2bf67b913c8257d9a) · 24 Oct 2026, 13:21 UTC · Record Telegram publishing state
+- [`f5ebc8d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f5ebc8dc1f985134e10feb9d324060d1defe11c7) · 24 Oct 2026, 13:21 UTC · Record Telegram publishing state
+- [`70c10a4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/70c10a42b7b62a1a5241ead2dff8058af55454ec) · 24 Oct 2026, 13:17 UTC · Fix duplicate options in category select dropdown
+- [`ea86a69`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ea86a69eef672cce31fb46c9da4d731ceef95ab1) · 24 Oct 2026, 13:14 UTC · SSS J&K Ladakh renewal: add 24 Oct NSP screenshots (open full size)
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [PM-USP Special Scholarship for J&K and Ladakh: renew on NSP by 31 October](https://aicon-hub.github.io/posts/pm-usp-sss-jk-ladakh-renewal-2026.html)
 - [CSIR NET December 2026: apply by 5 November](https://aicon-hub.github.io/posts/csir-ugc-net-december-2026-apply-by-5-november-guide.html)
 - [UGC NET December 2026: apply by 28 October](https://aicon-hub.github.io/posts/ugc-net-december-2026-apply-by-28-october-guide.html)
-- [LanguageTool: a free AI grammar checker, with a 2,000-character limit](https://aicon-hub.github.io/posts/languagetool-free-ai-grammar-checker-web-editor-2000-characters-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
