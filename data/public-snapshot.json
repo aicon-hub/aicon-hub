@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-10-24 10:50 UTC",
-  "checked_at_ist": "24 Oct 2026, 04:20 PM IST",
+  "checked_at_utc": "2026-10-24 11:50 UTC",
+  "checked_at_ist": "24 Oct 2026, 05:20 PM IST",
   "archive_entries": 671,
   "homepage_status": 200,
   "stars": 1,
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-24",
-        "count": 310
+        "count": 360
       }
     ],
     "commits": [
       {
-        "sha": "eb34d9ddccd02bc60693824a4495981cc0d7655c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/eb34d9ddccd02bc60693824a4495981cc0d7655c",
-        "date_utc": "24 Oct 2026, 10:40 UTC",
+        "sha": "bf47a2092a21bc0b05d6bd580199c61fa7240404",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bf47a2092a21bc0b05d6bd580199c61fa7240404",
+        "date_utc": "24 Oct 2026, 11:35 UTC",
         "day": "2026-10-24",
-        "title": "Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size"
+        "title": "Crop emblem header from MedLEaPR/MyGov screenshots (media-only)"
       },
       {
-        "sha": "a029e25449022ab62311444d6360a36850df8281",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a029e25449022ab62311444d6360a36850df8281",
-        "date_utc": "24 Oct 2026, 10:39 UTC",
+        "sha": "ef3f19511987e3676c7912faf7379e35197037bc",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ef3f19511987e3676c7912faf7379e35197037bc",
+        "date_utc": "24 Oct 2026, 11:35 UTC",
         "day": "2026-10-24",
-        "title": "Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size"
+        "title": "Crop emblem header from MedLEaPR/MyGov screenshots (media-only)"
       },
       {
-        "sha": "811223f378ad733784f5eae649f1528c6ec9018f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/811223f378ad733784f5eae649f1528c6ec9018f",
-        "date_utc": "24 Oct 2026, 10:39 UTC",
+        "sha": "a671aad47d8b9f4ec03ca54fd1fd80bd1b576d27",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a671aad47d8b9f4ec03ca54fd1fd80bd1b576d27",
+        "date_utc": "24 Oct 2026, 11:34 UTC",
         "day": "2026-10-24",
-        "title": "Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size"
+        "title": "Crop emblem header from screenshots (media-only)"
       },
       {
-        "sha": "56676eb2ed05c8a3d659e0e0abdf5a3f9d0565f9",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/56676eb2ed05c8a3d659e0e0abdf5a3f9d0565f9",
-        "date_utc": "24 Oct 2026, 10:38 UTC",
+        "sha": "fb34736b0640c60ea0dbcb63ed1300660cfec996",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fb34736b0640c60ea0dbcb63ed1300660cfec996",
+        "date_utc": "24 Oct 2026, 11:33 UTC",
         "day": "2026-10-24",
-        "title": "Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size"
+        "title": "Crop emblem header from screenshots (media-only)"
       },
       {
-        "sha": "6c849fba77f9b55d549c62505414da0060f7c125",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6c849fba77f9b55d549c62505414da0060f7c125",
-        "date_utc": "24 Oct 2026, 10:38 UTC",
+        "sha": "d3c47b0d575b25433e4c69c9e1a0a430c7a3e25f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d3c47b0d575b25433e4c69c9e1a0a430c7a3e25f",
+        "date_utc": "24 Oct 2026, 11:33 UTC",
         "day": "2026-10-24",
-        "title": "Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size"
+        "title": "Crop emblem header from screenshots (media-only)"
       }
     ],
-    "commit_total": 3081,
+    "commit_total": 3131,
     "calendar": [
       {
         "date": "2026-07-26",
@@ -494,7 +494,7 @@
       },
       {
         "date": "2026-10-06",
-        "level": 4,
+        "level": 3,
         "count": 184
       },
       {
@@ -524,7 +524,7 @@
       },
       {
         "date": "2026-10-12",
-        "level": 3,
+        "level": 2,
         "count": 124
       },
       {
@@ -539,7 +539,7 @@
       },
       {
         "date": "2026-10-15",
-        "level": 3,
+        "level": 2,
         "count": 137
       },
       {
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-24",
         "level": 4,
-        "count": 244
+        "count": 283
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

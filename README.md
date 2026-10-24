@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 04:20 PM IST** (2026-10-24 10:50 UTC).
+Checked **24 Oct 2026, 05:20 PM IST** (2026-10-24 11:50 UTC).
 
 **671 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 04:20 PM IST** (2026-10-24 10:50 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3081 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3131 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`eb34d9d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/eb34d9ddccd02bc60693824a4495981cc0d7655c) · 24 Oct 2026, 10:40 UTC · Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size
-- [`a029e25`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a029e25449022ab62311444d6360a36850df8281) · 24 Oct 2026, 10:39 UTC · Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size
-- [`811223f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/811223f378ad733784f5eae649f1528c6ec9018f) · 24 Oct 2026, 10:39 UTC · Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size
-- [`56676eb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/56676eb2ed05c8a3d659e0e0abdf5a3f9d0565f9) · 24 Oct 2026, 10:38 UTC · Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size
-- [`6c849fb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6c849fba77f9b55d549c62505414da0060f7c125) · 24 Oct 2026, 10:38 UTC · Replace 19 Oct NSP screenshots (emblem visible) with 24 Oct NSP shots without emblem, tap to open full size
+- [`bf47a20`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bf47a2092a21bc0b05d6bd580199c61fa7240404) · 24 Oct 2026, 11:35 UTC · Crop emblem header from MedLEaPR/MyGov screenshots (media-only)
+- [`ef3f195`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ef3f19511987e3676c7912faf7379e35197037bc) · 24 Oct 2026, 11:35 UTC · Crop emblem header from MedLEaPR/MyGov screenshots (media-only)
+- [`a671aad`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a671aad47d8b9f4ec03ca54fd1fd80bd1b576d27) · 24 Oct 2026, 11:34 UTC · Crop emblem header from screenshots (media-only)
+- [`fb34736`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fb34736b0640c60ea0dbcb63ed1300660cfec996) · 24 Oct 2026, 11:33 UTC · Crop emblem header from screenshots (media-only)
+- [`d3c47b0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d3c47b0d575b25433e4c69c9e1a0a430c7a3e25f) · 24 Oct 2026, 11:33 UTC · Crop emblem header from screenshots (media-only)
 <!-- AICON:COMMITS:END -->
 
 </details>
