@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 09:24 AM IST** (2026-10-24 03:54 UTC).
+Checked **24 Oct 2026, 10:21 AM IST** (2026-10-24 04:51 UTC).
 
 **671 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 09:24 AM IST** (2026-10-24 03:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2904 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2938 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`e77c858`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e77c8589e4e9a90614fc911d0bc816bb91685f42) · 24 Oct 2026, 03:48 UTC · Record Telegram publishing state
-- [`a2a685f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a2a685f8aaa1b51cfed7cfb409e34c792c8ddc56) · 24 Oct 2026, 03:48 UTC · Record Telegram publishing state
-- [`ddebeb8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ddebeb8361403e4af8728d09f89c8189b4f86d1f) · 24 Oct 2026, 03:48 UTC · Record Telegram publishing state
-- [`088e2cc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/088e2cc8f8fa3e5ec07dc3239d5db1a063b4809e) · 24 Oct 2026, 03:46 UTC · Update remote\_media.py
-- [`ef8b441`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ef8b4414c0e8f342c4e994ef1312eef78e697b04) · 24 Oct 2026, 03:46 UTC · Update index.html
+- [`70df086`](https://github.com/aicon-hub/aicon-hub.github.io/commit/70df0865e665081e7d2dfc7ac8f942535735c9c7) · 24 Oct 2026, 04:51 UTC · Update irisgo-free-beta-ai-learns-tasks-by-watching-windows-mac-privacy-guide.html
+- [`85495b6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/85495b6457e48e165623501ba3477a231554f3ea) · 24 Oct 2026, 04:45 UTC · Delete nsp-step-02-headercrop.svg
+- [`cabce8c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/cabce8c2eb79d2fc70540bc60677357ac5517e8b) · 24 Oct 2026, 04:45 UTC · Delete nsp-step-01-headercrop.svg
+- [`9bf1c02`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9bf1c029fedeb75c392c6cae475679e191f12b49) · 24 Oct 2026, 04:44 UTC · Update remote\_media.py
+- [`f3ead89`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f3ead89bd824b94f8c72b9c140c47f97678347e6) · 24 Oct 2026, 04:44 UTC · Update ishan-uday-scholarship-2026-27-nsp-ugc-guide.html
 <!-- AICON:COMMITS:END -->
 
 </details>
