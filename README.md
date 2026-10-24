@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 08:19 PM IST** (2026-10-24 14:49 UTC).
+Checked **24 Oct 2026, 09:20 PM IST** (2026-10-24 15:50 UTC).
 
 **672 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 08:19 PM IST** (2026-10-24 14:49 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3156 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3164 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`ba0e3b2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ba0e3b2ff62d79f697e8bc181566637c6384ce4b) · 24 Oct 2026, 14:48 UTC · Veer Gatha 6: tap-to-open figures
-- [`7626fda`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7626fda0ce29a12363a1bf6230d92cf7895d32f6) · 24 Oct 2026, 14:48 UTC · Poshan: tap-to-open figure
-- [`6008ad4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6008ad42aa0f8716b7b1819171906340924d4a71) · 24 Oct 2026, 14:47 UTC · Recrop vg6-desktop-login-otp-2026-10-24.svg at true pixel coordinates
-- [`a7968be`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a7968be11a975e9669d681991602a1c9de24df72) · 24 Oct 2026, 14:47 UTC · Recrop vg6-desktop-entry-2026-10-24.svg at true pixel coordinates
-- [`b2aec6b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b2aec6beded1ea3aa242d2e73503728ac895e6c7) · 24 Oct 2026, 14:45 UTC · Veer Gatha 6: native desktop captures, login options as seen 24 Oct
+- [`66d0edd`](https://github.com/aicon-hub/aicon-hub.github.io/commit/66d0edd4b3e8b35e77f31b1c434e9df5782c822a) · 24 Oct 2026, 15:50 UTC · Update print statement from 'Hello' to 'Goodbye'
+- [`f31bdae`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f31bdaebc77742b35204e8aab9c36d514ee5e227) · 24 Oct 2026, 15:49 UTC · Add pmfbby-1-desktop-2026-10-24.svg (header crop, no emblem)
+- [`61bc0bc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/61bc0bc823e6b12e0d5c90b00d408df61cbd9124) · 24 Oct 2026, 15:37 UTC · pmsby-accident-insurance-premium-eligibility: replace soft mobile capture with native desktop banner crop dated 24 Oct 2026
+- [`d2f937e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d2f937e5dd10a3e5aa54362eba154d223de068db) · 24 Oct 2026, 15:37 UTC · pmjjby-life-insurance-premium-eligibility: replace soft mobile capture with native desktop banner crop dated 24 Oct 2026
+- [`ec5dcda`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ec5dcdada5ffca1f4fd1ed1bf4cc7120ad9ade46) · 24 Oct 2026, 15:36 UTC · Add pmsby-desktop-2026-10-24.svg (header crop, no emblem)
 <!-- AICON:COMMITS:END -->
 
 </details>
