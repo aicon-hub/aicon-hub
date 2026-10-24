@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 07:18 PM IST** (2026-10-24 13:48 UTC).
+Checked **24 Oct 2026, 08:19 PM IST** (2026-10-24 14:49 UTC).
 
 **672 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 07:18 PM IST** (2026-10-24 13:48 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3144 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3156 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`34f68ae`](https://github.com/aicon-hub/aicon-hub.github.io/commit/34f68aeb36d78cccf0e2fb6fa76e3715d35ec472) · 24 Oct 2026, 13:21 UTC · Record Telegram publishing state
-- [`83cee04`](https://github.com/aicon-hub/aicon-hub.github.io/commit/83cee049adb029b0452131b2bf67b913c8257d9a) · 24 Oct 2026, 13:21 UTC · Record Telegram publishing state
-- [`f5ebc8d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f5ebc8dc1f985134e10feb9d324060d1defe11c7) · 24 Oct 2026, 13:21 UTC · Record Telegram publishing state
-- [`70c10a4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/70c10a42b7b62a1a5241ead2dff8058af55454ec) · 24 Oct 2026, 13:17 UTC · Fix duplicate options in category select dropdown
-- [`ea86a69`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ea86a69eef672cce31fb46c9da4d731ceef95ab1) · 24 Oct 2026, 13:14 UTC · SSS J&K Ladakh renewal: add 24 Oct NSP screenshots (open full size)
+- [`ba0e3b2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ba0e3b2ff62d79f697e8bc181566637c6384ce4b) · 24 Oct 2026, 14:48 UTC · Veer Gatha 6: tap-to-open figures
+- [`7626fda`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7626fda0ce29a12363a1bf6230d92cf7895d32f6) · 24 Oct 2026, 14:48 UTC · Poshan: tap-to-open figure
+- [`6008ad4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6008ad42aa0f8716b7b1819171906340924d4a71) · 24 Oct 2026, 14:47 UTC · Recrop vg6-desktop-login-otp-2026-10-24.svg at true pixel coordinates
+- [`a7968be`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a7968be11a975e9669d681991602a1c9de24df72) · 24 Oct 2026, 14:47 UTC · Recrop vg6-desktop-entry-2026-10-24.svg at true pixel coordinates
+- [`b2aec6b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b2aec6beded1ea3aa242d2e73503728ac895e6c7) · 24 Oct 2026, 14:45 UTC · Veer Gatha 6: native desktop captures, login options as seen 24 Oct
 <!-- AICON:COMMITS:END -->
 
 </details>
