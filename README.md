@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 10:21 PM IST** (2026-10-24 16:51 UTC).
+Checked **24 Oct 2026, 11:16 PM IST** (2026-10-24 17:46 UTC).
 
 **672 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 10:21 PM IST** (2026-10-24 16:51 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3189 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3211 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`22ebaf9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/22ebaf97abd4970401966a3691f67777894259d7) · 24 Oct 2026, 16:48 UTC · YEC: scoped recheck 24 Oct, official page shows Registration Closed
-- [`fe53302`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fe53302a703471ec27463126c5bd324413718ca3) · 24 Oct 2026, 16:48 UTC · Add yec-recheck-closed-1920-2026-10-24.svg (header crop, no emblem)
-- [`aeb436b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/aeb436b92cbdc63e7a02f94495d4a0a39aa3b77e) · 24 Oct 2026, 16:35 UTC · SeVA First step 2: crop emblem remnant, note portal error
-- [`58cbccc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/58cbccc40440ac0464e898a3fdfca329f52d96fb) · 24 Oct 2026, 16:34 UTC · Add sevafirst-step-02-form-nohdr-2026-10-24.svg (header crop, no emblem)
-- [`31d30f4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/31d30f499c17be78148aded469196db7a493b9f2) · 24 Oct 2026, 16:32 UTC · SeVA First: 1920px homepage capture, emblem header cropped, tap-to-open
+- [`1f85bf6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1f85bf60c818bb8e60619ad2b46edb64563888f6) · 24 Oct 2026, 17:27 UTC · Add pm-gatishakti-quiz-banner-noemblem.svg (header crop, no emblem)
+- [`a809b79`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a809b79d44eb27631b7fd6833f8c20fd5f640771) · 24 Oct 2026, 17:27 UTC · Add dpdp-logo-banner-noemblem.svg (header crop, no emblem)
+- [`e64d4c1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e64d4c12e07b9ba572128888049832b2cf7cbf78) · 24 Oct 2026, 17:26 UTC · Add doordarshan67-banner-noemblem.svg (header crop, no emblem)
+- [`4b81a79`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4b81a79b9cdedc73246af98161bc95176de66377) · 24 Oct 2026, 17:26 UTC · Add cyber-quiz-dsci-banner-noemblem.svg (header crop, no emblem)
+- [`3868712`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3868712bce0ab6575f964d475e952081179bbdc4) · 24 Oct 2026, 17:26 UTC · Add medleapr-banner-noemblem.svg (header crop, no emblem)
 <!-- AICON:COMMITS:END -->
 
 </details>
