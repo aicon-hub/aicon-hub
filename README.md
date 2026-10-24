@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 07:26 AM IST** (2026-10-24 01:56 UTC).
+Checked **24 Oct 2026, 08:23 AM IST** (2026-10-24 02:53 UTC).
 
 **668 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 07:26 AM IST** (2026-10-24 01:56 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2827 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2856 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`193a9ed`](https://github.com/aicon-hub/aicon-hub.github.io/commit/193a9ed8fe5c45f82681c671c2919599309670f9) · 24 Oct 2026, 01:55 UTC · Update google-fonts-free-open-source-fonts-commercial-use-guide.html
-- [`45a3e59`](https://github.com/aicon-hub/aicon-hub.github.io/commit/45a3e59df88da07dfa178b627a261fac56e800ab) · 24 Oct 2026, 01:55 UTC · Update google-ai-plus-free-year-college-students-india-sheerid-deadline-guide.html
-- [`7f041d3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7f041d35eaca02d1c7170fa18e409d791fc0c4b3) · 24 Oct 2026, 01:55 UTC · Update goblin-tools-magic-todo-free-ai-task-breakdown.html
-- [`00ad17b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/00ad17b041779baefa2fc856c7e82c7875266da8) · 24 Oct 2026, 01:50 UTC · Update remote\_media.py
-- [`405adc6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/405adc6580b37bc5573989708761f365241d9d5f) · 24 Oct 2026, 01:50 UTC · Update gnucash-free-money-tracking-accounting-software-guide.html
+- [`5324f84`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5324f847dce76cdefe8bae00891d3b29fe59aaf9) · 24 Oct 2026, 02:50 UTC · Update heidi-ii-clinical-agent-review-pricing-india-guide.html
+- [`42362c2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/42362c2210fa5821f0500eb1a995ce1cabd7b116) · 24 Oct 2026, 02:49 UTC · Update hdfc-bank-eva-ai-chatbot-free-banking-questions-guide.html
+- [`3069745`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3069745d93f25f28a6f74b567b4b459f41a87642) · 24 Oct 2026, 02:49 UTC · Update have-i-been-pwned-email-breach-check-guide.html
+- [`3da1db6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3da1db6761c9ad787c23ea9e23d9460557175d54) · 24 Oct 2026, 02:43 UTC · Update hark-pro-free-ai-life-assistant-app-india-privacy-guide.html
+- [`169b7f3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/169b7f3844175b8a7034aee489a252f74ed86d7e) · 24 Oct 2026, 02:43 UTC · Update handshake-ai-skills-studio-india-rollout-partner-cost-guide.html
 <!-- AICON:COMMITS:END -->
 
 </details>
