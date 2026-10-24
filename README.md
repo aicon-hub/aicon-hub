@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 08:23 AM IST** (2026-10-24 02:53 UTC).
+Checked **24 Oct 2026, 09:24 AM IST** (2026-10-24 03:54 UTC).
 
-**668 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**671 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 08:23 AM IST** (2026-10-24 02:53 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2856 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2904 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`5324f84`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5324f847dce76cdefe8bae00891d3b29fe59aaf9) · 24 Oct 2026, 02:50 UTC · Update heidi-ii-clinical-agent-review-pricing-india-guide.html
-- [`42362c2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/42362c2210fa5821f0500eb1a995ce1cabd7b116) · 24 Oct 2026, 02:49 UTC · Update hdfc-bank-eva-ai-chatbot-free-banking-questions-guide.html
-- [`3069745`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3069745d93f25f28a6f74b567b4b459f41a87642) · 24 Oct 2026, 02:49 UTC · Update have-i-been-pwned-email-breach-check-guide.html
-- [`3da1db6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3da1db6761c9ad787c23ea9e23d9460557175d54) · 24 Oct 2026, 02:43 UTC · Update hark-pro-free-ai-life-assistant-app-india-privacy-guide.html
-- [`169b7f3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/169b7f3844175b8a7034aee489a252f74ed86d7e) · 24 Oct 2026, 02:43 UTC · Update handshake-ai-skills-studio-india-rollout-partner-cost-guide.html
+- [`e77c858`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e77c8589e4e9a90614fc911d0bc816bb91685f42) · 24 Oct 2026, 03:48 UTC · Record Telegram publishing state
+- [`a2a685f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a2a685f8aaa1b51cfed7cfb409e34c792c8ddc56) · 24 Oct 2026, 03:48 UTC · Record Telegram publishing state
+- [`ddebeb8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ddebeb8361403e4af8728d09f89c8189b4f86d1f) · 24 Oct 2026, 03:48 UTC · Record Telegram publishing state
+- [`088e2cc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/088e2cc8f8fa3e5ec07dc3239d5db1a063b4809e) · 24 Oct 2026, 03:46 UTC · Update remote\_media.py
+- [`ef8b441`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ef8b4414c0e8f342c4e994ef1312eef78e697b04) · 24 Oct 2026, 03:46 UTC · Update index.html
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
-- [Metrolist: ad-free YouTube Music for Android, with privacy caveats](https://aicon-hub.github.io/posts/metrolist-youtube-music-client.html)
-- [Kerala PSC 151-161/2026: 11 notifications, apply by 4 November](https://aicon-hub.github.io/posts/kerala-psc-151-161-2026-november-4-deadline-guide.html)
-- [Vidyasamunnathi Coaching Assistance 2026-27: up to Rs 30,000 for exam coaching, Kerala, apply by 7 November 2026](https://aicon-hub.github.io/posts/vidyasamunnathi-coaching-assistance-2026-27-kerala-up-to-rs-30000-apply-by-7-november-guide.html)
+- [CSIR NET December 2026: apply by 5 November](https://aicon-hub.github.io/posts/csir-ugc-net-december-2026-apply-by-5-november-guide.html)
+- [UGC NET December 2026: apply by 28 October](https://aicon-hub.github.io/posts/ugc-net-december-2026-apply-by-28-october-guide.html)
+- [LanguageTool: a free AI grammar checker, with a 2,000-character limit](https://aicon-hub.github.io/posts/languagetool-free-ai-grammar-checker-web-editor-2000-characters-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
