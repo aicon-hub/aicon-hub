@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 12:35 PM IST** (2026-10-24 07:05 UTC).
+Checked **24 Oct 2026, 01:21 PM IST** (2026-10-24 07:51 UTC).
 
 **671 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 12:35 PM IST** (2026-10-24 07:05 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3008 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3035 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`e9887c3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e9887c32e450d04c3fb2a79649b8a1b6fdb1536f) · 24 Oct 2026, 07:03 UTC · Update kisan-credit-card-farm-loan-collateral-guide.html
-- [`f8eeca2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f8eeca2b45030d6b5b60a4ddc4743c4fe3285b69) · 24 Oct 2026, 07:03 UTC · Update index.html
-- [`bb8281c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bb8281c1578ec801e4846547bfefba796721e12b) · 24 Oct 2026, 07:02 UTC · Update remote\_media.py
-- [`fcd917a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fcd917a0a85473e1dce55410e17c1b824b404052) · 24 Oct 2026, 07:02 UTC · Update index.html
-- [`132a85f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/132a85fcbdadd00208a1d3a46a066bc4351f4b9c) · 24 Oct 2026, 07:02 UTC · Update kolibri-free-offline-learning-platform-lessons-videos-android-guide.html
+- [`9e9b83f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9e9b83f9601f1b7e541e5dd870e90fb77496027c) · 24 Oct 2026, 07:50 UTC · Rotate tg-reader certificate
+- [`51154aa`](https://github.com/aicon-hub/aicon-hub.github.io/commit/51154aa88e5617e11742baad7bd1501d679f18b5) · 24 Oct 2026, 07:49 UTC · Update remote\_media.py
+- [`9e9aac3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9e9aac310c9e9e2ec2411e8fff8417311c61f71c) · 24 Oct 2026, 07:49 UTC · Update index.html
+- [`66b0302`](https://github.com/aicon-hub/aicon-hub.github.io/commit/66b03020bcab4f26269e7a944d548c2805c6c441) · 24 Oct 2026, 07:49 UTC · Update librecad-free-open-source-2d-cad-drawing-software-windows-mac-linux-guide.html
+- [`ac7a8a3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ac7a8a3673a58ff115c89de72e028c7280c12781) · 24 Oct 2026, 07:48 UTC · Update lg-thinq-claw-beta-india-availability-guide.html
 <!-- AICON:COMMITS:END -->
 
 </details>
