@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 09:20 PM IST** (2026-10-24 15:50 UTC).
+Checked **24 Oct 2026, 10:21 PM IST** (2026-10-24 16:51 UTC).
 
 **672 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 09:20 PM IST** (2026-10-24 15:50 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3164 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3189 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`66d0edd`](https://github.com/aicon-hub/aicon-hub.github.io/commit/66d0edd4b3e8b35e77f31b1c434e9df5782c822a) · 24 Oct 2026, 15:50 UTC · Update print statement from 'Hello' to 'Goodbye'
-- [`f31bdae`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f31bdaebc77742b35204e8aab9c36d514ee5e227) · 24 Oct 2026, 15:49 UTC · Add pmfbby-1-desktop-2026-10-24.svg (header crop, no emblem)
-- [`61bc0bc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/61bc0bc823e6b12e0d5c90b00d408df61cbd9124) · 24 Oct 2026, 15:37 UTC · pmsby-accident-insurance-premium-eligibility: replace soft mobile capture with native desktop banner crop dated 24 Oct 2026
-- [`d2f937e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d2f937e5dd10a3e5aa54362eba154d223de068db) · 24 Oct 2026, 15:37 UTC · pmjjby-life-insurance-premium-eligibility: replace soft mobile capture with native desktop banner crop dated 24 Oct 2026
-- [`ec5dcda`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ec5dcdada5ffca1f4fd1ed1bf4cc7120ad9ade46) · 24 Oct 2026, 15:36 UTC · Add pmsby-desktop-2026-10-24.svg (header crop, no emblem)
+- [`22ebaf9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/22ebaf97abd4970401966a3691f67777894259d7) · 24 Oct 2026, 16:48 UTC · YEC: scoped recheck 24 Oct, official page shows Registration Closed
+- [`fe53302`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fe53302a703471ec27463126c5bd324413718ca3) · 24 Oct 2026, 16:48 UTC · Add yec-recheck-closed-1920-2026-10-24.svg (header crop, no emblem)
+- [`aeb436b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/aeb436b92cbdc63e7a02f94495d4a0a39aa3b77e) · 24 Oct 2026, 16:35 UTC · SeVA First step 2: crop emblem remnant, note portal error
+- [`58cbccc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/58cbccc40440ac0464e898a3fdfca329f52d96fb) · 24 Oct 2026, 16:34 UTC · Add sevafirst-step-02-form-nohdr-2026-10-24.svg (header crop, no emblem)
+- [`31d30f4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/31d30f499c17be78148aded469196db7a493b9f2) · 24 Oct 2026, 16:32 UTC · SeVA First: 1920px homepage capture, emblem header cropped, tap-to-open
 <!-- AICON:COMMITS:END -->
 
 </details>
