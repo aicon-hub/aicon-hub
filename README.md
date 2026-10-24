@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 05:20 PM IST** (2026-10-24 11:50 UTC).
+Checked **24 Oct 2026, 06:30 PM IST** (2026-10-24 13:00 UTC).
 
 **671 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 05:20 PM IST** (2026-10-24 11:50 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3131 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3136 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`bf47a20`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bf47a2092a21bc0b05d6bd580199c61fa7240404) · 24 Oct 2026, 11:35 UTC · Crop emblem header from MedLEaPR/MyGov screenshots (media-only)
-- [`ef3f195`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ef3f19511987e3676c7912faf7379e35197037bc) · 24 Oct 2026, 11:35 UTC · Crop emblem header from MedLEaPR/MyGov screenshots (media-only)
-- [`a671aad`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a671aad47d8b9f4ec03ca54fd1fd80bd1b576d27) · 24 Oct 2026, 11:34 UTC · Crop emblem header from screenshots (media-only)
-- [`fb34736`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fb34736b0640c60ea0dbcb63ed1300660cfec996) · 24 Oct 2026, 11:33 UTC · Crop emblem header from screenshots (media-only)
-- [`d3c47b0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d3c47b0d575b25433e4c69c9e1a0a430c7a3e25f) · 24 Oct 2026, 11:33 UTC · Crop emblem header from screenshots (media-only)
+- [`b3bdd10`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b3bdd105f731bd44cad997ad12d440dac17ddcac) · 24 Oct 2026, 12:50 UTC · MIT App Inventor: clarify India line and 24 Oct recheck
+- [`fb15e4a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fb15e4ae1d16437ba779c7e2ed7a390c6df85fb5) · 24 Oct 2026, 12:45 UTC · Update logo URLs and handle broken images
+- [`bf97e12`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bf97e121f1a6d43fe24092cb7662ce76c993b7a3) · 24 Oct 2026, 12:41 UTC · Poshan 2.0: fix recheck note wording
+- [`54e74be`](https://github.com/aicon-hub/aicon-hub.github.io/commit/54e74bed821aa65799f79e46b77faabfbc21357c) · 24 Oct 2026, 12:40 UTC · MIT App Inventor: scoped recheck 24 Oct; 200-countries line not found
+- [`e43b535`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e43b5358bfc561b07987966fb8e24e9be58ab2e5) · 24 Oct 2026, 12:38 UTC · Poshan 2.0: scoped recheck 24 Oct, adolescent-girl Aadhaar requirement from guidelines
 <!-- AICON:COMMITS:END -->
 
 </details>

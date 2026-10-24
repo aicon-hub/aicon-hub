@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-10-24 11:50 UTC",
-  "checked_at_ist": "24 Oct 2026, 05:20 PM IST",
+  "checked_at_utc": "2026-10-24 13:00 UTC",
+  "checked_at_ist": "24 Oct 2026, 06:30 PM IST",
   "archive_entries": 671,
   "homepage_status": 200,
   "stars": 1,
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-24",
-        "count": 360
+        "count": 365
       }
     ],
     "commits": [
       {
-        "sha": "bf47a2092a21bc0b05d6bd580199c61fa7240404",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bf47a2092a21bc0b05d6bd580199c61fa7240404",
-        "date_utc": "24 Oct 2026, 11:35 UTC",
+        "sha": "b3bdd105f731bd44cad997ad12d440dac17ddcac",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b3bdd105f731bd44cad997ad12d440dac17ddcac",
+        "date_utc": "24 Oct 2026, 12:50 UTC",
         "day": "2026-10-24",
-        "title": "Crop emblem header from MedLEaPR/MyGov screenshots (media-only)"
+        "title": "MIT App Inventor: clarify India line and 24 Oct recheck"
       },
       {
-        "sha": "ef3f19511987e3676c7912faf7379e35197037bc",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ef3f19511987e3676c7912faf7379e35197037bc",
-        "date_utc": "24 Oct 2026, 11:35 UTC",
+        "sha": "fb15e4ae1d16437ba779c7e2ed7a390c6df85fb5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fb15e4ae1d16437ba779c7e2ed7a390c6df85fb5",
+        "date_utc": "24 Oct 2026, 12:45 UTC",
         "day": "2026-10-24",
-        "title": "Crop emblem header from MedLEaPR/MyGov screenshots (media-only)"
+        "title": "Update logo URLs and handle broken images"
       },
       {
-        "sha": "a671aad47d8b9f4ec03ca54fd1fd80bd1b576d27",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a671aad47d8b9f4ec03ca54fd1fd80bd1b576d27",
-        "date_utc": "24 Oct 2026, 11:34 UTC",
+        "sha": "bf97e121f1a6d43fe24092cb7662ce76c993b7a3",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bf97e121f1a6d43fe24092cb7662ce76c993b7a3",
+        "date_utc": "24 Oct 2026, 12:41 UTC",
         "day": "2026-10-24",
-        "title": "Crop emblem header from screenshots (media-only)"
+        "title": "Poshan 2.0: fix recheck note wording"
       },
       {
-        "sha": "fb34736b0640c60ea0dbcb63ed1300660cfec996",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fb34736b0640c60ea0dbcb63ed1300660cfec996",
-        "date_utc": "24 Oct 2026, 11:33 UTC",
+        "sha": "54e74bed821aa65799f79e46b77faabfbc21357c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/54e74bed821aa65799f79e46b77faabfbc21357c",
+        "date_utc": "24 Oct 2026, 12:40 UTC",
         "day": "2026-10-24",
-        "title": "Crop emblem header from screenshots (media-only)"
+        "title": "MIT App Inventor: scoped recheck 24 Oct; 200-countries line not found"
       },
       {
-        "sha": "d3c47b0d575b25433e4c69c9e1a0a430c7a3e25f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d3c47b0d575b25433e4c69c9e1a0a430c7a3e25f",
-        "date_utc": "24 Oct 2026, 11:33 UTC",
+        "sha": "e43b5358bfc561b07987966fb8e24e9be58ab2e5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e43b5358bfc561b07987966fb8e24e9be58ab2e5",
+        "date_utc": "24 Oct 2026, 12:38 UTC",
         "day": "2026-10-24",
-        "title": "Crop emblem header from screenshots (media-only)"
+        "title": "Poshan 2.0: scoped recheck 24 Oct, adolescent-girl Aadhaar requirement from guidelines"
       }
     ],
-    "commit_total": 3131,
+    "commit_total": 3136,
     "calendar": [
       {
         "date": "2026-07-26",
@@ -559,7 +559,7 @@
       },
       {
         "date": "2026-10-19",
-        "level": 2,
+        "level": 1,
         "count": 72
       },
       {
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-24",
         "level": 4,
-        "count": 283
+        "count": 288
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
