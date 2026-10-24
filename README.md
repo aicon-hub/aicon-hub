@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 10:21 AM IST** (2026-10-24 04:51 UTC).
+Checked **24 Oct 2026, 11:22 AM IST** (2026-10-24 05:52 UTC).
 
 **671 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 10:21 AM IST** (2026-10-24 04:51 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2938 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2964 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`70df086`](https://github.com/aicon-hub/aicon-hub.github.io/commit/70df0865e665081e7d2dfc7ac8f942535735c9c7) · 24 Oct 2026, 04:51 UTC · Update irisgo-free-beta-ai-learns-tasks-by-watching-windows-mac-privacy-guide.html
-- [`85495b6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/85495b6457e48e165623501ba3477a231554f3ea) · 24 Oct 2026, 04:45 UTC · Delete nsp-step-02-headercrop.svg
-- [`cabce8c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/cabce8c2eb79d2fc70540bc60677357ac5517e8b) · 24 Oct 2026, 04:45 UTC · Delete nsp-step-01-headercrop.svg
-- [`9bf1c02`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9bf1c029fedeb75c392c6cae475679e191f12b49) · 24 Oct 2026, 04:44 UTC · Update remote\_media.py
-- [`f3ead89`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f3ead89bd824b94f8c72b9c140c47f97678347e6) · 24 Oct 2026, 04:44 UTC · Update ishan-uday-scholarship-2026-27-nsp-ugc-guide.html
+- [`c2a043e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c2a043ebe8320d149508f1bc3ff2fa8fa2075014) · 24 Oct 2026, 05:33 UTC · Update remote\_media.py
+- [`3f0d2f8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3f0d2f89a896f89aa14aabbf531a09bf3a962ed4) · 24 Oct 2026, 05:33 UTC · Update k-dense-byok-local-research-assistant-guide.html
+- [`5b196e4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5b196e441bb6e678e04bfd94bf5581f5c61bb89b) · 24 Oct 2026, 05:33 UTC · Update julius-ai-free-spreadsheet-data-analysis-guide.html
+- [`3d768fa`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3d768faaca3d167758d25f573901400723e0b5f5) · 24 Oct 2026, 05:33 UTC · Update jio-google-ai-pro-18-months-free-offer-eligibility-deadline-guide.html
+- [`dc242a4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/dc242a4c0a90cc18a36ea0691c356b8ce267d0ed) · 24 Oct 2026, 05:26 UTC · Update jenni-ai-academic-writing-free-limits-guide.html
 <!-- AICON:COMMITS:END -->
 
 </details>
