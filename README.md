@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 11:16 PM IST** (2026-10-24 17:46 UTC).
+Checked **25 Oct 2026, 12:23 AM IST** (2026-10-24 18:53 UTC).
 
 **672 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 11:16 PM IST** (2026-10-24 17:46 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3211 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3212 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
+- [`9fbbc3b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9fbbc3bcd8cd7f69c22f084369dfd4d4dbe954a6) · 24 Oct 2026, 18:43 UTC · Fellowships article: drop MST logo carrying national emblem (text fallback)
 - [`1f85bf6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1f85bf60c818bb8e60619ad2b46edb64563888f6) · 24 Oct 2026, 17:27 UTC · Add pm-gatishakti-quiz-banner-noemblem.svg (header crop, no emblem)
 - [`a809b79`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a809b79d44eb27631b7fd6833f8c20fd5f640771) · 24 Oct 2026, 17:27 UTC · Add dpdp-logo-banner-noemblem.svg (header crop, no emblem)
 - [`e64d4c1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e64d4c12e07b9ba572128888049832b2cf7cbf78) · 24 Oct 2026, 17:26 UTC · Add doordarshan67-banner-noemblem.svg (header crop, no emblem)
 - [`4b81a79`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4b81a79b9cdedc73246af98161bc95176de66377) · 24 Oct 2026, 17:26 UTC · Add cyber-quiz-dsci-banner-noemblem.svg (header crop, no emblem)
-- [`3868712`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3868712bce0ab6575f964d475e952081179bbdc4) · 24 Oct 2026, 17:26 UTC · Add medleapr-banner-noemblem.svg (header crop, no emblem)
 <!-- AICON:COMMITS:END -->
 
 </details>
