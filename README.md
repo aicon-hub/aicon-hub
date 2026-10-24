@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **24 Oct 2026, 02:22 PM IST** (2026-10-24 08:52 UTC).
+Checked **24 Oct 2026, 03:21 PM IST** (2026-10-24 09:51 UTC).
 
 **671 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **24 Oct 2026, 02:22 PM IST** (2026-10-24 08:52 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3045 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3057 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`d9b8f29`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d9b8f29b084a9aa99796fe4a6f33b113803b6983) · 24 Oct 2026, 08:52 UTC · Revise Luzia AI and LuziClaw beta guide content
-- [`573a5c2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/573a5c2963e91b2a6ffbd65f54aac4700763889d) · 24 Oct 2026, 08:50 UTC · Add Luzia AI and LuziClaw beta entry
-- [`104c566`](https://github.com/aicon-hub/aicon-hub.github.io/commit/104c5661745e41503b1db248446e5d20e802e4b4) · 24 Oct 2026, 08:49 UTC · Update luzia-free-ai-whatsapp-luziclaw-beta-guide.html
-- [`7f8b133`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7f8b13328c165ca8f510d0fae3ff431a6c0b7c22) · 24 Oct 2026, 08:45 UTC · Update localsend-free-share-files-nearby-devices-wifi-no-cloud-guide.html
-- [`967b3bb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/967b3bb680e6fc12cd468f6e79056e36b7382045) · 24 Oct 2026, 08:40 UTC · Update lm-studio-run-ai-chat-offline-guide.html
+- [`81b3b5d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/81b3b5dab2168fb01a141b63715cb1eea92be8d0) · 24 Oct 2026, 09:34 UTC · Listing search text: MXC audit-mode wording
+- [`7a93d24`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7a93d240391e82ededfe9bad57a6c943152e3882) · 24 Oct 2026, 09:34 UTC · MXC post: source label no longer cites a preview warning
+- [`72b86d6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/72b86d6dc2573a9e1ac7a3ab33b436fc87734eaa) · 24 Oct 2026, 09:30 UTC · Scoped recheck 24 Oct: index
+- [`c3962dd`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c3962dde27a7bab1789a7906e2100f4f165f58a4) · 24 Oct 2026, 09:30 UTC · Scoped recheck 24 Oct: microsoft-mxc-preview-sandbox-security-warning-guide
+- [`f73ac29`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f73ac295ba65f513ad2eb31835e5da35495c10b8) · 24 Oct 2026, 09:29 UTC · Scoped recheck: MAI-Transcribe-2 regions per current Learn overview
 <!-- AICON:COMMITS:END -->
 
 </details>
