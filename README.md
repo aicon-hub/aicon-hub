@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **25 Oct 2026, 10:21 PM IST** (2026-10-25 16:51 UTC).
+Checked **25 Oct 2026, 11:17 PM IST** (2026-10-25 17:47 UTC).
 
 **680 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
