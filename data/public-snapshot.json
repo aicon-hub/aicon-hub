@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-25 09:51 UTC",
-  "checked_at_ist": "25 Oct 2026, 03:21 PM IST",
-  "archive_entries": 677,
+  "checked_at_utc": "2026-10-25 10:50 UTC",
+  "checked_at_ist": "25 Oct 2026, 04:20 PM IST",
+  "archive_entries": 678,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Infocepts Innovate for Impact Scholarship 2026-27: up to ₹50,000 a year, apply by 30 October",
+      "url": "https://aicon-hub.github.io/posts/infocepts-innovate-for-impact-scholarship-2026-27-apply-by-30-october-guide.html"
+    },
     {
       "title": "BitChord: a free YouTube Music client for Android, with lyrics",
       "url": "https://aicon-hub.github.io/posts/bitchord-free-open-source-youtube-music-client-android-lyrics-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "JEE Main 2027 Session 1: apply by 22 November",
       "url": "https://aicon-hub.github.io/posts/jee-main-2027-session-1-apply-by-22-november-guide.html"
-    },
-    {
-      "title": "Semantic Scholar: free paper search with one-line AI summaries",
-      "url": "https://aicon-hub.github.io/posts/semantic-scholar-free-paper-search-ai-tldr-citations-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-25",
-        "count": 103
+        "count": 116
       }
     ],
     "commits": [
       {
-        "sha": "a8229ce5e9272f66e8bdc10d75510bf4ff6b4ab5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a8229ce5e9272f66e8bdc10d75510bf4ff6b4ab5",
-        "date_utc": "25 Oct 2026, 09:51 UTC",
+        "sha": "44f5aafe479fe69ce70fb3589e2fe2c9dbdc9051",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/44f5aafe479fe69ce70fb3589e2fe2c9dbdc9051",
+        "date_utc": "25 Oct 2026, 10:26 UTC",
         "day": "2026-10-25",
-        "title": "Preview 2026: scripts/build-pages.py"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "08b1d201ee5e73871ca56c92dca6fa47b824dcdc",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/08b1d201ee5e73871ca56c92dca6fa47b824dcdc",
-        "date_utc": "25 Oct 2026, 09:51 UTC",
+        "sha": "12e015271da2e9502bc1c52cc92e03d8f2a749c5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/12e015271da2e9502bc1c52cc92e03d8f2a749c5",
+        "date_utc": "25 Oct 2026, 10:26 UTC",
         "day": "2026-10-25",
-        "title": "Preview 2026: preview-2026/index.html"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "99c6628e4f66b0a8009983746ee5b1d0b0137fc6",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/99c6628e4f66b0a8009983746ee5b1d0b0137fc6",
-        "date_utc": "25 Oct 2026, 09:50 UTC",
+        "sha": "0566ca29a163cf3e36e28b41d4b20718ebf25eab",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0566ca29a163cf3e36e28b41d4b20718ebf25eab",
+        "date_utc": "25 Oct 2026, 10:25 UTC",
         "day": "2026-10-25",
-        "title": "Preview 2026: preview-2026/assets/refresh-2026.css"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "12f3222fe7e38fd858a5779244dcefb191fd5202",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/12f3222fe7e38fd858a5779244dcefb191fd5202",
-        "date_utc": "25 Oct 2026, 09:50 UTC",
+        "sha": "9ed2fc66b180cd8937207568b64fc5009c9d3858",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9ed2fc66b180cd8937207568b64fc5009c9d3858",
+        "date_utc": "25 Oct 2026, 10:22 UTC",
         "day": "2026-10-25",
-        "title": "Add semantic-scholar-free-paper-search-ai-tldr-citations-guide.html"
+        "title": "Infocepts: sitemap.xml"
       },
       {
-        "sha": "1ad129c04e1b8ae98a99cddacb05e4ec602572d8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1ad129c04e1b8ae98a99cddacb05e4ec602572d8",
-        "date_utc": "25 Oct 2026, 09:50 UTC",
+        "sha": "a3e0fb3111c1d732dc3c98d191b2d5143a28579e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a3e0fb3111c1d732dc3c98d191b2d5143a28579e",
+        "date_utc": "25 Oct 2026, 10:22 UTC",
         "day": "2026-10-25",
-        "title": "Add pm-usp-sss-jk-ladakh-renewal-2026.html"
+        "title": "Infocepts: posts/index.html"
       }
     ],
-    "commit_total": 3100,
+    "commit_total": 3113,
     "calendar": [
       {
         "date": "2026-07-27",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-25",
         "level": 1,
-        "count": 68
+        "count": 76
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

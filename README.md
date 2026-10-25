@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **25 Oct 2026, 03:21 PM IST** (2026-10-25 09:51 UTC).
+Checked **25 Oct 2026, 04:20 PM IST** (2026-10-25 10:50 UTC).
 
-**677 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**678 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **25 Oct 2026, 03:21 PM IST** (2026-10-25 09:51 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3100 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3113 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`a8229ce`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a8229ce5e9272f66e8bdc10d75510bf4ff6b4ab5) · 25 Oct 2026, 09:51 UTC · Preview 2026: scripts/build-pages.py
-- [`08b1d20`](https://github.com/aicon-hub/aicon-hub.github.io/commit/08b1d201ee5e73871ca56c92dca6fa47b824dcdc) · 25 Oct 2026, 09:51 UTC · Preview 2026: preview-2026/index.html
-- [`99c6628`](https://github.com/aicon-hub/aicon-hub.github.io/commit/99c6628e4f66b0a8009983746ee5b1d0b0137fc6) · 25 Oct 2026, 09:50 UTC · Preview 2026: preview-2026/assets/refresh-2026.css
-- [`12f3222`](https://github.com/aicon-hub/aicon-hub.github.io/commit/12f3222fe7e38fd858a5779244dcefb191fd5202) · 25 Oct 2026, 09:50 UTC · Add semantic-scholar-free-paper-search-ai-tldr-citations-guide.html
-- [`1ad129c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1ad129c04e1b8ae98a99cddacb05e4ec602572d8) · 25 Oct 2026, 09:50 UTC · Add pm-usp-sss-jk-ladakh-renewal-2026.html
+- [`44f5aaf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/44f5aafe479fe69ce70fb3589e2fe2c9dbdc9051) · 25 Oct 2026, 10:26 UTC · Record Telegram publishing state
+- [`12e0152`](https://github.com/aicon-hub/aicon-hub.github.io/commit/12e015271da2e9502bc1c52cc92e03d8f2a749c5) · 25 Oct 2026, 10:26 UTC · Record Telegram publishing state
+- [`0566ca2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0566ca29a163cf3e36e28b41d4b20718ebf25eab) · 25 Oct 2026, 10:25 UTC · Record Telegram publishing state
+- [`9ed2fc6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9ed2fc66b180cd8937207568b64fc5009c9d3858) · 25 Oct 2026, 10:22 UTC · Infocepts: sitemap.xml
+- [`a3e0fb3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a3e0fb3111c1d732dc3c98d191b2d5143a28579e) · 25 Oct 2026, 10:22 UTC · Infocepts: posts/index.html
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Infocepts Innovate for Impact Scholarship 2026-27: up to ₹50,000 a year, apply by 30 October](https://aicon-hub.github.io/posts/infocepts-innovate-for-impact-scholarship-2026-27-apply-by-30-october-guide.html)
 - [BitChord: a free YouTube Music client for Android, with lyrics](https://aicon-hub.github.io/posts/bitchord-free-open-source-youtube-music-client-android-lyrics-guide.html)
 - [Industrial R&D for Viksit Bharat 2047 Quiz: MyGov e-certificate, ends 20 November](https://aicon-hub.github.io/posts/industrial-rd-viksit-bharat-2047-quiz-mygov-e-certificate-ends-20-november-guide.html)
-- [Hyv: invite-only AI assistant, features, access and limits](https://aicon-hub.github.io/posts/hyv-invite-only-ai-assistant-features-access-limits-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
