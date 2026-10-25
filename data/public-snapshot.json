@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-25 08:52 UTC",
-  "checked_at_ist": "25 Oct 2026, 02:22 PM IST",
-  "archive_entries": 676,
+  "checked_at_utc": "2026-10-25 09:51 UTC",
+  "checked_at_ist": "25 Oct 2026, 03:21 PM IST",
+  "archive_entries": 677,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "BitChord: a free YouTube Music client for Android, with lyrics",
+      "url": "https://aicon-hub.github.io/posts/bitchord-free-open-source-youtube-music-client-android-lyrics-guide.html"
+    },
     {
       "title": "Industrial R&D for Viksit Bharat 2047 Quiz: MyGov e-certificate, ends 20 November",
       "url": "https://aicon-hub.github.io/posts/industrial-rd-viksit-bharat-2047-quiz-mygov-e-certificate-ends-20-november-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Semantic Scholar: free paper search with one-line AI summaries",
       "url": "https://aicon-hub.github.io/posts/semantic-scholar-free-paper-search-ai-tldr-citations-guide.html"
-    },
-    {
-      "title": "PM-USP Special Scholarship for J&K and Ladakh: renew on NSP by 31 October",
-      "url": "https://aicon-hub.github.io/posts/pm-usp-sss-jk-ladakh-renewal-2026.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-25",
-        "count": 44
+        "count": 103
       }
     ],
     "commits": [
       {
-        "sha": "cc81314113a0749eb1413ae82d9c257e0fa6754b",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cc81314113a0749eb1413ae82d9c257e0fa6754b",
-        "date_utc": "25 Oct 2026, 07:23 UTC",
+        "sha": "a8229ce5e9272f66e8bdc10d75510bf4ff6b4ab5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a8229ce5e9272f66e8bdc10d75510bf4ff6b4ab5",
+        "date_utc": "25 Oct 2026, 09:51 UTC",
         "day": "2026-10-25",
-        "title": "Record Telegram publishing state"
+        "title": "Preview 2026: scripts/build-pages.py"
       },
       {
-        "sha": "2f120a1f20163f8a0a81b31044fbf5033d91e5a5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2f120a1f20163f8a0a81b31044fbf5033d91e5a5",
-        "date_utc": "25 Oct 2026, 07:23 UTC",
+        "sha": "08b1d201ee5e73871ca56c92dca6fa47b824dcdc",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/08b1d201ee5e73871ca56c92dca6fa47b824dcdc",
+        "date_utc": "25 Oct 2026, 09:51 UTC",
         "day": "2026-10-25",
-        "title": "Record Telegram publishing state"
+        "title": "Preview 2026: preview-2026/index.html"
       },
       {
-        "sha": "57547777acb70658be2952011d7cbed8cd75735f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/57547777acb70658be2952011d7cbed8cd75735f",
-        "date_utc": "25 Oct 2026, 07:23 UTC",
+        "sha": "99c6628e4f66b0a8009983746ee5b1d0b0137fc6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/99c6628e4f66b0a8009983746ee5b1d0b0137fc6",
+        "date_utc": "25 Oct 2026, 09:50 UTC",
         "day": "2026-10-25",
-        "title": "Record Telegram publishing state"
+        "title": "Preview 2026: preview-2026/assets/refresh-2026.css"
       },
       {
-        "sha": "ccd0ce06a9b68646ebadeb2d82fd176445537a02",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ccd0ce06a9b68646ebadeb2d82fd176445537a02",
-        "date_utc": "25 Oct 2026, 07:20 UTC",
+        "sha": "12f3222fe7e38fd858a5779244dcefb191fd5202",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/12f3222fe7e38fd858a5779244dcefb191fd5202",
+        "date_utc": "25 Oct 2026, 09:50 UTC",
         "day": "2026-10-25",
-        "title": "Add Industrial R&D quiz to sitemap"
+        "title": "Add semantic-scholar-free-paper-search-ai-tldr-citations-guide.html"
       },
       {
-        "sha": "dd3a1d844755fd084e405ab853aa771cc41b9a11",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/dd3a1d844755fd084e405ab853aa771cc41b9a11",
-        "date_utc": "25 Oct 2026, 07:19 UTC",
+        "sha": "1ad129c04e1b8ae98a99cddacb05e4ec602572d8",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1ad129c04e1b8ae98a99cddacb05e4ec602572d8",
+        "date_utc": "25 Oct 2026, 09:50 UTC",
         "day": "2026-10-25",
-        "title": "Add Industrial R&D quiz card"
+        "title": "Add pm-usp-sss-jk-ladakh-renewal-2026.html"
       }
     ],
-    "commit_total": 3041,
+    "commit_total": 3100,
     "calendar": [
       {
         "date": "2026-07-27",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-25",
         "level": 1,
-        "count": 25
+        "count": 68
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
