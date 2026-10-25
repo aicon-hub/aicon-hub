@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **25 Oct 2026, 06:31 PM IST** (2026-10-25 13:01 UTC).
+Checked **25 Oct 2026, 07:19 PM IST** (2026-10-25 13:49 UTC).
 
-**678 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**679 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **25 Oct 2026, 06:31 PM IST** (2026-10-25 13:01 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3113 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3125 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`44f5aaf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/44f5aafe479fe69ce70fb3589e2fe2c9dbdc9051) · 25 Oct 2026, 10:26 UTC · Record Telegram publishing state
-- [`12e0152`](https://github.com/aicon-hub/aicon-hub.github.io/commit/12e015271da2e9502bc1c52cc92e03d8f2a749c5) · 25 Oct 2026, 10:26 UTC · Record Telegram publishing state
-- [`0566ca2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0566ca29a163cf3e36e28b41d4b20718ebf25eab) · 25 Oct 2026, 10:25 UTC · Record Telegram publishing state
-- [`9ed2fc6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9ed2fc66b180cd8937207568b64fc5009c9d3858) · 25 Oct 2026, 10:22 UTC · Infocepts: sitemap.xml
-- [`a3e0fb3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a3e0fb3111c1d732dc3c98d191b2d5143a28579e) · 25 Oct 2026, 10:22 UTC · Infocepts: posts/index.html
+- [`12838ed`](https://github.com/aicon-hub/aicon-hub.github.io/commit/12838edc31beadbf59acf75453d9949fd58381b9) · 25 Oct 2026, 13:27 UTC · Record Telegram publishing state
+- [`b9ae74d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b9ae74dd294e9ee2ab2a0d371d336086d5e14d4c) · 25 Oct 2026, 13:27 UTC · Record Telegram publishing state
+- [`d420eaa`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d420eaa51a523993bd3708f8df650af3cd21adad) · 25 Oct 2026, 13:27 UTC · Record Telegram publishing state
+- [`1594f25`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1594f256030aa8a20ce496baaa7e2172baa2ec2d) · 25 Oct 2026, 13:24 UTC · Ambedkar quiz: sitemap.xml
+- [`0a468a8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0a468a843a2abadfd2038b357afaeced6fa68ea1) · 25 Oct 2026, 13:24 UTC · Ambedkar quiz: posts/index.html
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Dr. B. R. Ambedkar Quiz Competition 2026: free e-certificate on MyGov, open till 14 April 2027](https://aicon-hub.github.io/posts/dr-br-ambedkar-quiz-competition-2026-mygov-e-certificate-guide.html)
 - [Infocepts Innovate for Impact Scholarship 2026-27: up to ₹50,000 a year, apply by 30 October](https://aicon-hub.github.io/posts/infocepts-innovate-for-impact-scholarship-2026-27-apply-by-30-october-guide.html)
 - [BitChord: a free YouTube Music client for Android, with lyrics](https://aicon-hub.github.io/posts/bitchord-free-open-source-youtube-music-client-android-lyrics-guide.html)
-- [Industrial R&D for Viksit Bharat 2047 Quiz: MyGov e-certificate, ends 20 November](https://aicon-hub.github.io/posts/industrial-rd-viksit-bharat-2047-quiz-mygov-e-certificate-ends-20-november-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---

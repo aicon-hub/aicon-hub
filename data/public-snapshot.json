@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-25 13:01 UTC",
-  "checked_at_ist": "25 Oct 2026, 06:31 PM IST",
-  "archive_entries": 678,
+  "checked_at_utc": "2026-10-25 13:49 UTC",
+  "checked_at_ist": "25 Oct 2026, 07:19 PM IST",
+  "archive_entries": 679,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Dr. B. R. Ambedkar Quiz Competition 2026: free e-certificate on MyGov, open till 14 April 2027",
+      "url": "https://aicon-hub.github.io/posts/dr-br-ambedkar-quiz-competition-2026-mygov-e-certificate-guide.html"
+    },
     {
       "title": "Infocepts Innovate for Impact Scholarship 2026-27: up to ₹50,000 a year, apply by 30 October",
       "url": "https://aicon-hub.github.io/posts/infocepts-innovate-for-impact-scholarship-2026-27-apply-by-30-october-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Hyv: invite-only AI assistant, features, access and limits",
       "url": "https://aicon-hub.github.io/posts/hyv-invite-only-ai-assistant-features-access-limits-guide.html"
-    },
-    {
-      "title": "JEE Main 2027 Session 1: apply by 22 November",
-      "url": "https://aicon-hub.github.io/posts/jee-main-2027-session-1-apply-by-22-november-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-25",
-        "count": 116
+        "count": 128
       }
     ],
     "commits": [
       {
-        "sha": "44f5aafe479fe69ce70fb3589e2fe2c9dbdc9051",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/44f5aafe479fe69ce70fb3589e2fe2c9dbdc9051",
-        "date_utc": "25 Oct 2026, 10:26 UTC",
+        "sha": "12838edc31beadbf59acf75453d9949fd58381b9",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/12838edc31beadbf59acf75453d9949fd58381b9",
+        "date_utc": "25 Oct 2026, 13:27 UTC",
         "day": "2026-10-25",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "12e015271da2e9502bc1c52cc92e03d8f2a749c5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/12e015271da2e9502bc1c52cc92e03d8f2a749c5",
-        "date_utc": "25 Oct 2026, 10:26 UTC",
+        "sha": "b9ae74dd294e9ee2ab2a0d371d336086d5e14d4c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b9ae74dd294e9ee2ab2a0d371d336086d5e14d4c",
+        "date_utc": "25 Oct 2026, 13:27 UTC",
         "day": "2026-10-25",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "0566ca29a163cf3e36e28b41d4b20718ebf25eab",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0566ca29a163cf3e36e28b41d4b20718ebf25eab",
-        "date_utc": "25 Oct 2026, 10:25 UTC",
+        "sha": "d420eaa51a523993bd3708f8df650af3cd21adad",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d420eaa51a523993bd3708f8df650af3cd21adad",
+        "date_utc": "25 Oct 2026, 13:27 UTC",
         "day": "2026-10-25",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "9ed2fc66b180cd8937207568b64fc5009c9d3858",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9ed2fc66b180cd8937207568b64fc5009c9d3858",
-        "date_utc": "25 Oct 2026, 10:22 UTC",
+        "sha": "1594f256030aa8a20ce496baaa7e2172baa2ec2d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1594f256030aa8a20ce496baaa7e2172baa2ec2d",
+        "date_utc": "25 Oct 2026, 13:24 UTC",
         "day": "2026-10-25",
-        "title": "Infocepts: sitemap.xml"
+        "title": "Ambedkar quiz: sitemap.xml"
       },
       {
-        "sha": "a3e0fb3111c1d732dc3c98d191b2d5143a28579e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a3e0fb3111c1d732dc3c98d191b2d5143a28579e",
-        "date_utc": "25 Oct 2026, 10:22 UTC",
+        "sha": "0a468a843a2abadfd2038b357afaeced6fa68ea1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0a468a843a2abadfd2038b357afaeced6fa68ea1",
+        "date_utc": "25 Oct 2026, 13:24 UTC",
         "day": "2026-10-25",
-        "title": "Infocepts: posts/index.html"
+        "title": "Ambedkar quiz: posts/index.html"
       }
     ],
-    "commit_total": 3113,
+    "commit_total": 3125,
     "calendar": [
       {
         "date": "2026-07-27",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-25",
         "level": 1,
-        "count": 76
+        "count": 85
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
