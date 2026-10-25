@@ -1,11 +1,19 @@
 {
-  "checked_at_utc": "2026-10-25 01:01 UTC",
-  "checked_at_ist": "25 Oct 2026, 06:31 AM IST",
-  "archive_entries": 672,
+  "checked_at_utc": "2026-10-25 01:49 UTC",
+  "checked_at_ist": "25 Oct 2026, 07:19 AM IST",
+  "archive_entries": 674,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "JEE Main 2027 Session 1: apply by 22 November",
+      "url": "https://aicon-hub.github.io/posts/jee-main-2027-session-1-apply-by-22-november-guide.html"
+    },
+    {
+      "title": "Semantic Scholar: free paper search with one-line AI summaries",
+      "url": "https://aicon-hub.github.io/posts/semantic-scholar-free-paper-search-ai-tldr-citations-guide.html"
+    },
     {
       "title": "PM-USP Special Scholarship for J&K and Ladakh: renew on NSP by 31 October",
       "url": "https://aicon-hub.github.io/posts/pm-usp-sss-jk-ladakh-renewal-2026.html"
@@ -17,14 +25,6 @@
     {
       "title": "UGC NET December 2026: apply by 28 October",
       "url": "https://aicon-hub.github.io/posts/ugc-net-december-2026-apply-by-28-october-guide.html"
-    },
-    {
-      "title": "LanguageTool: a free AI grammar checker, with a 2,000-character limit",
-      "url": "https://aicon-hub.github.io/posts/languagetool-free-ai-grammar-checker-web-editor-2000-characters-guide.html"
-    },
-    {
-      "title": "Metrolist: ad-free YouTube Music for Android, with privacy caveats",
-      "url": "https://aicon-hub.github.io/posts/metrolist-youtube-music-client.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-25",
-        "count": 0
+        "count": 21
       }
     ],
     "commits": [
       {
-        "sha": "9fbbc3bcd8cd7f69c22f084369dfd4d4dbe954a6",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9fbbc3bcd8cd7f69c22f084369dfd4d4dbe954a6",
-        "date_utc": "24 Oct 2026, 18:43 UTC",
-        "day": "2026-10-24",
-        "title": "Fellowships article: drop MST logo carrying national emblem (text fallback)"
+        "sha": "f65ab955c31082d1b4d293bf15060f2656f6d96b",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f65ab955c31082d1b4d293bf15060f2656f6d96b",
+        "date_utc": "25 Oct 2026, 01:36 UTC",
+        "day": "2026-10-25",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "1f85bf60c818bb8e60619ad2b46edb64563888f6",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1f85bf60c818bb8e60619ad2b46edb64563888f6",
-        "date_utc": "24 Oct 2026, 17:27 UTC",
-        "day": "2026-10-24",
-        "title": "Add pm-gatishakti-quiz-banner-noemblem.svg (header crop, no emblem)"
+        "sha": "e6e56ca811f7195ff940fec4a47ffd5f9d2ffde0",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e6e56ca811f7195ff940fec4a47ffd5f9d2ffde0",
+        "date_utc": "25 Oct 2026, 01:36 UTC",
+        "day": "2026-10-25",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "a809b79d44eb27631b7fd6833f8c20fd5f640771",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a809b79d44eb27631b7fd6833f8c20fd5f640771",
-        "date_utc": "24 Oct 2026, 17:27 UTC",
-        "day": "2026-10-24",
-        "title": "Add dpdp-logo-banner-noemblem.svg (header crop, no emblem)"
+        "sha": "07a54658345bae12d56b095f61948216e32415e0",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/07a54658345bae12d56b095f61948216e32415e0",
+        "date_utc": "25 Oct 2026, 01:36 UTC",
+        "day": "2026-10-25",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "e64d4c12e07b9ba572128888049832b2cf7cbf78",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e64d4c12e07b9ba572128888049832b2cf7cbf78",
-        "date_utc": "24 Oct 2026, 17:26 UTC",
-        "day": "2026-10-24",
-        "title": "Add doordarshan67-banner-noemblem.svg (header crop, no emblem)"
+        "sha": "fd0f4ef0e43973314309aa0a53e5d2e2b3c163fe",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fd0f4ef0e43973314309aa0a53e5d2e2b3c163fe",
+        "date_utc": "25 Oct 2026, 01:33 UTC",
+        "day": "2026-10-25",
+        "title": "Add JEE Main 2027 Session 1 to sitemap"
       },
       {
-        "sha": "4b81a79b9cdedc73246af98161bc95176de66377",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4b81a79b9cdedc73246af98161bc95176de66377",
-        "date_utc": "24 Oct 2026, 17:26 UTC",
-        "day": "2026-10-24",
-        "title": "Add cyber-quiz-dsci-banner-noemblem.svg (header crop, no emblem)"
+        "sha": "e9cdc3cf20da88c7fe2a4701de2b4c3377019a68",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e9cdc3cf20da88c7fe2a4701de2b4c3377019a68",
+        "date_utc": "25 Oct 2026, 01:33 UTC",
+        "day": "2026-10-25",
+        "title": "Add JEE Main 2027 Session 1 card"
       }
     ],
-    "commit_total": 2997,
+    "commit_total": 3018,
     "calendar": [
       {
         "date": "2026-07-27",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-25",
         "level": 1,
-        "count": 1
+        "count": 12
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

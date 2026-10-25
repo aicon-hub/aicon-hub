@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **25 Oct 2026, 06:31 AM IST** (2026-10-25 01:01 UTC).
+Checked **25 Oct 2026, 07:19 AM IST** (2026-10-25 01:49 UTC).
 
-**672 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**674 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **25 Oct 2026, 06:31 AM IST** (2026-10-25 01:01 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2997 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3018 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`9fbbc3b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9fbbc3bcd8cd7f69c22f084369dfd4d4dbe954a6) · 24 Oct 2026, 18:43 UTC · Fellowships article: drop MST logo carrying national emblem (text fallback)
-- [`1f85bf6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1f85bf60c818bb8e60619ad2b46edb64563888f6) · 24 Oct 2026, 17:27 UTC · Add pm-gatishakti-quiz-banner-noemblem.svg (header crop, no emblem)
-- [`a809b79`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a809b79d44eb27631b7fd6833f8c20fd5f640771) · 24 Oct 2026, 17:27 UTC · Add dpdp-logo-banner-noemblem.svg (header crop, no emblem)
-- [`e64d4c1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e64d4c12e07b9ba572128888049832b2cf7cbf78) · 24 Oct 2026, 17:26 UTC · Add doordarshan67-banner-noemblem.svg (header crop, no emblem)
-- [`4b81a79`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4b81a79b9cdedc73246af98161bc95176de66377) · 24 Oct 2026, 17:26 UTC · Add cyber-quiz-dsci-banner-noemblem.svg (header crop, no emblem)
+- [`f65ab95`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f65ab955c31082d1b4d293bf15060f2656f6d96b) · 25 Oct 2026, 01:36 UTC · Record Telegram publishing state
+- [`e6e56ca`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e6e56ca811f7195ff940fec4a47ffd5f9d2ffde0) · 25 Oct 2026, 01:36 UTC · Record Telegram publishing state
+- [`07a5465`](https://github.com/aicon-hub/aicon-hub.github.io/commit/07a54658345bae12d56b095f61948216e32415e0) · 25 Oct 2026, 01:36 UTC · Record Telegram publishing state
+- [`fd0f4ef`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fd0f4ef0e43973314309aa0a53e5d2e2b3c163fe) · 25 Oct 2026, 01:33 UTC · Add JEE Main 2027 Session 1 to sitemap
+- [`e9cdc3c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e9cdc3cf20da88c7fe2a4701de2b4c3377019a68) · 25 Oct 2026, 01:33 UTC · Add JEE Main 2027 Session 1 card
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [JEE Main 2027 Session 1: apply by 22 November](https://aicon-hub.github.io/posts/jee-main-2027-session-1-apply-by-22-november-guide.html)
+- [Semantic Scholar: free paper search with one-line AI summaries](https://aicon-hub.github.io/posts/semantic-scholar-free-paper-search-ai-tldr-citations-guide.html)
 - [PM-USP Special Scholarship for J&K and Ladakh: renew on NSP by 31 October](https://aicon-hub.github.io/posts/pm-usp-sss-jk-ladakh-renewal-2026.html)
-- [CSIR NET December 2026: apply by 5 November](https://aicon-hub.github.io/posts/csir-ugc-net-december-2026-apply-by-5-november-guide.html)
-- [UGC NET December 2026: apply by 28 October](https://aicon-hub.github.io/posts/ugc-net-december-2026-apply-by-28-october-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
