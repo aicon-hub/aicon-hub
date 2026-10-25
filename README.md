@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **25 Oct 2026, 12:36 PM IST** (2026-10-25 07:06 UTC).
+Checked **25 Oct 2026, 01:23 PM IST** (2026-10-25 07:53 UTC).
 
-**675 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**676 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **25 Oct 2026, 12:36 PM IST** (2026-10-25 07:06 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3031 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3041 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`7c2bd97`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7c2bd97f9bd045af5c721f628da4b3aac3073775) · 25 Oct 2026, 07:00 UTC · Record Telegram publishing state
-- [`7524a86`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7524a86691e480b0c768aaac791d74fb3a98e031) · 25 Oct 2026, 07:00 UTC · Record Telegram publishing state
-- [`6a898f7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6a898f7792e8372b30b43446fcd2337e9c5cab20) · 25 Oct 2026, 07:00 UTC · Record Telegram publishing state
-- [`7fb08c8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7fb08c8842f3b7790ad2314f07e968dea051d7cf) · 25 Oct 2026, 06:57 UTC · Hyv: local official wordmark under category chip
-- [`160691c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/160691c8ae3b19a202e37057882d25949130ef8c) · 25 Oct 2026, 06:56 UTC · Hyv: text-only registry (publisher blocks hotlinking)
+- [`cc81314`](https://github.com/aicon-hub/aicon-hub.github.io/commit/cc81314113a0749eb1413ae82d9c257e0fa6754b) · 25 Oct 2026, 07:23 UTC · Record Telegram publishing state
+- [`2f120a1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2f120a1f20163f8a0a81b31044fbf5033d91e5a5) · 25 Oct 2026, 07:23 UTC · Record Telegram publishing state
+- [`5754777`](https://github.com/aicon-hub/aicon-hub.github.io/commit/57547777acb70658be2952011d7cbed8cd75735f) · 25 Oct 2026, 07:23 UTC · Record Telegram publishing state
+- [`ccd0ce0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ccd0ce06a9b68646ebadeb2d82fd176445537a02) · 25 Oct 2026, 07:20 UTC · Add Industrial R&D quiz to sitemap
+- [`dd3a1d8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/dd3a1d844755fd084e405ab853aa771cc41b9a11) · 25 Oct 2026, 07:19 UTC · Add Industrial R&D quiz card
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Industrial R&D for Viksit Bharat 2047 Quiz: MyGov e-certificate, ends 20 November](https://aicon-hub.github.io/posts/industrial-rd-viksit-bharat-2047-quiz-mygov-e-certificate-ends-20-november-guide.html)
 - [Hyv: invite-only AI assistant, features, access and limits](https://aicon-hub.github.io/posts/hyv-invite-only-ai-assistant-features-access-limits-guide.html)
 - [JEE Main 2027 Session 1: apply by 22 November](https://aicon-hub.github.io/posts/jee-main-2027-session-1-apply-by-22-november-guide.html)
-- [Semantic Scholar: free paper search with one-line AI summaries](https://aicon-hub.github.io/posts/semantic-scholar-free-paper-search-ai-tldr-citations-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---

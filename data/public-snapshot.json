@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-25 07:06 UTC",
-  "checked_at_ist": "25 Oct 2026, 12:36 PM IST",
-  "archive_entries": 675,
+  "checked_at_utc": "2026-10-25 07:53 UTC",
+  "checked_at_ist": "25 Oct 2026, 01:23 PM IST",
+  "archive_entries": 676,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Industrial R&D for Viksit Bharat 2047 Quiz: MyGov e-certificate, ends 20 November",
+      "url": "https://aicon-hub.github.io/posts/industrial-rd-viksit-bharat-2047-quiz-mygov-e-certificate-ends-20-november-guide.html"
+    },
     {
       "title": "Hyv: invite-only AI assistant, features, access and limits",
       "url": "https://aicon-hub.github.io/posts/hyv-invite-only-ai-assistant-features-access-limits-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "PM-USP Special Scholarship for J&K and Ladakh: renew on NSP by 31 October",
       "url": "https://aicon-hub.github.io/posts/pm-usp-sss-jk-ladakh-renewal-2026.html"
-    },
-    {
-      "title": "CSIR NET December 2026: apply by 5 November",
-      "url": "https://aicon-hub.github.io/posts/csir-ugc-net-december-2026-apply-by-5-november-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-25",
-        "count": 34
+        "count": 44
       }
     ],
     "commits": [
       {
-        "sha": "7c2bd97f9bd045af5c721f628da4b3aac3073775",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7c2bd97f9bd045af5c721f628da4b3aac3073775",
-        "date_utc": "25 Oct 2026, 07:00 UTC",
+        "sha": "cc81314113a0749eb1413ae82d9c257e0fa6754b",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cc81314113a0749eb1413ae82d9c257e0fa6754b",
+        "date_utc": "25 Oct 2026, 07:23 UTC",
         "day": "2026-10-25",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7524a86691e480b0c768aaac791d74fb3a98e031",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7524a86691e480b0c768aaac791d74fb3a98e031",
-        "date_utc": "25 Oct 2026, 07:00 UTC",
+        "sha": "2f120a1f20163f8a0a81b31044fbf5033d91e5a5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2f120a1f20163f8a0a81b31044fbf5033d91e5a5",
+        "date_utc": "25 Oct 2026, 07:23 UTC",
         "day": "2026-10-25",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "6a898f7792e8372b30b43446fcd2337e9c5cab20",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6a898f7792e8372b30b43446fcd2337e9c5cab20",
-        "date_utc": "25 Oct 2026, 07:00 UTC",
+        "sha": "57547777acb70658be2952011d7cbed8cd75735f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/57547777acb70658be2952011d7cbed8cd75735f",
+        "date_utc": "25 Oct 2026, 07:23 UTC",
         "day": "2026-10-25",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7fb08c8842f3b7790ad2314f07e968dea051d7cf",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7fb08c8842f3b7790ad2314f07e968dea051d7cf",
-        "date_utc": "25 Oct 2026, 06:57 UTC",
+        "sha": "ccd0ce06a9b68646ebadeb2d82fd176445537a02",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ccd0ce06a9b68646ebadeb2d82fd176445537a02",
+        "date_utc": "25 Oct 2026, 07:20 UTC",
         "day": "2026-10-25",
-        "title": "Hyv: local official wordmark under category chip"
+        "title": "Add Industrial R&D quiz to sitemap"
       },
       {
-        "sha": "160691c8ae3b19a202e37057882d25949130ef8c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/160691c8ae3b19a202e37057882d25949130ef8c",
-        "date_utc": "25 Oct 2026, 06:56 UTC",
+        "sha": "dd3a1d844755fd084e405ab853aa771cc41b9a11",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/dd3a1d844755fd084e405ab853aa771cc41b9a11",
+        "date_utc": "25 Oct 2026, 07:19 UTC",
         "day": "2026-10-25",
-        "title": "Hyv: text-only registry (publisher blocks hotlinking)"
+        "title": "Add Industrial R&D quiz card"
       }
     ],
-    "commit_total": 3031,
+    "commit_total": 3041,
     "calendar": [
       {
         "date": "2026-07-27",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-25",
         "level": 1,
-        "count": 20
+        "count": 25
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
