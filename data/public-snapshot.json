@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-25 15:50 UTC",
-  "checked_at_ist": "25 Oct 2026, 09:20 PM IST",
-  "archive_entries": 679,
+  "checked_at_utc": "2026-10-25 16:51 UTC",
+  "checked_at_ist": "25 Oct 2026, 10:21 PM IST",
+  "archive_entries": 680,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "National Renewable Energy Fellowship 2026-27: how it works",
+      "url": "https://aicon-hub.github.io/posts/national-renewable-energy-fellowship-2026-27-how-it-works-guide.html"
+    },
     {
       "title": "Dr. B. R. Ambedkar Quiz Competition 2026: free e-certificate on MyGov, open till 14 April 2027",
       "url": "https://aicon-hub.github.io/posts/dr-br-ambedkar-quiz-competition-2026-mygov-e-certificate-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Industrial R&D for Viksit Bharat 2047 Quiz: MyGov e-certificate, ends 20 November",
       "url": "https://aicon-hub.github.io/posts/industrial-rd-viksit-bharat-2047-quiz-mygov-e-certificate-ends-20-november-guide.html"
-    },
-    {
-      "title": "Hyv: invite-only AI assistant, features, access and limits",
-      "url": "https://aicon-hub.github.io/posts/hyv-invite-only-ai-assistant-features-access-limits-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-25",
-        "count": 128
+        "count": 141
       }
     ],
     "commits": [
       {
-        "sha": "12838edc31beadbf59acf75453d9949fd58381b9",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/12838edc31beadbf59acf75453d9949fd58381b9",
-        "date_utc": "25 Oct 2026, 13:27 UTC",
+        "sha": "5e91948c955707b1befaa4846fe6abd212622d19",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5e91948c955707b1befaa4846fe6abd212622d19",
+        "date_utc": "25 Oct 2026, 16:32 UTC",
+        "day": "2026-10-25",
+        "title": "NREF: soften lead, direct-application route unconfirmed"
+      },
+      {
+        "sha": "d82f8a1a8517c81d2cba85e9cc8238ca6de77a6b",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d82f8a1a8517c81d2cba85e9cc8238ca6de77a6b",
+        "date_utc": "25 Oct 2026, 16:29 UTC",
         "day": "2026-10-25",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "b9ae74dd294e9ee2ab2a0d371d336086d5e14d4c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b9ae74dd294e9ee2ab2a0d371d336086d5e14d4c",
-        "date_utc": "25 Oct 2026, 13:27 UTC",
+        "sha": "a71e54bb79f48716c06573d5fd0d2c03346eb271",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a71e54bb79f48716c06573d5fd0d2c03346eb271",
+        "date_utc": "25 Oct 2026, 16:29 UTC",
         "day": "2026-10-25",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "d420eaa51a523993bd3708f8df650af3cd21adad",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d420eaa51a523993bd3708f8df650af3cd21adad",
-        "date_utc": "25 Oct 2026, 13:27 UTC",
+        "sha": "8481d806ddcdcff500aecb07b5358b83284b97f4",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8481d806ddcdcff500aecb07b5358b83284b97f4",
+        "date_utc": "25 Oct 2026, 16:29 UTC",
         "day": "2026-10-25",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "1594f256030aa8a20ce496baaa7e2172baa2ec2d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1594f256030aa8a20ce496baaa7e2172baa2ec2d",
-        "date_utc": "25 Oct 2026, 13:24 UTC",
+        "sha": "ff96fde7fdf2d54a4bed759c67e13b887015e32c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ff96fde7fdf2d54a4bed759c67e13b887015e32c",
+        "date_utc": "25 Oct 2026, 16:26 UTC",
         "day": "2026-10-25",
-        "title": "Ambedkar quiz: sitemap.xml"
-      },
-      {
-        "sha": "0a468a843a2abadfd2038b357afaeced6fa68ea1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0a468a843a2abadfd2038b357afaeced6fa68ea1",
-        "date_utc": "25 Oct 2026, 13:24 UTC",
-        "day": "2026-10-25",
-        "title": "Ambedkar quiz: posts/index.html"
+        "title": "NREF explainer: posts/national-renewable-energy-fellowship-2026-27-nsp-jrf-mtech-apply-by-31-october-guide.html"
       }
     ],
-    "commit_total": 3125,
+    "commit_total": 3138,
     "calendar": [
       {
         "date": "2026-07-27",
@@ -584,8 +584,8 @@
       },
       {
         "date": "2026-10-25",
-        "level": 1,
-        "count": 85
+        "level": 2,
+        "count": 93
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
