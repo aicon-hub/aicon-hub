@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **25 Oct 2026, 11:20 AM IST** (2026-10-25 05:50 UTC).
+Checked **25 Oct 2026, 12:36 PM IST** (2026-10-25 07:06 UTC).
 
-**674 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**675 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **25 Oct 2026, 11:20 AM IST** (2026-10-25 05:50 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3020 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3031 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`c803f1e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c803f1e809fa5659f1bb128e141933e3bc7a4123) · 25 Oct 2026, 04:16 UTC · Correct Keep India Smiling BDS call status after verification
-- [`ec078df`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ec078dfee6e63e9522f35d5160ddd83bbaf78f2d) · 25 Oct 2026, 04:10 UTC · Add Colgate Keep India Smiling BDS scholarship guide
-- [`f65ab95`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f65ab955c31082d1b4d293bf15060f2656f6d96b) · 25 Oct 2026, 01:36 UTC · Record Telegram publishing state
-- [`e6e56ca`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e6e56ca811f7195ff940fec4a47ffd5f9d2ffde0) · 25 Oct 2026, 01:36 UTC · Record Telegram publishing state
-- [`07a5465`](https://github.com/aicon-hub/aicon-hub.github.io/commit/07a54658345bae12d56b095f61948216e32415e0) · 25 Oct 2026, 01:36 UTC · Record Telegram publishing state
+- [`7c2bd97`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7c2bd97f9bd045af5c721f628da4b3aac3073775) · 25 Oct 2026, 07:00 UTC · Record Telegram publishing state
+- [`7524a86`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7524a86691e480b0c768aaac791d74fb3a98e031) · 25 Oct 2026, 07:00 UTC · Record Telegram publishing state
+- [`6a898f7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6a898f7792e8372b30b43446fcd2337e9c5cab20) · 25 Oct 2026, 07:00 UTC · Record Telegram publishing state
+- [`7fb08c8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7fb08c8842f3b7790ad2314f07e968dea051d7cf) · 25 Oct 2026, 06:57 UTC · Hyv: local official wordmark under category chip
+- [`160691c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/160691c8ae3b19a202e37057882d25949130ef8c) · 25 Oct 2026, 06:56 UTC · Hyv: text-only registry (publisher blocks hotlinking)
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Hyv: invite-only AI assistant, features, access and limits](https://aicon-hub.github.io/posts/hyv-invite-only-ai-assistant-features-access-limits-guide.html)
 - [JEE Main 2027 Session 1: apply by 22 November](https://aicon-hub.github.io/posts/jee-main-2027-session-1-apply-by-22-november-guide.html)
 - [Semantic Scholar: free paper search with one-line AI summaries](https://aicon-hub.github.io/posts/semantic-scholar-free-paper-search-ai-tldr-citations-guide.html)
-- [PM-USP Special Scholarship for J&K and Ladakh: renew on NSP by 31 October](https://aicon-hub.github.io/posts/pm-usp-sss-jk-ladakh-renewal-2026.html)
 <!-- AICON:LATEST:END -->
 
 ---
