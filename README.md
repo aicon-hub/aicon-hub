@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **26 Oct 2026, 05:13 AM IST** (2026-10-25 23:43 UTC).
+Checked **26 Oct 2026, 06:46 AM IST** (2026-10-26 01:16 UTC).
 
 **680 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **26 Oct 2026, 05:13 AM IST** (2026-10-25 23:43 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3138 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2934 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
+- [`c256cb6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c256cb6ceda68660189179230d146b8185e71541) · 25 Oct 2026, 23:44 UTC · Rotate tg-reader certificate
 - [`5e91948`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5e91948c955707b1befaa4846fe6abd212622d19) · 25 Oct 2026, 16:32 UTC · NREF: soften lead, direct-application route unconfirmed
 - [`d82f8a1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d82f8a1a8517c81d2cba85e9cc8238ca6de77a6b) · 25 Oct 2026, 16:29 UTC · Record Telegram publishing state
 - [`a71e54b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a71e54bb79f48716c06573d5fd0d2c03346eb271) · 25 Oct 2026, 16:29 UTC · Record Telegram publishing state
 - [`8481d80`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8481d806ddcdcff500aecb07b5358b83284b97f4) · 25 Oct 2026, 16:29 UTC · Record Telegram publishing state
-- [`ff96fde`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ff96fde7fdf2d54a4bed759c67e13b887015e32c) · 25 Oct 2026, 16:26 UTC · NREF explainer: posts/national-renewable-energy-fellowship-2026-27-nsp-jrf-mtech-apply-by-31-october-guide.html
 <!-- AICON:COMMITS:END -->
 
 </details>
