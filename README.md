@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **26 Oct 2026, 09:17 PM IST** (2026-10-26 15:47 UTC).
+Checked **26 Oct 2026, 10:34 PM IST** (2026-10-26 17:04 UTC).
 
 **685 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **26 Oct 2026, 09:17 PM IST** (2026-10-26 15:47 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3037 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3041 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
+- [`0aa8b6a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0aa8b6aee3ca6916490f3a80cb72104d1d728704) · 26 Oct 2026, 16:35 UTC · Record Telegram publishing state
+- [`838a0a3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/838a0a3ccb39d627e79c710ed733fbe16342830b) · 26 Oct 2026, 16:35 UTC · Record Telegram publishing state
+- [`7f1da5e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7f1da5e6e80325e734943f75d0e7b860182a8722) · 26 Oct 2026, 16:35 UTC · Record Telegram publishing state
+- [`1001b11`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1001b119d42bb22e0e6c606a148b2ab072c245cb) · 26 Oct 2026, 16:32 UTC · Add overseas scholarship poster v3 with e-grantz wordmark
 - [`fcb798b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fcb798b7a61c958701ccb2c5a038e2ab86fdde44) · 26 Oct 2026, 13:29 UTC · Overseas guide: online application plus printout and annexures wording
-- [`e250007`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e25000762e011d474a15e3976772a65b4fcee15d) · 26 Oct 2026, 13:27 UTC · Record Telegram publishing state
-- [`d4496e5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d4496e522e30e5587fd7ae934a6299d7447822e8) · 26 Oct 2026, 13:27 UTC · Record Telegram publishing state
-- [`82de3fa`](https://github.com/aicon-hub/aicon-hub.github.io/commit/82de3fafba0bbd075cb2d201018384ad4d81db7e) · 26 Oct 2026, 13:27 UTC · Record Telegram publishing state
-- [`870fbd0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/870fbd0b0e33e5f4dd4d1e58a808ce7d5b623849) · 26 Oct 2026, 13:24 UTC · Index card: Kerala OBC Overseas Scholarship 2026-27
 <!-- AICON:COMMITS:END -->
 
 </details>
