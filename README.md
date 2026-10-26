@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **26 Oct 2026, 03:35 PM IST** (2026-10-26 10:05 UTC).
+Checked **26 Oct 2026, 04:30 PM IST** (2026-10-26 11:00 UTC).
 
 **684 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **26 Oct 2026, 03:35 PM IST** (2026-10-26 10:05 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2999 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3025 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`2597038`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2597038c1fc9496f9aa3137fc01b315e16345cda) · 26 Oct 2026, 07:28 UTC · Replace old Ente Bhoomi poster asset with corrected v3
-- [`ab28ac0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ab28ac0699e9b589845452c123922cc2075d7198) · 26 Oct 2026, 07:26 UTC · Record Telegram publishing state
-- [`81a90d2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/81a90d2ed307b5ca3625cdcbc9cea793bf0df290) · 26 Oct 2026, 07:26 UTC · Record Telegram publishing state
-- [`771d89d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/771d89d82ba28f07929f1c10ec808b77e52e7637) · 26 Oct 2026, 07:26 UTC · Record Telegram publishing state
-- [`dbceb9d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/dbceb9def1fddab0d6565d0a48e3c132e494779f) · 26 Oct 2026, 07:25 UTC · Host corrected Ente Bhoomi poster v3
+- [`0364f01`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0364f01ad32eaefe38ce546c0e7e6b7c1dc73f59) · 26 Oct 2026, 10:57 UTC · Record Telegram publishing state
+- [`f6f8197`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f6f81970d4310ae9ec66fa486fdf984f4aa1fa3a) · 26 Oct 2026, 10:57 UTC · Record Telegram publishing state
+- [`9191a94`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9191a94bdd2b05b02cfe7c0eac02533a349d2893) · 26 Oct 2026, 10:57 UTC · Record Telegram publishing state
+- [`e6899c1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e6899c16a35ea97ddb274b6fd3017fa04c5d2eec) · 26 Oct 2026, 10:54 UTC · Ente Bhoomi: use official government and Ente Bhoomi logo
+- [`f61e0dc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f61e0dc793e9f0ae95959dfa684aa3756a0087db) · 26 Oct 2026, 10:54 UTC · Ente Bhoomi: poster v4 original
 <!-- AICON:COMMITS:END -->
 
 </details>
