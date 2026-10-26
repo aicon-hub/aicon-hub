@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-26 19:09 UTC",
-  "checked_at_ist": "27 Oct 2026, 12:39 AM IST",
-  "archive_entries": 685,
+  "checked_at_utc": "2026-10-26 19:57 UTC",
+  "checked_at_ist": "27 Oct 2026, 01:27 AM IST",
+  "archive_entries": 686,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Ensu: a free AI chat app that runs on your device, with no account",
+      "url": "https://aicon-hub.github.io/posts/ensu-ente-free-offline-ai-chat-app-no-account-guide.html"
+    },
     {
       "title": "Kerala OBC Overseas Scholarship 2026-27: up to ₹10 lakh for PG or PhD abroad, apply by 31 October",
       "url": "https://aicon-hub.github.io/posts/kerala-obc-overseas-scholarship-2026-27-egrantz-up-to-10-lakh-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Vidyadhan Mathura Scholarship for Women in STEM 2026-27: up to ₹75,000 a year, apply by 31 October",
       "url": "https://aicon-hub.github.io/posts/vidyadhan-mathura-women-stem-scholarship-2026-27-apply-by-31-october-guide.html"
-    },
-    {
-      "title": "Shruti: free Hindi and Hinglish speech to text in your browser",
-      "url": "https://aicon-hub.github.io/posts/shruti-free-hindi-hinglish-speech-to-text-offline-browser-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-26",
-        "count": 107
+        "count": 117
       }
     ],
     "commits": [
       {
-        "sha": "0aa8b6aee3ca6916490f3a80cb72104d1d728704",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0aa8b6aee3ca6916490f3a80cb72104d1d728704",
-        "date_utc": "26 Oct 2026, 16:35 UTC",
+        "sha": "30e746dadb3a9846b6d27eda13a227e6eeb316b8",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/30e746dadb3a9846b6d27eda13a227e6eeb316b8",
+        "date_utc": "26 Oct 2026, 19:19 UTC",
         "day": "2026-10-26",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "838a0a3ccb39d627e79c710ed733fbe16342830b",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/838a0a3ccb39d627e79c710ed733fbe16342830b",
-        "date_utc": "26 Oct 2026, 16:35 UTC",
+        "sha": "d3b50254599d046bc5ce364c5f5f611cc939083a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d3b50254599d046bc5ce364c5f5f611cc939083a",
+        "date_utc": "26 Oct 2026, 19:19 UTC",
         "day": "2026-10-26",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7f1da5e6e80325e734943f75d0e7b860182a8722",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7f1da5e6e80325e734943f75d0e7b860182a8722",
-        "date_utc": "26 Oct 2026, 16:35 UTC",
+        "sha": "dbec67548f1fb39c9801b63869799232308a0dd9",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/dbec67548f1fb39c9801b63869799232308a0dd9",
+        "date_utc": "26 Oct 2026, 19:19 UTC",
         "day": "2026-10-26",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "1001b119d42bb22e0e6c606a148b2ab072c245cb",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1001b119d42bb22e0e6c606a148b2ab072c245cb",
-        "date_utc": "26 Oct 2026, 16:32 UTC",
+        "sha": "ce89435aa01c8ca5d761d729f6f5d2dd6e1f91aa",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ce89435aa01c8ca5d761d729f6f5d2dd6e1f91aa",
+        "date_utc": "26 Oct 2026, 19:17 UTC",
         "day": "2026-10-26",
-        "title": "Add overseas scholarship poster v3 with e-grantz wordmark"
+        "title": "Index card: Ensu guide"
       },
       {
-        "sha": "fcb798b7a61c958701ccb2c5a038e2ab86fdde44",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fcb798b7a61c958701ccb2c5a038e2ab86fdde44",
-        "date_utc": "26 Oct 2026, 13:29 UTC",
+        "sha": "92be669b4d4b5632e205f7bf2f4d45a5493f9d06",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/92be669b4d4b5632e205f7bf2f4d45a5493f9d06",
+        "date_utc": "26 Oct 2026, 19:16 UTC",
         "day": "2026-10-26",
-        "title": "Overseas guide: online application plus printout and annexures wording"
+        "title": "Registry: Ensu guide"
       }
     ],
-    "commit_total": 3041,
+    "commit_total": 3051,
     "calendar": [
       {
         "date": "2026-07-28",
