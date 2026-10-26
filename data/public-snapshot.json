@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-10-26 04:57 UTC",
-  "checked_at_ist": "26 Oct 2026, 10:27 AM IST",
+  "checked_at_utc": "2026-10-26 05:55 UTC",
+  "checked_at_ist": "26 Oct 2026, 11:25 AM IST",
   "archive_entries": 683,
   "homepage_status": 200,
   "stars": 1,
@@ -90,10 +90,17 @@
       },
       {
         "date": "2026-10-26",
-        "count": 36
+        "count": 37
       }
     ],
     "commits": [
+      {
+        "sha": "28c4a8f7764aa6f8bab0be2f26758585726bc32d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/28c4a8f7764aa6f8bab0be2f26758585726bc32d",
+        "date_utc": "26 Oct 2026, 05:29 UTC",
+        "day": "2026-10-26",
+        "title": "funded-abroad: Stipendium site back up (no 2027/28 call yet); CSC 2027/28 rollout noted via embassy notices; verified dates refreshed"
+      },
       {
         "sha": "046c5152e515e358f527b9f177cd33d2a6cff393",
         "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/046c5152e515e358f527b9f177cd33d2a6cff393",
@@ -121,16 +128,9 @@
         "date_utc": "26 Oct 2026, 03:53 UTC",
         "day": "2026-10-26",
         "title": "FFE guide: index card"
-      },
-      {
-        "sha": "d31021664f34a9c5568d26364052889c4bc9c52a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d31021664f34a9c5568d26364052889c4bc9c52a",
-        "date_utc": "26 Oct 2026, 03:52 UTC",
-        "day": "2026-10-26",
-        "title": "FFE guide: sitemap"
       }
     ],
-    "commit_total": 2970,
+    "commit_total": 2971,
     "calendar": [
       {
         "date": "2026-07-28",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-26",
         "level": 1,
-        "count": 24
+        "count": 25
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
