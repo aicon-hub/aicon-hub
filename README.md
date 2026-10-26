@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **26 Oct 2026, 11:25 AM IST** (2026-10-26 05:55 UTC).
+Checked **26 Oct 2026, 12:47 PM IST** (2026-10-26 07:17 UTC).
 
 **683 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **26 Oct 2026, 11:25 AM IST** (2026-10-26 05:55 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2971 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2984 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`28c4a8f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/28c4a8f7764aa6f8bab0be2f26758585726bc32d) · 26 Oct 2026, 05:29 UTC · funded-abroad: Stipendium site back up (no 2027/28 call yet); CSC 2027/28 rollout noted via embassy notices; verified dates refreshed
-- [`046c515`](https://github.com/aicon-hub/aicon-hub.github.io/commit/046c5152e515e358f527b9f177cd33d2a6cff393) · 26 Oct 2026, 03:56 UTC · Record Telegram publishing state
-- [`d03971a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d03971a3934c34f08d64a610187a6094e94b8e29) · 26 Oct 2026, 03:56 UTC · Record Telegram publishing state
-- [`6012dc2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6012dc2687fad87dd6eb8a5f3715d6a36c0150e5) · 26 Oct 2026, 03:56 UTC · Record Telegram publishing state
-- [`7e4417b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7e4417b4238852fe808b0d994d0e3b62b7fab8df) · 26 Oct 2026, 03:53 UTC · FFE guide: index card
+- [`ab900e1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ab900e1e9b3d9c71d7657d6cfa9daec588b67ce1) · 26 Oct 2026, 07:11 UTC · Add Ente Bhoomi portal guide HTML file
+- [`fef9e94`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fef9e94b24c38085c924d608aeeef335cd606162) · 26 Oct 2026, 07:10 UTC · Create entebhoomi-logo.svg
+- [`fd1d27b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fd1d27b198f891a428e718937ae127aaa15bb34d) · 26 Oct 2026, 06:37 UTC · Record Telegram publishing state
+- [`bb649b7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bb649b7a5200a9576997a5ac984eebbebb4a68c9) · 26 Oct 2026, 06:37 UTC · Record Telegram publishing state
+- [`52d8ea8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/52d8ea81ab8f67f544798c33471195deeeea7bfe) · 26 Oct 2026, 06:37 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
