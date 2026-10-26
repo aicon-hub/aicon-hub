@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-26 11:00 UTC",
-  "checked_at_ist": "26 Oct 2026, 04:30 PM IST",
-  "archive_entries": 684,
+  "checked_at_utc": "2026-10-26 13:39 UTC",
+  "checked_at_ist": "26 Oct 2026, 07:09 PM IST",
+  "archive_entries": 685,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Kerala OBC Overseas Scholarship 2026-27: up to ₹10 lakh for PG or PhD abroad, apply by 31 October",
+      "url": "https://aicon-hub.github.io/posts/kerala-obc-overseas-scholarship-2026-27-egrantz-up-to-10-lakh-guide.html"
+    },
     {
       "title": "Ente Bhoomi: Kerala's land tax, records, location sketch and e-BTR on one official portal",
       "url": "https://aicon-hub.github.io/posts/entebhoomi-kerala-land-tax-records-transfer-ebtr-one-login-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Shruti: free Hindi and Hinglish speech to text in your browser",
       "url": "https://aicon-hub.github.io/posts/shruti-free-hindi-hinglish-speech-to-text-offline-browser-guide.html"
-    },
-    {
-      "title": "National Renewable Energy Fellowship 2026-27: how it works",
-      "url": "https://aicon-hub.github.io/posts/national-renewable-energy-fellowship-2026-27-how-it-works-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-26",
-        "count": 91
+        "count": 103
       }
     ],
     "commits": [
       {
-        "sha": "0364f01ad32eaefe38ce546c0e7e6b7c1dc73f59",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0364f01ad32eaefe38ce546c0e7e6b7c1dc73f59",
-        "date_utc": "26 Oct 2026, 10:57 UTC",
+        "sha": "fcb798b7a61c958701ccb2c5a038e2ab86fdde44",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fcb798b7a61c958701ccb2c5a038e2ab86fdde44",
+        "date_utc": "26 Oct 2026, 13:29 UTC",
+        "day": "2026-10-26",
+        "title": "Overseas guide: online application plus printout and annexures wording"
+      },
+      {
+        "sha": "e25000762e011d474a15e3976772a65b4fcee15d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e25000762e011d474a15e3976772a65b4fcee15d",
+        "date_utc": "26 Oct 2026, 13:27 UTC",
         "day": "2026-10-26",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "f6f81970d4310ae9ec66fa486fdf984f4aa1fa3a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f6f81970d4310ae9ec66fa486fdf984f4aa1fa3a",
-        "date_utc": "26 Oct 2026, 10:57 UTC",
+        "sha": "d4496e522e30e5587fd7ae934a6299d7447822e8",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d4496e522e30e5587fd7ae934a6299d7447822e8",
+        "date_utc": "26 Oct 2026, 13:27 UTC",
         "day": "2026-10-26",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "9191a94bdd2b05b02cfe7c0eac02533a349d2893",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9191a94bdd2b05b02cfe7c0eac02533a349d2893",
-        "date_utc": "26 Oct 2026, 10:57 UTC",
+        "sha": "82de3fafba0bbd075cb2d201018384ad4d81db7e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/82de3fafba0bbd075cb2d201018384ad4d81db7e",
+        "date_utc": "26 Oct 2026, 13:27 UTC",
         "day": "2026-10-26",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "e6899c16a35ea97ddb274b6fd3017fa04c5d2eec",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e6899c16a35ea97ddb274b6fd3017fa04c5d2eec",
-        "date_utc": "26 Oct 2026, 10:54 UTC",
+        "sha": "870fbd0b0e33e5f4dd4d1e58a808ce7d5b623849",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/870fbd0b0e33e5f4dd4d1e58a808ce7d5b623849",
+        "date_utc": "26 Oct 2026, 13:24 UTC",
         "day": "2026-10-26",
-        "title": "Ente Bhoomi: use official government and Ente Bhoomi logo"
-      },
-      {
-        "sha": "f61e0dc793e9f0ae95959dfa684aa3756a0087db",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f61e0dc793e9f0ae95959dfa684aa3756a0087db",
-        "date_utc": "26 Oct 2026, 10:54 UTC",
-        "day": "2026-10-26",
-        "title": "Ente Bhoomi: poster v4 original"
+        "title": "Index card: Kerala OBC Overseas Scholarship 2026-27"
       }
     ],
-    "commit_total": 3025,
+    "commit_total": 3037,
     "calendar": [
       {
         "date": "2026-07-28",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-26",
         "level": 1,
-        "count": 51
+        "count": 57
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
