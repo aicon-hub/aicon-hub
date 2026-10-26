@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-26 02:57 UTC",
-  "checked_at_ist": "26 Oct 2026, 08:27 AM IST",
-  "archive_entries": 682,
+  "checked_at_utc": "2026-10-26 03:58 UTC",
+  "checked_at_ist": "26 Oct 2026, 09:28 AM IST",
+  "archive_entries": 683,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "FFE Scholarship 2026-27: first-year engineering, MBBS and law students, applications open",
+      "url": "https://aicon-hub.github.io/posts/ffe-scholarship-2026-27-engineering-mbbs-law-first-year-applications-open-guide.html"
+    },
     {
       "title": "Vidyadhan Mathura Scholarship for Women in STEM 2026-27: up to ₹75,000 a year, apply by 31 October",
       "url": "https://aicon-hub.github.io/posts/vidyadhan-mathura-women-stem-scholarship-2026-27-apply-by-31-october-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Dr. B. R. Ambedkar Quiz Competition 2026: free e-certificate on MyGov, open till 14 April 2027",
       "url": "https://aicon-hub.github.io/posts/dr-br-ambedkar-quiz-competition-2026-mygov-e-certificate-guide.html"
-    },
-    {
-      "title": "Infocepts Innovate for Impact Scholarship 2026-27: up to ₹50,000 a year, apply by 30 October",
-      "url": "https://aicon-hub.github.io/posts/infocepts-innovate-for-impact-scholarship-2026-27-apply-by-30-october-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-26",
-        "count": 20
+        "count": 36
       }
     ],
     "commits": [
       {
-        "sha": "c6fa476d1072e8ccd32c92834d06bd6459745469",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c6fa476d1072e8ccd32c92834d06bd6459745469",
-        "date_utc": "26 Oct 2026, 02:54 UTC",
+        "sha": "046c5152e515e358f527b9f177cd33d2a6cff393",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/046c5152e515e358f527b9f177cd33d2a6cff393",
+        "date_utc": "26 Oct 2026, 03:56 UTC",
         "day": "2026-10-26",
-        "title": "Vidyadhan guide: index card"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "0cc27ed2652dfd73cb77342f5f07619ebeac27d2",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0cc27ed2652dfd73cb77342f5f07619ebeac27d2",
-        "date_utc": "26 Oct 2026, 02:54 UTC",
+        "sha": "d03971a3934c34f08d64a610187a6094e94b8e29",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d03971a3934c34f08d64a610187a6094e94b8e29",
+        "date_utc": "26 Oct 2026, 03:56 UTC",
         "day": "2026-10-26",
-        "title": "Vidyadhan guide: sitemap"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "a8fd9c51113e2f29ed88ccb423d33b1c5d5067e4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a8fd9c51113e2f29ed88ccb423d33b1c5d5067e4",
-        "date_utc": "26 Oct 2026, 02:53 UTC",
+        "sha": "6012dc2687fad87dd6eb8a5f3715d6a36c0150e5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6012dc2687fad87dd6eb8a5f3715d6a36c0150e5",
+        "date_utc": "26 Oct 2026, 03:56 UTC",
         "day": "2026-10-26",
-        "title": "Vidyadhan guide: registry"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "b1308df3c776f2fc36a242fc1e0fb5fa4899c76a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b1308df3c776f2fc36a242fc1e0fb5fa4899c76a",
-        "date_utc": "26 Oct 2026, 02:53 UTC",
+        "sha": "7e4417b4238852fe808b0d994d0e3b62b7fab8df",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e4417b4238852fe808b0d994d0e3b62b7fab8df",
+        "date_utc": "26 Oct 2026, 03:53 UTC",
         "day": "2026-10-26",
-        "title": "Vidyadhan guide: apply screenshot with tap-to-open"
+        "title": "FFE guide: index card"
       },
       {
-        "sha": "4e97716290580ca2e999b21f7d05a410c609f03e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4e97716290580ca2e999b21f7d05a410c609f03e",
-        "date_utc": "26 Oct 2026, 02:53 UTC",
+        "sha": "d31021664f34a9c5568d26364052889c4bc9c52a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d31021664f34a9c5568d26364052889c4bc9c52a",
+        "date_utc": "26 Oct 2026, 03:52 UTC",
         "day": "2026-10-26",
-        "title": "Vidyadhan guide: apply screenshot"
+        "title": "FFE guide: sitemap"
       }
     ],
-    "commit_total": 2954,
+    "commit_total": 2970,
     "calendar": [
       {
         "date": "2026-07-28",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-26",
         "level": 1,
-        "count": 16
+        "count": 24
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **26 Oct 2026, 08:27 AM IST** (2026-10-26 02:57 UTC).
+Checked **26 Oct 2026, 09:28 AM IST** (2026-10-26 03:58 UTC).
 
-**682 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**683 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **26 Oct 2026, 08:27 AM IST** (2026-10-26 02:57 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2954 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2970 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`c6fa476`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c6fa476d1072e8ccd32c92834d06bd6459745469) · 26 Oct 2026, 02:54 UTC · Vidyadhan guide: index card
-- [`0cc27ed`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0cc27ed2652dfd73cb77342f5f07619ebeac27d2) · 26 Oct 2026, 02:54 UTC · Vidyadhan guide: sitemap
-- [`a8fd9c5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a8fd9c51113e2f29ed88ccb423d33b1c5d5067e4) · 26 Oct 2026, 02:53 UTC · Vidyadhan guide: registry
-- [`b1308df`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b1308df3c776f2fc36a242fc1e0fb5fa4899c76a) · 26 Oct 2026, 02:53 UTC · Vidyadhan guide: apply screenshot with tap-to-open
-- [`4e97716`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4e97716290580ca2e999b21f7d05a410c609f03e) · 26 Oct 2026, 02:53 UTC · Vidyadhan guide: apply screenshot
+- [`046c515`](https://github.com/aicon-hub/aicon-hub.github.io/commit/046c5152e515e358f527b9f177cd33d2a6cff393) · 26 Oct 2026, 03:56 UTC · Record Telegram publishing state
+- [`d03971a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d03971a3934c34f08d64a610187a6094e94b8e29) · 26 Oct 2026, 03:56 UTC · Record Telegram publishing state
+- [`6012dc2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6012dc2687fad87dd6eb8a5f3715d6a36c0150e5) · 26 Oct 2026, 03:56 UTC · Record Telegram publishing state
+- [`7e4417b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7e4417b4238852fe808b0d994d0e3b62b7fab8df) · 26 Oct 2026, 03:53 UTC · FFE guide: index card
+- [`d310216`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d31021664f34a9c5568d26364052889c4bc9c52a) · 26 Oct 2026, 03:52 UTC · FFE guide: sitemap
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [FFE Scholarship 2026-27: first-year engineering, MBBS and law students, applications open](https://aicon-hub.github.io/posts/ffe-scholarship-2026-27-engineering-mbbs-law-first-year-applications-open-guide.html)
 - [Vidyadhan Mathura Scholarship for Women in STEM 2026-27: up to ₹75,000 a year, apply by 31 October](https://aicon-hub.github.io/posts/vidyadhan-mathura-women-stem-scholarship-2026-27-apply-by-31-october-guide.html)
 - [Shruti: free Hindi and Hinglish speech to text in your browser](https://aicon-hub.github.io/posts/shruti-free-hindi-hinglish-speech-to-text-offline-browser-guide.html)
-- [National Renewable Energy Fellowship 2026-27: how it works](https://aicon-hub.github.io/posts/national-renewable-energy-fellowship-2026-27-how-it-works-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
