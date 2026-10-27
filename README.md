@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **27 Oct 2026, 05:20 AM IST** (2026-10-26 23:50 UTC).
+Checked **27 Oct 2026, 06:41 AM IST** (2026-10-27 01:11 UTC).
 
 **686 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **27 Oct 2026, 05:20 AM IST** (2026-10-26 23:50 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3051 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2879 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`30e746d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/30e746dadb3a9846b6d27eda13a227e6eeb316b8) · 26 Oct 2026, 19:19 UTC · Record Telegram publishing state
-- [`d3b5025`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d3b50254599d046bc5ce364c5f5f611cc939083a) · 26 Oct 2026, 19:19 UTC · Record Telegram publishing state
-- [`dbec675`](https://github.com/aicon-hub/aicon-hub.github.io/commit/dbec67548f1fb39c9801b63869799232308a0dd9) · 26 Oct 2026, 19:19 UTC · Record Telegram publishing state
-- [`ce89435`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ce89435aa01c8ca5d761d729f6f5d2dd6e1f91aa) · 26 Oct 2026, 19:17 UTC · Index card: Ensu guide
-- [`92be669`](https://github.com/aicon-hub/aicon-hub.github.io/commit/92be669b4d4b5632e205f7bf2f4d45a5493f9d06) · 26 Oct 2026, 19:16 UTC · Registry: Ensu guide
+- [`e5d9a04`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e5d9a04d653afe1a9e0ab09f3a9871170f65c4f3) · 27 Oct 2026, 00:55 UTC · Record Telegram publishing state
+- [`b89d0a0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b89d0a0d6a004c854453348b368e2d5dfa5ce21e) · 27 Oct 2026, 00:55 UTC · Record Telegram publishing state
+- [`2e16ea1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2e16ea14178f4e3c36df1fb78a1c71be6a73de75) · 27 Oct 2026, 00:55 UTC · Record Telegram publishing state
+- [`84a2a6c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/84a2a6c77f1c7ca0a8b113bf5feb3f72c410954c) · 27 Oct 2026, 00:54 UTC · Add Ensu poster v4 balanced layout
+- [`02186fb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/02186fb7be2a1145b61d9c6dc2ab91960e53d792) · 27 Oct 2026, 00:52 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
