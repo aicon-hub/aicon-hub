@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-27 13:11 UTC",
-  "checked_at_ist": "27 Oct 2026, 06:41 PM IST",
-  "archive_entries": 699,
+  "checked_at_utc": "2026-10-27 14:09 UTC",
+  "checked_at_ist": "27 Oct 2026, 07:39 PM IST",
+  "archive_entries": 700,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Google Colab with Gemini: write and run Python from a prompt",
-      "url": "https://aicon-hub.github.io/posts/google-colab-gemini-write-run-python-data-analysis-sample-test-guide.html"
+      "title": "Piper: offline text-to-speech with Hindi and Malayalam voices",
+      "url": "https://aicon-hub.github.io/posts/piper-offline-text-to-speech-hindi-malayalam-voices-licences-test-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-27",
-        "count": 155
+        "count": 165
       }
     ],
     "commits": [
       {
-        "sha": "6b2205b39e6824f0c1511195d0c0bf93f4ae87b2",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6b2205b39e6824f0c1511195d0c0bf93f4ae87b2",
-        "date_utc": "27 Oct 2026, 13:08 UTC",
+        "sha": "ca35ef06a79aba024537a281b60e63558c965fa4",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ca35ef06a79aba024537a281b60e63558c965fa4",
+        "date_utc": "27 Oct 2026, 14:07 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "fad115a26a897c006afdd573a41572b05ba93780",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fad115a26a897c006afdd573a41572b05ba93780",
-        "date_utc": "27 Oct 2026, 13:08 UTC",
+        "sha": "03d42203f2223881f4c8c10d7d3adfe67b28ef00",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/03d42203f2223881f4c8c10d7d3adfe67b28ef00",
+        "date_utc": "27 Oct 2026, 14:07 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "f7b41e226236f8397323584f0ba8e74df0ff3cff",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f7b41e226236f8397323584f0ba8e74df0ff3cff",
-        "date_utc": "27 Oct 2026, 13:07 UTC",
+        "sha": "920355cf93ee2d5bb1950e3bf7f630909ebfb7af",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/920355cf93ee2d5bb1950e3bf7f630909ebfb7af",
+        "date_utc": "27 Oct 2026, 14:07 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7fb5c065e581831a7310346585127c7519a08d8c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7fb5c065e581831a7310346585127c7519a08d8c",
-        "date_utc": "27 Oct 2026, 13:05 UTC",
+        "sha": "450d2b304e8397455221fff1c9ba0a7dbc7c672f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/450d2b304e8397455221fff1c9ba0a7dbc7c672f",
+        "date_utc": "27 Oct 2026, 13:58 UTC",
         "day": "2026-10-27",
-        "title": "Add Gruhasree card to index"
+        "title": "Add Piper card to index"
       },
       {
-        "sha": "eb47028e3d98a69fdc834a67153ab7d5f81afe6e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/eb47028e3d98a69fdc834a67153ab7d5f81afe6e",
-        "date_utc": "27 Oct 2026, 13:05 UTC",
+        "sha": "0905a3f28c4454454027d2aea25958e54fa44bf1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0905a3f28c4454454027d2aea25958e54fa44bf1",
+        "date_utc": "27 Oct 2026, 13:58 UTC",
         "day": "2026-10-27",
-        "title": "Registry: Gruhasree guide"
+        "title": "Registry: Piper guide"
       }
     ],
-    "commit_total": 3023,
+    "commit_total": 3033,
     "calendar": [
       {
         "date": "2026-07-29",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-27",
         "level": 2,
-        "count": 101
+        "count": 105
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

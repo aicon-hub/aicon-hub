@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **27 Oct 2026, 06:41 PM IST** (2026-10-27 13:11 UTC).
+Checked **27 Oct 2026, 07:39 PM IST** (2026-10-27 14:09 UTC).
 
-**699 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**700 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **27 Oct 2026, 06:41 PM IST** (2026-10-27 13:11 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3023 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3033 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`6b2205b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6b2205b39e6824f0c1511195d0c0bf93f4ae87b2) · 27 Oct 2026, 13:08 UTC · Record Telegram publishing state
-- [`fad115a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fad115a26a897c006afdd573a41572b05ba93780) · 27 Oct 2026, 13:08 UTC · Record Telegram publishing state
-- [`f7b41e2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f7b41e226236f8397323584f0ba8e74df0ff3cff) · 27 Oct 2026, 13:07 UTC · Record Telegram publishing state
-- [`7fb5c06`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7fb5c065e581831a7310346585127c7519a08d8c) · 27 Oct 2026, 13:05 UTC · Add Gruhasree card to index
-- [`eb47028`](https://github.com/aicon-hub/aicon-hub.github.io/commit/eb47028e3d98a69fdc834a67153ab7d5f81afe6e) · 27 Oct 2026, 13:05 UTC · Registry: Gruhasree guide
+- [`ca35ef0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ca35ef06a79aba024537a281b60e63558c965fa4) · 27 Oct 2026, 14:07 UTC · Record Telegram publishing state
+- [`03d4220`](https://github.com/aicon-hub/aicon-hub.github.io/commit/03d42203f2223881f4c8c10d7d3adfe67b28ef00) · 27 Oct 2026, 14:07 UTC · Record Telegram publishing state
+- [`920355c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/920355cf93ee2d5bb1950e3bf7f630909ebfb7af) · 27 Oct 2026, 14:07 UTC · Record Telegram publishing state
+- [`450d2b3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/450d2b304e8397455221fff1c9ba0a7dbc7c672f) · 27 Oct 2026, 13:58 UTC · Add Piper card to index
+- [`0905a3f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0905a3f28c4454454027d2aea25958e54fa44bf1) · 27 Oct 2026, 13:58 UTC · Registry: Piper guide
 <!-- AICON:COMMITS:END -->
 
 </details>
