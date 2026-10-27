@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-27 03:56 UTC",
-  "checked_at_ist": "27 Oct 2026, 09:26 AM IST",
-  "archive_entries": 688,
+  "checked_at_utc": "2026-10-27 04:55 UTC",
+  "checked_at_ist": "27 Oct 2026, 10:25 AM IST",
+  "archive_entries": 690,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -19,12 +19,12 @@
       "url": "https://aicon-hub.github.io/posts/ensu-ente-free-offline-ai-chat-app-no-account-guide.html"
     },
     {
-      "title": "Kerala OBC Overseas Scholarship 2026-27: up to ₹10 lakh for PG or PhD abroad, apply by 31 October",
-      "url": "https://aicon-hub.github.io/posts/kerala-obc-overseas-scholarship-2026-27-egrantz-up-to-10-lakh-guide.html"
+      "title": "Google Teachable Machine: train a photo classifier in your browser",
+      "url": "https://aicon-hub.github.io/posts/google-teachable-machine-train-image-classifier-in-browser-guide.html"
     },
     {
-      "title": "Ente Bhoomi: Kerala's land tax, records, location sketch and e-BTR on one official portal",
-      "url": "https://aicon-hub.github.io/posts/entebhoomi-kerala-land-tax-records-transfer-ebtr-one-login-guide.html"
+      "title": "EEP Coaching Aid 2026-27: up to ₹30,000 for Kerala OBC exam coaching, apply by 20 November",
+      "url": "https://aicon-hub.github.io/posts/kerala-eep-coaching-aid-2026-27-obc-exam-coaching-egrantz-apply-by-20-november-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-27",
-        "count": 37
+        "count": 60
       }
     ],
     "commits": [
       {
-        "sha": "b24073d710f2c1470c0872cc51fcc32cf71b4ffa",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b24073d710f2c1470c0872cc51fcc32cf71b4ffa",
-        "date_utc": "27 Oct 2026, 02:44 UTC",
+        "sha": "3bc97f9286776833ae464f1b74bce93a84a95bce",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3bc97f9286776833ae464f1b74bce93a84a95bce",
+        "date_utc": "27 Oct 2026, 04:49 UTC",
+        "day": "2026-10-27",
+        "title": "Teachable Machine guide: short icon label"
+      },
+      {
+        "sha": "3c41db217b3c2251bf9f113f2b8eb12cc73ed09a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3c41db217b3c2251bf9f113f2b8eb12cc73ed09a",
+        "date_utc": "27 Oct 2026, 04:46 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "0d226c06076a49719adbe2f80761b03f3779f4bf",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0d226c06076a49719adbe2f80761b03f3779f4bf",
-        "date_utc": "27 Oct 2026, 02:44 UTC",
+        "sha": "3349c17530690c23726b8988f560e52aa6b3371e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3349c17530690c23726b8988f560e52aa6b3371e",
+        "date_utc": "27 Oct 2026, 04:46 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "b0077ff31e87875dcf7bf517394c6507134cbf66",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b0077ff31e87875dcf7bf517394c6507134cbf66",
-        "date_utc": "27 Oct 2026, 02:44 UTC",
+        "sha": "184adc583c2bbce55c2ab06e05d0db5b4153c31d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/184adc583c2bbce55c2ab06e05d0db5b4153c31d",
+        "date_utc": "27 Oct 2026, 04:46 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "cd2d1671aff43c7ecce0d728d94c3a2e125ee00e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cd2d1671aff43c7ecce0d728d94c3a2e125ee00e",
-        "date_utc": "27 Oct 2026, 02:42 UTC",
+        "sha": "f1079d3c4efbefb85c931a1da71e268ba4d5c802",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f1079d3c4efbefb85c931a1da71e268ba4d5c802",
+        "date_utc": "27 Oct 2026, 04:44 UTC",
         "day": "2026-10-27",
-        "title": "Add Pomelli guide card to index"
-      },
-      {
-        "sha": "eaa7b3de5310dc4235a59cff435379e3c994283c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/eaa7b3de5310dc4235a59cff435379e3c994283c",
-        "date_utc": "27 Oct 2026, 02:42 UTC",
-        "day": "2026-10-27",
-        "title": "Registry: Pomelli guide"
+        "title": "Add Teachable Machine guide card to index"
       }
     ],
-    "commit_total": 2905,
+    "commit_total": 2928,
     "calendar": [
       {
         "date": "2026-07-29",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-27",
         "level": 1,
-        "count": 20
+        "count": 37
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
