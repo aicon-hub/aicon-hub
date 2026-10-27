@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-27 14:09 UTC",
-  "checked_at_ist": "27 Oct 2026, 07:39 PM IST",
-  "archive_entries": 700,
+  "checked_at_utc": "2026-10-27 15:07 UTC",
+  "checked_at_ist": "27 Oct 2026, 08:37 PM IST",
+  "archive_entries": 701,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Piper: offline text-to-speech with Hindi and Malayalam voices",
-      "url": "https://aicon-hub.github.io/posts/piper-offline-text-to-speech-hindi-malayalam-voices-licences-test-guide.html"
+      "title": "Sentence Transformers: search your notes by meaning with Python",
+      "url": "https://aicon-hub.github.io/posts/sentence-transformers-search-notes-by-meaning-python-test-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-27",
-        "count": 165
+        "count": 174
       }
     ],
     "commits": [
       {
-        "sha": "ca35ef06a79aba024537a281b60e63558c965fa4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ca35ef06a79aba024537a281b60e63558c965fa4",
-        "date_utc": "27 Oct 2026, 14:07 UTC",
+        "sha": "de842ca783811bfb41839383e56dcd145cca74ab",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/de842ca783811bfb41839383e56dcd145cca74ab",
+        "date_utc": "27 Oct 2026, 14:46 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "03d42203f2223881f4c8c10d7d3adfe67b28ef00",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/03d42203f2223881f4c8c10d7d3adfe67b28ef00",
-        "date_utc": "27 Oct 2026, 14:07 UTC",
+        "sha": "e081da74914cb9aa15d56d3b79a4c130eb2c3d43",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e081da74914cb9aa15d56d3b79a4c130eb2c3d43",
+        "date_utc": "27 Oct 2026, 14:46 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "920355cf93ee2d5bb1950e3bf7f630909ebfb7af",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/920355cf93ee2d5bb1950e3bf7f630909ebfb7af",
-        "date_utc": "27 Oct 2026, 14:07 UTC",
+        "sha": "f8dd40ae8bfe99856afe11c93e484dc80406c1ac",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f8dd40ae8bfe99856afe11c93e484dc80406c1ac",
+        "date_utc": "27 Oct 2026, 14:46 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "450d2b304e8397455221fff1c9ba0a7dbc7c672f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/450d2b304e8397455221fff1c9ba0a7dbc7c672f",
-        "date_utc": "27 Oct 2026, 13:58 UTC",
+        "sha": "b3c5565ad01e93b4970afab60d097136be34103a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b3c5565ad01e93b4970afab60d097136be34103a",
+        "date_utc": "27 Oct 2026, 14:43 UTC",
         "day": "2026-10-27",
-        "title": "Add Piper card to index"
+        "title": "Add Sentence Transformers guide to sitemap"
       },
       {
-        "sha": "0905a3f28c4454454027d2aea25958e54fa44bf1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0905a3f28c4454454027d2aea25958e54fa44bf1",
-        "date_utc": "27 Oct 2026, 13:58 UTC",
+        "sha": "b84e5cd5d3277e4aa1151dd23fa6d31edca79479",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b84e5cd5d3277e4aa1151dd23fa6d31edca79479",
+        "date_utc": "27 Oct 2026, 14:43 UTC",
         "day": "2026-10-27",
-        "title": "Registry: Piper guide"
+        "title": "Add Sentence Transformers card to index"
       }
     ],
-    "commit_total": 3033,
+    "commit_total": 3042,
     "calendar": [
       {
         "date": "2026-07-29",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-27",
         "level": 2,
-        "count": 105
+        "count": 106
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
