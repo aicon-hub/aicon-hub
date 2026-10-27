@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **27 Oct 2026, 02:32 PM IST** (2026-10-27 09:02 UTC).
+Checked **27 Oct 2026, 03:31 PM IST** (2026-10-27 10:01 UTC).
 
-**694 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**695 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **27 Oct 2026, 02:32 PM IST** (2026-10-27 09:02 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2971 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2981 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`d306f0f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d306f0fd867c9c8bf0631dd231a28c65b07be943) · 27 Oct 2026, 08:38 UTC · Record Telegram publishing state
-- [`96d38f5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/96d38f539835e66d434db7d131333b9c5ca189d1) · 27 Oct 2026, 08:38 UTC · Record Telegram publishing state
-- [`3f21418`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3f214184443c18354a801e8f126918ad65b43574) · 27 Oct 2026, 08:38 UTC · Record Telegram publishing state
-- [`e74ca59`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e74ca59b56f7cd4bc2e40beb264d6794aab960fa) · 27 Oct 2026, 08:36 UTC · Add Opal notice card to index
-- [`29e40ba`](https://github.com/aicon-hub/aicon-hub.github.io/commit/29e40baf6a7ebed4c3036c387269fc32fa329e38) · 27 Oct 2026, 08:35 UTC · Registry: Opal notice guide
+- [`18af84d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/18af84da28037a0faed0eb4c625a7960ed646d4a) · 27 Oct 2026, 09:45 UTC · Record Telegram publishing state
+- [`c689a58`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c689a58ba9ab3581f055fe9044c84ece13372850) · 27 Oct 2026, 09:44 UTC · Record Telegram publishing state
+- [`499ce2a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/499ce2af17be179d94c0679b1d00a3dba62a57cd) · 27 Oct 2026, 09:44 UTC · Record Telegram publishing state
+- [`58c51b1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/58c51b1523e75156746e28ce92b263594fe2b2d5) · 27 Oct 2026, 09:42 UTC · Add Gemini Personal Intelligence card to index
+- [`1729419`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1729419aae439ded7bce90988a5b2c0fab7177d5) · 27 Oct 2026, 09:41 UTC · Registry: Gemini Personal Intelligence guide
 <!-- AICON:COMMITS:END -->
 
 </details>

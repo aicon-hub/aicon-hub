@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-27 09:02 UTC",
-  "checked_at_ist": "27 Oct 2026, 02:32 PM IST",
-  "archive_entries": 694,
+  "checked_at_utc": "2026-10-27 10:01 UTC",
+  "checked_at_ist": "27 Oct 2026, 03:31 PM IST",
+  "archive_entries": 695,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -19,12 +19,12 @@
       "url": "https://aicon-hub.github.io/posts/ensu-ente-free-offline-ai-chat-app-no-account-guide.html"
     },
     {
-      "title": "Google Opal shuts down 17 November 2026: save your prompts",
-      "url": "https://aicon-hub.github.io/posts/google-opal-shutting-down-17-november-2026-save-prompts-guide.html"
+      "title": "Gemini Personal Intelligence: what it can use and how to turn it off",
+      "url": "https://aicon-hub.github.io/posts/gemini-personal-intelligence-connected-apps-what-it-reads-turn-off-guide.html"
     },
     {
-      "title": "Wokwi: run Arduino code in your browser",
-      "url": "https://aicon-hub.github.io/posts/wokwi-free-online-arduino-esp32-simulator-browser-guide.html"
+      "title": "Google Opal shuts down 17 November 2026: save your prompts",
+      "url": "https://aicon-hub.github.io/posts/google-opal-shutting-down-17-november-2026-save-prompts-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-27",
-        "count": 103
+        "count": 113
       }
     ],
     "commits": [
       {
-        "sha": "d306f0fd867c9c8bf0631dd231a28c65b07be943",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d306f0fd867c9c8bf0631dd231a28c65b07be943",
-        "date_utc": "27 Oct 2026, 08:38 UTC",
+        "sha": "18af84da28037a0faed0eb4c625a7960ed646d4a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/18af84da28037a0faed0eb4c625a7960ed646d4a",
+        "date_utc": "27 Oct 2026, 09:45 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "96d38f539835e66d434db7d131333b9c5ca189d1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/96d38f539835e66d434db7d131333b9c5ca189d1",
-        "date_utc": "27 Oct 2026, 08:38 UTC",
+        "sha": "c689a58ba9ab3581f055fe9044c84ece13372850",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c689a58ba9ab3581f055fe9044c84ece13372850",
+        "date_utc": "27 Oct 2026, 09:44 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "3f214184443c18354a801e8f126918ad65b43574",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3f214184443c18354a801e8f126918ad65b43574",
-        "date_utc": "27 Oct 2026, 08:38 UTC",
+        "sha": "499ce2af17be179d94c0679b1d00a3dba62a57cd",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/499ce2af17be179d94c0679b1d00a3dba62a57cd",
+        "date_utc": "27 Oct 2026, 09:44 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "e74ca59b56f7cd4bc2e40beb264d6794aab960fa",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e74ca59b56f7cd4bc2e40beb264d6794aab960fa",
-        "date_utc": "27 Oct 2026, 08:36 UTC",
+        "sha": "58c51b1523e75156746e28ce92b263594fe2b2d5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/58c51b1523e75156746e28ce92b263594fe2b2d5",
+        "date_utc": "27 Oct 2026, 09:42 UTC",
         "day": "2026-10-27",
-        "title": "Add Opal notice card to index"
+        "title": "Add Gemini Personal Intelligence card to index"
       },
       {
-        "sha": "29e40baf6a7ebed4c3036c387269fc32fa329e38",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/29e40baf6a7ebed4c3036c387269fc32fa329e38",
-        "date_utc": "27 Oct 2026, 08:35 UTC",
+        "sha": "1729419aae439ded7bce90988a5b2c0fab7177d5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1729419aae439ded7bce90988a5b2c0fab7177d5",
+        "date_utc": "27 Oct 2026, 09:41 UTC",
         "day": "2026-10-27",
-        "title": "Registry: Opal notice guide"
+        "title": "Registry: Gemini Personal Intelligence guide"
       }
     ],
-    "commit_total": 2971,
+    "commit_total": 2981,
     "calendar": [
       {
         "date": "2026-07-29",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-27",
         "level": 1,
-        "count": 68
+        "count": 75
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
