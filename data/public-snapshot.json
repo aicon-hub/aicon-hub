@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-10-27 01:59 UTC",
-  "checked_at_ist": "27 Oct 2026, 07:29 AM IST",
-  "archive_entries": 687,
+  "checked_at_utc": "2026-10-27 02:56 UTC",
+  "checked_at_ist": "27 Oct 2026, 08:26 AM IST",
+  "archive_entries": 688,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "Google Pomelli: AI social posts built from your business website",
+      "url": "https://aicon-hub.github.io/posts/google-pomelli-ai-social-posts-from-business-website-guide.html"
+    },
     {
       "title": "Google Stitch: AI that designs app screens from a prompt",
       "url": "https://aicon-hub.github.io/posts/google-stitch-free-ai-app-ui-design-tool-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Ente Bhoomi: Kerala's land tax, records, location sketch and e-BTR on one official portal",
       "url": "https://aicon-hub.github.io/posts/entebhoomi-kerala-land-tax-records-transfer-ebtr-one-login-guide.html"
-    },
-    {
-      "title": "FFE Scholarship 2026-27: first-year engineering, MBBS and law students, applications open",
-      "url": "https://aicon-hub.github.io/posts/ffe-scholarship-2026-27-engineering-mbbs-law-first-year-applications-open-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-27",
-        "count": 26
+        "count": 37
       }
     ],
     "commits": [
       {
-        "sha": "2b516a528270867d795382ab9a3664b22b4fad3a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2b516a528270867d795382ab9a3664b22b4fad3a",
-        "date_utc": "27 Oct 2026, 01:57 UTC",
+        "sha": "b24073d710f2c1470c0872cc51fcc32cf71b4ffa",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b24073d710f2c1470c0872cc51fcc32cf71b4ffa",
+        "date_utc": "27 Oct 2026, 02:44 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "6156c2dcb266b4775010c103d1734f9b176f2217",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6156c2dcb266b4775010c103d1734f9b176f2217",
-        "date_utc": "27 Oct 2026, 01:57 UTC",
+        "sha": "0d226c06076a49719adbe2f80761b03f3779f4bf",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0d226c06076a49719adbe2f80761b03f3779f4bf",
+        "date_utc": "27 Oct 2026, 02:44 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "b1463c5eb86ce091db29a040aa007661d0e9966d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b1463c5eb86ce091db29a040aa007661d0e9966d",
-        "date_utc": "27 Oct 2026, 01:57 UTC",
+        "sha": "b0077ff31e87875dcf7bf517394c6507134cbf66",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b0077ff31e87875dcf7bf517394c6507134cbf66",
+        "date_utc": "27 Oct 2026, 02:44 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "f1462ffd2ced3d755f8f26b2ffe19ed048b28faf",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f1462ffd2ced3d755f8f26b2ffe19ed048b28faf",
-        "date_utc": "27 Oct 2026, 01:55 UTC",
+        "sha": "cd2d1671aff43c7ecce0d728d94c3a2e125ee00e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cd2d1671aff43c7ecce0d728d94c3a2e125ee00e",
+        "date_utc": "27 Oct 2026, 02:42 UTC",
         "day": "2026-10-27",
-        "title": "Stitch index card: neutral wording"
+        "title": "Add Pomelli guide card to index"
       },
       {
-        "sha": "222550cfb110c29bc35c140d28220ea18d7c5534",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/222550cfb110c29bc35c140d28220ea18d7c5534",
-        "date_utc": "27 Oct 2026, 01:54 UTC",
+        "sha": "eaa7b3de5310dc4235a59cff435379e3c994283c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/eaa7b3de5310dc4235a59cff435379e3c994283c",
+        "date_utc": "27 Oct 2026, 02:42 UTC",
         "day": "2026-10-27",
-        "title": "Stitch guide: neutral title and chip"
+        "title": "Registry: Pomelli guide"
       }
     ],
-    "commit_total": 2894,
+    "commit_total": 2905,
     "calendar": [
       {
         "date": "2026-07-29",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-27",
         "level": 1,
-        "count": 12
+        "count": 20
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
