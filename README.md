@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **27 Oct 2026, 10:25 AM IST** (2026-10-27 04:55 UTC).
+Checked **27 Oct 2026, 11:24 AM IST** (2026-10-27 05:54 UTC).
 
-**690 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**691 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **27 Oct 2026, 10:25 AM IST** (2026-10-27 04:55 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2928 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2939 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`3bc97f9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3bc97f9286776833ae464f1b74bce93a84a95bce) · 27 Oct 2026, 04:49 UTC · Teachable Machine guide: short icon label
-- [`3c41db2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3c41db217b3c2251bf9f113f2b8eb12cc73ed09a) · 27 Oct 2026, 04:46 UTC · Record Telegram publishing state
-- [`3349c17`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3349c17530690c23726b8988f560e52aa6b3371e) · 27 Oct 2026, 04:46 UTC · Record Telegram publishing state
-- [`184adc5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/184adc583c2bbce55c2ab06e05d0db5b4153c31d) · 27 Oct 2026, 04:46 UTC · Record Telegram publishing state
-- [`f1079d3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f1079d3c4efbefb85c931a1da71e268ba4d5c802) · 27 Oct 2026, 04:44 UTC · Add Teachable Machine guide card to index
+- [`cfccc92`](https://github.com/aicon-hub/aicon-hub.github.io/commit/cfccc92f2646a45a6380c85f7ca3ae5cb5ae12b0) · 27 Oct 2026, 05:49 UTC · Record Telegram publishing state
+- [`e8bdb24`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e8bdb244b9b450a44898ce7b4b3f6894ddc03cf9) · 27 Oct 2026, 05:49 UTC · Record Telegram publishing state
+- [`9eb55e6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9eb55e650f2f19e47b9465013b0ab0db3049ee41) · 27 Oct 2026, 05:49 UTC · Record Telegram publishing state
+- [`07dee25`](https://github.com/aicon-hub/aicon-hub.github.io/commit/07dee256f198db4173b7a1886b705ec0cfa3a1d8) · 27 Oct 2026, 05:47 UTC · Netron guide: white backing for dark logo
+- [`45a1072`](https://github.com/aicon-hub/aicon-hub.github.io/commit/45a1072df0c3f893d406ba42caf3c52027454483) · 27 Oct 2026, 05:46 UTC · Add Netron guide card to index
 <!-- AICON:COMMITS:END -->
 
 </details>
