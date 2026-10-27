@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-10-27 10:58 UTC",
-  "checked_at_ist": "27 Oct 2026, 04:28 PM IST",
+  "checked_at_utc": "2026-10-27 11:55 UTC",
+  "checked_at_ist": "27 Oct 2026, 05:25 PM IST",
   "archive_entries": 696,
   "homepage_status": 200,
   "stars": 1,
@@ -90,10 +90,17 @@
       },
       {
         "date": "2026-10-27",
-        "count": 124
+        "count": 125
       }
     ],
     "commits": [
+      {
+        "sha": "abdb78b310c043255ea805aa15707e76e28deba7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/abdb78b310c043255ea805aa15707e76e28deba7",
+        "date_utc": "27 Oct 2026, 11:01 UTC",
+        "day": "2026-10-27",
+        "title": "Rotate tg-reader certificate"
+      },
       {
         "sha": "1c03f8f4978e5a7358dcd6cbdce910d0ddf13158",
         "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1c03f8f4978e5a7358dcd6cbdce910d0ddf13158",
@@ -121,16 +128,9 @@
         "date_utc": "27 Oct 2026, 10:05 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "e4d73bc76f3cef2fe61cb0780f4e596cad806fae",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e4d73bc76f3cef2fe61cb0780f4e596cad806fae",
-        "date_utc": "27 Oct 2026, 10:03 UTC",
-        "day": "2026-10-27",
-        "title": "Add Fact Check Explorer card to index"
       }
     ],
-    "commit_total": 2992,
+    "commit_total": 2993,
     "calendar": [
       {
         "date": "2026-07-29",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-27",
         "level": 1,
-        "count": 83
+        "count": 84
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

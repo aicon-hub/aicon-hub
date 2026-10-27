@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **27 Oct 2026, 04:28 PM IST** (2026-10-27 10:58 UTC).
+Checked **27 Oct 2026, 05:25 PM IST** (2026-10-27 11:55 UTC).
 
 **696 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **27 Oct 2026, 04:28 PM IST** (2026-10-27 10:58 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2992 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2993 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
+- [`abdb78b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/abdb78b310c043255ea805aa15707e76e28deba7) · 27 Oct 2026, 11:01 UTC · Rotate tg-reader certificate
 - [`1c03f8f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1c03f8f4978e5a7358dcd6cbdce910d0ddf13158) · 27 Oct 2026, 10:07 UTC · Wokwi guide: rename heading
 - [`6cc3e96`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6cc3e9622e76a8b3f41907d94e8f9f4f1c7be55b) · 27 Oct 2026, 10:05 UTC · Record Telegram publishing state
 - [`d14d847`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d14d847f3fb9231d83afe00308945e4f742f7b72) · 27 Oct 2026, 10:05 UTC · Record Telegram publishing state
 - [`df2170c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/df2170c9540e46e452f8f682a65fd6194eb5d8bb) · 27 Oct 2026, 10:05 UTC · Record Telegram publishing state
-- [`e4d73bc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e4d73bc76f3cef2fe61cb0780f4e596cad806fae) · 27 Oct 2026, 10:03 UTC · Add Fact Check Explorer card to index
 <!-- AICON:COMMITS:END -->
 
 </details>
