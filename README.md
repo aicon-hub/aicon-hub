@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **27 Oct 2026, 01:33 PM IST** (2026-10-27 08:03 UTC).
+Checked **27 Oct 2026, 02:32 PM IST** (2026-10-27 09:02 UTC).
 
-**693 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**694 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **27 Oct 2026, 01:33 PM IST** (2026-10-27 08:03 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2961 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2971 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`3bd27b1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3bd27b1213f1fdedf4ac6dc5bb2c63b07a6109c6) · 27 Oct 2026, 07:08 UTC · Wokwi guide: remove blanket chatbot claim
-- [`9ab9b2c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9ab9b2c72f0c7fff248f1e3047518b3d5e642594) · 27 Oct 2026, 07:06 UTC · Record Telegram publishing state
-- [`ce9045b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ce9045bf457a4fde08ba05885fd6fae6ee07a16a) · 27 Oct 2026, 07:06 UTC · Record Telegram publishing state
-- [`0200a0e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0200a0eecfc90ae1af6b52b793c7c12fc884c049) · 27 Oct 2026, 07:06 UTC · Record Telegram publishing state
-- [`a16b3b0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a16b3b01f3298629956edeac592f93998d20ccba) · 27 Oct 2026, 07:05 UTC · Add Wokwi guide card to index
+- [`d306f0f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d306f0fd867c9c8bf0631dd231a28c65b07be943) · 27 Oct 2026, 08:38 UTC · Record Telegram publishing state
+- [`96d38f5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/96d38f539835e66d434db7d131333b9c5ca189d1) · 27 Oct 2026, 08:38 UTC · Record Telegram publishing state
+- [`3f21418`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3f214184443c18354a801e8f126918ad65b43574) · 27 Oct 2026, 08:38 UTC · Record Telegram publishing state
+- [`e74ca59`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e74ca59b56f7cd4bc2e40beb264d6794aab960fa) · 27 Oct 2026, 08:36 UTC · Add Opal notice card to index
+- [`29e40ba`](https://github.com/aicon-hub/aicon-hub.github.io/commit/29e40baf6a7ebed4c3036c387269fc32fa329e38) · 27 Oct 2026, 08:35 UTC · Registry: Opal notice guide
 <!-- AICON:COMMITS:END -->
 
 </details>

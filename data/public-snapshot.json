@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-27 08:03 UTC",
-  "checked_at_ist": "27 Oct 2026, 01:33 PM IST",
-  "archive_entries": 693,
+  "checked_at_utc": "2026-10-27 09:02 UTC",
+  "checked_at_ist": "27 Oct 2026, 02:32 PM IST",
+  "archive_entries": 694,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -19,12 +19,12 @@
       "url": "https://aicon-hub.github.io/posts/ensu-ente-free-offline-ai-chat-app-no-account-guide.html"
     },
     {
-      "title": "Wokwi: run Arduino code in your browser",
-      "url": "https://aicon-hub.github.io/posts/wokwi-free-online-arduino-esp32-simulator-browser-guide.html"
+      "title": "Google Opal shuts down 17 November 2026: save your prompts",
+      "url": "https://aicon-hub.github.io/posts/google-opal-shutting-down-17-november-2026-save-prompts-guide.html"
     },
     {
-      "title": "CNN Explainer: see how an image AI works, step by step",
-      "url": "https://aicon-hub.github.io/posts/cnn-explainer-free-interactive-cnn-visualizer-browser-guide.html"
+      "title": "Wokwi: run Arduino code in your browser",
+      "url": "https://aicon-hub.github.io/posts/wokwi-free-online-arduino-esp32-simulator-browser-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-27",
-        "count": 93
+        "count": 103
       }
     ],
     "commits": [
       {
-        "sha": "3bd27b1213f1fdedf4ac6dc5bb2c63b07a6109c6",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3bd27b1213f1fdedf4ac6dc5bb2c63b07a6109c6",
-        "date_utc": "27 Oct 2026, 07:08 UTC",
-        "day": "2026-10-27",
-        "title": "Wokwi guide: remove blanket chatbot claim"
-      },
-      {
-        "sha": "9ab9b2c72f0c7fff248f1e3047518b3d5e642594",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9ab9b2c72f0c7fff248f1e3047518b3d5e642594",
-        "date_utc": "27 Oct 2026, 07:06 UTC",
+        "sha": "d306f0fd867c9c8bf0631dd231a28c65b07be943",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d306f0fd867c9c8bf0631dd231a28c65b07be943",
+        "date_utc": "27 Oct 2026, 08:38 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "ce9045bf457a4fde08ba05885fd6fae6ee07a16a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ce9045bf457a4fde08ba05885fd6fae6ee07a16a",
-        "date_utc": "27 Oct 2026, 07:06 UTC",
+        "sha": "96d38f539835e66d434db7d131333b9c5ca189d1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/96d38f539835e66d434db7d131333b9c5ca189d1",
+        "date_utc": "27 Oct 2026, 08:38 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "0200a0eecfc90ae1af6b52b793c7c12fc884c049",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0200a0eecfc90ae1af6b52b793c7c12fc884c049",
-        "date_utc": "27 Oct 2026, 07:06 UTC",
+        "sha": "3f214184443c18354a801e8f126918ad65b43574",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3f214184443c18354a801e8f126918ad65b43574",
+        "date_utc": "27 Oct 2026, 08:38 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "a16b3b01f3298629956edeac592f93998d20ccba",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a16b3b01f3298629956edeac592f93998d20ccba",
-        "date_utc": "27 Oct 2026, 07:05 UTC",
+        "sha": "e74ca59b56f7cd4bc2e40beb264d6794aab960fa",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e74ca59b56f7cd4bc2e40beb264d6794aab960fa",
+        "date_utc": "27 Oct 2026, 08:36 UTC",
         "day": "2026-10-27",
-        "title": "Add Wokwi guide card to index"
+        "title": "Add Opal notice card to index"
+      },
+      {
+        "sha": "29e40baf6a7ebed4c3036c387269fc32fa329e38",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/29e40baf6a7ebed4c3036c387269fc32fa329e38",
+        "date_utc": "27 Oct 2026, 08:35 UTC",
+        "day": "2026-10-27",
+        "title": "Registry: Opal notice guide"
       }
     ],
-    "commit_total": 2961,
+    "commit_total": 2971,
     "calendar": [
       {
         "date": "2026-07-29",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-27",
         "level": 1,
-        "count": 61
+        "count": 68
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
