@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **27 Oct 2026, 06:41 AM IST** (2026-10-27 01:11 UTC).
+Checked **27 Oct 2026, 07:29 AM IST** (2026-10-27 01:59 UTC).
 
-**686 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**687 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **27 Oct 2026, 06:41 AM IST** (2026-10-27 01:11 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2879 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2894 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`e5d9a04`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e5d9a04d653afe1a9e0ab09f3a9871170f65c4f3) · 27 Oct 2026, 00:55 UTC · Record Telegram publishing state
-- [`b89d0a0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b89d0a0d6a004c854453348b368e2d5dfa5ce21e) · 27 Oct 2026, 00:55 UTC · Record Telegram publishing state
-- [`2e16ea1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2e16ea14178f4e3c36df1fb78a1c71be6a73de75) · 27 Oct 2026, 00:55 UTC · Record Telegram publishing state
-- [`84a2a6c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/84a2a6c77f1c7ca0a8b113bf5feb3f72c410954c) · 27 Oct 2026, 00:54 UTC · Add Ensu poster v4 balanced layout
-- [`02186fb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/02186fb7be2a1145b61d9c6dc2ab91960e53d792) · 27 Oct 2026, 00:52 UTC · Record Telegram publishing state
+- [`2b516a5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2b516a528270867d795382ab9a3664b22b4fad3a) · 27 Oct 2026, 01:57 UTC · Record Telegram publishing state
+- [`6156c2d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6156c2dcb266b4775010c103d1734f9b176f2217) · 27 Oct 2026, 01:57 UTC · Record Telegram publishing state
+- [`b1463c5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b1463c5eb86ce091db29a040aa007661d0e9966d) · 27 Oct 2026, 01:57 UTC · Record Telegram publishing state
+- [`f1462ff`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f1462ffd2ced3d755f8f26b2ffe19ed048b28faf) · 27 Oct 2026, 01:55 UTC · Stitch index card: neutral wording
+- [`222550c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/222550cfb110c29bc35c140d28220ea18d7c5534) · 27 Oct 2026, 01:54 UTC · Stitch guide: neutral title and chip
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
+- [Google Stitch: AI that designs app screens from a prompt](https://aicon-hub.github.io/posts/google-stitch-free-ai-app-ui-design-tool-guide.html)
 - [Ensu: a free AI chat app that runs on your device, with no account](https://aicon-hub.github.io/posts/ensu-ente-free-offline-ai-chat-app-no-account-guide.html)
 - [Kerala OBC Overseas Scholarship 2026-27: up to ₹10 lakh for PG or PhD abroad, apply by 31 October](https://aicon-hub.github.io/posts/kerala-obc-overseas-scholarship-2026-27-egrantz-up-to-10-lakh-guide.html)
-- [Ente Bhoomi: Kerala's land tax, records, location sketch and e-BTR on one official portal](https://aicon-hub.github.io/posts/entebhoomi-kerala-land-tax-records-transfer-ebtr-one-login-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
