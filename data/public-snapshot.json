@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-27 18:00 UTC",
-  "checked_at_ist": "27 Oct 2026, 11:30 PM IST",
-  "archive_entries": 706,
+  "checked_at_utc": "2026-10-27 19:05 UTC",
+  "checked_at_ist": "28 Oct 2026, 12:35 AM IST",
+  "archive_entries": 707,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "MarkItDown: turn Word, Excel and PDF files into Markdown",
-      "url": "https://aicon-hub.github.io/posts/markitdown-convert-word-excel-pdf-to-markdown-local-test-guide.html"
+      "title": "KeyBERT: find suggested keyphrases in your notes with Python",
+      "url": "https://aicon-hub.github.io/posts/keybert-extract-keyphrases-notes-local-python-test-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-27",
-        "count": 222
+        "count": 231
       }
     ],
     "commits": [
       {
-        "sha": "c19f4dc1422f01c3caadf05450807ec4029c89ac",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c19f4dc1422f01c3caadf05450807ec4029c89ac",
-        "date_utc": "27 Oct 2026, 17:47 UTC",
+        "sha": "9168b99436d62d009f69ad1150c8ebe10a948ac7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9168b99436d62d009f69ad1150c8ebe10a948ac7",
+        "date_utc": "27 Oct 2026, 18:38 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7f0c7bbf14d7d2c62ffbe61ea95d71f3200ddb21",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7f0c7bbf14d7d2c62ffbe61ea95d71f3200ddb21",
-        "date_utc": "27 Oct 2026, 17:47 UTC",
+        "sha": "55f27ac04ec5aba2e475b0e1a9d56abd0537e6c9",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/55f27ac04ec5aba2e475b0e1a9d56abd0537e6c9",
+        "date_utc": "27 Oct 2026, 18:38 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "e252f1988ef904ccd50e8c5ae04e1369007d080e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e252f1988ef904ccd50e8c5ae04e1369007d080e",
-        "date_utc": "27 Oct 2026, 17:47 UTC",
+        "sha": "6c09e681d15e70e5d0aaa47df48ef2b10d44901d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6c09e681d15e70e5d0aaa47df48ef2b10d44901d",
+        "date_utc": "27 Oct 2026, 18:38 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "961c7fa9d4e07e2303411454f035777cfa67fea8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/961c7fa9d4e07e2303411454f035777cfa67fea8",
-        "date_utc": "27 Oct 2026, 17:36 UTC",
+        "sha": "07eb600fc1bab92799b2783c27e02deaca66055c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/07eb600fc1bab92799b2783c27e02deaca66055c",
+        "date_utc": "27 Oct 2026, 18:36 UTC",
         "day": "2026-10-27",
-        "title": "Add MarkItDown guide card"
+        "title": "Add new AI tools and courses to index.html"
       },
       {
-        "sha": "69f8072ff551958661cbb738ea4722876a5e3587",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/69f8072ff551958661cbb738ea4722876a5e3587",
-        "date_utc": "27 Oct 2026, 17:36 UTC",
+        "sha": "77651044ef0a6c17722bf1653379aeec36daae6e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/77651044ef0a6c17722bf1653379aeec36daae6e",
+        "date_utc": "27 Oct 2026, 18:35 UTC",
         "day": "2026-10-27",
-        "title": "Add MarkItDown guide to sitemap"
+        "title": "Add KeyBERT guide to sitemap"
       }
     ],
-    "commit_total": 3090,
+    "commit_total": 3099,
     "calendar": [
       {
         "date": "2026-07-29",
