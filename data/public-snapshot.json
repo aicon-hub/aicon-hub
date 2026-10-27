@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-27 05:54 UTC",
-  "checked_at_ist": "27 Oct 2026, 11:24 AM IST",
-  "archive_entries": 691,
+  "checked_at_utc": "2026-10-27 07:12 UTC",
+  "checked_at_ist": "27 Oct 2026, 12:42 PM IST",
+  "archive_entries": 693,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -19,12 +19,12 @@
       "url": "https://aicon-hub.github.io/posts/ensu-ente-free-offline-ai-chat-app-no-account-guide.html"
     },
     {
-      "title": "Netron: inspect AI model files in your browser",
-      "url": "https://aicon-hub.github.io/posts/netron-free-open-source-ai-model-viewer-browser-guide.html"
+      "title": "Wokwi: run Arduino code in your browser",
+      "url": "https://aicon-hub.github.io/posts/wokwi-free-online-arduino-esp32-simulator-browser-guide.html"
     },
     {
-      "title": "Google Teachable Machine: train a photo classifier in your browser",
-      "url": "https://aicon-hub.github.io/posts/google-teachable-machine-train-image-classifier-in-browser-guide.html"
+      "title": "CNN Explainer: see how an image AI works, step by step",
+      "url": "https://aicon-hub.github.io/posts/cnn-explainer-free-interactive-cnn-visualizer-browser-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-27",
-        "count": 71
+        "count": 93
       }
     ],
     "commits": [
       {
-        "sha": "cfccc92f2646a45a6380c85f7ca3ae5cb5ae12b0",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cfccc92f2646a45a6380c85f7ca3ae5cb5ae12b0",
-        "date_utc": "27 Oct 2026, 05:49 UTC",
+        "sha": "3bd27b1213f1fdedf4ac6dc5bb2c63b07a6109c6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3bd27b1213f1fdedf4ac6dc5bb2c63b07a6109c6",
+        "date_utc": "27 Oct 2026, 07:08 UTC",
+        "day": "2026-10-27",
+        "title": "Wokwi guide: remove blanket chatbot claim"
+      },
+      {
+        "sha": "9ab9b2c72f0c7fff248f1e3047518b3d5e642594",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9ab9b2c72f0c7fff248f1e3047518b3d5e642594",
+        "date_utc": "27 Oct 2026, 07:06 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "e8bdb244b9b450a44898ce7b4b3f6894ddc03cf9",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e8bdb244b9b450a44898ce7b4b3f6894ddc03cf9",
-        "date_utc": "27 Oct 2026, 05:49 UTC",
+        "sha": "ce9045bf457a4fde08ba05885fd6fae6ee07a16a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ce9045bf457a4fde08ba05885fd6fae6ee07a16a",
+        "date_utc": "27 Oct 2026, 07:06 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "9eb55e650f2f19e47b9465013b0ab0db3049ee41",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9eb55e650f2f19e47b9465013b0ab0db3049ee41",
-        "date_utc": "27 Oct 2026, 05:49 UTC",
+        "sha": "0200a0eecfc90ae1af6b52b793c7c12fc884c049",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0200a0eecfc90ae1af6b52b793c7c12fc884c049",
+        "date_utc": "27 Oct 2026, 07:06 UTC",
         "day": "2026-10-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "07dee256f198db4173b7a1886b705ec0cfa3a1d8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/07dee256f198db4173b7a1886b705ec0cfa3a1d8",
-        "date_utc": "27 Oct 2026, 05:47 UTC",
+        "sha": "a16b3b01f3298629956edeac592f93998d20ccba",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a16b3b01f3298629956edeac592f93998d20ccba",
+        "date_utc": "27 Oct 2026, 07:05 UTC",
         "day": "2026-10-27",
-        "title": "Netron guide: white backing for dark logo"
-      },
-      {
-        "sha": "45a1072df0c3f893d406ba42caf3c52027454483",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/45a1072df0c3f893d406ba42caf3c52027454483",
-        "date_utc": "27 Oct 2026, 05:46 UTC",
-        "day": "2026-10-27",
-        "title": "Add Netron guide card to index"
+        "title": "Add Wokwi guide card to index"
       }
     ],
-    "commit_total": 2939,
+    "commit_total": 2961,
     "calendar": [
       {
         "date": "2026-07-29",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-27",
         "level": 1,
-        "count": 45
+        "count": 61
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
