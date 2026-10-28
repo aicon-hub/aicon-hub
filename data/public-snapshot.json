@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-28 14:18 UTC",
-  "checked_at_ist": "28 Oct 2026, 07:48 PM IST",
-  "archive_entries": 723,
+  "checked_at_utc": "2026-10-28 15:12 UTC",
+  "checked_at_ist": "28 Oct 2026, 08:42 PM IST",
+  "archive_entries": 724,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Diffchecker: catch changed numbers before you send",
-      "url": "https://aicon-hub.github.io/posts/diffchecker-free-text-compare-notice-changes-browser-guide.html"
+      "title": "QRCode Monkey: make a static code, then scan it",
+      "url": "https://aicon-hub.github.io/posts/qrcode-monkey-free-static-qr-code-posters-scan-test-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-28",
-        "count": 199
+        "count": 209
       }
     ],
     "commits": [
       {
-        "sha": "87028a2e0d95dda8c7977724f3dbdfe136fd1de4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/87028a2e0d95dda8c7977724f3dbdfe136fd1de4",
-        "date_utc": "28 Oct 2026, 13:41 UTC",
+        "sha": "5a44531a8750aac698ff642d4905196c5e76bd74",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5a44531a8750aac698ff642d4905196c5e76bd74",
+        "date_utc": "28 Oct 2026, 14:41 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "3849e22d5a80f72a3cef491e1e441342893f61aa",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3849e22d5a80f72a3cef491e1e441342893f61aa",
-        "date_utc": "28 Oct 2026, 13:41 UTC",
+        "sha": "ec13d841eb0d856cb9723b6a81a261ef910e634f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ec13d841eb0d856cb9723b6a81a261ef910e634f",
+        "date_utc": "28 Oct 2026, 14:41 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "2cd6c9a12d1baa4efdca8e6afcc1367bd5604a78",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2cd6c9a12d1baa4efdca8e6afcc1367bd5604a78",
-        "date_utc": "28 Oct 2026, 13:41 UTC",
+        "sha": "2a2fee9dad8c144448c88581dfc53c3db489afb9",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2a2fee9dad8c144448c88581dfc53c3db489afb9",
+        "date_utc": "28 Oct 2026, 14:41 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "30d4f0e790026a93ef09972433066e72fb3177f7",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/30d4f0e790026a93ef09972433066e72fb3177f7",
-        "date_utc": "28 Oct 2026, 13:39 UTC",
+        "sha": "a70527dd38a87ea22ee05af5a93515db52460929",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a70527dd38a87ea22ee05af5a93515db52460929",
+        "date_utc": "28 Oct 2026, 14:39 UTC",
         "day": "2026-10-28",
-        "title": "Add Diffchecker to sitemap"
+        "title": "Add QRCode Monkey card to posts index"
       },
       {
-        "sha": "4b59e5290f14622b313322b38db73465d78382fa",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4b59e5290f14622b313322b38db73465d78382fa",
-        "date_utc": "28 Oct 2026, 13:38 UTC",
+        "sha": "75196387522a4fd545f17e38e37fc4dcb07fa6c8",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/75196387522a4fd545f17e38e37fc4dcb07fa6c8",
+        "date_utc": "28 Oct 2026, 14:39 UTC",
         "day": "2026-10-28",
-        "title": "Add Diffchecker card to posts index"
+        "title": "Add QRCode Monkey media record"
       }
     ],
-    "commit_total": 3066,
+    "commit_total": 3076,
     "calendar": [
       {
         "date": "2026-07-30",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-28",
         "level": 2,
-        "count": 153
+        "count": 158
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

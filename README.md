@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **28 Oct 2026, 07:48 PM IST** (2026-10-28 14:18 UTC).
+Checked **28 Oct 2026, 08:42 PM IST** (2026-10-28 15:12 UTC).
 
-**723 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**724 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **28 Oct 2026, 07:48 PM IST** (2026-10-28 14:18 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3066 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3076 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`87028a2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/87028a2e0d95dda8c7977724f3dbdfe136fd1de4) · 28 Oct 2026, 13:41 UTC · Record Telegram publishing state
-- [`3849e22`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3849e22d5a80f72a3cef491e1e441342893f61aa) · 28 Oct 2026, 13:41 UTC · Record Telegram publishing state
-- [`2cd6c9a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2cd6c9a12d1baa4efdca8e6afcc1367bd5604a78) · 28 Oct 2026, 13:41 UTC · Record Telegram publishing state
-- [`30d4f0e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/30d4f0e790026a93ef09972433066e72fb3177f7) · 28 Oct 2026, 13:39 UTC · Add Diffchecker to sitemap
-- [`4b59e52`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4b59e5290f14622b313322b38db73465d78382fa) · 28 Oct 2026, 13:38 UTC · Add Diffchecker card to posts index
+- [`5a44531`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5a44531a8750aac698ff642d4905196c5e76bd74) · 28 Oct 2026, 14:41 UTC · Record Telegram publishing state
+- [`ec13d84`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ec13d841eb0d856cb9723b6a81a261ef910e634f) · 28 Oct 2026, 14:41 UTC · Record Telegram publishing state
+- [`2a2fee9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2a2fee9dad8c144448c88581dfc53c3db489afb9) · 28 Oct 2026, 14:41 UTC · Record Telegram publishing state
+- [`a70527d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a70527dd38a87ea22ee05af5a93515db52460929) · 28 Oct 2026, 14:39 UTC · Add QRCode Monkey card to posts index
+- [`7519638`](https://github.com/aicon-hub/aicon-hub.github.io/commit/75196387522a4fd545f17e38e37fc4dcb07fa6c8) · 28 Oct 2026, 14:39 UTC · Add QRCode Monkey media record
 <!-- AICON:COMMITS:END -->
 
 </details>
