@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-28 04:04 UTC",
-  "checked_at_ist": "28 Oct 2026, 09:34 AM IST",
-  "archive_entries": 712,
+  "checked_at_utc": "2026-10-28 05:04 UTC",
+  "checked_at_ist": "28 Oct 2026, 10:34 AM IST",
+  "archive_entries": 714,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "fastText: identify text language locally, with limits",
-      "url": "https://aicon-hub.github.io/posts/fasttext-identify-text-language-local-hindi-malayalam-test-guide.html"
+      "title": "GAN Lab: watch two networks train in your browser",
+      "url": "https://aicon-hub.github.io/posts/gan-lab-visual-gan-training-browser-learning-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-28",
-        "count": 36
+        "count": 55
       }
     ],
     "commits": [
       {
-        "sha": "7e6724bae243a0fdf9aa1b769b7711c645f26889",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e6724bae243a0fdf9aa1b769b7711c645f26889",
-        "date_utc": "28 Oct 2026, 03:38 UTC",
+        "sha": "8a0a78094ee034b1443288ef274b77e815966f40",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8a0a78094ee034b1443288ef274b77e815966f40",
+        "date_utc": "28 Oct 2026, 04:39 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "54d9902631b8c4a2b39a37b86d11773bb06524ad",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/54d9902631b8c4a2b39a37b86d11773bb06524ad",
-        "date_utc": "28 Oct 2026, 03:38 UTC",
+        "sha": "ed5cb3d314407218c4aa8d9e4201a4a9c38c35b6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ed5cb3d314407218c4aa8d9e4201a4a9c38c35b6",
+        "date_utc": "28 Oct 2026, 04:39 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "2062d1f72b3597e6358a66aed5fb6c09329be191",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2062d1f72b3597e6358a66aed5fb6c09329be191",
-        "date_utc": "28 Oct 2026, 03:38 UTC",
+        "sha": "87f3f6c98284288b39c89bfec76acb9f1834296e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/87f3f6c98284288b39c89bfec76acb9f1834296e",
+        "date_utc": "28 Oct 2026, 04:39 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "2af9dccd0d99efd879b2d9eff43925a7c0fbb74f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2af9dccd0d99efd879b2d9eff43925a7c0fbb74f",
-        "date_utc": "28 Oct 2026, 03:36 UTC",
+        "sha": "f940dcaf5fe1abcfe2e7c40024af3b1854658a52",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f940dcaf5fe1abcfe2e7c40024af3b1854658a52",
+        "date_utc": "28 Oct 2026, 04:37 UTC",
         "day": "2026-10-28",
-        "title": "Add fastText guide card"
+        "title": "Add GAN Lab card"
       },
       {
-        "sha": "89166b42d749397d215c2611ee141820b4b76305",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/89166b42d749397d215c2611ee141820b4b76305",
-        "date_utc": "28 Oct 2026, 03:36 UTC",
+        "sha": "38b53de09db631cd27b133aae8be1189e3e654e3",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/38b53de09db631cd27b133aae8be1189e3e654e3",
+        "date_utc": "28 Oct 2026, 04:37 UTC",
         "day": "2026-10-28",
-        "title": "Add fastText guide to sitemap"
+        "title": "Add GAN Lab to sitemap"
       }
     ],
-    "commit_total": 2903,
+    "commit_total": 2922,
     "calendar": [
       {
         "date": "2026-07-30",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-28",
         "level": 1,
-        "count": 36
+        "count": 49
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

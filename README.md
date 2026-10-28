@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **28 Oct 2026, 09:34 AM IST** (2026-10-28 04:04 UTC).
+Checked **28 Oct 2026, 10:34 AM IST** (2026-10-28 05:04 UTC).
 
-**712 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**714 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **28 Oct 2026, 09:34 AM IST** (2026-10-28 04:04 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2903 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2922 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`7e6724b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7e6724bae243a0fdf9aa1b769b7711c645f26889) · 28 Oct 2026, 03:38 UTC · Record Telegram publishing state
-- [`54d9902`](https://github.com/aicon-hub/aicon-hub.github.io/commit/54d9902631b8c4a2b39a37b86d11773bb06524ad) · 28 Oct 2026, 03:38 UTC · Record Telegram publishing state
-- [`2062d1f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2062d1f72b3597e6358a66aed5fb6c09329be191) · 28 Oct 2026, 03:38 UTC · Record Telegram publishing state
-- [`2af9dcc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2af9dccd0d99efd879b2d9eff43925a7c0fbb74f) · 28 Oct 2026, 03:36 UTC · Add fastText guide card
-- [`89166b4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/89166b42d749397d215c2611ee141820b4b76305) · 28 Oct 2026, 03:36 UTC · Add fastText guide to sitemap
+- [`8a0a780`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8a0a78094ee034b1443288ef274b77e815966f40) · 28 Oct 2026, 04:39 UTC · Record Telegram publishing state
+- [`ed5cb3d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ed5cb3d314407218c4aa8d9e4201a4a9c38c35b6) · 28 Oct 2026, 04:39 UTC · Record Telegram publishing state
+- [`87f3f6c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/87f3f6c98284288b39c89bfec76acb9f1834296e) · 28 Oct 2026, 04:39 UTC · Record Telegram publishing state
+- [`f940dca`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f940dcaf5fe1abcfe2e7c40024af3b1854658a52) · 28 Oct 2026, 04:37 UTC · Add GAN Lab card
+- [`38b53de`](https://github.com/aicon-hub/aicon-hub.github.io/commit/38b53de09db631cd27b133aae8be1189e3e654e3) · 28 Oct 2026, 04:37 UTC · Add GAN Lab to sitemap
 <!-- AICON:COMMITS:END -->
 
 </details>
