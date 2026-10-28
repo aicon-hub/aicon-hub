@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-28 09:09 UTC",
-  "checked_at_ist": "28 Oct 2026, 02:39 PM IST",
-  "archive_entries": 719,
+  "checked_at_utc": "2026-10-28 10:07 UTC",
+  "checked_at_ist": "28 Oct 2026, 03:37 PM IST",
+  "archive_entries": 721,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Optuna: search model settings without reusing the test set",
-      "url": "https://aicon-hub.github.io/posts/optuna-search-model-parameters-cv-holdout-python-guide.html"
+      "title": "Fairlearn: look past a single accuracy score",
+      "url": "https://aicon-hub.github.io/posts/fairlearn-metricframe-group-accuracy-synthetic-python-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-28",
-        "count": 103
+        "count": 125
       }
     ],
     "commits": [
       {
-        "sha": "090e0f4c2c457f55628b1c8f88073da39efd2f6c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/090e0f4c2c457f55628b1c8f88073da39efd2f6c",
-        "date_utc": "28 Oct 2026, 08:37 UTC",
+        "sha": "1b9a541d7a4b243ec1dfb1939a87fbdbb3971ab6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1b9a541d7a4b243ec1dfb1939a87fbdbb3971ab6",
+        "date_utc": "28 Oct 2026, 09:39 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7624b361b9056ed5ef277a53807cc7d8c5302aa9",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7624b361b9056ed5ef277a53807cc7d8c5302aa9",
-        "date_utc": "28 Oct 2026, 08:37 UTC",
+        "sha": "3608143c3604a058bc71d4ba034828d38288dbcf",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3608143c3604a058bc71d4ba034828d38288dbcf",
+        "date_utc": "28 Oct 2026, 09:39 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "9c78e3070e70248c9a713379d3a9941a66769218",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9c78e3070e70248c9a713379d3a9941a66769218",
-        "date_utc": "28 Oct 2026, 08:37 UTC",
+        "sha": "6e8e0f56d95573c5ef0f3aa0bf9e2207aba0b108",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6e8e0f56d95573c5ef0f3aa0bf9e2207aba0b108",
+        "date_utc": "28 Oct 2026, 09:39 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "8b558eeb1ee83d75ec997e114a0b2cbd3ac88770",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8b558eeb1ee83d75ec997e114a0b2cbd3ac88770",
-        "date_utc": "28 Oct 2026, 08:35 UTC",
+        "sha": "f1b9d9c740df59a6b649df1cce8f1dce3a932e29",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f1b9d9c740df59a6b649df1cce8f1dce3a932e29",
+        "date_utc": "28 Oct 2026, 09:37 UTC",
         "day": "2026-10-28",
-        "title": "Add Optuna sitemap"
+        "title": "Add new URLs to sitemap.xml"
       },
       {
-        "sha": "1b5720f6f85aca84bd8a3eab4e31f0e27ed3d44a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1b5720f6f85aca84bd8a3eab4e31f0e27ed3d44a",
-        "date_utc": "28 Oct 2026, 08:34 UTC",
+        "sha": "08e90120a60af4ea41a1667374c2b43aca161554",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/08e90120a60af4ea41a1667374c2b43aca161554",
+        "date_utc": "28 Oct 2026, 09:37 UTC",
         "day": "2026-10-28",
-        "title": "Add Optuna card"
+        "title": "Add Fairlearn card"
       }
     ],
-    "commit_total": 2970,
+    "commit_total": 2992,
     "calendar": [
       {
         "date": "2026-07-30",
@@ -584,8 +584,8 @@
       },
       {
         "date": "2026-10-28",
-        "level": 1,
-        "count": 82
+        "level": 2,
+        "count": 98
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
