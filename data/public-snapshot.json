@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-28 06:00 UTC",
-  "checked_at_ist": "28 Oct 2026, 11:30 AM IST",
-  "archive_entries": 715,
+  "checked_at_utc": "2026-10-28 07:24 UTC",
+  "checked_at_ist": "28 Oct 2026, 12:54 PM IST",
+  "archive_entries": 717,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "spaCy EntityRuler: extract fields with rules you can inspect",
-      "url": "https://aicon-hub.github.io/posts/spacy-entityruler-extract-product-order-id-rules-python-guide.html"
+      "title": "Kerala birth, death and marriage certificates: how to download online",
+      "url": "https://aicon-hub.github.io/posts/ksmart-birth-death-marriage-certificate-download-online-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-28",
-        "count": 64
+        "count": 85
       }
     ],
     "commits": [
       {
-        "sha": "3b82c0706d7182138a7d239ffadc7efdfd1f4f96",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3b82c0706d7182138a7d239ffadc7efdfd1f4f96",
-        "date_utc": "28 Oct 2026, 05:38 UTC",
+        "sha": "7e6cde09140f5502a6983f3c1e08ce7991ae5fdb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e6cde09140f5502a6983f3c1e08ce7991ae5fdb",
+        "date_utc": "28 Oct 2026, 07:19 UTC",
+        "day": "2026-10-28",
+        "title": "Clarify test results for birth certificate search"
+      },
+      {
+        "sha": "e8969b2bfe1b387f8e9078b3de004150a8812b04",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e8969b2bfe1b387f8e9078b3de004150a8812b04",
+        "date_utc": "28 Oct 2026, 07:16 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7e8af6167add006b6ff4f046a8149b506de521ce",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e8af6167add006b6ff4f046a8149b506de521ce",
-        "date_utc": "28 Oct 2026, 05:38 UTC",
+        "sha": "429053c893458bc9a90c3ff9be706d0b6779690c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/429053c893458bc9a90c3ff9be706d0b6779690c",
+        "date_utc": "28 Oct 2026, 07:16 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "2c0a8197faac13f749fc4761eaae49d67c346709",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2c0a8197faac13f749fc4761eaae49d67c346709",
-        "date_utc": "28 Oct 2026, 05:38 UTC",
+        "sha": "a46e30cce15419c029117385af2f77a76b8b630c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a46e30cce15419c029117385af2f77a76b8b630c",
+        "date_utc": "28 Oct 2026, 07:16 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "f2afda4cbd4a9d963a106f48d2075f6144ac55b1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f2afda4cbd4a9d963a106f48d2075f6144ac55b1",
-        "date_utc": "28 Oct 2026, 05:35 UTC",
+        "sha": "09b5faf218503ff82e2c2f4ed2ed594b92fc0d60",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/09b5faf218503ff82e2c2f4ed2ed594b92fc0d60",
+        "date_utc": "28 Oct 2026, 07:14 UTC",
         "day": "2026-10-28",
-        "title": "Add spaCy card"
-      },
-      {
-        "sha": "573d2e6fc8726569689b76f106a2d1cf693a0c49",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/573d2e6fc8726569689b76f106a2d1cf693a0c49",
-        "date_utc": "28 Oct 2026, 05:35 UTC",
-        "day": "2026-10-28",
-        "title": "Add spaCy to sitemap"
+        "title": "Add K-SMART card"
       }
     ],
-    "commit_total": 2931,
+    "commit_total": 2952,
     "calendar": [
       {
         "date": "2026-07-30",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-28",
         "level": 1,
-        "count": 55
+        "count": 70
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
