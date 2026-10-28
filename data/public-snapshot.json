@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-28 07:24 UTC",
-  "checked_at_ist": "28 Oct 2026, 12:54 PM IST",
-  "archive_entries": 717,
+  "checked_at_utc": "2026-10-28 09:09 UTC",
+  "checked_at_ist": "28 Oct 2026, 02:39 PM IST",
+  "archive_entries": 719,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Kerala birth, death and marriage certificates: how to download online",
-      "url": "https://aicon-hub.github.io/posts/ksmart-birth-death-marriage-certificate-download-online-guide.html"
+      "title": "Optuna: search model settings without reusing the test set",
+      "url": "https://aicon-hub.github.io/posts/optuna-search-model-parameters-cv-holdout-python-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-28",
-        "count": 85
+        "count": 103
       }
     ],
     "commits": [
       {
-        "sha": "7e6cde09140f5502a6983f3c1e08ce7991ae5fdb",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e6cde09140f5502a6983f3c1e08ce7991ae5fdb",
-        "date_utc": "28 Oct 2026, 07:19 UTC",
-        "day": "2026-10-28",
-        "title": "Clarify test results for birth certificate search"
-      },
-      {
-        "sha": "e8969b2bfe1b387f8e9078b3de004150a8812b04",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e8969b2bfe1b387f8e9078b3de004150a8812b04",
-        "date_utc": "28 Oct 2026, 07:16 UTC",
+        "sha": "090e0f4c2c457f55628b1c8f88073da39efd2f6c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/090e0f4c2c457f55628b1c8f88073da39efd2f6c",
+        "date_utc": "28 Oct 2026, 08:37 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "429053c893458bc9a90c3ff9be706d0b6779690c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/429053c893458bc9a90c3ff9be706d0b6779690c",
-        "date_utc": "28 Oct 2026, 07:16 UTC",
+        "sha": "7624b361b9056ed5ef277a53807cc7d8c5302aa9",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7624b361b9056ed5ef277a53807cc7d8c5302aa9",
+        "date_utc": "28 Oct 2026, 08:37 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "a46e30cce15419c029117385af2f77a76b8b630c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a46e30cce15419c029117385af2f77a76b8b630c",
-        "date_utc": "28 Oct 2026, 07:16 UTC",
+        "sha": "9c78e3070e70248c9a713379d3a9941a66769218",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9c78e3070e70248c9a713379d3a9941a66769218",
+        "date_utc": "28 Oct 2026, 08:37 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "09b5faf218503ff82e2c2f4ed2ed594b92fc0d60",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/09b5faf218503ff82e2c2f4ed2ed594b92fc0d60",
-        "date_utc": "28 Oct 2026, 07:14 UTC",
+        "sha": "8b558eeb1ee83d75ec997e114a0b2cbd3ac88770",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8b558eeb1ee83d75ec997e114a0b2cbd3ac88770",
+        "date_utc": "28 Oct 2026, 08:35 UTC",
         "day": "2026-10-28",
-        "title": "Add K-SMART card"
+        "title": "Add Optuna sitemap"
+      },
+      {
+        "sha": "1b5720f6f85aca84bd8a3eab4e31f0e27ed3d44a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1b5720f6f85aca84bd8a3eab4e31f0e27ed3d44a",
+        "date_utc": "28 Oct 2026, 08:34 UTC",
+        "day": "2026-10-28",
+        "title": "Add Optuna card"
       }
     ],
-    "commit_total": 2952,
+    "commit_total": 2970,
     "calendar": [
       {
         "date": "2026-07-30",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-28",
         "level": 1,
-        "count": 70
+        "count": 82
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
