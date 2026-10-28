@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-28 05:04 UTC",
-  "checked_at_ist": "28 Oct 2026, 10:34 AM IST",
-  "archive_entries": 714,
+  "checked_at_utc": "2026-10-28 06:00 UTC",
+  "checked_at_ist": "28 Oct 2026, 11:30 AM IST",
+  "archive_entries": 715,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "GAN Lab: watch two networks train in your browser",
-      "url": "https://aicon-hub.github.io/posts/gan-lab-visual-gan-training-browser-learning-guide.html"
+      "title": "spaCy EntityRuler: extract fields with rules you can inspect",
+      "url": "https://aicon-hub.github.io/posts/spacy-entityruler-extract-product-order-id-rules-python-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-28",
-        "count": 55
+        "count": 64
       }
     ],
     "commits": [
       {
-        "sha": "8a0a78094ee034b1443288ef274b77e815966f40",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8a0a78094ee034b1443288ef274b77e815966f40",
-        "date_utc": "28 Oct 2026, 04:39 UTC",
+        "sha": "3b82c0706d7182138a7d239ffadc7efdfd1f4f96",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3b82c0706d7182138a7d239ffadc7efdfd1f4f96",
+        "date_utc": "28 Oct 2026, 05:38 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "ed5cb3d314407218c4aa8d9e4201a4a9c38c35b6",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ed5cb3d314407218c4aa8d9e4201a4a9c38c35b6",
-        "date_utc": "28 Oct 2026, 04:39 UTC",
+        "sha": "7e8af6167add006b6ff4f046a8149b506de521ce",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e8af6167add006b6ff4f046a8149b506de521ce",
+        "date_utc": "28 Oct 2026, 05:38 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "87f3f6c98284288b39c89bfec76acb9f1834296e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/87f3f6c98284288b39c89bfec76acb9f1834296e",
-        "date_utc": "28 Oct 2026, 04:39 UTC",
+        "sha": "2c0a8197faac13f749fc4761eaae49d67c346709",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2c0a8197faac13f749fc4761eaae49d67c346709",
+        "date_utc": "28 Oct 2026, 05:38 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "f940dcaf5fe1abcfe2e7c40024af3b1854658a52",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f940dcaf5fe1abcfe2e7c40024af3b1854658a52",
-        "date_utc": "28 Oct 2026, 04:37 UTC",
+        "sha": "f2afda4cbd4a9d963a106f48d2075f6144ac55b1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f2afda4cbd4a9d963a106f48d2075f6144ac55b1",
+        "date_utc": "28 Oct 2026, 05:35 UTC",
         "day": "2026-10-28",
-        "title": "Add GAN Lab card"
+        "title": "Add spaCy card"
       },
       {
-        "sha": "38b53de09db631cd27b133aae8be1189e3e654e3",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/38b53de09db631cd27b133aae8be1189e3e654e3",
-        "date_utc": "28 Oct 2026, 04:37 UTC",
+        "sha": "573d2e6fc8726569689b76f106a2d1cf693a0c49",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/573d2e6fc8726569689b76f106a2d1cf693a0c49",
+        "date_utc": "28 Oct 2026, 05:35 UTC",
         "day": "2026-10-28",
-        "title": "Add GAN Lab to sitemap"
+        "title": "Add spaCy to sitemap"
       }
     ],
-    "commit_total": 2922,
+    "commit_total": 2931,
     "calendar": [
       {
         "date": "2026-07-30",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-28",
         "level": 1,
-        "count": 49
+        "count": 55
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
