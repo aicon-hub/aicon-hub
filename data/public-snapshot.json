@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-28 12:01 UTC",
-  "checked_at_ist": "28 Oct 2026, 05:31 PM IST",
-  "archive_entries": 720,
+  "checked_at_utc": "2026-10-28 13:22 UTC",
+  "checked_at_ist": "28 Oct 2026, 06:52 PM IST",
+  "archive_entries": 722,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Kerala welfare pensions: ₹2,000 a month, who can apply and how",
-      "url": "https://aicon-hub.github.io/posts/kerala-sevana-welfare-pension-2000-how-to-apply-guide.html"
+      "title": "Kerala RTI online: file an application, pay the fee, track the reply",
+      "url": "https://aicon-hub.github.io/posts/kerala-rti-online-file-application-rtiportal-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-28",
-        "count": 168
+        "count": 189
       }
     ],
     "commits": [
       {
-        "sha": "d2773a4a7a70b6e5aaffab1dab3236d6343fa714",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d2773a4a7a70b6e5aaffab1dab3236d6343fa714",
-        "date_utc": "28 Oct 2026, 11:47 UTC",
+        "sha": "104854704ebe0a74d23cacb14c7793f3047a230d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/104854704ebe0a74d23cacb14c7793f3047a230d",
+        "date_utc": "28 Oct 2026, 13:12 UTC",
         "day": "2026-10-28",
-        "title": "Remove rapidfuzz-product-name-shortlist-review-python-guide-poster.png.b64"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "ebc4cdf4705b65454f1998b1eb18ca16d366d250",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ebc4cdf4705b65454f1998b1eb18ca16d366d250",
-        "date_utc": "28 Oct 2026, 11:47 UTC",
+        "sha": "6edf3b6858a066262f712a507eeb2fa2d363b434",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6edf3b6858a066262f712a507eeb2fa2d363b434",
+        "date_utc": "28 Oct 2026, 13:12 UTC",
         "day": "2026-10-28",
-        "title": "Remove rapidfuzz-product-name-shortlist-review-python-guide-logo.png.b64"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "ba63f76edbb1f2a2960f9455e350063aed3bf6fb",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ba63f76edbb1f2a2960f9455e350063aed3bf6fb",
-        "date_utc": "28 Oct 2026, 11:47 UTC",
+        "sha": "d29c90c97a60e30c488909111a828a691b00555b",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d29c90c97a60e30c488909111a828a691b00555b",
+        "date_utc": "28 Oct 2026, 13:12 UTC",
         "day": "2026-10-28",
-        "title": "Remove rapidfuzz-product-name-shortlist-review-python-guide.html"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "527de76eb78b7d367ca243a8930120872e21d48a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/527de76eb78b7d367ca243a8930120872e21d48a",
-        "date_utc": "28 Oct 2026, 11:46 UTC",
+        "sha": "10713798853dde283565b00da00d4bd34f0f72a6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/10713798853dde283565b00da00d4bd34f0f72a6",
+        "date_utc": "28 Oct 2026, 13:11 UTC",
         "day": "2026-10-28",
-        "title": "Remove shap-treeexplainer-prediction-contributions-local-python-guide-poster.png.b64"
+        "title": "Set Kerala RTI card category"
       },
       {
-        "sha": "4dd1b170c47cf02bd4c858a62d17487e830c8320",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4dd1b170c47cf02bd4c858a62d17487e830c8320",
-        "date_utc": "28 Oct 2026, 11:46 UTC",
+        "sha": "cc3705ecca7ef0e64e44dc2d0847a6a2fd69194a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cc3705ecca7ef0e64e44dc2d0847a6a2fd69194a",
+        "date_utc": "28 Oct 2026, 13:09 UTC",
         "day": "2026-10-28",
-        "title": "Remove shap-treeexplainer-prediction-contributions-local-python-guide-logo.png.b64"
+        "title": "Add Kerala RTI to sitemap"
       }
     ],
-    "commit_total": 3035,
+    "commit_total": 3056,
     "calendar": [
       {
         "date": "2026-07-30",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-28",
         "level": 2,
-        "count": 132
+        "count": 147
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

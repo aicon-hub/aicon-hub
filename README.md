@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **28 Oct 2026, 05:31 PM IST** (2026-10-28 12:01 UTC).
+Checked **28 Oct 2026, 06:52 PM IST** (2026-10-28 13:22 UTC).
 
-**720 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**722 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **28 Oct 2026, 05:31 PM IST** (2026-10-28 12:01 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3035 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3056 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`d2773a4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d2773a4a7a70b6e5aaffab1dab3236d6343fa714) · 28 Oct 2026, 11:47 UTC · Remove rapidfuzz-product-name-shortlist-review-python-guide-poster.png.b64
-- [`ebc4cdf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ebc4cdf4705b65454f1998b1eb18ca16d366d250) · 28 Oct 2026, 11:47 UTC · Remove rapidfuzz-product-name-shortlist-review-python-guide-logo.png.b64
-- [`ba63f76`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ba63f76edbb1f2a2960f9455e350063aed3bf6fb) · 28 Oct 2026, 11:47 UTC · Remove rapidfuzz-product-name-shortlist-review-python-guide.html
-- [`527de76`](https://github.com/aicon-hub/aicon-hub.github.io/commit/527de76eb78b7d367ca243a8930120872e21d48a) · 28 Oct 2026, 11:46 UTC · Remove shap-treeexplainer-prediction-contributions-local-python-guide-poster.png.b64
-- [`4dd1b17`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4dd1b170c47cf02bd4c858a62d17487e830c8320) · 28 Oct 2026, 11:46 UTC · Remove shap-treeexplainer-prediction-contributions-local-python-guide-logo.png.b64
+- [`1048547`](https://github.com/aicon-hub/aicon-hub.github.io/commit/104854704ebe0a74d23cacb14c7793f3047a230d) · 28 Oct 2026, 13:12 UTC · Record Telegram publishing state
+- [`6edf3b6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6edf3b6858a066262f712a507eeb2fa2d363b434) · 28 Oct 2026, 13:12 UTC · Record Telegram publishing state
+- [`d29c90c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d29c90c97a60e30c488909111a828a691b00555b) · 28 Oct 2026, 13:12 UTC · Record Telegram publishing state
+- [`1071379`](https://github.com/aicon-hub/aicon-hub.github.io/commit/10713798853dde283565b00da00d4bd34f0f72a6) · 28 Oct 2026, 13:11 UTC · Set Kerala RTI card category
+- [`cc3705e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/cc3705ecca7ef0e64e44dc2d0847a6a2fd69194a) · 28 Oct 2026, 13:09 UTC · Add Kerala RTI to sitemap
 <!-- AICON:COMMITS:END -->
 
 </details>
