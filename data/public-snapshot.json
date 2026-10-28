@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-28 15:12 UTC",
-  "checked_at_ist": "28 Oct 2026, 08:42 PM IST",
-  "archive_entries": 724,
+  "checked_at_utc": "2026-10-28 16:11 UTC",
+  "checked_at_ist": "28 Oct 2026, 09:41 PM IST",
+  "archive_entries": 725,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "QRCode Monkey: make a static code, then scan it",
-      "url": "https://aicon-hub.github.io/posts/qrcode-monkey-free-static-qr-code-posters-scan-test-guide.html"
+      "title": "Bulk Resize Photos: shrink a batch without stretching",
+      "url": "https://aicon-hub.github.io/posts/bulk-resize-photos-free-batch-image-dimensions-browser-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-28",
-        "count": 209
+        "count": 222
       }
     ],
     "commits": [
       {
-        "sha": "5a44531a8750aac698ff642d4905196c5e76bd74",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5a44531a8750aac698ff642d4905196c5e76bd74",
-        "date_utc": "28 Oct 2026, 14:41 UTC",
+        "sha": "c7fc8048f4097b748df4337ef9ee93fb47b33267",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c7fc8048f4097b748df4337ef9ee93fb47b33267",
+        "date_utc": "28 Oct 2026, 16:10 UTC",
+        "day": "2026-10-28",
+        "title": "Add DigiPIN poster asset"
+      },
+      {
+        "sha": "d25ddadf27ee7bf5c6901de9009a33e5ac04ef76",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d25ddadf27ee7bf5c6901de9009a33e5ac04ef76",
+        "date_utc": "28 Oct 2026, 16:10 UTC",
+        "day": "2026-10-28",
+        "title": "Add DigiPIN screenshot asset"
+      },
+      {
+        "sha": "44e5c04a4532f7007b6c8d38d75c2b56e7c74985",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/44e5c04a4532f7007b6c8d38d75c2b56e7c74985",
+        "date_utc": "28 Oct 2026, 16:10 UTC",
+        "day": "2026-10-28",
+        "title": "Add DigiPIN logo asset"
+      },
+      {
+        "sha": "bb506401f64b43211faaaf5ad7eb6fbb7b48a834",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bb506401f64b43211faaaf5ad7eb6fbb7b48a834",
+        "date_utc": "28 Oct 2026, 15:44 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "ec13d841eb0d856cb9723b6a81a261ef910e634f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ec13d841eb0d856cb9723b6a81a261ef910e634f",
-        "date_utc": "28 Oct 2026, 14:41 UTC",
+        "sha": "12bdb87e455ff47bca4a2378bbef76d57655ead2",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/12bdb87e455ff47bca4a2378bbef76d57655ead2",
+        "date_utc": "28 Oct 2026, 15:44 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "2a2fee9dad8c144448c88581dfc53c3db489afb9",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2a2fee9dad8c144448c88581dfc53c3db489afb9",
-        "date_utc": "28 Oct 2026, 14:41 UTC",
-        "day": "2026-10-28",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "a70527dd38a87ea22ee05af5a93515db52460929",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a70527dd38a87ea22ee05af5a93515db52460929",
-        "date_utc": "28 Oct 2026, 14:39 UTC",
-        "day": "2026-10-28",
-        "title": "Add QRCode Monkey card to posts index"
-      },
-      {
-        "sha": "75196387522a4fd545f17e38e37fc4dcb07fa6c8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/75196387522a4fd545f17e38e37fc4dcb07fa6c8",
-        "date_utc": "28 Oct 2026, 14:39 UTC",
-        "day": "2026-10-28",
-        "title": "Add QRCode Monkey media record"
       }
     ],
-    "commit_total": 3076,
+    "commit_total": 3089,
     "calendar": [
       {
         "date": "2026-07-30",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-28",
         "level": 2,
-        "count": 158
+        "count": 159
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

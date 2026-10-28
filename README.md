@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **28 Oct 2026, 08:42 PM IST** (2026-10-28 15:12 UTC).
+Checked **28 Oct 2026, 09:41 PM IST** (2026-10-28 16:11 UTC).
 
-**724 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**725 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **28 Oct 2026, 08:42 PM IST** (2026-10-28 15:12 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3076 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3089 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`5a44531`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5a44531a8750aac698ff642d4905196c5e76bd74) · 28 Oct 2026, 14:41 UTC · Record Telegram publishing state
-- [`ec13d84`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ec13d841eb0d856cb9723b6a81a261ef910e634f) · 28 Oct 2026, 14:41 UTC · Record Telegram publishing state
-- [`2a2fee9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2a2fee9dad8c144448c88581dfc53c3db489afb9) · 28 Oct 2026, 14:41 UTC · Record Telegram publishing state
-- [`a70527d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a70527dd38a87ea22ee05af5a93515db52460929) · 28 Oct 2026, 14:39 UTC · Add QRCode Monkey card to posts index
-- [`7519638`](https://github.com/aicon-hub/aicon-hub.github.io/commit/75196387522a4fd545f17e38e37fc4dcb07fa6c8) · 28 Oct 2026, 14:39 UTC · Add QRCode Monkey media record
+- [`c7fc804`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c7fc8048f4097b748df4337ef9ee93fb47b33267) · 28 Oct 2026, 16:10 UTC · Add DigiPIN poster asset
+- [`d25ddad`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d25ddadf27ee7bf5c6901de9009a33e5ac04ef76) · 28 Oct 2026, 16:10 UTC · Add DigiPIN screenshot asset
+- [`44e5c04`](https://github.com/aicon-hub/aicon-hub.github.io/commit/44e5c04a4532f7007b6c8d38d75c2b56e7c74985) · 28 Oct 2026, 16:10 UTC · Add DigiPIN logo asset
+- [`bb50640`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bb506401f64b43211faaaf5ad7eb6fbb7b48a834) · 28 Oct 2026, 15:44 UTC · Record Telegram publishing state
+- [`12bdb87`](https://github.com/aicon-hub/aicon-hub.github.io/commit/12bdb87e455ff47bca4a2378bbef76d57655ead2) · 28 Oct 2026, 15:44 UTC · Record Telegram publishing state
 <!-- AICON:COMMITS:END -->
 
 </details>
