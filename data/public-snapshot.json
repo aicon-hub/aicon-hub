@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-28 17:09 UTC",
-  "checked_at_ist": "28 Oct 2026, 10:39 PM IST",
-  "archive_entries": 727,
+  "checked_at_utc": "2026-10-28 18:01 UTC",
+  "checked_at_ist": "28 Oct 2026, 11:31 PM IST",
+  "archive_entries": 728,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "PairDrop: move the file, not a chatbot reply",
-      "url": "https://aicon-hub.github.io/posts/pairdrop-free-browser-file-transfer-no-signup-guide.html"
+      "title": "AudioMass: adjust a quiet clip and export it",
+      "url": "https://aicon-hub.github.io/posts/audiomass-free-browser-audio-normalize-wav-export-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-28",
-        "count": 239
+        "count": 247
       }
     ],
     "commits": [
       {
-        "sha": "92c3d9b1e363c7b3c0d526fedbe8446588a6a593",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/92c3d9b1e363c7b3c0d526fedbe8446588a6a593",
-        "date_utc": "28 Oct 2026, 16:42 UTC",
+        "sha": "a8af543d2e149c4d18649b16d2cb0bf13d596951",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a8af543d2e149c4d18649b16d2cb0bf13d596951",
+        "date_utc": "28 Oct 2026, 17:42 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "a11fd697d4817d0f7a3093f2a11be55fa1ee4a31",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a11fd697d4817d0f7a3093f2a11be55fa1ee4a31",
-        "date_utc": "28 Oct 2026, 16:42 UTC",
+        "sha": "fe070fc2d516c61a68ae1d3675b8eb807feaf983",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fe070fc2d516c61a68ae1d3675b8eb807feaf983",
+        "date_utc": "28 Oct 2026, 17:42 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7b9d4d7c393d899d33d80bd92b3cbee911b3534a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7b9d4d7c393d899d33d80bd92b3cbee911b3534a",
-        "date_utc": "28 Oct 2026, 16:42 UTC",
+        "sha": "4ff33271a0d947c2a3bd61885fdf5dff0a748a0c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4ff33271a0d947c2a3bd61885fdf5dff0a748a0c",
+        "date_utc": "28 Oct 2026, 17:42 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "db17c02d041c1a58ddcc35ead2560b9a639b5d79",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/db17c02d041c1a58ddcc35ead2560b9a639b5d79",
-        "date_utc": "28 Oct 2026, 16:39 UTC",
+        "sha": "bc3c8fca2ff5b036563923f5b2f2c6f467efe012",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bc3c8fca2ff5b036563923f5b2f2c6f467efe012",
+        "date_utc": "28 Oct 2026, 17:40 UTC",
         "day": "2026-10-28",
-        "title": "Sitemap: PairDrop"
+        "title": "Sitemap: AudioMass"
       },
       {
-        "sha": "1411a0996661c26cb992001d42c8135f66b22818",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1411a0996661c26cb992001d42c8135f66b22818",
-        "date_utc": "28 Oct 2026, 16:39 UTC",
+        "sha": "8be4face73e6fbf2fe8f59d3dde204a6c034c1a5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8be4face73e6fbf2fe8f59d3dde204a6c034c1a5",
+        "date_utc": "28 Oct 2026, 17:40 UTC",
         "day": "2026-10-28",
-        "title": "Index: PairDrop"
+        "title": "Index: AudioMass"
       }
     ],
-    "commit_total": 3106,
+    "commit_total": 3114,
     "calendar": [
       {
         "date": "2026-07-30",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-28",
         "level": 2,
-        "count": 166
+        "count": 171
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
