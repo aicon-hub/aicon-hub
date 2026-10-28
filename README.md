@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **28 Oct 2026, 06:52 PM IST** (2026-10-28 13:22 UTC).
+Checked **28 Oct 2026, 07:48 PM IST** (2026-10-28 14:18 UTC).
 
-**722 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**723 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **28 Oct 2026, 06:52 PM IST** (2026-10-28 13:22 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3056 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3066 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`1048547`](https://github.com/aicon-hub/aicon-hub.github.io/commit/104854704ebe0a74d23cacb14c7793f3047a230d) · 28 Oct 2026, 13:12 UTC · Record Telegram publishing state
-- [`6edf3b6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6edf3b6858a066262f712a507eeb2fa2d363b434) · 28 Oct 2026, 13:12 UTC · Record Telegram publishing state
-- [`d29c90c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d29c90c97a60e30c488909111a828a691b00555b) · 28 Oct 2026, 13:12 UTC · Record Telegram publishing state
-- [`1071379`](https://github.com/aicon-hub/aicon-hub.github.io/commit/10713798853dde283565b00da00d4bd34f0f72a6) · 28 Oct 2026, 13:11 UTC · Set Kerala RTI card category
-- [`cc3705e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/cc3705ecca7ef0e64e44dc2d0847a6a2fd69194a) · 28 Oct 2026, 13:09 UTC · Add Kerala RTI to sitemap
+- [`87028a2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/87028a2e0d95dda8c7977724f3dbdfe136fd1de4) · 28 Oct 2026, 13:41 UTC · Record Telegram publishing state
+- [`3849e22`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3849e22d5a80f72a3cef491e1e441342893f61aa) · 28 Oct 2026, 13:41 UTC · Record Telegram publishing state
+- [`2cd6c9a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2cd6c9a12d1baa4efdca8e6afcc1367bd5604a78) · 28 Oct 2026, 13:41 UTC · Record Telegram publishing state
+- [`30d4f0e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/30d4f0e790026a93ef09972433066e72fb3177f7) · 28 Oct 2026, 13:39 UTC · Add Diffchecker to sitemap
+- [`4b59e52`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4b59e5290f14622b313322b38db73465d78382fa) · 28 Oct 2026, 13:38 UTC · Add Diffchecker card to posts index
 <!-- AICON:COMMITS:END -->
 
 </details>
