@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-28 03:03 UTC",
-  "checked_at_ist": "28 Oct 2026, 08:33 AM IST",
-  "archive_entries": 711,
+  "checked_at_utc": "2026-10-28 04:04 UTC",
+  "checked_at_ist": "28 Oct 2026, 09:34 AM IST",
+  "archive_entries": 712,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "scikit-learn: train a tiny text classifier and see its limits",
-      "url": "https://aicon-hub.github.io/posts/scikit-learn-train-tiny-text-classifier-python-failure-test-guide.html"
+      "title": "fastText: identify text language locally, with limits",
+      "url": "https://aicon-hub.github.io/posts/fasttext-identify-text-language-local-hindi-malayalam-test-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-28",
-        "count": 27
+        "count": 36
       }
     ],
     "commits": [
       {
-        "sha": "f3745c6fa45e29ff8fcfcbb0b5cc08cfa3b60fda",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f3745c6fa45e29ff8fcfcbb0b5cc08cfa3b60fda",
-        "date_utc": "28 Oct 2026, 02:37 UTC",
+        "sha": "7e6724bae243a0fdf9aa1b769b7711c645f26889",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e6724bae243a0fdf9aa1b769b7711c645f26889",
+        "date_utc": "28 Oct 2026, 03:38 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "160442b2309918fb892acf72ca2d1de5d31e8a8e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/160442b2309918fb892acf72ca2d1de5d31e8a8e",
-        "date_utc": "28 Oct 2026, 02:37 UTC",
+        "sha": "54d9902631b8c4a2b39a37b86d11773bb06524ad",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/54d9902631b8c4a2b39a37b86d11773bb06524ad",
+        "date_utc": "28 Oct 2026, 03:38 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "94fda45f26f5b40acdb5f218219c43ba2fab439e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/94fda45f26f5b40acdb5f218219c43ba2fab439e",
-        "date_utc": "28 Oct 2026, 02:37 UTC",
+        "sha": "2062d1f72b3597e6358a66aed5fb6c09329be191",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2062d1f72b3597e6358a66aed5fb6c09329be191",
+        "date_utc": "28 Oct 2026, 03:38 UTC",
         "day": "2026-10-28",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "ae29da8cbf0484eb13dd42783e884166bb414b24",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ae29da8cbf0484eb13dd42783e884166bb414b24",
-        "date_utc": "28 Oct 2026, 02:35 UTC",
+        "sha": "2af9dccd0d99efd879b2d9eff43925a7c0fbb74f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2af9dccd0d99efd879b2d9eff43925a7c0fbb74f",
+        "date_utc": "28 Oct 2026, 03:36 UTC",
         "day": "2026-10-28",
-        "title": "Add scikit-learn guide card"
+        "title": "Add fastText guide card"
       },
       {
-        "sha": "b201d56672d26bdb3d40887201e7cf55c1287f22",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b201d56672d26bdb3d40887201e7cf55c1287f22",
-        "date_utc": "28 Oct 2026, 02:35 UTC",
+        "sha": "89166b42d749397d215c2611ee141820b4b76305",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/89166b42d749397d215c2611ee141820b4b76305",
+        "date_utc": "28 Oct 2026, 03:36 UTC",
         "day": "2026-10-28",
-        "title": "Add scikit-learn guide to sitemap"
+        "title": "Add fastText guide to sitemap"
       }
     ],
-    "commit_total": 2894,
+    "commit_total": 2903,
     "calendar": [
       {
         "date": "2026-07-30",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-28",
         "level": 1,
-        "count": 30
+        "count": 36
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
