@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **28 Oct 2026, 04:33 PM IST** (2026-10-28 11:03 UTC).
+Checked **28 Oct 2026, 05:31 PM IST** (2026-10-28 12:01 UTC).
 
-**723 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**720 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **28 Oct 2026, 04:33 PM IST** (2026-10-28 11:03 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**3011 website-repo main-branch commits** · 14 UTC days · includes automation.
+**3035 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`696ef1a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/696ef1a46a88de5a74da4d666e821e78f1f8bdae) · 28 Oct 2026, 10:38 UTC · Record Telegram publishing state
-- [`f416e7d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f416e7d36988da49378d991deae3f3412949ede8) · 28 Oct 2026, 10:38 UTC · Record Telegram publishing state
-- [`a5b268f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a5b268ffd3e9cfea46d9b3901fd5681dadddad53) · 28 Oct 2026, 10:38 UTC · Record Telegram publishing state
-- [`3219c36`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3219c367c9769165c41f3ddd011258a8fdca7dea) · 28 Oct 2026, 10:35 UTC · Update sitemap
-- [`c9ceb95`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c9ceb954e72c11d3b67f737f8fa9f975f298c4a6) · 28 Oct 2026, 10:35 UTC · Update posts index
+- [`d2773a4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d2773a4a7a70b6e5aaffab1dab3236d6343fa714) · 28 Oct 2026, 11:47 UTC · Remove rapidfuzz-product-name-shortlist-review-python-guide-poster.png.b64
+- [`ebc4cdf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ebc4cdf4705b65454f1998b1eb18ca16d366d250) · 28 Oct 2026, 11:47 UTC · Remove rapidfuzz-product-name-shortlist-review-python-guide-logo.png.b64
+- [`ba63f76`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ba63f76edbb1f2a2960f9455e350063aed3bf6fb) · 28 Oct 2026, 11:47 UTC · Remove rapidfuzz-product-name-shortlist-review-python-guide.html
+- [`527de76`](https://github.com/aicon-hub/aicon-hub.github.io/commit/527de76eb78b7d367ca243a8930120872e21d48a) · 28 Oct 2026, 11:46 UTC · Remove shap-treeexplainer-prediction-contributions-local-python-guide-poster.png.b64
+- [`4dd1b17`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4dd1b170c47cf02bd4c858a62d17487e830c8320) · 28 Oct 2026, 11:46 UTC · Remove shap-treeexplainer-prediction-contributions-local-python-guide-logo.png.b64
 <!-- AICON:COMMITS:END -->
 
 </details>
