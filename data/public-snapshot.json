@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-29 01:23 UTC",
-  "checked_at_ist": "29 Oct 2026, 06:53 AM IST",
-  "archive_entries": 731,
+  "checked_at_utc": "2026-10-29 03:05 UTC",
+  "checked_at_ist": "29 Oct 2026, 08:35 AM IST",
+  "archive_entries": 733,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "SVGOMG: shrink an SVG, then check what changed",
-      "url": "https://aicon-hub.github.io/posts/svgomg-browser-svg-optimizer-smaller-file-check-guide.html"
+      "title": "markmap: turn an outline into a mind map",
+      "url": "https://aicon-hub.github.io/posts/markmap-markdown-mindmap-browser-svg-export-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-29",
-        "count": 9
+        "count": 27
       }
     ],
     "commits": [
       {
-        "sha": "cd4b178f15707a3e8ee9009d41dae49a6246174b",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cd4b178f15707a3e8ee9009d41dae49a6246174b",
-        "date_utc": "29 Oct 2026, 00:42 UTC",
+        "sha": "1e7b06c721479871eac4a5108267ed0e32f7c3e4",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1e7b06c721479871eac4a5108267ed0e32f7c3e4",
+        "date_utc": "29 Oct 2026, 02:39 UTC",
         "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "f6c1141ef86883a5154ed2ad14d974313a6fd29a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f6c1141ef86883a5154ed2ad14d974313a6fd29a",
-        "date_utc": "29 Oct 2026, 00:42 UTC",
+        "sha": "d6bd66cdbac4be642501189ce4489229ecbd12e3",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d6bd66cdbac4be642501189ce4489229ecbd12e3",
+        "date_utc": "29 Oct 2026, 02:39 UTC",
         "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "6bd89171ff82099e888cb05d85600e4354c69997",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6bd89171ff82099e888cb05d85600e4354c69997",
-        "date_utc": "29 Oct 2026, 00:42 UTC",
+        "sha": "86c759b18738fdf7b89973cdb384b0c19272313d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/86c759b18738fdf7b89973cdb384b0c19272313d",
+        "date_utc": "29 Oct 2026, 02:39 UTC",
         "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "429b1d4a1370e1d3f516ef9e9a7693c5f9e0d035",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/429b1d4a1370e1d3f516ef9e9a7693c5f9e0d035",
-        "date_utc": "29 Oct 2026, 00:39 UTC",
+        "sha": "0b188b50e378e48c86a01415937762e966d509f9",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0b188b50e378e48c86a01415937762e966d509f9",
+        "date_utc": "29 Oct 2026, 02:37 UTC",
         "day": "2026-10-29",
-        "title": "Add SVGOMG sitemap"
+        "title": "Add markmap sitemap"
       },
       {
-        "sha": "25c49e006e5387d730f999b3d686471618ea4f0d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/25c49e006e5387d730f999b3d686471618ea4f0d",
-        "date_utc": "29 Oct 2026, 00:38 UTC",
+        "sha": "e21982ab2306282ec059ab70a9e28f50fbe7a20b",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e21982ab2306282ec059ab70a9e28f50fbe7a20b",
+        "date_utc": "29 Oct 2026, 02:37 UTC",
         "day": "2026-10-29",
-        "title": "Add SVGOMG card"
+        "title": "Add markmap card"
       }
     ],
-    "commit_total": 2893,
+    "commit_total": 2911,
     "calendar": [
       {
         "date": "2026-07-31",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-29",
         "level": 1,
-        "count": 19
+        "count": 31
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
