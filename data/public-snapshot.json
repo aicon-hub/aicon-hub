@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-28 23:53 UTC",
-  "checked_at_ist": "29 Oct 2026, 05:23 AM IST",
-  "archive_entries": 730,
+  "checked_at_utc": "2026-10-29 01:23 UTC",
+  "checked_at_ist": "29 Oct 2026, 06:53 AM IST",
+  "archive_entries": 731,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "tldraw: sketch the flow and download the image",
-      "url": "https://aicon-hub.github.io/posts/tldraw-free-browser-whiteboard-diagram-png-export-guide.html"
+      "title": "SVGOMG: shrink an SVG, then check what changed",
+      "url": "https://aicon-hub.github.io/posts/svgomg-browser-svg-optimizer-smaller-file-check-guide.html"
     }
   ],
   "sources": [
@@ -36,10 +36,6 @@
   ],
   "activity": {
     "commit_days": [
-      {
-        "date": "2026-10-15",
-        "count": 249
-      },
       {
         "date": "2026-10-16",
         "count": 223
@@ -91,52 +87,51 @@
       {
         "date": "2026-10-28",
         "count": 266
+      },
+      {
+        "date": "2026-10-29",
+        "count": 9
       }
     ],
     "commits": [
       {
-        "sha": "21e8a35a7d5e2686eab127b5dd29a09bb14c888e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/21e8a35a7d5e2686eab127b5dd29a09bb14c888e",
-        "date_utc": "28 Oct 2026, 23:39 UTC",
-        "day": "2026-10-28",
+        "sha": "cd4b178f15707a3e8ee9009d41dae49a6246174b",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cd4b178f15707a3e8ee9009d41dae49a6246174b",
+        "date_utc": "29 Oct 2026, 00:42 UTC",
+        "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "d729ca4558abf7e6990ff828dcefb9e524c4e37d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d729ca4558abf7e6990ff828dcefb9e524c4e37d",
-        "date_utc": "28 Oct 2026, 23:39 UTC",
-        "day": "2026-10-28",
+        "sha": "f6c1141ef86883a5154ed2ad14d974313a6fd29a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f6c1141ef86883a5154ed2ad14d974313a6fd29a",
+        "date_utc": "29 Oct 2026, 00:42 UTC",
+        "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "3783e9915caa3464163434c7b340154d62fa081b",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3783e9915caa3464163434c7b340154d62fa081b",
-        "date_utc": "28 Oct 2026, 23:38 UTC",
-        "day": "2026-10-28",
+        "sha": "6bd89171ff82099e888cb05d85600e4354c69997",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6bd89171ff82099e888cb05d85600e4354c69997",
+        "date_utc": "29 Oct 2026, 00:42 UTC",
+        "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "b7e09de57fe15900325b1b4609b0c649d7915418",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b7e09de57fe15900325b1b4609b0c649d7915418",
-        "date_utc": "28 Oct 2026, 23:37 UTC",
-        "day": "2026-10-28",
-        "title": "Sitemap: tldraw"
+        "sha": "429b1d4a1370e1d3f516ef9e9a7693c5f9e0d035",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/429b1d4a1370e1d3f516ef9e9a7693c5f9e0d035",
+        "date_utc": "29 Oct 2026, 00:39 UTC",
+        "day": "2026-10-29",
+        "title": "Add SVGOMG sitemap"
       },
       {
-        "sha": "8ec6050c29c671e0639f42dab5b0dea978c88fce",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8ec6050c29c671e0639f42dab5b0dea978c88fce",
-        "date_utc": "28 Oct 2026, 23:36 UTC",
-        "day": "2026-10-28",
-        "title": "Index: tldraw"
+        "sha": "25c49e006e5387d730f999b3d686471618ea4f0d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/25c49e006e5387d730f999b3d686471618ea4f0d",
+        "date_utc": "29 Oct 2026, 00:38 UTC",
+        "day": "2026-10-29",
+        "title": "Add SVGOMG card"
       }
     ],
-    "commit_total": 3133,
+    "commit_total": 2893,
     "calendar": [
-      {
-        "date": "2026-07-30",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2026-07-31",
         "level": 0,
@@ -586,6 +581,11 @@
         "date": "2026-10-28",
         "level": 2,
         "count": 171
+      },
+      {
+        "date": "2026-10-29",
+        "level": 1,
+        "count": 19
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
