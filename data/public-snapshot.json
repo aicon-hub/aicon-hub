@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-29 05:05 UTC",
-  "checked_at_ist": "29 Oct 2026, 10:35 AM IST",
-  "archive_entries": 735,
+  "checked_at_utc": "2026-10-29 06:01 UTC",
+  "checked_at_ist": "29 Oct 2026, 11:31 AM IST",
+  "archive_entries": 737,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "KSRTC bus tickets online: ordinary and SWIFT services on the official portal",
-      "url": "https://aicon-hub.github.io/posts/kerala-ksrtc-bus-tickets-online-booking-neo-oprs-guide.html"
+      "title": "Can I use: read the caveat before shipping",
+      "url": "https://aicon-hub.github.io/posts/caniuse-browser-support-partial-compatibility-notes-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-29",
-        "count": 44
+        "count": 67
       }
     ],
     "commits": [
       {
-        "sha": "ad7f93d9435064bf1538bd79725ade8539397354",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ad7f93d9435064bf1538bd79725ade8539397354",
-        "date_utc": "29 Oct 2026, 04:14 UTC",
+        "sha": "2c3b9239112e411ef3ecfc426b15f4e64f9117d5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2c3b9239112e411ef3ecfc426b15f4e64f9117d5",
+        "date_utc": "29 Oct 2026, 05:48 UTC",
         "day": "2026-10-29",
-        "title": "Registry: KSRTC booking"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "a26436909567f63be619c173bb341659ca8da931",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a26436909567f63be619c173bb341659ca8da931",
-        "date_utc": "29 Oct 2026, 04:14 UTC",
+        "sha": "8da76b292f0c184ba68a46f4690dac5dfd909121",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8da76b292f0c184ba68a46f4690dac5dfd909121",
+        "date_utc": "29 Oct 2026, 05:48 UTC",
         "day": "2026-10-29",
-        "title": "Add KSRTC sitemap"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "30b9c487715d65b3bb4f42ee0494ba3092e42880",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/30b9c487715d65b3bb4f42ee0494ba3092e42880",
-        "date_utc": "29 Oct 2026, 04:14 UTC",
+        "sha": "773b9cc3799d1d8cf690fd5e30386a0918a35fcc",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/773b9cc3799d1d8cf690fd5e30386a0918a35fcc",
+        "date_utc": "29 Oct 2026, 05:48 UTC",
         "day": "2026-10-29",
-        "title": "Add KSRTC index card"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "6906285dac6705d21a75588599670bf78b5be4e4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6906285dac6705d21a75588599670bf78b5be4e4",
-        "date_utc": "29 Oct 2026, 04:13 UTC",
+        "sha": "29430d2d89ce342257727c97e64039d17b54c3fb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/29430d2d89ce342257727c97e64039d17b54c3fb",
+        "date_utc": "29 Oct 2026, 05:47 UTC",
         "day": "2026-10-29",
-        "title": "Add KSRTC poster (article path)"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "2bb875b1b79d46f47db17da7ef26071f8b0b0e06",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2bb875b1b79d46f47db17da7ef26071f8b0b0e06",
-        "date_utc": "29 Oct 2026, 04:12 UTC",
+        "sha": "35e8704cf536d130a8aea6ef3bec88ba2581fe89",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/35e8704cf536d130a8aea6ef3bec88ba2581fe89",
+        "date_utc": "29 Oct 2026, 05:47 UTC",
         "day": "2026-10-29",
-        "title": "Add KSRTC poster"
+        "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 2928,
+    "commit_total": 2951,
     "calendar": [
       {
         "date": "2026-07-31",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-29",
         "level": 1,
-        "count": 45
+        "count": 59
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
