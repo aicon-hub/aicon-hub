@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-29 11:05 UTC",
-  "checked_at_ist": "29 Oct 2026, 04:35 PM IST",
-  "archive_entries": 737,
+  "checked_at_utc": "2026-10-29 12:02 UTC",
+  "checked_at_ist": "29 Oct 2026, 05:32 PM IST",
+  "archive_entries": 326,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Can I use: read the caveat before shipping",
-      "url": "https://aicon-hub.github.io/posts/caniuse-browser-support-partial-compatibility-notes-guide.html"
+      "title": "SQLBolt: write the query, inspect the result",
+      "url": "https://aicon-hub.github.io/posts/sqlbolt-interactive-sql-select-practice-query-results-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-29",
-        "count": 67
+        "count": 169
       }
     ],
     "commits": [
       {
-        "sha": "2c3b9239112e411ef3ecfc426b15f4e64f9117d5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2c3b9239112e411ef3ecfc426b15f4e64f9117d5",
-        "date_utc": "29 Oct 2026, 05:48 UTC",
+        "sha": "9e2795cfb4e53ac362d92dad56fe69d0c832e419",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9e2795cfb4e53ac362d92dad56fe69d0c832e419",
+        "date_utc": "29 Oct 2026, 11:38 UTC",
         "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "8da76b292f0c184ba68a46f4690dac5dfd909121",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8da76b292f0c184ba68a46f4690dac5dfd909121",
-        "date_utc": "29 Oct 2026, 05:48 UTC",
+        "sha": "8c0fddbb58f6d667029db85e22ff86fbb40500b5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8c0fddbb58f6d667029db85e22ff86fbb40500b5",
+        "date_utc": "29 Oct 2026, 11:38 UTC",
         "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "773b9cc3799d1d8cf690fd5e30386a0918a35fcc",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/773b9cc3799d1d8cf690fd5e30386a0918a35fcc",
-        "date_utc": "29 Oct 2026, 05:48 UTC",
+        "sha": "22e57b7017bd46fab428f4726edff34a34e81d7e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/22e57b7017bd46fab428f4726edff34a34e81d7e",
+        "date_utc": "29 Oct 2026, 11:38 UTC",
         "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "29430d2d89ce342257727c97e64039d17b54c3fb",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/29430d2d89ce342257727c97e64039d17b54c3fb",
-        "date_utc": "29 Oct 2026, 05:47 UTC",
+        "sha": "7ae8a93ec19cbf340afc9203aaed9c1773043c46",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7ae8a93ec19cbf340afc9203aaed9c1773043c46",
+        "date_utc": "29 Oct 2026, 11:38 UTC",
         "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "35e8704cf536d130a8aea6ef3bec88ba2581fe89",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/35e8704cf536d130a8aea6ef3bec88ba2581fe89",
-        "date_utc": "29 Oct 2026, 05:47 UTC",
+        "sha": "9e0b658269f605c22ca822571de91ecb6327d6cf",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9e0b658269f605c22ca822571de91ecb6327d6cf",
+        "date_utc": "29 Oct 2026, 11:38 UTC",
         "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 2951,
+    "commit_total": 3053,
     "calendar": [
       {
         "date": "2026-07-31",
@@ -584,8 +584,8 @@
       },
       {
         "date": "2026-10-29",
-        "level": 1,
-        "count": 59
+        "level": 2,
+        "count": 143
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
