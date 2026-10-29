@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-29 03:05 UTC",
-  "checked_at_ist": "29 Oct 2026, 08:35 AM IST",
-  "archive_entries": 733,
+  "checked_at_utc": "2026-10-29 04:06 UTC",
+  "checked_at_ist": "29 Oct 2026, 09:36 AM IST",
+  "archive_entries": 734,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "markmap: turn an outline into a mind map",
-      "url": "https://aicon-hub.github.io/posts/markmap-markdown-mindmap-browser-svg-export-guide.html"
+      "title": "Dillinger: preview Markdown and export a readable page",
+      "url": "https://aicon-hub.github.io/posts/dillinger-markdown-live-preview-styled-html-export-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-29",
-        "count": 27
+        "count": 36
       }
     ],
     "commits": [
       {
-        "sha": "1e7b06c721479871eac4a5108267ed0e32f7c3e4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1e7b06c721479871eac4a5108267ed0e32f7c3e4",
-        "date_utc": "29 Oct 2026, 02:39 UTC",
+        "sha": "7e327c389c03dd585454af552b4096a3e5eae509",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e327c389c03dd585454af552b4096a3e5eae509",
+        "date_utc": "29 Oct 2026, 03:38 UTC",
         "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "d6bd66cdbac4be642501189ce4489229ecbd12e3",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d6bd66cdbac4be642501189ce4489229ecbd12e3",
-        "date_utc": "29 Oct 2026, 02:39 UTC",
+        "sha": "0cc15e227e0cb852f03e7e34a730fb01dfcbc5eb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0cc15e227e0cb852f03e7e34a730fb01dfcbc5eb",
+        "date_utc": "29 Oct 2026, 03:38 UTC",
         "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "86c759b18738fdf7b89973cdb384b0c19272313d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/86c759b18738fdf7b89973cdb384b0c19272313d",
-        "date_utc": "29 Oct 2026, 02:39 UTC",
+        "sha": "f6792f2f6021bc86b78d90cd286159aa229eaaae",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f6792f2f6021bc86b78d90cd286159aa229eaaae",
+        "date_utc": "29 Oct 2026, 03:38 UTC",
         "day": "2026-10-29",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "0b188b50e378e48c86a01415937762e966d509f9",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0b188b50e378e48c86a01415937762e966d509f9",
-        "date_utc": "29 Oct 2026, 02:37 UTC",
+        "sha": "f6a6c9e09ab45c132eee7bdc3b07a8451bd0f34a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f6a6c9e09ab45c132eee7bdc3b07a8451bd0f34a",
+        "date_utc": "29 Oct 2026, 03:36 UTC",
         "day": "2026-10-29",
-        "title": "Add markmap sitemap"
+        "title": "Add Dillinger sitemap"
       },
       {
-        "sha": "e21982ab2306282ec059ab70a9e28f50fbe7a20b",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e21982ab2306282ec059ab70a9e28f50fbe7a20b",
-        "date_utc": "29 Oct 2026, 02:37 UTC",
+        "sha": "55aba866f34159c47d1009dca37efa015a201a23",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/55aba866f34159c47d1009dca37efa015a201a23",
+        "date_utc": "29 Oct 2026, 03:36 UTC",
         "day": "2026-10-29",
-        "title": "Add markmap card"
+        "title": "Add Dillinger card"
       }
     ],
-    "commit_total": 2911,
+    "commit_total": 2920,
     "calendar": [
       {
         "date": "2026-07-31",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-29",
         "level": 1,
-        "count": 31
+        "count": 37
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
