@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **30 Oct 2026, 11:32 AM IST** (2026-10-30 06:02 UTC).
+Checked **30 Oct 2026, 12:54 PM IST** (2026-10-30 07:24 UTC).
 
-**331 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**332 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **30 Oct 2026, 11:32 AM IST** (2026-10-30 06:02 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2884 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2894 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`99a78fd`](https://github.com/aicon-hub/aicon-hub.github.io/commit/99a78fd26ebb4b2f6548ecd1ee8c1896cc0e2c64) · 30 Oct 2026, 04:41 UTC · Record Telegram publishing state
-- [`5d9fefe`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5d9fefe3a7ceb6e55ceb80837e04576087bbb31c) · 30 Oct 2026, 04:41 UTC · Record Telegram publishing state
-- [`958996a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/958996ae4c0297def9b36bd34c91330539556ebb) · 30 Oct 2026, 04:41 UTC · Record Telegram publishing state
-- [`5bedeae`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5bedeaeed405f7e091b0a81ea39256ee979fd052) · 30 Oct 2026, 04:37 UTC · Registry eraktkosh-blood-stock-search-kerala-confirm-before-travel-guide
-- [`1cdbac9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1cdbac9e1b79bcfe3b3271efd245643c9889f825) · 30 Oct 2026, 04:37 UTC · Sitemap eraktkosh-blood-stock-search-kerala-confirm-before-travel-guide
+- [`6736cf3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6736cf3f29843dda4e2c118d7d8de39af47a1a31) · 30 Oct 2026, 07:19 UTC · Record Telegram publishing state
+- [`7e596a1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7e596a16aefe0435fb404ea6c6dfcc1195ba9bbd) · 30 Oct 2026, 07:19 UTC · Record Telegram publishing state
+- [`d54b283`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d54b2835c219dd4935484ad24d6904edc79c7863) · 30 Oct 2026, 07:19 UTC · Record Telegram publishing state
+- [`2e8b987`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2e8b987cc56676f17bdca48f6a2cf4e33d75abf0) · 30 Oct 2026, 07:16 UTC · Registry kerala-police-thuna-online-services-fir-download-no-offence-certificate-guide
+- [`64c54fc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/64c54fc3c235efd7b493293556349ce497cb4acf) · 30 Oct 2026, 07:15 UTC · Sitemap kerala-police-thuna-online-services-fir-download-no-offence-certificate-guide
 <!-- AICON:COMMITS:END -->
 
 </details>
