@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-30 01:26 UTC",
-  "checked_at_ist": "30 Oct 2026, 06:56 AM IST",
-  "archive_entries": 326,
+  "checked_at_utc": "2026-10-30 03:06 UTC",
+  "checked_at_ist": "30 Oct 2026, 08:36 AM IST",
+  "archive_entries": 328,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "SQLBolt: write the query, inspect the result",
-      "url": "https://aicon-hub.github.io/posts/sqlbolt-interactive-sql-select-practice-query-results-guide.html"
+      "title": "Kerala ration card online: new card, corrections and member changes on the citizen portal",
+      "url": "https://aicon-hub.github.io/posts/kerala-ration-card-online-eservices-citizen-portal-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-30",
-        "count": 0
+        "count": 22
       }
     ],
     "commits": [
       {
-        "sha": "9e2795cfb4e53ac362d92dad56fe69d0c832e419",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9e2795cfb4e53ac362d92dad56fe69d0c832e419",
-        "date_utc": "29 Oct 2026, 11:38 UTC",
-        "day": "2026-10-29",
+        "sha": "ff0e8834e2df406cf2b76ee2ed7c582b2876d4c9",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ff0e8834e2df406cf2b76ee2ed7c582b2876d4c9",
+        "date_utc": "30 Oct 2026, 02:59 UTC",
+        "day": "2026-10-30",
+        "title": "Fix figure image width"
+      },
+      {
+        "sha": "5ba1e61dcae7b5d4f6315d7c7c8502e3b357ce5c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5ba1e61dcae7b5d4f6315d7c7c8502e3b357ce5c",
+        "date_utc": "30 Oct 2026, 02:59 UTC",
+        "day": "2026-10-30",
+        "title": "Fix figure image width"
+      },
+      {
+        "sha": "df8849b8bd6ea274b839268ab65899aaa99fcc43",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/df8849b8bd6ea274b839268ab65899aaa99fcc43",
+        "date_utc": "30 Oct 2026, 02:52 UTC",
+        "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "8c0fddbb58f6d667029db85e22ff86fbb40500b5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8c0fddbb58f6d667029db85e22ff86fbb40500b5",
-        "date_utc": "29 Oct 2026, 11:38 UTC",
-        "day": "2026-10-29",
+        "sha": "a7096a912c142a829d53ab7956b76622dae27179",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a7096a912c142a829d53ab7956b76622dae27179",
+        "date_utc": "30 Oct 2026, 02:52 UTC",
+        "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "22e57b7017bd46fab428f4726edff34a34e81d7e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/22e57b7017bd46fab428f4726edff34a34e81d7e",
-        "date_utc": "29 Oct 2026, 11:38 UTC",
-        "day": "2026-10-29",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "7ae8a93ec19cbf340afc9203aaed9c1773043c46",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7ae8a93ec19cbf340afc9203aaed9c1773043c46",
-        "date_utc": "29 Oct 2026, 11:38 UTC",
-        "day": "2026-10-29",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "9e0b658269f605c22ca822571de91ecb6327d6cf",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9e0b658269f605c22ca822571de91ecb6327d6cf",
-        "date_utc": "29 Oct 2026, 11:38 UTC",
-        "day": "2026-10-29",
+        "sha": "6499e9587c9ac7e3d24d629581fbe3ae9d19e6df",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6499e9587c9ac7e3d24d629581fbe3ae9d19e6df",
+        "date_utc": "30 Oct 2026, 02:52 UTC",
+        "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 2830,
+    "commit_total": 2852,
     "calendar": [
       {
         "date": "2026-08-01",
@@ -584,8 +584,8 @@
       },
       {
         "date": "2026-10-30",
-        "level": 0,
-        "count": 0
+        "level": 1,
+        "count": 16
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
