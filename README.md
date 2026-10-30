@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **30 Oct 2026, 07:47 PM IST** (2026-10-30 14:17 UTC).
+Checked **30 Oct 2026, 08:43 PM IST** (2026-10-30 15:13 UTC).
 
 **336 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **30 Oct 2026, 07:47 PM IST** (2026-10-30 14:17 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2934 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2942 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`929531d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/929531d36b4f6829d3d3740f09c09746aaad20e6) · 30 Oct 2026, 13:11 UTC · Record Telegram publishing state
-- [`b01114f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b01114fa10a8ef71546195b557a65235fd49748d) · 30 Oct 2026, 13:11 UTC · Record Telegram publishing state
-- [`1acf126`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1acf1265a7557aba521885b8227b42c289d5a1c0) · 30 Oct 2026, 13:11 UTC · Record Telegram publishing state
-- [`6b315b5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6b315b59a3da801dd31911be06f3bd8d6017749c) · 30 Oct 2026, 13:08 UTC · Registry kseb-quick-pay-electricity-bill-online-consumer-number-guide
-- [`7e99cfc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7e99cfc71100d8f2a2db6fbca60c1ffa5b3e5737) · 30 Oct 2026, 13:08 UTC · Sitemap kseb-quick-pay-electricity-bill-online-consumer-number-guide
+- [`2af7b0d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2af7b0d0d0aada570945513c0913acc3070ff20c) · 30 Oct 2026, 15:12 UTC · Registry beamer-one-mouse-keyboard-mac-windows-linux-free-guide
+- [`160f7ea`](https://github.com/aicon-hub/aicon-hub.github.io/commit/160f7ea9cd972f65f2d25274b717c7973eac0c57) · 30 Oct 2026, 15:12 UTC · Sitemap beamer-one-mouse-keyboard-mac-windows-linux-free-guide
+- [`407a1b2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/407a1b238843b125ce23947995c8e48b0a34208a) · 30 Oct 2026, 15:11 UTC · Index beamer-one-mouse-keyboard-mac-windows-linux-free-guide
+- [`2d72d42`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2d72d42eb827471094a486e4cde64ae5bd96bc65) · 30 Oct 2026, 15:11 UTC · Add beamer-github-repo.png.b64
+- [`9340f1a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9340f1afda35067c14dfba4f6157f038746073b6) · 30 Oct 2026, 15:11 UTC · Add beamer-site-downloads.png.b64
 <!-- AICON:COMMITS:END -->
 
 </details>
