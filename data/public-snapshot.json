@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-30 12:00 UTC",
-  "checked_at_ist": "30 Oct 2026, 05:30 PM IST",
-  "archive_entries": 335,
+  "checked_at_utc": "2026-10-30 13:20 UTC",
+  "checked_at_ist": "30 Oct 2026, 06:50 PM IST",
+  "archive_entries": 336,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Check medicine prices with NPPA Pharma Sahi Daam: match the pack and date",
-      "url": "https://aicon-hub.github.io/posts/pharma-sahi-daam-nppa-medicine-price-pack-date-check-guide.html"
+      "title": "Pay your KSEB electricity bill online: Quick Pay needs your consumer number and registered mobile",
+      "url": "https://aicon-hub.github.io/posts/kseb-quick-pay-electricity-bill-online-consumer-number-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-30",
-        "count": 94
+        "count": 104
       }
     ],
     "commits": [
       {
-        "sha": "8ab0b98d826b71ea47c2f3e1bc0b3ce8859679ca",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8ab0b98d826b71ea47c2f3e1bc0b3ce8859679ca",
-        "date_utc": "30 Oct 2026, 10:41 UTC",
+        "sha": "929531d36b4f6829d3d3740f09c09746aaad20e6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/929531d36b4f6829d3d3740f09c09746aaad20e6",
+        "date_utc": "30 Oct 2026, 13:11 UTC",
         "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "9da2c9ac27b582f96639d5b74e3bb201391b017b",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9da2c9ac27b582f96639d5b74e3bb201391b017b",
-        "date_utc": "30 Oct 2026, 10:41 UTC",
+        "sha": "b01114fa10a8ef71546195b557a65235fd49748d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b01114fa10a8ef71546195b557a65235fd49748d",
+        "date_utc": "30 Oct 2026, 13:11 UTC",
         "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "dcbe065db503e7cc23d9ad59bde3efdb278d3d31",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/dcbe065db503e7cc23d9ad59bde3efdb278d3d31",
-        "date_utc": "30 Oct 2026, 10:41 UTC",
+        "sha": "1acf1265a7557aba521885b8227b42c289d5a1c0",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1acf1265a7557aba521885b8227b42c289d5a1c0",
+        "date_utc": "30 Oct 2026, 13:11 UTC",
         "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "18f13a6d9308154977ebcc6e08bddc28d0c1ca70",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/18f13a6d9308154977ebcc6e08bddc28d0c1ca70",
-        "date_utc": "30 Oct 2026, 10:39 UTC",
+        "sha": "6b315b59a3da801dd31911be06f3bd8d6017749c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6b315b59a3da801dd31911be06f3bd8d6017749c",
+        "date_utc": "30 Oct 2026, 13:08 UTC",
         "day": "2026-10-30",
-        "title": "Registry pharma-sahi-daam-nppa-medicine-price-pack-date-check-guide"
+        "title": "Registry kseb-quick-pay-electricity-bill-online-consumer-number-guide"
       },
       {
-        "sha": "4301fa551a0d1e57b42aae15f44bb241681db797",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4301fa551a0d1e57b42aae15f44bb241681db797",
-        "date_utc": "30 Oct 2026, 10:39 UTC",
+        "sha": "7e99cfc71100d8f2a2db6fbca60c1ffa5b3e5737",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e99cfc71100d8f2a2db6fbca60c1ffa5b3e5737",
+        "date_utc": "30 Oct 2026, 13:08 UTC",
         "day": "2026-10-30",
-        "title": "Sitemap pharma-sahi-daam-nppa-medicine-price-pack-date-check-guide"
+        "title": "Sitemap kseb-quick-pay-electricity-bill-online-consumer-number-guide"
       }
     ],
-    "commit_total": 2924,
+    "commit_total": 2934,
     "calendar": [
       {
         "date": "2026-08-01",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-30",
         "level": 1,
-        "count": 83
+        "count": 89
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
