@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **30 Oct 2026, 02:42 PM IST** (2026-10-30 09:12 UTC).
+Checked **30 Oct 2026, 03:40 PM IST** (2026-10-30 10:10 UTC).
 
-**332 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**334 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **30 Oct 2026, 02:42 PM IST** (2026-10-30 09:12 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2894 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2914 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`6736cf3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6736cf3f29843dda4e2c118d7d8de39af47a1a31) · 30 Oct 2026, 07:19 UTC · Record Telegram publishing state
-- [`7e596a1`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7e596a16aefe0435fb404ea6c6dfcc1195ba9bbd) · 30 Oct 2026, 07:19 UTC · Record Telegram publishing state
-- [`d54b283`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d54b2835c219dd4935484ad24d6904edc79c7863) · 30 Oct 2026, 07:19 UTC · Record Telegram publishing state
-- [`2e8b987`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2e8b987cc56676f17bdca48f6a2cf4e33d75abf0) · 30 Oct 2026, 07:16 UTC · Registry kerala-police-thuna-online-services-fir-download-no-offence-certificate-guide
-- [`64c54fc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/64c54fc3c235efd7b493293556349ce497cb4acf) · 30 Oct 2026, 07:15 UTC · Sitemap kerala-police-thuna-online-services-fir-download-no-offence-certificate-guide
+- [`075db16`](https://github.com/aicon-hub/aicon-hub.github.io/commit/075db169183ae3ffa874ba75b92c228d32b801ec) · 30 Oct 2026, 10:10 UTC · Record Telegram publishing state
+- [`74b1d00`](https://github.com/aicon-hub/aicon-hub.github.io/commit/74b1d00a7ed20c2d4190f87919cca2b0416b9b87) · 30 Oct 2026, 10:10 UTC · Record Telegram publishing state
+- [`920bc56`](https://github.com/aicon-hub/aicon-hub.github.io/commit/920bc56a8ff94cd80610bd6f25387d78e7e6e6a2) · 30 Oct 2026, 10:10 UTC · Record Telegram publishing state
+- [`4ded153`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4ded153fb5ea13dc80b7601e60b8c2a2d8a6f4ec) · 30 Oct 2026, 10:08 UTC · Registry kerala-encumbrance-certificate-online-pearl-registration-department-guide
+- [`5947aa9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5947aa96f34217bb38ba6ed0b06d5ad9009ac399) · 30 Oct 2026, 10:08 UTC · Sitemap kerala-encumbrance-certificate-online-pearl-registration-department-guide
 <!-- AICON:COMMITS:END -->
 
 </details>

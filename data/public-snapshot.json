@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-30 09:12 UTC",
-  "checked_at_ist": "30 Oct 2026, 02:42 PM IST",
-  "archive_entries": 332,
+  "checked_at_utc": "2026-10-30 10:10 UTC",
+  "checked_at_ist": "30 Oct 2026, 03:40 PM IST",
+  "archive_entries": 334,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Kerala Police THUNA portal: FIR download, no-offence certificate and complaint status online",
-      "url": "https://aicon-hub.github.io/posts/kerala-police-thuna-online-services-fir-download-no-offence-certificate-guide.html"
+      "title": "Kerala encumbrance certificate online: how to apply on the PEARL portal",
+      "url": "https://aicon-hub.github.io/posts/kerala-encumbrance-certificate-online-pearl-registration-department-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-30",
-        "count": 64
+        "count": 84
       }
     ],
     "commits": [
       {
-        "sha": "6736cf3f29843dda4e2c118d7d8de39af47a1a31",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6736cf3f29843dda4e2c118d7d8de39af47a1a31",
-        "date_utc": "30 Oct 2026, 07:19 UTC",
+        "sha": "075db169183ae3ffa874ba75b92c228d32b801ec",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/075db169183ae3ffa874ba75b92c228d32b801ec",
+        "date_utc": "30 Oct 2026, 10:10 UTC",
         "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "7e596a16aefe0435fb404ea6c6dfcc1195ba9bbd",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e596a16aefe0435fb404ea6c6dfcc1195ba9bbd",
-        "date_utc": "30 Oct 2026, 07:19 UTC",
+        "sha": "74b1d00a7ed20c2d4190f87919cca2b0416b9b87",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/74b1d00a7ed20c2d4190f87919cca2b0416b9b87",
+        "date_utc": "30 Oct 2026, 10:10 UTC",
         "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "d54b2835c219dd4935484ad24d6904edc79c7863",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d54b2835c219dd4935484ad24d6904edc79c7863",
-        "date_utc": "30 Oct 2026, 07:19 UTC",
+        "sha": "920bc56a8ff94cd80610bd6f25387d78e7e6e6a2",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/920bc56a8ff94cd80610bd6f25387d78e7e6e6a2",
+        "date_utc": "30 Oct 2026, 10:10 UTC",
         "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "2e8b987cc56676f17bdca48f6a2cf4e33d75abf0",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2e8b987cc56676f17bdca48f6a2cf4e33d75abf0",
-        "date_utc": "30 Oct 2026, 07:16 UTC",
+        "sha": "4ded153fb5ea13dc80b7601e60b8c2a2d8a6f4ec",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4ded153fb5ea13dc80b7601e60b8c2a2d8a6f4ec",
+        "date_utc": "30 Oct 2026, 10:08 UTC",
         "day": "2026-10-30",
-        "title": "Registry kerala-police-thuna-online-services-fir-download-no-offence-certificate-guide"
+        "title": "Registry kerala-encumbrance-certificate-online-pearl-registration-department-guide"
       },
       {
-        "sha": "64c54fc3c235efd7b493293556349ce497cb4acf",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/64c54fc3c235efd7b493293556349ce497cb4acf",
-        "date_utc": "30 Oct 2026, 07:15 UTC",
+        "sha": "5947aa96f34217bb38ba6ed0b06d5ad9009ac399",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5947aa96f34217bb38ba6ed0b06d5ad9009ac399",
+        "date_utc": "30 Oct 2026, 10:08 UTC",
         "day": "2026-10-30",
-        "title": "Sitemap kerala-police-thuna-online-services-fir-download-no-offence-certificate-guide"
+        "title": "Sitemap kerala-encumbrance-certificate-online-pearl-registration-department-guide"
       }
     ],
-    "commit_total": 2894,
+    "commit_total": 2914,
     "calendar": [
       {
         "date": "2026-08-01",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-30",
         "level": 1,
-        "count": 62
+        "count": 76
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
