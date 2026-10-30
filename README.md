@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **30 Oct 2026, 08:36 AM IST** (2026-10-30 03:06 UTC).
+Checked **30 Oct 2026, 09:38 AM IST** (2026-10-30 04:08 UTC).
 
-**328 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**329 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **30 Oct 2026, 08:36 AM IST** (2026-10-30 03:06 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2852 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2863 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`ff0e883`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ff0e8834e2df406cf2b76ee2ed7c582b2876d4c9) · 30 Oct 2026, 02:59 UTC · Fix figure image width
-- [`5ba1e61`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5ba1e61dcae7b5d4f6315d7c7c8502e3b357ce5c) · 30 Oct 2026, 02:59 UTC · Fix figure image width
-- [`df8849b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/df8849b8bd6ea274b839268ab65899aaa99fcc43) · 30 Oct 2026, 02:52 UTC · Record Telegram publishing state
-- [`a7096a9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a7096a912c142a829d53ab7956b76622dae27179) · 30 Oct 2026, 02:52 UTC · Record Telegram publishing state
-- [`6499e95`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6499e9587c9ac7e3d24d629581fbe3ae9d19e6df) · 30 Oct 2026, 02:52 UTC · Record Telegram publishing state
+- [`97f950e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/97f950edac85d46ebb75a39df15e0ba2900190ae) · 30 Oct 2026, 03:41 UTC · Record Telegram publishing state
+- [`dc4cb7c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/dc4cb7cdad4b6e5476f874c9c8100607ec764572) · 30 Oct 2026, 03:41 UTC · Record Telegram publishing state
+- [`4ca4db0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4ca4db0185aeadec765389cf98e18dd0f9936073) · 30 Oct 2026, 03:41 UTC · Record Telegram publishing state
+- [`86b46f9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/86b46f94d6c54cec750fc21f14efd565969ae67a) · 30 Oct 2026, 03:39 UTC · Registry akshaya
+- [`de9718e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/de9718efcc6bf0fabf2d9f512aec3d4b1a241f59) · 30 Oct 2026, 03:39 UTC · Sitemap akshaya
 <!-- AICON:COMMITS:END -->
 
 </details>
