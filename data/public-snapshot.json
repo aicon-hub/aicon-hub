@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-30 10:10 UTC",
-  "checked_at_ist": "30 Oct 2026, 03:40 PM IST",
-  "archive_entries": 334,
+  "checked_at_utc": "2026-10-30 11:01 UTC",
+  "checked_at_ist": "30 Oct 2026, 04:31 PM IST",
+  "archive_entries": 335,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Kerala encumbrance certificate online: how to apply on the PEARL portal",
-      "url": "https://aicon-hub.github.io/posts/kerala-encumbrance-certificate-online-pearl-registration-department-guide.html"
+      "title": "Check medicine prices with NPPA Pharma Sahi Daam: match the pack and date",
+      "url": "https://aicon-hub.github.io/posts/pharma-sahi-daam-nppa-medicine-price-pack-date-check-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-30",
-        "count": 84
+        "count": 94
       }
     ],
     "commits": [
       {
-        "sha": "075db169183ae3ffa874ba75b92c228d32b801ec",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/075db169183ae3ffa874ba75b92c228d32b801ec",
-        "date_utc": "30 Oct 2026, 10:10 UTC",
+        "sha": "8ab0b98d826b71ea47c2f3e1bc0b3ce8859679ca",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8ab0b98d826b71ea47c2f3e1bc0b3ce8859679ca",
+        "date_utc": "30 Oct 2026, 10:41 UTC",
         "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "74b1d00a7ed20c2d4190f87919cca2b0416b9b87",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/74b1d00a7ed20c2d4190f87919cca2b0416b9b87",
-        "date_utc": "30 Oct 2026, 10:10 UTC",
+        "sha": "9da2c9ac27b582f96639d5b74e3bb201391b017b",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9da2c9ac27b582f96639d5b74e3bb201391b017b",
+        "date_utc": "30 Oct 2026, 10:41 UTC",
         "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "920bc56a8ff94cd80610bd6f25387d78e7e6e6a2",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/920bc56a8ff94cd80610bd6f25387d78e7e6e6a2",
-        "date_utc": "30 Oct 2026, 10:10 UTC",
+        "sha": "dcbe065db503e7cc23d9ad59bde3efdb278d3d31",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/dcbe065db503e7cc23d9ad59bde3efdb278d3d31",
+        "date_utc": "30 Oct 2026, 10:41 UTC",
         "day": "2026-10-30",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "4ded153fb5ea13dc80b7601e60b8c2a2d8a6f4ec",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4ded153fb5ea13dc80b7601e60b8c2a2d8a6f4ec",
-        "date_utc": "30 Oct 2026, 10:08 UTC",
+        "sha": "18f13a6d9308154977ebcc6e08bddc28d0c1ca70",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/18f13a6d9308154977ebcc6e08bddc28d0c1ca70",
+        "date_utc": "30 Oct 2026, 10:39 UTC",
         "day": "2026-10-30",
-        "title": "Registry kerala-encumbrance-certificate-online-pearl-registration-department-guide"
+        "title": "Registry pharma-sahi-daam-nppa-medicine-price-pack-date-check-guide"
       },
       {
-        "sha": "5947aa96f34217bb38ba6ed0b06d5ad9009ac399",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5947aa96f34217bb38ba6ed0b06d5ad9009ac399",
-        "date_utc": "30 Oct 2026, 10:08 UTC",
+        "sha": "4301fa551a0d1e57b42aae15f44bb241681db797",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4301fa551a0d1e57b42aae15f44bb241681db797",
+        "date_utc": "30 Oct 2026, 10:39 UTC",
         "day": "2026-10-30",
-        "title": "Sitemap kerala-encumbrance-certificate-online-pearl-registration-department-guide"
+        "title": "Sitemap pharma-sahi-daam-nppa-medicine-price-pack-date-check-guide"
       }
     ],
-    "commit_total": 2914,
+    "commit_total": 2924,
     "calendar": [
       {
         "date": "2026-08-01",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-30",
         "level": 1,
-        "count": 76
+        "count": 83
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

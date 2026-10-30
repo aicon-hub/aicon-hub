@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **30 Oct 2026, 03:40 PM IST** (2026-10-30 10:10 UTC).
+Checked **30 Oct 2026, 04:31 PM IST** (2026-10-30 11:01 UTC).
 
-**334 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**335 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **30 Oct 2026, 03:40 PM IST** (2026-10-30 10:10 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2914 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2924 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`075db16`](https://github.com/aicon-hub/aicon-hub.github.io/commit/075db169183ae3ffa874ba75b92c228d32b801ec) · 30 Oct 2026, 10:10 UTC · Record Telegram publishing state
-- [`74b1d00`](https://github.com/aicon-hub/aicon-hub.github.io/commit/74b1d00a7ed20c2d4190f87919cca2b0416b9b87) · 30 Oct 2026, 10:10 UTC · Record Telegram publishing state
-- [`920bc56`](https://github.com/aicon-hub/aicon-hub.github.io/commit/920bc56a8ff94cd80610bd6f25387d78e7e6e6a2) · 30 Oct 2026, 10:10 UTC · Record Telegram publishing state
-- [`4ded153`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4ded153fb5ea13dc80b7601e60b8c2a2d8a6f4ec) · 30 Oct 2026, 10:08 UTC · Registry kerala-encumbrance-certificate-online-pearl-registration-department-guide
-- [`5947aa9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5947aa96f34217bb38ba6ed0b06d5ad9009ac399) · 30 Oct 2026, 10:08 UTC · Sitemap kerala-encumbrance-certificate-online-pearl-registration-department-guide
+- [`8ab0b98`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8ab0b98d826b71ea47c2f3e1bc0b3ce8859679ca) · 30 Oct 2026, 10:41 UTC · Record Telegram publishing state
+- [`9da2c9a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9da2c9ac27b582f96639d5b74e3bb201391b017b) · 30 Oct 2026, 10:41 UTC · Record Telegram publishing state
+- [`dcbe065`](https://github.com/aicon-hub/aicon-hub.github.io/commit/dcbe065db503e7cc23d9ad59bde3efdb278d3d31) · 30 Oct 2026, 10:41 UTC · Record Telegram publishing state
+- [`18f13a6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/18f13a6d9308154977ebcc6e08bddc28d0c1ca70) · 30 Oct 2026, 10:39 UTC · Registry pharma-sahi-daam-nppa-medicine-price-pack-date-check-guide
+- [`4301fa5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4301fa551a0d1e57b42aae15f44bb241681db797) · 30 Oct 2026, 10:39 UTC · Sitemap pharma-sahi-daam-nppa-medicine-price-pack-date-check-guide
 <!-- AICON:COMMITS:END -->
 
 </details>
