@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-31 15:54 UTC",
-  "checked_at_ist": "31 Oct 2026, 09:24 PM IST",
-  "archive_entries": 344,
+  "checked_at_utc": "2026-10-31 16:56 UTC",
+  "checked_at_ist": "31 Oct 2026, 10:26 PM IST",
+  "archive_entries": 346,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Kerala fair value of land: how to look it up online on the Registration Department site",
-      "url": "https://aicon-hub.github.io/posts/kerala-fair-value-of-land-check-online-registration-department-guide.html"
+      "title": "EGM (Elephant-Goldfish Model): Google's free plugin that makes AI coding agents design first",
+      "url": "https://aicon-hub.github.io/posts/egm-elephant-goldfish-model-google-open-source-spec-driven-development-plugin-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-31",
-        "count": 60
+        "count": 79
       }
     ],
     "commits": [
       {
-        "sha": "19964d3b70b92c84b637d41559643826d1a4209f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/19964d3b70b92c84b637d41559643826d1a4209f",
-        "date_utc": "31 Oct 2026, 13:09 UTC",
+        "sha": "0323942cefd8b861c2a23a318c13092abb1942d2",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0323942cefd8b861c2a23a318c13092abb1942d2",
+        "date_utc": "31 Oct 2026, 16:33 UTC",
         "day": "2026-10-31",
-        "title": "Record Telegram publishing state"
+        "title": "EGM: fix check box spacing"
       },
       {
-        "sha": "f9eff1f631297d15d8c2b77f5db259d92c947f20",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f9eff1f631297d15d8c2b77f5db259d92c947f20",
-        "date_utc": "31 Oct 2026, 13:09 UTC",
+        "sha": "e69da5602a07c5f69ca40de8f4531cd294465785",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e69da5602a07c5f69ca40de8f4531cd294465785",
+        "date_utc": "31 Oct 2026, 16:30 UTC",
         "day": "2026-10-31",
-        "title": "Record Telegram publishing state"
+        "title": "Registry egm-guide"
       },
       {
-        "sha": "4dee3cac63860c202486bcab9129cd1b2ce52267",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4dee3cac63860c202486bcab9129cd1b2ce52267",
-        "date_utc": "31 Oct 2026, 13:08 UTC",
+        "sha": "52f7427adaa18263a24522bacf17f48aa5a16fb8",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/52f7427adaa18263a24522bacf17f48aa5a16fb8",
+        "date_utc": "31 Oct 2026, 16:29 UTC",
         "day": "2026-10-31",
-        "title": "Record Telegram publishing state"
+        "title": "Sitemap egm-guide"
       },
       {
-        "sha": "e0f541ce68ecc955dae02c96655d4a9e821ea5b1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e0f541ce68ecc955dae02c96655d4a9e821ea5b1",
-        "date_utc": "31 Oct 2026, 13:07 UTC",
+        "sha": "900d379421c13493509b28217ef6a9fae768a25e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/900d379421c13493509b28217ef6a9fae768a25e",
+        "date_utc": "31 Oct 2026, 16:29 UTC",
         "day": "2026-10-31",
-        "title": "Registry kerala-fair-value-of-land-check-online-registration-department-guide"
+        "title": "Index egm-guide"
       },
       {
-        "sha": "b1c79f6e1dc70d2112062e280c14dd99feae3e0e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b1c79f6e1dc70d2112062e280c14dd99feae3e0e",
-        "date_utc": "31 Oct 2026, 13:07 UTC",
+        "sha": "fb86dcc5f158f5dde44d3208bb59acaf3be818c0",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fb86dcc5f158f5dde44d3208bb59acaf3be818c0",
+        "date_utc": "31 Oct 2026, 16:29 UTC",
         "day": "2026-10-31",
-        "title": "Sitemap kerala-fair-value-of-land-check-online-registration-department-guide"
+        "title": "Add EGM guide"
       }
     ],
-    "commit_total": 2813,
+    "commit_total": 2832,
     "calendar": [
       {
         "date": "2026-08-02",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-31",
         "level": 1,
-        "count": 42
+        "count": 58
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

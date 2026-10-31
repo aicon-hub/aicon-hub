@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **31 Oct 2026, 09:24 PM IST** (2026-10-31 15:54 UTC).
+Checked **31 Oct 2026, 10:26 PM IST** (2026-10-31 16:56 UTC).
 
-**344 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**346 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **31 Oct 2026, 09:24 PM IST** (2026-10-31 15:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2813 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2832 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`19964d3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/19964d3b70b92c84b637d41559643826d1a4209f) · 31 Oct 2026, 13:09 UTC · Record Telegram publishing state
-- [`f9eff1f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f9eff1f631297d15d8c2b77f5db259d92c947f20) · 31 Oct 2026, 13:09 UTC · Record Telegram publishing state
-- [`4dee3ca`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4dee3cac63860c202486bcab9129cd1b2ce52267) · 31 Oct 2026, 13:08 UTC · Record Telegram publishing state
-- [`e0f541c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e0f541ce68ecc955dae02c96655d4a9e821ea5b1) · 31 Oct 2026, 13:07 UTC · Registry kerala-fair-value-of-land-check-online-registration-department-guide
-- [`b1c79f6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b1c79f6e1dc70d2112062e280c14dd99feae3e0e) · 31 Oct 2026, 13:07 UTC · Sitemap kerala-fair-value-of-land-check-online-registration-department-guide
+- [`0323942`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0323942cefd8b861c2a23a318c13092abb1942d2) · 31 Oct 2026, 16:33 UTC · EGM: fix check box spacing
+- [`e69da56`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e69da5602a07c5f69ca40de8f4531cd294465785) · 31 Oct 2026, 16:30 UTC · Registry egm-guide
+- [`52f7427`](https://github.com/aicon-hub/aicon-hub.github.io/commit/52f7427adaa18263a24522bacf17f48aa5a16fb8) · 31 Oct 2026, 16:29 UTC · Sitemap egm-guide
+- [`900d379`](https://github.com/aicon-hub/aicon-hub.github.io/commit/900d379421c13493509b28217ef6a9fae768a25e) · 31 Oct 2026, 16:29 UTC · Index egm-guide
+- [`fb86dcc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fb86dcc5f158f5dde44d3208bb59acaf3be818c0) · 31 Oct 2026, 16:29 UTC · Add EGM guide
 <!-- AICON:COMMITS:END -->
 
 </details>
