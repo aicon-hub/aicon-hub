@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-31 09:58 UTC",
-  "checked_at_ist": "31 Oct 2026, 03:28 PM IST",
-  "archive_entries": 341,
+  "checked_at_utc": "2026-10-31 10:54 UTC",
+  "checked_at_ist": "31 Oct 2026, 04:24 PM IST",
+  "archive_entries": 342,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Kerala traffic challan: check and pay on the official eChallan portal",
-      "url": "https://aicon-hub.github.io/posts/kerala-traffic-challan-check-pay-echallan-parivahan-guide.html"
+      "title": "NORKA ID cards for Pravasi Keralites: Pravasi, Student, NRK and Returnee cards online",
+      "url": "https://aicon-hub.github.io/posts/norka-roots-id-card-pravasi-returnee-nrk-apply-online-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-31",
-        "count": 30
+        "count": 40
       }
     ],
     "commits": [
       {
-        "sha": "08b5541fd55b00878315936c285ecefcabd30966",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/08b5541fd55b00878315936c285ecefcabd30966",
-        "date_utc": "31 Oct 2026, 07:11 UTC",
+        "sha": "966be0518528013f23ee4519e90a6dc223d9228e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/966be0518528013f23ee4519e90a6dc223d9228e",
+        "date_utc": "31 Oct 2026, 10:10 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "28995ed8f26da59c099c499a7a710182281f1cf4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/28995ed8f26da59c099c499a7a710182281f1cf4",
-        "date_utc": "31 Oct 2026, 07:11 UTC",
+        "sha": "69e638e5d79b2aa732026e4f8fbf695bc0646c4d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/69e638e5d79b2aa732026e4f8fbf695bc0646c4d",
+        "date_utc": "31 Oct 2026, 10:10 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "60e3fda19adc4fef7027d076966ffbfa43c9be36",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/60e3fda19adc4fef7027d076966ffbfa43c9be36",
-        "date_utc": "31 Oct 2026, 07:11 UTC",
+        "sha": "b2e8ecd467855c81769d66a7651d7c8f9dafabed",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b2e8ecd467855c81769d66a7651d7c8f9dafabed",
+        "date_utc": "31 Oct 2026, 10:10 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "5f4d46261ad1bd78c6ae0aa1ff39e335cb0a416c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5f4d46261ad1bd78c6ae0aa1ff39e335cb0a416c",
-        "date_utc": "31 Oct 2026, 07:10 UTC",
+        "sha": "4e14b957a88387e7545894ae62b6f64a75a79ee4",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4e14b957a88387e7545894ae62b6f64a75a79ee4",
+        "date_utc": "31 Oct 2026, 10:08 UTC",
         "day": "2026-10-31",
-        "title": "Registry kerala-traffic-challan-check-pay-echallan-parivahan-guide"
+        "title": "Registry norka-roots-id-card-pravasi-returnee-nrk-apply-online-guide"
       },
       {
-        "sha": "b8993b01a65e399041c398650c8032430ceb845e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b8993b01a65e399041c398650c8032430ceb845e",
-        "date_utc": "31 Oct 2026, 07:10 UTC",
+        "sha": "20d98df7fe8150cf1af006598889db424420e864",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/20d98df7fe8150cf1af006598889db424420e864",
+        "date_utc": "31 Oct 2026, 10:08 UTC",
         "day": "2026-10-31",
-        "title": "Sitemap kerala-traffic-challan-check-pay-echallan-parivahan-guide"
+        "title": "Sitemap norka-roots-id-card-pravasi-returnee-nrk-apply-online-guide"
       }
     ],
-    "commit_total": 2783,
+    "commit_total": 2793,
     "calendar": [
       {
         "date": "2026-08-02",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-31",
         "level": 1,
-        "count": 21
+        "count": 28
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

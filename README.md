@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **31 Oct 2026, 03:28 PM IST** (2026-10-31 09:58 UTC).
+Checked **31 Oct 2026, 04:24 PM IST** (2026-10-31 10:54 UTC).
 
-**341 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**342 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **31 Oct 2026, 03:28 PM IST** (2026-10-31 09:58 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2783 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2793 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`08b5541`](https://github.com/aicon-hub/aicon-hub.github.io/commit/08b5541fd55b00878315936c285ecefcabd30966) · 31 Oct 2026, 07:11 UTC · Record Telegram publishing state
-- [`28995ed`](https://github.com/aicon-hub/aicon-hub.github.io/commit/28995ed8f26da59c099c499a7a710182281f1cf4) · 31 Oct 2026, 07:11 UTC · Record Telegram publishing state
-- [`60e3fda`](https://github.com/aicon-hub/aicon-hub.github.io/commit/60e3fda19adc4fef7027d076966ffbfa43c9be36) · 31 Oct 2026, 07:11 UTC · Record Telegram publishing state
-- [`5f4d462`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5f4d46261ad1bd78c6ae0aa1ff39e335cb0a416c) · 31 Oct 2026, 07:10 UTC · Registry kerala-traffic-challan-check-pay-echallan-parivahan-guide
-- [`b8993b0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b8993b01a65e399041c398650c8032430ceb845e) · 31 Oct 2026, 07:10 UTC · Sitemap kerala-traffic-challan-check-pay-echallan-parivahan-guide
+- [`966be05`](https://github.com/aicon-hub/aicon-hub.github.io/commit/966be0518528013f23ee4519e90a6dc223d9228e) · 31 Oct 2026, 10:10 UTC · Record Telegram publishing state
+- [`69e638e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/69e638e5d79b2aa732026e4f8fbf695bc0646c4d) · 31 Oct 2026, 10:10 UTC · Record Telegram publishing state
+- [`b2e8ecd`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b2e8ecd467855c81769d66a7651d7c8f9dafabed) · 31 Oct 2026, 10:10 UTC · Record Telegram publishing state
+- [`4e14b95`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4e14b957a88387e7545894ae62b6f64a75a79ee4) · 31 Oct 2026, 10:08 UTC · Registry norka-roots-id-card-pravasi-returnee-nrk-apply-online-guide
+- [`20d98df`](https://github.com/aicon-hub/aicon-hub.github.io/commit/20d98df7fe8150cf1af006598889db424420e864) · 31 Oct 2026, 10:08 UTC · Sitemap norka-roots-id-card-pravasi-returnee-nrk-apply-online-guide
 <!-- AICON:COMMITS:END -->
 
 </details>
