@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **31 Oct 2026, 04:24 PM IST** (2026-10-31 10:54 UTC).
+Checked **31 Oct 2026, 05:24 PM IST** (2026-10-31 11:54 UTC).
 
-**342 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**343 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **31 Oct 2026, 04:24 PM IST** (2026-10-31 10:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2793 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2803 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`966be05`](https://github.com/aicon-hub/aicon-hub.github.io/commit/966be0518528013f23ee4519e90a6dc223d9228e) · 31 Oct 2026, 10:10 UTC · Record Telegram publishing state
-- [`69e638e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/69e638e5d79b2aa732026e4f8fbf695bc0646c4d) · 31 Oct 2026, 10:10 UTC · Record Telegram publishing state
-- [`b2e8ecd`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b2e8ecd467855c81769d66a7651d7c8f9dafabed) · 31 Oct 2026, 10:10 UTC · Record Telegram publishing state
-- [`4e14b95`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4e14b957a88387e7545894ae62b6f64a75a79ee4) · 31 Oct 2026, 10:08 UTC · Registry norka-roots-id-card-pravasi-returnee-nrk-apply-online-guide
-- [`20d98df`](https://github.com/aicon-hub/aicon-hub.github.io/commit/20d98df7fe8150cf1af006598889db424420e864) · 31 Oct 2026, 10:08 UTC · Sitemap norka-roots-id-card-pravasi-returnee-nrk-apply-online-guide
+- [`61074e4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/61074e4be5d760dc52def8fb92cbe60c76be975c) · 31 Oct 2026, 11:38 UTC · Record Telegram publishing state
+- [`ee09cf3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ee09cf302d8dda86920bf7a4928f62452b9651cf) · 31 Oct 2026, 11:38 UTC · Record Telegram publishing state
+- [`bcb21d4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bcb21d4aa7f420380632afa34f2df7b6ba26cca7) · 31 Oct 2026, 11:38 UTC · Record Telegram publishing state
+- [`de9a43b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/de9a43ba8b2c8ed013c9110a6381d43b68b6b748) · 31 Oct 2026, 11:36 UTC · Registry kerala-employment-exchange-special-renewal-cancelled-registration-31-october-guide
+- [`538bbcf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/538bbcfc29600121506d6dee2bde2476dc84f9e6) · 31 Oct 2026, 11:36 UTC · Sitemap kerala-employment-exchange-special-renewal-cancelled-registration-31-october-guide
 <!-- AICON:COMMITS:END -->
 
 </details>

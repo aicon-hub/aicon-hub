@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-31 10:54 UTC",
-  "checked_at_ist": "31 Oct 2026, 04:24 PM IST",
-  "archive_entries": 342,
+  "checked_at_utc": "2026-10-31 11:54 UTC",
+  "checked_at_ist": "31 Oct 2026, 05:24 PM IST",
+  "archive_entries": 343,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "NORKA ID cards for Pravasi Keralites: Pravasi, Student, NRK and Returnee cards online",
-      "url": "https://aicon-hub.github.io/posts/norka-roots-id-card-pravasi-returnee-nrk-apply-online-guide.html"
+      "title": "Kerala employment registration cancelled? Special Renewal on the e-Employment portal, 31 October notice",
+      "url": "https://aicon-hub.github.io/posts/kerala-employment-exchange-special-renewal-cancelled-registration-31-october-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-31",
-        "count": 40
+        "count": 50
       }
     ],
     "commits": [
       {
-        "sha": "966be0518528013f23ee4519e90a6dc223d9228e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/966be0518528013f23ee4519e90a6dc223d9228e",
-        "date_utc": "31 Oct 2026, 10:10 UTC",
+        "sha": "61074e4be5d760dc52def8fb92cbe60c76be975c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/61074e4be5d760dc52def8fb92cbe60c76be975c",
+        "date_utc": "31 Oct 2026, 11:38 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "69e638e5d79b2aa732026e4f8fbf695bc0646c4d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/69e638e5d79b2aa732026e4f8fbf695bc0646c4d",
-        "date_utc": "31 Oct 2026, 10:10 UTC",
+        "sha": "ee09cf302d8dda86920bf7a4928f62452b9651cf",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ee09cf302d8dda86920bf7a4928f62452b9651cf",
+        "date_utc": "31 Oct 2026, 11:38 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "b2e8ecd467855c81769d66a7651d7c8f9dafabed",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b2e8ecd467855c81769d66a7651d7c8f9dafabed",
-        "date_utc": "31 Oct 2026, 10:10 UTC",
+        "sha": "bcb21d4aa7f420380632afa34f2df7b6ba26cca7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bcb21d4aa7f420380632afa34f2df7b6ba26cca7",
+        "date_utc": "31 Oct 2026, 11:38 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "4e14b957a88387e7545894ae62b6f64a75a79ee4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4e14b957a88387e7545894ae62b6f64a75a79ee4",
-        "date_utc": "31 Oct 2026, 10:08 UTC",
+        "sha": "de9a43ba8b2c8ed013c9110a6381d43b68b6b748",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/de9a43ba8b2c8ed013c9110a6381d43b68b6b748",
+        "date_utc": "31 Oct 2026, 11:36 UTC",
         "day": "2026-10-31",
-        "title": "Registry norka-roots-id-card-pravasi-returnee-nrk-apply-online-guide"
+        "title": "Registry kerala-employment-exchange-special-renewal-cancelled-registration-31-october-guide"
       },
       {
-        "sha": "20d98df7fe8150cf1af006598889db424420e864",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/20d98df7fe8150cf1af006598889db424420e864",
-        "date_utc": "31 Oct 2026, 10:08 UTC",
+        "sha": "538bbcfc29600121506d6dee2bde2476dc84f9e6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/538bbcfc29600121506d6dee2bde2476dc84f9e6",
+        "date_utc": "31 Oct 2026, 11:36 UTC",
         "day": "2026-10-31",
-        "title": "Sitemap norka-roots-id-card-pravasi-returnee-nrk-apply-online-guide"
+        "title": "Sitemap kerala-employment-exchange-special-renewal-cancelled-registration-31-october-guide"
       }
     ],
-    "commit_total": 2793,
+    "commit_total": 2803,
     "calendar": [
       {
         "date": "2026-08-02",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-31",
         "level": 1,
-        "count": 28
+        "count": 35
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
