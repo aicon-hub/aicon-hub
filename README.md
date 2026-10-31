@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **31 Oct 2026, 05:24 PM IST** (2026-10-31 11:54 UTC).
+Checked **31 Oct 2026, 06:43 PM IST** (2026-10-31 13:13 UTC).
 
-**343 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**344 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **31 Oct 2026, 05:24 PM IST** (2026-10-31 11:54 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2803 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2813 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`61074e4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/61074e4be5d760dc52def8fb92cbe60c76be975c) · 31 Oct 2026, 11:38 UTC · Record Telegram publishing state
-- [`ee09cf3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ee09cf302d8dda86920bf7a4928f62452b9651cf) · 31 Oct 2026, 11:38 UTC · Record Telegram publishing state
-- [`bcb21d4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/bcb21d4aa7f420380632afa34f2df7b6ba26cca7) · 31 Oct 2026, 11:38 UTC · Record Telegram publishing state
-- [`de9a43b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/de9a43ba8b2c8ed013c9110a6381d43b68b6b748) · 31 Oct 2026, 11:36 UTC · Registry kerala-employment-exchange-special-renewal-cancelled-registration-31-october-guide
-- [`538bbcf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/538bbcfc29600121506d6dee2bde2476dc84f9e6) · 31 Oct 2026, 11:36 UTC · Sitemap kerala-employment-exchange-special-renewal-cancelled-registration-31-october-guide
+- [`19964d3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/19964d3b70b92c84b637d41559643826d1a4209f) · 31 Oct 2026, 13:09 UTC · Record Telegram publishing state
+- [`f9eff1f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f9eff1f631297d15d8c2b77f5db259d92c947f20) · 31 Oct 2026, 13:09 UTC · Record Telegram publishing state
+- [`4dee3ca`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4dee3cac63860c202486bcab9129cd1b2ce52267) · 31 Oct 2026, 13:08 UTC · Record Telegram publishing state
+- [`e0f541c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e0f541ce68ecc955dae02c96655d4a9e821ea5b1) · 31 Oct 2026, 13:07 UTC · Registry kerala-fair-value-of-land-check-online-registration-department-guide
+- [`b1c79f6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b1c79f6e1dc70d2112062e280c14dd99feae3e0e) · 31 Oct 2026, 13:07 UTC · Sitemap kerala-fair-value-of-land-check-online-registration-department-guide
 <!-- AICON:COMMITS:END -->
 
 </details>

@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-31 11:54 UTC",
-  "checked_at_ist": "31 Oct 2026, 05:24 PM IST",
-  "archive_entries": 343,
+  "checked_at_utc": "2026-10-31 13:13 UTC",
+  "checked_at_ist": "31 Oct 2026, 06:43 PM IST",
+  "archive_entries": 344,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Kerala employment registration cancelled? Special Renewal on the e-Employment portal, 31 October notice",
-      "url": "https://aicon-hub.github.io/posts/kerala-employment-exchange-special-renewal-cancelled-registration-31-october-guide.html"
+      "title": "Kerala fair value of land: how to look it up online on the Registration Department site",
+      "url": "https://aicon-hub.github.io/posts/kerala-fair-value-of-land-check-online-registration-department-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-31",
-        "count": 50
+        "count": 60
       }
     ],
     "commits": [
       {
-        "sha": "61074e4be5d760dc52def8fb92cbe60c76be975c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/61074e4be5d760dc52def8fb92cbe60c76be975c",
-        "date_utc": "31 Oct 2026, 11:38 UTC",
+        "sha": "19964d3b70b92c84b637d41559643826d1a4209f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/19964d3b70b92c84b637d41559643826d1a4209f",
+        "date_utc": "31 Oct 2026, 13:09 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "ee09cf302d8dda86920bf7a4928f62452b9651cf",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ee09cf302d8dda86920bf7a4928f62452b9651cf",
-        "date_utc": "31 Oct 2026, 11:38 UTC",
+        "sha": "f9eff1f631297d15d8c2b77f5db259d92c947f20",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f9eff1f631297d15d8c2b77f5db259d92c947f20",
+        "date_utc": "31 Oct 2026, 13:09 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "bcb21d4aa7f420380632afa34f2df7b6ba26cca7",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bcb21d4aa7f420380632afa34f2df7b6ba26cca7",
-        "date_utc": "31 Oct 2026, 11:38 UTC",
+        "sha": "4dee3cac63860c202486bcab9129cd1b2ce52267",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4dee3cac63860c202486bcab9129cd1b2ce52267",
+        "date_utc": "31 Oct 2026, 13:08 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "de9a43ba8b2c8ed013c9110a6381d43b68b6b748",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/de9a43ba8b2c8ed013c9110a6381d43b68b6b748",
-        "date_utc": "31 Oct 2026, 11:36 UTC",
+        "sha": "e0f541ce68ecc955dae02c96655d4a9e821ea5b1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e0f541ce68ecc955dae02c96655d4a9e821ea5b1",
+        "date_utc": "31 Oct 2026, 13:07 UTC",
         "day": "2026-10-31",
-        "title": "Registry kerala-employment-exchange-special-renewal-cancelled-registration-31-october-guide"
+        "title": "Registry kerala-fair-value-of-land-check-online-registration-department-guide"
       },
       {
-        "sha": "538bbcfc29600121506d6dee2bde2476dc84f9e6",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/538bbcfc29600121506d6dee2bde2476dc84f9e6",
-        "date_utc": "31 Oct 2026, 11:36 UTC",
+        "sha": "b1c79f6e1dc70d2112062e280c14dd99feae3e0e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b1c79f6e1dc70d2112062e280c14dd99feae3e0e",
+        "date_utc": "31 Oct 2026, 13:07 UTC",
         "day": "2026-10-31",
-        "title": "Sitemap kerala-employment-exchange-special-renewal-cancelled-registration-31-october-guide"
+        "title": "Sitemap kerala-fair-value-of-land-check-online-registration-department-guide"
       }
     ],
-    "commit_total": 2803,
+    "commit_total": 2813,
     "calendar": [
       {
         "date": "2026-08-02",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-31",
         "level": 1,
-        "count": 35
+        "count": 42
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
