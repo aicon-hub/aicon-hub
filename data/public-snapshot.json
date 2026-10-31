@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-31 04:03 UTC",
-  "checked_at_ist": "31 Oct 2026, 09:33 AM IST",
-  "archive_entries": 339,
+  "checked_at_utc": "2026-10-31 05:01 UTC",
+  "checked_at_ist": "31 Oct 2026, 10:31 AM IST",
+  "archive_entries": 340,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Check Kerala food-price data by district, item and date",
-      "url": "https://aicon-hub.github.io/posts/kerala-ecostat-district-retail-food-prices-date-unit-guide.html"
+      "title": "Apply for a learner licence online in Kerala: Sarathi Parivahan guide",
+      "url": "https://aicon-hub.github.io/posts/kerala-learner-licence-online-sarathi-parivahan-apply-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-31",
-        "count": 9
+        "count": 19
       }
     ],
     "commits": [
       {
-        "sha": "9df7afb73b54980e178d68b6ff73ba1f0393b572",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9df7afb73b54980e178d68b6ff73ba1f0393b572",
-        "date_utc": "31 Oct 2026, 02:39 UTC",
+        "sha": "389d212be3f642cc9b4fcdccd46119c63ef87924",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/389d212be3f642cc9b4fcdccd46119c63ef87924",
+        "date_utc": "31 Oct 2026, 04:09 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "8a806ec6af76976e4d2d8fea1c8393b0cf74e126",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8a806ec6af76976e4d2d8fea1c8393b0cf74e126",
-        "date_utc": "31 Oct 2026, 02:39 UTC",
+        "sha": "680f3a5963148cf6ddc7f5b1ab95240db98af2ed",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/680f3a5963148cf6ddc7f5b1ab95240db98af2ed",
+        "date_utc": "31 Oct 2026, 04:09 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "e4f27481a5b4b427fc48124ce92203bc99f29535",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e4f27481a5b4b427fc48124ce92203bc99f29535",
-        "date_utc": "31 Oct 2026, 02:39 UTC",
+        "sha": "affdabf03623d2f818862cfaba7c47a4ee297b95",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/affdabf03623d2f818862cfaba7c47a4ee297b95",
+        "date_utc": "31 Oct 2026, 04:09 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "3e706b451dce30104096dff95b2be2a2d8814270",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3e706b451dce30104096dff95b2be2a2d8814270",
-        "date_utc": "31 Oct 2026, 02:37 UTC",
+        "sha": "aa0ffd78859f99cbd27b5d746546d53f4bcea5a6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/aa0ffd78859f99cbd27b5d746546d53f4bcea5a6",
+        "date_utc": "31 Oct 2026, 04:08 UTC",
         "day": "2026-10-31",
-        "title": "Registry kerala-ecostat-district-retail-food-prices-date-unit-guide"
+        "title": "Registry kerala-learner-licence-online-sarathi-parivahan-apply-guide"
       },
       {
-        "sha": "2b5d7d0f651c0e0efd6ac60dc2544e1bc0bc9438",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2b5d7d0f651c0e0efd6ac60dc2544e1bc0bc9438",
-        "date_utc": "31 Oct 2026, 02:37 UTC",
+        "sha": "aa9486c55c3925e22ee934c8767088badbca563d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/aa9486c55c3925e22ee934c8767088badbca563d",
+        "date_utc": "31 Oct 2026, 04:07 UTC",
         "day": "2026-10-31",
-        "title": "Sitemap kerala-ecostat-district-retail-food-prices-date-unit-guide"
+        "title": "Sitemap kerala-learner-licence-online-sarathi-parivahan-apply-guide"
       }
     ],
-    "commit_total": 2762,
+    "commit_total": 2772,
     "calendar": [
       {
         "date": "2026-08-02",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-31",
         "level": 1,
-        "count": 6
+        "count": 13
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
