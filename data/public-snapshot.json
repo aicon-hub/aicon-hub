@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-31 01:24 UTC",
-  "checked_at_ist": "31 Oct 2026, 06:54 AM IST",
-  "archive_entries": 338,
+  "checked_at_utc": "2026-10-31 04:03 UTC",
+  "checked_at_ist": "31 Oct 2026, 09:33 AM IST",
+  "archive_entries": 339,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Pay your Kerala Water Authority bill online: Quick Pay guide",
-      "url": "https://aicon-hub.github.io/posts/kerala-water-authority-water-bill-online-quick-pay-guide.html"
+      "title": "Check Kerala food-price data by district, item and date",
+      "url": "https://aicon-hub.github.io/posts/kerala-ecostat-district-retail-food-prices-date-unit-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-31",
-        "count": 0
+        "count": 9
       }
     ],
     "commits": [
       {
-        "sha": "e661a9d2e8e06cc0666c9c64eadc967d348ac9df",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e661a9d2e8e06cc0666c9c64eadc967d348ac9df",
-        "date_utc": "30 Oct 2026, 16:09 UTC",
-        "day": "2026-10-30",
+        "sha": "9df7afb73b54980e178d68b6ff73ba1f0393b572",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9df7afb73b54980e178d68b6ff73ba1f0393b572",
+        "date_utc": "31 Oct 2026, 02:39 UTC",
+        "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "1e291061226f14aa4e9d31b1b5f404c32f596b96",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1e291061226f14aa4e9d31b1b5f404c32f596b96",
-        "date_utc": "30 Oct 2026, 16:09 UTC",
-        "day": "2026-10-30",
+        "sha": "8a806ec6af76976e4d2d8fea1c8393b0cf74e126",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8a806ec6af76976e4d2d8fea1c8393b0cf74e126",
+        "date_utc": "31 Oct 2026, 02:39 UTC",
+        "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "c95f9bc6a3a92e42953d510ad436e0b201870972",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c95f9bc6a3a92e42953d510ad436e0b201870972",
-        "date_utc": "30 Oct 2026, 16:09 UTC",
-        "day": "2026-10-30",
+        "sha": "e4f27481a5b4b427fc48124ce92203bc99f29535",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e4f27481a5b4b427fc48124ce92203bc99f29535",
+        "date_utc": "31 Oct 2026, 02:39 UTC",
+        "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "4393ae9458fe7570ded084f4e9b8dda61020fa4c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4393ae9458fe7570ded084f4e9b8dda61020fa4c",
-        "date_utc": "30 Oct 2026, 16:07 UTC",
-        "day": "2026-10-30",
-        "title": "Registry kerala-water-authority-water-bill-online-quick-pay-guide"
+        "sha": "3e706b451dce30104096dff95b2be2a2d8814270",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3e706b451dce30104096dff95b2be2a2d8814270",
+        "date_utc": "31 Oct 2026, 02:37 UTC",
+        "day": "2026-10-31",
+        "title": "Registry kerala-ecostat-district-retail-food-prices-date-unit-guide"
       },
       {
-        "sha": "2b8fba8af574aad6a6edcd9ab3e1a8c807bbcc39",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2b8fba8af574aad6a6edcd9ab3e1a8c807bbcc39",
-        "date_utc": "30 Oct 2026, 16:07 UTC",
-        "day": "2026-10-30",
-        "title": "Sitemap kerala-water-authority-water-bill-online-quick-pay-guide"
+        "sha": "2b5d7d0f651c0e0efd6ac60dc2544e1bc0bc9438",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2b5d7d0f651c0e0efd6ac60dc2544e1bc0bc9438",
+        "date_utc": "31 Oct 2026, 02:37 UTC",
+        "day": "2026-10-31",
+        "title": "Sitemap kerala-ecostat-district-retail-food-prices-date-unit-guide"
       }
     ],
-    "commit_total": 2753,
+    "commit_total": 2762,
     "calendar": [
       {
         "date": "2026-08-02",
@@ -584,8 +584,8 @@
       },
       {
         "date": "2026-10-31",
-        "level": 0,
-        "count": 0
+        "level": 1,
+        "count": 6
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

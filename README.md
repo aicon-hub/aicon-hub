@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **31 Oct 2026, 06:54 AM IST** (2026-10-31 01:24 UTC).
+Checked **31 Oct 2026, 09:33 AM IST** (2026-10-31 04:03 UTC).
 
-**338 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**339 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **31 Oct 2026, 06:54 AM IST** (2026-10-31 01:24 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2753 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2762 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`e661a9d`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e661a9d2e8e06cc0666c9c64eadc967d348ac9df) · 30 Oct 2026, 16:09 UTC · Record Telegram publishing state
-- [`1e29106`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1e291061226f14aa4e9d31b1b5f404c32f596b96) · 30 Oct 2026, 16:09 UTC · Record Telegram publishing state
-- [`c95f9bc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c95f9bc6a3a92e42953d510ad436e0b201870972) · 30 Oct 2026, 16:09 UTC · Record Telegram publishing state
-- [`4393ae9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4393ae9458fe7570ded084f4e9b8dda61020fa4c) · 30 Oct 2026, 16:07 UTC · Registry kerala-water-authority-water-bill-online-quick-pay-guide
-- [`2b8fba8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2b8fba8af574aad6a6edcd9ab3e1a8c807bbcc39) · 30 Oct 2026, 16:07 UTC · Sitemap kerala-water-authority-water-bill-online-quick-pay-guide
+- [`9df7afb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9df7afb73b54980e178d68b6ff73ba1f0393b572) · 31 Oct 2026, 02:39 UTC · Record Telegram publishing state
+- [`8a806ec`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8a806ec6af76976e4d2d8fea1c8393b0cf74e126) · 31 Oct 2026, 02:39 UTC · Record Telegram publishing state
+- [`e4f2748`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e4f27481a5b4b427fc48124ce92203bc99f29535) · 31 Oct 2026, 02:39 UTC · Record Telegram publishing state
+- [`3e706b4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3e706b451dce30104096dff95b2be2a2d8814270) · 31 Oct 2026, 02:37 UTC · Registry kerala-ecostat-district-retail-food-prices-date-unit-guide
+- [`2b5d7d0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2b5d7d0f651c0e0efd6ac60dc2544e1bc0bc9438) · 31 Oct 2026, 02:37 UTC · Sitemap kerala-ecostat-district-retail-food-prices-date-unit-guide
 <!-- AICON:COMMITS:END -->
 
 </details>
