@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **31 Oct 2026, 11:28 AM IST** (2026-10-31 05:58 UTC).
+Checked **31 Oct 2026, 12:49 PM IST** (2026-10-31 07:19 UTC).
 
-**340 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**341 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **31 Oct 2026, 11:28 AM IST** (2026-10-31 05:58 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2773 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2783 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`5ef67b8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5ef67b81424b62b49fa8e49d5c9915b42467534c) · 31 Oct 2026, 05:27 UTC · funded: JET 2027 ALT (India) closed 30 Oct; verified dates 2026-10-31
-- [`389d212`](https://github.com/aicon-hub/aicon-hub.github.io/commit/389d212be3f642cc9b4fcdccd46119c63ef87924) · 31 Oct 2026, 04:09 UTC · Record Telegram publishing state
-- [`680f3a5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/680f3a5963148cf6ddc7f5b1ab95240db98af2ed) · 31 Oct 2026, 04:09 UTC · Record Telegram publishing state
-- [`affdabf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/affdabf03623d2f818862cfaba7c47a4ee297b95) · 31 Oct 2026, 04:09 UTC · Record Telegram publishing state
-- [`aa0ffd7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/aa0ffd78859f99cbd27b5d746546d53f4bcea5a6) · 31 Oct 2026, 04:08 UTC · Registry kerala-learner-licence-online-sarathi-parivahan-apply-guide
+- [`08b5541`](https://github.com/aicon-hub/aicon-hub.github.io/commit/08b5541fd55b00878315936c285ecefcabd30966) · 31 Oct 2026, 07:11 UTC · Record Telegram publishing state
+- [`28995ed`](https://github.com/aicon-hub/aicon-hub.github.io/commit/28995ed8f26da59c099c499a7a710182281f1cf4) · 31 Oct 2026, 07:11 UTC · Record Telegram publishing state
+- [`60e3fda`](https://github.com/aicon-hub/aicon-hub.github.io/commit/60e3fda19adc4fef7027d076966ffbfa43c9be36) · 31 Oct 2026, 07:11 UTC · Record Telegram publishing state
+- [`5f4d462`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5f4d46261ad1bd78c6ae0aa1ff39e335cb0a416c) · 31 Oct 2026, 07:10 UTC · Registry kerala-traffic-challan-check-pay-echallan-parivahan-guide
+- [`b8993b0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b8993b01a65e399041c398650c8032430ceb845e) · 31 Oct 2026, 07:10 UTC · Sitemap kerala-traffic-challan-check-pay-echallan-parivahan-guide
 <!-- AICON:COMMITS:END -->
 
 </details>

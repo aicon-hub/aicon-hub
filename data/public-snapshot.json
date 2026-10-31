@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-10-31 05:58 UTC",
-  "checked_at_ist": "31 Oct 2026, 11:28 AM IST",
-  "archive_entries": 340,
+  "checked_at_utc": "2026-10-31 07:19 UTC",
+  "checked_at_ist": "31 Oct 2026, 12:49 PM IST",
+  "archive_entries": 341,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Apply for a learner licence online in Kerala: Sarathi Parivahan guide",
-      "url": "https://aicon-hub.github.io/posts/kerala-learner-licence-online-sarathi-parivahan-apply-guide.html"
+      "title": "Kerala traffic challan: check and pay on the official eChallan portal",
+      "url": "https://aicon-hub.github.io/posts/kerala-traffic-challan-check-pay-echallan-parivahan-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-10-31",
-        "count": 20
+        "count": 30
       }
     ],
     "commits": [
       {
-        "sha": "5ef67b81424b62b49fa8e49d5c9915b42467534c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5ef67b81424b62b49fa8e49d5c9915b42467534c",
-        "date_utc": "31 Oct 2026, 05:27 UTC",
-        "day": "2026-10-31",
-        "title": "funded: JET 2027 ALT (India) closed 30 Oct; verified dates 2026-10-31"
-      },
-      {
-        "sha": "389d212be3f642cc9b4fcdccd46119c63ef87924",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/389d212be3f642cc9b4fcdccd46119c63ef87924",
-        "date_utc": "31 Oct 2026, 04:09 UTC",
+        "sha": "08b5541fd55b00878315936c285ecefcabd30966",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/08b5541fd55b00878315936c285ecefcabd30966",
+        "date_utc": "31 Oct 2026, 07:11 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "680f3a5963148cf6ddc7f5b1ab95240db98af2ed",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/680f3a5963148cf6ddc7f5b1ab95240db98af2ed",
-        "date_utc": "31 Oct 2026, 04:09 UTC",
+        "sha": "28995ed8f26da59c099c499a7a710182281f1cf4",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/28995ed8f26da59c099c499a7a710182281f1cf4",
+        "date_utc": "31 Oct 2026, 07:11 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "affdabf03623d2f818862cfaba7c47a4ee297b95",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/affdabf03623d2f818862cfaba7c47a4ee297b95",
-        "date_utc": "31 Oct 2026, 04:09 UTC",
+        "sha": "60e3fda19adc4fef7027d076966ffbfa43c9be36",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/60e3fda19adc4fef7027d076966ffbfa43c9be36",
+        "date_utc": "31 Oct 2026, 07:11 UTC",
         "day": "2026-10-31",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "aa0ffd78859f99cbd27b5d746546d53f4bcea5a6",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/aa0ffd78859f99cbd27b5d746546d53f4bcea5a6",
-        "date_utc": "31 Oct 2026, 04:08 UTC",
+        "sha": "5f4d46261ad1bd78c6ae0aa1ff39e335cb0a416c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5f4d46261ad1bd78c6ae0aa1ff39e335cb0a416c",
+        "date_utc": "31 Oct 2026, 07:10 UTC",
         "day": "2026-10-31",
-        "title": "Registry kerala-learner-licence-online-sarathi-parivahan-apply-guide"
+        "title": "Registry kerala-traffic-challan-check-pay-echallan-parivahan-guide"
+      },
+      {
+        "sha": "b8993b01a65e399041c398650c8032430ceb845e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b8993b01a65e399041c398650c8032430ceb845e",
+        "date_utc": "31 Oct 2026, 07:10 UTC",
+        "day": "2026-10-31",
+        "title": "Sitemap kerala-traffic-challan-check-pay-echallan-parivahan-guide"
       }
     ],
-    "commit_total": 2773,
+    "commit_total": 2783,
     "calendar": [
       {
         "date": "2026-08-02",
@@ -585,7 +585,7 @@
       {
         "date": "2026-10-31",
         "level": 1,
-        "count": 14
+        "count": 21
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
