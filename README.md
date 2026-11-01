@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **01 Nov 2026, 05:22 AM IST** (2026-10-31 23:52 UTC).
+Checked **01 Nov 2026, 07:00 AM IST** (2026-11-01 01:30 UTC).
 
 **346 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **01 Nov 2026, 05:22 AM IST** (2026-10-31 23:52 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2832 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2645 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
