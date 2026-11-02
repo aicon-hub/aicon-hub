@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **02 Nov 2026, 02:56 PM IST** (2026-11-02 09:26 UTC).
+Checked **02 Nov 2026, 04:46 PM IST** (2026-11-02 11:16 UTC).
 
-**352 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**353 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **02 Nov 2026, 02:56 PM IST** (2026-11-02 09:26 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2486 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2511 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`ed5c8b0`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ed5c8b0d26a10ded1c0168a79e674f6d9ff50ac1) · 02 Nov 2026, 07:10 UTC · Record Telegram publishing state
-- [`cef8b33`](https://github.com/aicon-hub/aicon-hub.github.io/commit/cef8b335a45927dee96d3ed7fae1481bb722b400) · 02 Nov 2026, 07:10 UTC · Record Telegram publishing state
-- [`f2be501`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f2be501c3822087bcf24b4081c6a8e1e80ab199e) · 02 Nov 2026, 07:10 UTC · Record Telegram publishing state
-- [`9ea4dfb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/9ea4dfbbf6b93d2bc1fce5ec3398c417f5ef6702) · 02 Nov 2026, 07:08 UTC · Registry e-jagriti-consumer-complaint
-- [`443f219`](https://github.com/aicon-hub/aicon-hub.github.io/commit/443f2196ca2287baea6529a18adf2c673111a35f) · 02 Nov 2026, 07:08 UTC · Sitemap e-jagriti-consumer-complaint
+- [`5ac608f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5ac608f2ace73975da90043de6a5cf1f9382a747) · 02 Nov 2026, 10:49 UTC · Record Telegram publishing state
+- [`3f349c5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3f349c5001107ffdabb6fad302bd0ec1c3e69e20) · 02 Nov 2026, 10:49 UTC · Record Telegram publishing state
+- [`2df3bdc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2df3bdc9381b1f0d2ecc9f14b3753f4b26e5bd51) · 02 Nov 2026, 10:49 UTC · Record Telegram publishing state
+- [`4e30cfb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4e30cfb32c7e1ec9bd019921cbdda064b853bcb6) · 02 Nov 2026, 10:48 UTC · Add telegram-poster-aicte-nsp-date-update.png.b64
+- [`6e0b6c4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6e0b6c423f10646c5d50a6c7bb00742494ab0db8) · 02 Nov 2026, 10:40 UTC · Sitemap lastmod Pragati and Saksham
 <!-- AICON:COMMITS:END -->
 
 </details>
