@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **02 Nov 2026, 04:46 PM IST** (2026-11-02 11:16 UTC).
+Checked **02 Nov 2026, 05:41 PM IST** (2026-11-02 12:11 UTC).
 
 **353 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **02 Nov 2026, 04:46 PM IST** (2026-11-02 11:16 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2511 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2538 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`5ac608f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/5ac608f2ace73975da90043de6a5cf1f9382a747) · 02 Nov 2026, 10:49 UTC · Record Telegram publishing state
-- [`3f349c5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3f349c5001107ffdabb6fad302bd0ec1c3e69e20) · 02 Nov 2026, 10:49 UTC · Record Telegram publishing state
-- [`2df3bdc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2df3bdc9381b1f0d2ecc9f14b3753f4b26e5bd51) · 02 Nov 2026, 10:49 UTC · Record Telegram publishing state
-- [`4e30cfb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4e30cfb32c7e1ec9bd019921cbdda064b853bcb6) · 02 Nov 2026, 10:48 UTC · Add telegram-poster-aicte-nsp-date-update.png.b64
-- [`6e0b6c4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6e0b6c423f10646c5d50a6c7bb00742494ab0db8) · 02 Nov 2026, 10:40 UTC · Sitemap lastmod Pragati and Saksham
+- [`10d99e5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/10d99e5dc107db013111fbf324bcc52656e50f7f) · 02 Nov 2026, 11:51 UTC · NMMSS facts table follows NSP card dates
+- [`ed23ddd`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ed23dddb227e5761e64f2cc958d1a0e2030c5980) · 02 Nov 2026, 11:49 UTC · Sitemap lastmod for NSP date updates
+- [`aab2082`](https://github.com/aicon-hub/aicon-hub.github.io/commit/aab20827606da1003eff60950de950fc3a620b62) · 02 Nov 2026, 11:48 UTC · Update print statement from 'Hello' to 'Goodbye'
+- [`d03cecd`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d03cecd4be856bc893b211024228b2352986c9aa) · 02 Nov 2026, 11:48 UTC · Update scholarship cards for NSP date changes (2 Nov)
+- [`b189814`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b1898146a21388b84f8f7642ff47560f3f00760e) · 02 Nov 2026, 11:48 UTC · Update scholarship cards for NSP date changes (2 Nov)
 <!-- AICON:COMMITS:END -->
 
 </details>
