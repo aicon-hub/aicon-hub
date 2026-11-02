@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-11-02 05:24 UTC",
-  "checked_at_ist": "02 Nov 2026, 10:54 AM IST",
-  "archive_entries": 351,
+  "checked_at_utc": "2026-11-02 07:47 UTC",
+  "checked_at_ist": "02 Nov 2026, 01:17 PM IST",
+  "archive_entries": 352,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "KSRTC student concession card: how to register or renew online in Kerala",
-      "url": "https://aicon-hub.github.io/posts/kerala-ksrtc-student-concession-card-online-registration-renewal-guide.html"
+      "title": "e-Jagriti: how to file a consumer complaint online, step by step",
+      "url": "https://aicon-hub.github.io/posts/e-jagriti-file-consumer-complaint-online-register-steps-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-11-02",
-        "count": 54
+        "count": 64
       }
     ],
     "commits": [
       {
-        "sha": "9094e17f8bf815c01e9aa76d6978e33a74a1c119",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9094e17f8bf815c01e9aa76d6978e33a74a1c119",
-        "date_utc": "02 Nov 2026, 05:15 UTC",
+        "sha": "ed5c8b0d26a10ded1c0168a79e674f6d9ff50ac1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ed5c8b0d26a10ded1c0168a79e674f6d9ff50ac1",
+        "date_utc": "02 Nov 2026, 07:10 UTC",
         "day": "2026-11-02",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "094d982c38dd8d3ed678779ccb595c03ae077e78",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/094d982c38dd8d3ed678779ccb595c03ae077e78",
-        "date_utc": "02 Nov 2026, 05:15 UTC",
+        "sha": "cef8b335a45927dee96d3ed7fae1481bb722b400",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cef8b335a45927dee96d3ed7fae1481bb722b400",
+        "date_utc": "02 Nov 2026, 07:10 UTC",
         "day": "2026-11-02",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "e3020e2fffec4de38d80da35e744a56c34ea30f0",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e3020e2fffec4de38d80da35e744a56c34ea30f0",
-        "date_utc": "02 Nov 2026, 05:15 UTC",
+        "sha": "f2be501c3822087bcf24b4081c6a8e1e80ab199e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f2be501c3822087bcf24b4081c6a8e1e80ab199e",
+        "date_utc": "02 Nov 2026, 07:10 UTC",
         "day": "2026-11-02",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "8f3bf5fde5026ec96878fa96d489604dbd453cf7",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8f3bf5fde5026ec96878fa96d489604dbd453cf7",
-        "date_utc": "02 Nov 2026, 05:14 UTC",
+        "sha": "9ea4dfbbf6b93d2bc1fce5ec3398c417f5ef6702",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9ea4dfbbf6b93d2bc1fce5ec3398c417f5ef6702",
+        "date_utc": "02 Nov 2026, 07:08 UTC",
         "day": "2026-11-02",
-        "title": "Record Telegram publishing state"
+        "title": "Registry e-jagriti-consumer-complaint"
       },
       {
-        "sha": "b4ffd579a407e8da57aca60dddf676ef93ad69fc",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b4ffd579a407e8da57aca60dddf676ef93ad69fc",
-        "date_utc": "02 Nov 2026, 05:14 UTC",
+        "sha": "443f2196ca2287baea6529a18adf2c673111a35f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/443f2196ca2287baea6529a18adf2c673111a35f",
+        "date_utc": "02 Nov 2026, 07:08 UTC",
         "day": "2026-11-02",
-        "title": "Record Telegram publishing state"
+        "title": "Sitemap e-jagriti-consumer-complaint"
       }
     ],
-    "commit_total": 2476,
+    "commit_total": 2486,
     "calendar": [
       {
         "date": "2026-08-04",
@@ -585,7 +585,7 @@
       {
         "date": "2026-11-02",
         "level": 1,
-        "count": 36
+        "count": 43
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
