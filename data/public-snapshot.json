@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-11-02 12:11 UTC",
-  "checked_at_ist": "02 Nov 2026, 05:41 PM IST",
-  "archive_entries": 353,
+  "checked_at_utc": "2026-11-02 13:32 UTC",
+  "checked_at_ist": "02 Nov 2026, 07:02 PM IST",
+  "archive_entries": 354,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "Driving licence renewal on Sarathi: steps, forms and what happens if it expired",
-      "url": "https://aicon-hub.github.io/posts/driving-licence-renewal-online-sarathi-parivahan-expired-licence-guide.html"
+      "title": "Selling or buying a vehicle: transfer of ownership on Vahan, Form 29 and Form 30",
+      "url": "https://aicon-hub.github.io/posts/vehicle-ownership-transfer-online-vahan-form-29-30-sell-buy-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-11-02",
-        "count": 116
+        "count": 127
       }
     ],
     "commits": [
       {
-        "sha": "10d99e5dc107db013111fbf324bcc52656e50f7f",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/10d99e5dc107db013111fbf324bcc52656e50f7f",
-        "date_utc": "02 Nov 2026, 11:51 UTC",
+        "sha": "34bf2f41893d35a505baca0afb4c0ed38e46efac",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/34bf2f41893d35a505baca0afb4c0ed38e46efac",
+        "date_utc": "02 Nov 2026, 13:11 UTC",
         "day": "2026-11-02",
-        "title": "NMMSS facts table follows NSP card dates"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "ed23dddb227e5761e64f2cc958d1a0e2030c5980",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ed23dddb227e5761e64f2cc958d1a0e2030c5980",
-        "date_utc": "02 Nov 2026, 11:49 UTC",
+        "sha": "996a865aed9cc46b0a250f792c33c1db15cfac57",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/996a865aed9cc46b0a250f792c33c1db15cfac57",
+        "date_utc": "02 Nov 2026, 13:11 UTC",
         "day": "2026-11-02",
-        "title": "Sitemap lastmod for NSP date updates"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "aab20827606da1003eff60950de950fc3a620b62",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/aab20827606da1003eff60950de950fc3a620b62",
-        "date_utc": "02 Nov 2026, 11:48 UTC",
+        "sha": "089af1e0af7f97e714a19e25c0acf1726c9acd05",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/089af1e0af7f97e714a19e25c0acf1726c9acd05",
+        "date_utc": "02 Nov 2026, 13:11 UTC",
         "day": "2026-11-02",
-        "title": "Update print statement from 'Hello' to 'Goodbye'"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "d03cecd4be856bc893b211024228b2352986c9aa",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d03cecd4be856bc893b211024228b2352986c9aa",
-        "date_utc": "02 Nov 2026, 11:48 UTC",
+        "sha": "6fc69a8dd9be21224df8584b87d5fc7ef0595ff6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6fc69a8dd9be21224df8584b87d5fc7ef0595ff6",
+        "date_utc": "02 Nov 2026, 13:09 UTC",
         "day": "2026-11-02",
-        "title": "Update scholarship cards for NSP date changes (2 Nov)"
+        "title": "Update styles for post figure layout"
       },
       {
-        "sha": "b1898146a21388b84f8f7642ff47560f3f00760e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b1898146a21388b84f8f7642ff47560f3f00760e",
-        "date_utc": "02 Nov 2026, 11:48 UTC",
+        "sha": "2c6f3a2c14f21c9bfcea0cc3da2d10da1be8d4dd",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2c6f3a2c14f21c9bfcea0cc3da2d10da1be8d4dd",
+        "date_utc": "02 Nov 2026, 13:07 UTC",
         "day": "2026-11-02",
-        "title": "Update scholarship cards for NSP date changes (2 Nov)"
+        "title": "Registry vehicle-ownership-transfer-online-vahan-form-29-30-sell-buy-guide"
       }
     ],
-    "commit_total": 2538,
+    "commit_total": 2549,
     "calendar": [
       {
         "date": "2026-08-04",
@@ -585,7 +585,7 @@
       {
         "date": "2026-11-02",
         "level": 1,
-        "count": 89
+        "count": 96
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
