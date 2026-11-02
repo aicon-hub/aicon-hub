@@ -1,7 +1,7 @@
 {
-  "checked_at_utc": "2026-11-02 04:20 UTC",
-  "checked_at_ist": "02 Nov 2026, 09:50 AM IST",
-  "archive_entries": 346,
+  "checked_at_utc": "2026-11-02 05:24 UTC",
+  "checked_at_ist": "02 Nov 2026, 10:54 AM IST",
+  "archive_entries": 351,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
@@ -23,8 +23,8 @@
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     },
     {
-      "title": "EGM (Elephant-Goldfish Model): Google's free plugin that makes AI coding agents design first",
-      "url": "https://aicon-hub.github.io/posts/egm-elephant-goldfish-model-google-open-source-spec-driven-development-plugin-guide.html"
+      "title": "KSRTC student concession card: how to register or renew online in Kerala",
+      "url": "https://aicon-hub.github.io/posts/kerala-ksrtc-student-concession-card-online-registration-renewal-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-11-02",
-        "count": 0
+        "count": 54
       }
     ],
     "commits": [
       {
-        "sha": "0323942cefd8b861c2a23a318c13092abb1942d2",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0323942cefd8b861c2a23a318c13092abb1942d2",
-        "date_utc": "31 Oct 2026, 16:33 UTC",
-        "day": "2026-10-31",
-        "title": "EGM: fix check box spacing"
+        "sha": "9094e17f8bf815c01e9aa76d6978e33a74a1c119",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9094e17f8bf815c01e9aa76d6978e33a74a1c119",
+        "date_utc": "02 Nov 2026, 05:15 UTC",
+        "day": "2026-11-02",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "e69da5602a07c5f69ca40de8f4531cd294465785",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e69da5602a07c5f69ca40de8f4531cd294465785",
-        "date_utc": "31 Oct 2026, 16:30 UTC",
-        "day": "2026-10-31",
-        "title": "Registry egm-guide"
+        "sha": "094d982c38dd8d3ed678779ccb595c03ae077e78",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/094d982c38dd8d3ed678779ccb595c03ae077e78",
+        "date_utc": "02 Nov 2026, 05:15 UTC",
+        "day": "2026-11-02",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "52f7427adaa18263a24522bacf17f48aa5a16fb8",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/52f7427adaa18263a24522bacf17f48aa5a16fb8",
-        "date_utc": "31 Oct 2026, 16:29 UTC",
-        "day": "2026-10-31",
-        "title": "Sitemap egm-guide"
+        "sha": "e3020e2fffec4de38d80da35e744a56c34ea30f0",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e3020e2fffec4de38d80da35e744a56c34ea30f0",
+        "date_utc": "02 Nov 2026, 05:15 UTC",
+        "day": "2026-11-02",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "900d379421c13493509b28217ef6a9fae768a25e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/900d379421c13493509b28217ef6a9fae768a25e",
-        "date_utc": "31 Oct 2026, 16:29 UTC",
-        "day": "2026-10-31",
-        "title": "Index egm-guide"
+        "sha": "8f3bf5fde5026ec96878fa96d489604dbd453cf7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8f3bf5fde5026ec96878fa96d489604dbd453cf7",
+        "date_utc": "02 Nov 2026, 05:14 UTC",
+        "day": "2026-11-02",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "fb86dcc5f158f5dde44d3208bb59acaf3be818c0",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fb86dcc5f158f5dde44d3208bb59acaf3be818c0",
-        "date_utc": "31 Oct 2026, 16:29 UTC",
-        "day": "2026-10-31",
-        "title": "Add EGM guide"
+        "sha": "b4ffd579a407e8da57aca60dddf676ef93ad69fc",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b4ffd579a407e8da57aca60dddf676ef93ad69fc",
+        "date_utc": "02 Nov 2026, 05:14 UTC",
+        "day": "2026-11-02",
+        "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 2422,
+    "commit_total": 2476,
     "calendar": [
       {
         "date": "2026-08-04",
@@ -584,8 +584,8 @@
       },
       {
         "date": "2026-11-02",
-        "level": 0,
-        "count": 0
+        "level": 1,
+        "count": 36
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
