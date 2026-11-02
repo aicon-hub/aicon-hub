@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **02 Nov 2026, 07:02 PM IST** (2026-11-02 13:32 UTC).
+Checked **02 Nov 2026, 08:44 PM IST** (2026-11-02 15:14 UTC).
 
 **354 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **02 Nov 2026, 07:02 PM IST** (2026-11-02 13:32 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2549 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2550 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
+- [`e3e96bf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e3e96bf715472a8eb45ed12f738b07407735d807) · 02 Nov 2026, 13:32 UTC · PM YASASVI School: meta descriptions to 15 November, announcements note
 - [`34bf2f4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/34bf2f41893d35a505baca0afb4c0ed38e46efac) · 02 Nov 2026, 13:11 UTC · Record Telegram publishing state
 - [`996a865`](https://github.com/aicon-hub/aicon-hub.github.io/commit/996a865aed9cc46b0a250f792c33c1db15cfac57) · 02 Nov 2026, 13:11 UTC · Record Telegram publishing state
 - [`089af1e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/089af1e0af7f97e714a19e25c0acf1726c9acd05) · 02 Nov 2026, 13:11 UTC · Record Telegram publishing state
 - [`6fc69a8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6fc69a8dd9be21224df8584b87d5fc7ef0595ff6) · 02 Nov 2026, 13:09 UTC · Update styles for post figure layout
-- [`2c6f3a2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2c6f3a2c14f21c9bfcea0cc3da2d10da1be8d4dd) · 02 Nov 2026, 13:07 UTC · Registry vehicle-ownership-transfer-online-vahan-form-29-30-sell-buy-guide
 <!-- AICON:COMMITS:END -->
 
 </details>
