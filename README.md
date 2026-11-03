@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **03 Nov 2026, 01:07 PM IST** (2026-11-03 07:37 UTC).
+Checked **03 Nov 2026, 02:41 PM IST** (2026-11-03 09:11 UTC).
 
 **355 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **03 Nov 2026, 01:07 PM IST** (2026-11-03 07:37 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2399 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2401 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
+- [`4285b14`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4285b14cc539a6dc7c3124c8ace3f1731a2d92d0) · 03 Nov 2026, 08:33 UTC · Sitemap lastmod FSSAI guide
+- [`26b1681`](https://github.com/aicon-hub/aicon-hub.github.io/commit/26b1681588a2177cd2994e3dc327a8d71ce503dc) · 03 Nov 2026, 08:33 UTC · FSSAI guide: helpline hours rechecked 3 November
 - [`b3a1894`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b3a1894d9628be2760ef2b12c2536200105f31ac) · 03 Nov 2026, 05:23 UTC · Record Telegram publishing state
 - [`a69ebfe`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a69ebfe8f8bf1604c82c8c8028d5b21516040bfe) · 03 Nov 2026, 05:23 UTC · Record Telegram publishing state
 - [`1545140`](https://github.com/aicon-hub/aicon-hub.github.io/commit/154514061050e4d3baf42e370d4a8a95a2ad6999) · 03 Nov 2026, 05:23 UTC · Record Telegram publishing state
-- [`25fab21`](https://github.com/aicon-hub/aicon-hub.github.io/commit/25fab21424d0e7c393c63d01cb1b5e29668b9aad) · 03 Nov 2026, 05:20 UTC · Add house figure CSS to Filee guide
-- [`a4357a4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a4357a4be41f85159aa1c17365432028bcfae645) · 03 Nov 2026, 05:19 UTC · Registry filee-free-offline-file-converter-vert-converseen-handbrake-guide
 <!-- AICON:COMMITS:END -->
 
 </details>
