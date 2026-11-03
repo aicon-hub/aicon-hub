@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **03 Nov 2026, 06:58 AM IST** (2026-11-03 01:28 UTC).
+Checked **03 Nov 2026, 08:40 AM IST** (2026-11-03 03:10 UTC).
 
 **354 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **03 Nov 2026, 06:58 AM IST** (2026-11-03 01:28 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2380 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2388 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`353d09e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/353d09e8e3534ff3f3ece76a48b8cd8aaa891a4d) · 03 Nov 2026, 01:18 UTC · Record Telegram publishing state
-- [`eccde1a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/eccde1afa8e485533ad1dfe00723d673ca2674d4) · 03 Nov 2026, 01:18 UTC · Record Telegram publishing state
-- [`c05c123`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c05c12366ca9be6e2e00bfd8905113db25d6fdb9) · 03 Nov 2026, 01:18 UTC · Record Telegram publishing state
-- [`fdaa1bb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fdaa1bbed861f69161b15f2febfc15edebdaf9f5) · 03 Nov 2026, 01:17 UTC · Add telegram-poster-exa-api-credits.png.b64
-- [`e3e96bf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e3e96bf715472a8eb45ed12f738b07407735d807) · 02 Nov 2026, 13:32 UTC · PM YASASVI School: meta descriptions to 15 November, announcements note
+- [`450393f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/450393f6d388e506adf6b74f1a65043b3685428c) · 03 Nov 2026, 01:40 UTC · Record Telegram publishing state
+- [`f2bfc89`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f2bfc89b0aea957b414c6f568c5ae20a4f404710) · 03 Nov 2026, 01:40 UTC · Record Telegram publishing state
+- [`af70064`](https://github.com/aicon-hub/aicon-hub.github.io/commit/af70064c3e0ab18cc16d1c60ec863feb0425ae48) · 03 Nov 2026, 01:40 UTC · Record Telegram publishing state
+- [`fa00e5f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fa00e5fa36e8a0a6bd7ad02b763e9fa55a277e91) · 03 Nov 2026, 01:39 UTC · Add telegram-poster-sdef-deadline-correction.png.b64
+- [`438e5c7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/438e5c7e6b63946d20e9de0cbb5907849c61ad0b) · 03 Nov 2026, 01:36 UTC · SDEF card: 30 November
 <!-- AICON:COMMITS:END -->
 
 </details>
