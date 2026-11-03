@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **03 Nov 2026, 05:23 AM IST** (2026-11-02 23:53 UTC).
+Checked **03 Nov 2026, 06:58 AM IST** (2026-11-03 01:28 UTC).
 
 **354 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **03 Nov 2026, 05:23 AM IST** (2026-11-02 23:53 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2550 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2380 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
+- [`353d09e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/353d09e8e3534ff3f3ece76a48b8cd8aaa891a4d) · 03 Nov 2026, 01:18 UTC · Record Telegram publishing state
+- [`eccde1a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/eccde1afa8e485533ad1dfe00723d673ca2674d4) · 03 Nov 2026, 01:18 UTC · Record Telegram publishing state
+- [`c05c123`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c05c12366ca9be6e2e00bfd8905113db25d6fdb9) · 03 Nov 2026, 01:18 UTC · Record Telegram publishing state
+- [`fdaa1bb`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fdaa1bbed861f69161b15f2febfc15edebdaf9f5) · 03 Nov 2026, 01:17 UTC · Add telegram-poster-exa-api-credits.png.b64
 - [`e3e96bf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e3e96bf715472a8eb45ed12f738b07407735d807) · 02 Nov 2026, 13:32 UTC · PM YASASVI School: meta descriptions to 15 November, announcements note
-- [`34bf2f4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/34bf2f41893d35a505baca0afb4c0ed38e46efac) · 02 Nov 2026, 13:11 UTC · Record Telegram publishing state
-- [`996a865`](https://github.com/aicon-hub/aicon-hub.github.io/commit/996a865aed9cc46b0a250f792c33c1db15cfac57) · 02 Nov 2026, 13:11 UTC · Record Telegram publishing state
-- [`089af1e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/089af1e0af7f97e714a19e25c0acf1726c9acd05) · 02 Nov 2026, 13:11 UTC · Record Telegram publishing state
-- [`6fc69a8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6fc69a8dd9be21224df8584b87d5fc7ef0595ff6) · 02 Nov 2026, 13:09 UTC · Update styles for post figure layout
 <!-- AICON:COMMITS:END -->
 
 </details>
