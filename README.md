@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **03 Nov 2026, 09:44 PM IST** (2026-11-03 16:14 UTC).
+Checked **03 Nov 2026, 10:47 PM IST** (2026-11-03 17:17 UTC).
 
 **355 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **03 Nov 2026, 09:44 PM IST** (2026-11-03 16:14 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2417 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2424 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`1fdb037`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1fdb037aaa391e5d2fd9ce769e2745a45d400cb4) · 03 Nov 2026, 16:08 UTC · Malayalam version of JEE Main 2027 Session 1 guide
-- [`ac65e71`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ac65e7195f182e3c47c2cbc3b23dd14bf193b1d9) · 03 Nov 2026, 16:08 UTC · Language toggle script (first-party, no tracking)
-- [`57241d7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/57241d76f035bcb575f8810b0355f91fab52ab94) · 03 Nov 2026, 16:08 UTC · Language toggle styles (first-party)
-- [`acbba06`](https://github.com/aicon-hub/aicon-hub.github.io/commit/acbba0628ab0263f642d6b4620c030f4534c92c5) · 03 Nov 2026, 15:49 UTC · Preview: full Malayalam translation of sample page
-- [`180939c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/180939c0ff9caff7e134ea2928b2b3ccf402e907) · 03 Nov 2026, 15:39 UTC · Preview: ml page lang and self-canonical
+- [`10f3515`](https://github.com/aicon-hub/aicon-hub.github.io/commit/10f3515ad3d9db6780e176d66f29639bdc03a739) · 03 Nov 2026, 16:20 UTC · Add official publisher image (mathigon)
+- [`55e816c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/55e816cc353cf0cc417b12081ae99f98c224ff7d) · 03 Nov 2026, 16:20 UTC · Add official publisher image (kolibri)
+- [`2d48405`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2d48405e86c922e528c1ab414fd86c9fc6aa60eb) · 03 Nov 2026, 16:20 UTC · Add official publisher image (photopea)
+- [`56eac3b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/56eac3b6431aeb66cc4799b92ad49c4eeb9e6b45) · 03 Nov 2026, 16:17 UTC · Larger tool logos on archive cards
+- [`1569490`](https://github.com/aicon-hub/aicon-hub.github.io/commit/15694906e6f9e8586881ef8b0cc0352970d6eb7e) · 03 Nov 2026, 16:17 UTC · Centre article images and videos
 <!-- AICON:COMMITS:END -->
 
 </details>

@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-11-03 16:14 UTC",
-  "checked_at_ist": "03 Nov 2026, 09:44 PM IST",
+  "checked_at_utc": "2026-11-03 17:17 UTC",
+  "checked_at_ist": "03 Nov 2026, 10:47 PM IST",
   "archive_entries": 355,
   "homepage_status": 200,
   "stars": 1,
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-11-03",
-        "count": 41
+        "count": 48
       }
     ],
     "commits": [
       {
-        "sha": "1fdb037aaa391e5d2fd9ce769e2745a45d400cb4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1fdb037aaa391e5d2fd9ce769e2745a45d400cb4",
-        "date_utc": "03 Nov 2026, 16:08 UTC",
+        "sha": "10f3515ad3d9db6780e176d66f29639bdc03a739",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/10f3515ad3d9db6780e176d66f29639bdc03a739",
+        "date_utc": "03 Nov 2026, 16:20 UTC",
         "day": "2026-11-03",
-        "title": "Malayalam version of JEE Main 2027 Session 1 guide"
+        "title": "Add official publisher image (mathigon)"
       },
       {
-        "sha": "ac65e7195f182e3c47c2cbc3b23dd14bf193b1d9",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ac65e7195f182e3c47c2cbc3b23dd14bf193b1d9",
-        "date_utc": "03 Nov 2026, 16:08 UTC",
+        "sha": "55e816cc353cf0cc417b12081ae99f98c224ff7d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/55e816cc353cf0cc417b12081ae99f98c224ff7d",
+        "date_utc": "03 Nov 2026, 16:20 UTC",
         "day": "2026-11-03",
-        "title": "Language toggle script (first-party, no tracking)"
+        "title": "Add official publisher image (kolibri)"
       },
       {
-        "sha": "57241d76f035bcb575f8810b0355f91fab52ab94",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/57241d76f035bcb575f8810b0355f91fab52ab94",
-        "date_utc": "03 Nov 2026, 16:08 UTC",
+        "sha": "2d48405e86c922e528c1ab414fd86c9fc6aa60eb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2d48405e86c922e528c1ab414fd86c9fc6aa60eb",
+        "date_utc": "03 Nov 2026, 16:20 UTC",
         "day": "2026-11-03",
-        "title": "Language toggle styles (first-party)"
+        "title": "Add official publisher image (photopea)"
       },
       {
-        "sha": "acbba0628ab0263f642d6b4620c030f4534c92c5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/acbba0628ab0263f642d6b4620c030f4534c92c5",
-        "date_utc": "03 Nov 2026, 15:49 UTC",
+        "sha": "56eac3b6431aeb66cc4799b92ad49c4eeb9e6b45",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/56eac3b6431aeb66cc4799b92ad49c4eeb9e6b45",
+        "date_utc": "03 Nov 2026, 16:17 UTC",
         "day": "2026-11-03",
-        "title": "Preview: full Malayalam translation of sample page"
+        "title": "Larger tool logos on archive cards"
       },
       {
-        "sha": "180939c0ff9caff7e134ea2928b2b3ccf402e907",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/180939c0ff9caff7e134ea2928b2b3ccf402e907",
-        "date_utc": "03 Nov 2026, 15:39 UTC",
+        "sha": "15694906e6f9e8586881ef8b0cc0352970d6eb7e",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/15694906e6f9e8586881ef8b0cc0352970d6eb7e",
+        "date_utc": "03 Nov 2026, 16:17 UTC",
         "day": "2026-11-03",
-        "title": "Preview: ml page lang and self-canonical"
+        "title": "Centre article images and videos"
       }
     ],
-    "commit_total": 2417,
+    "commit_total": 2424,
     "calendar": [
       {
         "date": "2026-08-05",
@@ -585,7 +585,7 @@
       {
         "date": "2026-11-03",
         "level": 1,
-        "count": 19
+        "count": 21
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
