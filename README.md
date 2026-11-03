@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **03 Nov 2026, 10:46 AM IST** (2026-11-03 05:16 UTC).
+Checked **03 Nov 2026, 11:43 AM IST** (2026-11-03 06:13 UTC).
 
-**354 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**355 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **03 Nov 2026, 10:46 AM IST** (2026-11-03 05:16 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2388 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2399 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`450393f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/450393f6d388e506adf6b74f1a65043b3685428c) · 03 Nov 2026, 01:40 UTC · Record Telegram publishing state
-- [`f2bfc89`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f2bfc89b0aea957b414c6f568c5ae20a4f404710) · 03 Nov 2026, 01:40 UTC · Record Telegram publishing state
-- [`af70064`](https://github.com/aicon-hub/aicon-hub.github.io/commit/af70064c3e0ab18cc16d1c60ec863feb0425ae48) · 03 Nov 2026, 01:40 UTC · Record Telegram publishing state
-- [`fa00e5f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fa00e5fa36e8a0a6bd7ad02b763e9fa55a277e91) · 03 Nov 2026, 01:39 UTC · Add telegram-poster-sdef-deadline-correction.png.b64
-- [`438e5c7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/438e5c7e6b63946d20e9de0cbb5907849c61ad0b) · 03 Nov 2026, 01:36 UTC · SDEF card: 30 November
+- [`b3a1894`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b3a1894d9628be2760ef2b12c2536200105f31ac) · 03 Nov 2026, 05:23 UTC · Record Telegram publishing state
+- [`a69ebfe`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a69ebfe8f8bf1604c82c8c8028d5b21516040bfe) · 03 Nov 2026, 05:23 UTC · Record Telegram publishing state
+- [`1545140`](https://github.com/aicon-hub/aicon-hub.github.io/commit/154514061050e4d3baf42e370d4a8a95a2ad6999) · 03 Nov 2026, 05:23 UTC · Record Telegram publishing state
+- [`25fab21`](https://github.com/aicon-hub/aicon-hub.github.io/commit/25fab21424d0e7c393c63d01cb1b5e29668b9aad) · 03 Nov 2026, 05:20 UTC · Add house figure CSS to Filee guide
+- [`a4357a4`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a4357a4be41f85159aa1c17365432028bcfae645) · 03 Nov 2026, 05:19 UTC · Registry filee-free-offline-file-converter-vert-converseen-handbrake-guide
 <!-- AICON:COMMITS:END -->
 
 </details>
