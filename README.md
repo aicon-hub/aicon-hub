@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **03 Nov 2026, 08:38 PM IST** (2026-11-03 15:08 UTC).
+Checked **03 Nov 2026, 09:44 PM IST** (2026-11-03 16:14 UTC).
 
 **355 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **03 Nov 2026, 08:38 PM IST** (2026-11-03 15:08 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2401 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2417 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`4285b14`](https://github.com/aicon-hub/aicon-hub.github.io/commit/4285b14cc539a6dc7c3124c8ace3f1731a2d92d0) · 03 Nov 2026, 08:33 UTC · Sitemap lastmod FSSAI guide
-- [`26b1681`](https://github.com/aicon-hub/aicon-hub.github.io/commit/26b1681588a2177cd2994e3dc327a8d71ce503dc) · 03 Nov 2026, 08:33 UTC · FSSAI guide: helpline hours rechecked 3 November
-- [`b3a1894`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b3a1894d9628be2760ef2b12c2536200105f31ac) · 03 Nov 2026, 05:23 UTC · Record Telegram publishing state
-- [`a69ebfe`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a69ebfe8f8bf1604c82c8c8028d5b21516040bfe) · 03 Nov 2026, 05:23 UTC · Record Telegram publishing state
-- [`1545140`](https://github.com/aicon-hub/aicon-hub.github.io/commit/154514061050e4d3baf42e370d4a8a95a2ad6999) · 03 Nov 2026, 05:23 UTC · Record Telegram publishing state
+- [`1fdb037`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1fdb037aaa391e5d2fd9ce769e2745a45d400cb4) · 03 Nov 2026, 16:08 UTC · Malayalam version of JEE Main 2027 Session 1 guide
+- [`ac65e71`](https://github.com/aicon-hub/aicon-hub.github.io/commit/ac65e7195f182e3c47c2cbc3b23dd14bf193b1d9) · 03 Nov 2026, 16:08 UTC · Language toggle script (first-party, no tracking)
+- [`57241d7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/57241d76f035bcb575f8810b0355f91fab52ab94) · 03 Nov 2026, 16:08 UTC · Language toggle styles (first-party)
+- [`acbba06`](https://github.com/aicon-hub/aicon-hub.github.io/commit/acbba0628ab0263f642d6b4620c030f4534c92c5) · 03 Nov 2026, 15:49 UTC · Preview: full Malayalam translation of sample page
+- [`180939c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/180939c0ff9caff7e134ea2928b2b3ccf402e907) · 03 Nov 2026, 15:39 UTC · Preview: ml page lang and self-canonical
 <!-- AICON:COMMITS:END -->
 
 </details>
