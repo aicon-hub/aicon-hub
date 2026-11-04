@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **04 Nov 2026, 03:57 PM IST** (2026-11-04 10:27 UTC).
+Checked **04 Nov 2026, 05:38 PM IST** (2026-11-04 12:08 UTC).
 
 **356 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **04 Nov 2026, 03:57 PM IST** (2026-11-04 10:27 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2279 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2281 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
+- [`15e5381`](https://github.com/aicon-hub/aicon-hub.github.io/commit/15e5381515349907de99b996e0f997c9a9c3f670) · 04 Nov 2026, 11:29 UTC · Extend reader dispatch retries for GitHub server errors
+- [`45a9d2f`](https://github.com/aicon-hub/aicon-hub.github.io/commit/45a9d2f2c9cdc1d8572d74a121e1531c54b7a3ac) · 04 Nov 2026, 10:58 UTC · Retry reader successor dispatch after transient errors
 - [`7e38dcc`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7e38dcc96353f83c583833e4d460363aff90f7ca) · 04 Nov 2026, 03:51 UTC · Record Telegram publishing state
 - [`0205eb6`](https://github.com/aicon-hub/aicon-hub.github.io/commit/0205eb6d04092bef871db0baf0c00fbf62b3a7d4) · 04 Nov 2026, 03:51 UTC · Record Telegram publishing state
 - [`fa5a45e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/fa5a45e30e402ae27ac7f9c7a011fe23e8a625fb) · 04 Nov 2026, 03:51 UTC · Record Telegram publishing state
-- [`a9db3a8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a9db3a82d5368207bcbe0f2f00da021edf332c53) · 04 Nov 2026, 03:44 UTC · Update print statement from 'Hello' to 'Goodbye'
-- [`c8b1a60`](https://github.com/aicon-hub/aicon-hub.github.io/commit/c8b1a60cc035a1f807dcb0dd7b78d5fe4d3f725f) · 04 Nov 2026, 03:43 UTC · Registry rrb-station-master
 <!-- AICON:COMMITS:END -->
 
 </details>
