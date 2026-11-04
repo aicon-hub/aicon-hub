@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **04 Nov 2026, 06:58 AM IST** (2026-11-04 01:28 UTC).
+Checked **04 Nov 2026, 08:40 AM IST** (2026-11-04 03:10 UTC).
 
 **355 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **04 Nov 2026, 06:58 AM IST** (2026-11-04 01:28 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2253 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2266 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`791b681`](https://github.com/aicon-hub/aicon-hub.github.io/commit/791b68133279e5423568abd05fbfb631cfbff3a2) · 03 Nov 2026, 19:17 UTC · Shorten reader window to leave checkout and chaining headroom
-- [`10f3515`](https://github.com/aicon-hub/aicon-hub.github.io/commit/10f3515ad3d9db6780e176d66f29639bdc03a739) · 03 Nov 2026, 16:20 UTC · Add official publisher image (mathigon)
-- [`55e816c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/55e816cc353cf0cc417b12081ae99f98c224ff7d) · 03 Nov 2026, 16:20 UTC · Add official publisher image (kolibri)
-- [`2d48405`](https://github.com/aicon-hub/aicon-hub.github.io/commit/2d48405e86c922e528c1ab414fd86c9fc6aa60eb) · 03 Nov 2026, 16:20 UTC · Add official publisher image (photopea)
-- [`56eac3b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/56eac3b6431aeb66cc4799b92ad49c4eeb9e6b45) · 03 Nov 2026, 16:17 UTC · Larger tool logos on archive cards
+- [`70f0750`](https://github.com/aicon-hub/aicon-hub.github.io/commit/70f0750f7dc14fa3bb8dc047ac37ffa8e701d7c3) · 04 Nov 2026, 03:04 UTC · Preview: Malayalam header spacing
+- [`a455fe3`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a455fe3a285558578c9d1574ec0af0dce57e3790) · 04 Nov 2026, 03:04 UTC · Preview: home intro string
+- [`cb2a335`](https://github.com/aicon-hub/aicon-hub.github.io/commit/cb2a335207c8d8ae4320a326889e7faf184c7d9c) · 04 Nov 2026, 03:01 UTC · Preview: fix Malayalam string precedence, home headline
+- [`eb24760`](https://github.com/aicon-hub/aicon-hub.github.io/commit/eb247606c5fee8fe7d115d0e52ae28a4ce97a9e7) · 04 Nov 2026, 02:59 UTC · Preview: language toggle styles tweak
+- [`299d0cf`](https://github.com/aicon-hub/aicon-hub.github.io/commit/299d0cff93309eba8d286cf934c5177f7d8d8de1) · 04 Nov 2026, 02:59 UTC · Preview: home and site UI strings in Malayalam
 <!-- AICON:COMMITS:END -->
 
 </details>
