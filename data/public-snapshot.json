@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-11-04 03:10 UTC",
-  "checked_at_ist": "04 Nov 2026, 08:40 AM IST",
-  "archive_entries": 355,
+  "checked_at_utc": "2026-11-04 04:17 UTC",
+  "checked_at_ist": "04 Nov 2026, 09:47 AM IST",
+  "archive_entries": 356,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "RRB Station Master 2026: 1,265 posts for graduates, apply till 25 November",
+      "url": "https://aicon-hub.github.io/posts/rrb-station-master-cen-08-2026-1265-posts-graduates-apply-by-25-november-guide.html"
+    },
     {
       "title": "Google Pomelli: AI social posts built from your business website",
       "url": "https://aicon-hub.github.io/posts/google-pomelli-ai-social-posts-from-business-website-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "Gruhasree-2026: ₹3 lakh Kerala subsidy to build a house on your own land",
       "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
-    },
-    {
-      "title": "Filee: free offline file converter you drag files onto (not tested)",
-      "url": "https://aicon-hub.github.io/posts/filee-free-offline-file-converter-vert-converseen-handbrake-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-11-04",
-        "count": 13
+        "count": 26
       }
     ],
     "commits": [
       {
-        "sha": "70f0750f7dc14fa3bb8dc047ac37ffa8e701d7c3",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/70f0750f7dc14fa3bb8dc047ac37ffa8e701d7c3",
-        "date_utc": "04 Nov 2026, 03:04 UTC",
+        "sha": "7e38dcc96353f83c583833e4d460363aff90f7ca",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e38dcc96353f83c583833e4d460363aff90f7ca",
+        "date_utc": "04 Nov 2026, 03:51 UTC",
         "day": "2026-11-04",
-        "title": "Preview: Malayalam header spacing"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "a455fe3a285558578c9d1574ec0af0dce57e3790",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a455fe3a285558578c9d1574ec0af0dce57e3790",
-        "date_utc": "04 Nov 2026, 03:04 UTC",
+        "sha": "0205eb6d04092bef871db0baf0c00fbf62b3a7d4",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0205eb6d04092bef871db0baf0c00fbf62b3a7d4",
+        "date_utc": "04 Nov 2026, 03:51 UTC",
         "day": "2026-11-04",
-        "title": "Preview: home intro string"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "cb2a335207c8d8ae4320a326889e7faf184c7d9c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cb2a335207c8d8ae4320a326889e7faf184c7d9c",
-        "date_utc": "04 Nov 2026, 03:01 UTC",
+        "sha": "fa5a45e30e402ae27ac7f9c7a011fe23e8a625fb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fa5a45e30e402ae27ac7f9c7a011fe23e8a625fb",
+        "date_utc": "04 Nov 2026, 03:51 UTC",
         "day": "2026-11-04",
-        "title": "Preview: fix Malayalam string precedence, home headline"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "eb247606c5fee8fe7d115d0e52ae28a4ce97a9e7",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/eb247606c5fee8fe7d115d0e52ae28a4ce97a9e7",
-        "date_utc": "04 Nov 2026, 02:59 UTC",
+        "sha": "a9db3a82d5368207bcbe0f2f00da021edf332c53",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a9db3a82d5368207bcbe0f2f00da021edf332c53",
+        "date_utc": "04 Nov 2026, 03:44 UTC",
         "day": "2026-11-04",
-        "title": "Preview: language toggle styles tweak"
+        "title": "Update print statement from 'Hello' to 'Goodbye'"
       },
       {
-        "sha": "299d0cff93309eba8d286cf934c5177f7d8d8de1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/299d0cff93309eba8d286cf934c5177f7d8d8de1",
-        "date_utc": "04 Nov 2026, 02:59 UTC",
+        "sha": "c8b1a60cc035a1f807dcb0dd7b78d5fe4d3f725f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c8b1a60cc035a1f807dcb0dd7b78d5fe4d3f725f",
+        "date_utc": "04 Nov 2026, 03:43 UTC",
         "day": "2026-11-04",
-        "title": "Preview: home and site UI strings in Malayalam"
+        "title": "Registry rrb-station-master"
       }
     ],
-    "commit_total": 2266,
+    "commit_total": 2279,
     "calendar": [
       {
         "date": "2026-08-06",
@@ -585,7 +585,7 @@
       {
         "date": "2026-11-04",
         "level": 1,
-        "count": 14
+        "count": 24
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
