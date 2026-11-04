@@ -1,11 +1,23 @@
 {
-  "checked_at_utc": "2026-11-04 22:06 UTC",
-  "checked_at_ist": "05 Nov 2026, 03:36 AM IST",
-  "archive_entries": 356,
+  "checked_at_utc": "2026-11-04 23:04 UTC",
+  "checked_at_ist": "05 Nov 2026, 04:34 AM IST",
+  "archive_entries": 359,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "HackerTube: free YouTube-style site of talks Hacker News recommends",
+      "url": "https://aicon-hub.github.io/posts/hackertube-free-youtube-talks-hacker-news-recommends-no-account-guide.html"
+    },
+    {
+      "title": "BRIC-RGCB PhD admission, January 2027: apply by 8 November",
+      "url": "https://aicon-hub.github.io/posts/rgcb-phd-admission-january-2027-thiruvananthapuram-apply-by-8-november-guide.html"
+    },
+    {
+      "title": "Kerala minority overseas scholarship 2026-27: up to ₹10 lakh, apply by 30 November",
+      "url": "https://aicon-hub.github.io/posts/kerala-minority-overseas-scholarship-2026-27-pg-phd-abroad-up-to-10-lakh-apply-by-30-november-guide.html"
+    },
     {
       "title": "RRB Station Master 2026: 1,265 posts for graduates, apply till 25 November",
       "url": "https://aicon-hub.github.io/posts/rrb-station-master-cen-08-2026-1265-posts-graduates-apply-by-25-november-guide.html"
@@ -13,18 +25,6 @@
     {
       "title": "Google Pomelli: AI social posts built from your business website",
       "url": "https://aicon-hub.github.io/posts/google-pomelli-ai-social-posts-from-business-website-guide.html"
-    },
-    {
-      "title": "Google Stitch: AI that designs app screens from a prompt",
-      "url": "https://aicon-hub.github.io/posts/google-stitch-free-ai-app-ui-design-tool-guide.html"
-    },
-    {
-      "title": "Ensu: a free AI chat app that runs on your device, with no account",
-      "url": "https://aicon-hub.github.io/posts/ensu-ente-free-offline-ai-chat-app-no-account-guide.html"
-    },
-    {
-      "title": "Gruhasree-2026: ₹3 lakh Kerala subsidy to build a house on your own land",
-      "url": "https://aicon-hub.github.io/posts/kerala-gruhasree-2026-housing-subsidy-apply-by-21-november-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-11-04",
-        "count": 28
+        "count": 58
       }
     ],
     "commits": [
       {
-        "sha": "15e5381515349907de99b996e0f997c9a9c3f670",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/15e5381515349907de99b996e0f997c9a9c3f670",
-        "date_utc": "04 Nov 2026, 11:29 UTC",
-        "day": "2026-11-04",
-        "title": "Extend reader dispatch retries for GitHub server errors"
-      },
-      {
-        "sha": "45a9d2f2c9cdc1d8572d74a121e1531c54b7a3ac",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/45a9d2f2c9cdc1d8572d74a121e1531c54b7a3ac",
-        "date_utc": "04 Nov 2026, 10:58 UTC",
-        "day": "2026-11-04",
-        "title": "Retry reader successor dispatch after transient errors"
-      },
-      {
-        "sha": "7e38dcc96353f83c583833e4d460363aff90f7ca",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7e38dcc96353f83c583833e4d460363aff90f7ca",
-        "date_utc": "04 Nov 2026, 03:51 UTC",
+        "sha": "2a871762beb7623ddce9645898b3797d8bc332f5",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2a871762beb7623ddce9645898b3797d8bc332f5",
+        "date_utc": "04 Nov 2026, 22:46 UTC",
         "day": "2026-11-04",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "0205eb6d04092bef871db0baf0c00fbf62b3a7d4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0205eb6d04092bef871db0baf0c00fbf62b3a7d4",
-        "date_utc": "04 Nov 2026, 03:51 UTC",
+        "sha": "725f9f9a20c6a3aae097c304b19bfd829438fc60",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/725f9f9a20c6a3aae097c304b19bfd829438fc60",
+        "date_utc": "04 Nov 2026, 22:46 UTC",
         "day": "2026-11-04",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "fa5a45e30e402ae27ac7f9c7a011fe23e8a625fb",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/fa5a45e30e402ae27ac7f9c7a011fe23e8a625fb",
-        "date_utc": "04 Nov 2026, 03:51 UTC",
+        "sha": "c51ffbb62e8e4bb35ff9788b23b30c158df0b9b1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c51ffbb62e8e4bb35ff9788b23b30c158df0b9b1",
+        "date_utc": "04 Nov 2026, 22:46 UTC",
+        "day": "2026-11-04",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "0129868ce20bcd19caecc63b6ba25306fdff4110",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0129868ce20bcd19caecc63b6ba25306fdff4110",
+        "date_utc": "04 Nov 2026, 22:45 UTC",
+        "day": "2026-11-04",
+        "title": "Record Telegram publishing state"
+      },
+      {
+        "sha": "453e04e0adfc6ba154a19d0420baa1cb2723d9e7",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/453e04e0adfc6ba154a19d0420baa1cb2723d9e7",
+        "date_utc": "04 Nov 2026, 22:45 UTC",
         "day": "2026-11-04",
         "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 2281,
+    "commit_total": 2311,
     "calendar": [
       {
         "date": "2026-08-06",
