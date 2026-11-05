@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **05 Nov 2026, 09:48 AM IST** (2026-11-05 04:18 UTC).
+Checked **05 Nov 2026, 10:50 AM IST** (2026-11-05 05:20 UTC).
 
 **337 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **05 Nov 2026, 09:48 AM IST** (2026-11-05 04:18 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2111 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2115 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
+- [`6411a4a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/6411a4a7e12acfcfdde65566b3f77a4934667ad4) · 05 Nov 2026, 05:10 UTC · Go live: Signal redesign shell (home, library, 9 articles) at root; assets in assets/2026; Malayalam dormant (AICON\_ML=false), code kept
+- [`07d09b7`](https://github.com/aicon-hub/aicon-hub.github.io/commit/07d09b700ce5725ab912b0d77a4548a66c5a8954) · 05 Nov 2026, 05:02 UTC · preview-2026: fix dotted-circle in notice text + grad headline glyph clipping
+- [`689c5da`](https://github.com/aicon-hub/aicon-hub.github.io/commit/689c5dabc0ff3ec3cb398cbd4552e512104fc010) · 05 Nov 2026, 04:58 UTC · preview-2026: strict naturalness pass on Malayalam UI (kid-natural or English)
+- [`8adb17e`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8adb17e4644830902c52e9ca73174353a5c336cc) · 05 Nov 2026, 04:51 UTC · preview-2026: Salman's Malayalam word fixes (All, Linux, click, mum-p spelling)
 - [`f36e6a5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f36e6a575ef447d8609255f2feb9fab10fbb552d) · 05 Nov 2026, 03:29 UTC · preview-2026: bump theme.js cache-buster for lang v13 injection
-- [`d7977f8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d7977f8194ce208b2784bcb0ea4cd2b7105d7cad) · 05 Nov 2026, 03:26 UTC · preview-2026: drop duplicate period in ml hero
-- [`b48ac58`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b48ac5820d17bf970b7c7d5b3ff1ceaad134b79a) · 05 Nov 2026, 03:24 UTC · preview-2026: natural Manglish-style headings - keep Tech/AI/Govt/Guide terms in English, everyday Malayalam around them
-- [`97f7f5b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/97f7f5b179966005265bb71f346c2bb0a4620e52) · 05 Nov 2026, 03:18 UTC · preview-2026: fix malformed CSS that dropped the filter-bar tucked rule
-- [`1d26c86`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1d26c86d64d73aa2fb1a7c4e4518891eea0fe22d) · 05 Nov 2026, 03:15 UTC · preview-2026: bump theme.js cache-buster (v=g carries lang v11 injection)
 <!-- AICON:COMMITS:END -->
 
 </details>

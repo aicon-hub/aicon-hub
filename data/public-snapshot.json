@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-11-05 04:18 UTC",
-  "checked_at_ist": "05 Nov 2026, 09:48 AM IST",
+  "checked_at_utc": "2026-11-05 05:20 UTC",
+  "checked_at_ist": "05 Nov 2026, 10:50 AM IST",
   "archive_entries": 337,
   "homepage_status": 200,
   "stars": 1,
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-11-05",
-        "count": 125
+        "count": 129
       }
     ],
     "commits": [
+      {
+        "sha": "6411a4a7e12acfcfdde65566b3f77a4934667ad4",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6411a4a7e12acfcfdde65566b3f77a4934667ad4",
+        "date_utc": "05 Nov 2026, 05:10 UTC",
+        "day": "2026-11-05",
+        "title": "Go live: Signal redesign shell (home, library, 9 articles) at root; assets in assets/2026; Malayalam dormant (AICON_ML=false), code kept"
+      },
+      {
+        "sha": "07d09b700ce5725ab912b0d77a4548a66c5a8954",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/07d09b700ce5725ab912b0d77a4548a66c5a8954",
+        "date_utc": "05 Nov 2026, 05:02 UTC",
+        "day": "2026-11-05",
+        "title": "preview-2026: fix dotted-circle in notice text + grad headline glyph clipping"
+      },
+      {
+        "sha": "689c5dabc0ff3ec3cb398cbd4552e512104fc010",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/689c5dabc0ff3ec3cb398cbd4552e512104fc010",
+        "date_utc": "05 Nov 2026, 04:58 UTC",
+        "day": "2026-11-05",
+        "title": "preview-2026: strict naturalness pass on Malayalam UI (kid-natural or English)"
+      },
+      {
+        "sha": "8adb17e4644830902c52e9ca73174353a5c336cc",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8adb17e4644830902c52e9ca73174353a5c336cc",
+        "date_utc": "05 Nov 2026, 04:51 UTC",
+        "day": "2026-11-05",
+        "title": "preview-2026: Salman's Malayalam word fixes (All, Linux, click, mum-p spelling)"
+      },
       {
         "sha": "f36e6a575ef447d8609255f2feb9fab10fbb552d",
         "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f36e6a575ef447d8609255f2feb9fab10fbb552d",
         "date_utc": "05 Nov 2026, 03:29 UTC",
         "day": "2026-11-05",
         "title": "preview-2026: bump theme.js cache-buster for lang v13 injection"
-      },
-      {
-        "sha": "d7977f8194ce208b2784bcb0ea4cd2b7105d7cad",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d7977f8194ce208b2784bcb0ea4cd2b7105d7cad",
-        "date_utc": "05 Nov 2026, 03:26 UTC",
-        "day": "2026-11-05",
-        "title": "preview-2026: drop duplicate period in ml hero"
-      },
-      {
-        "sha": "b48ac5820d17bf970b7c7d5b3ff1ceaad134b79a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b48ac5820d17bf970b7c7d5b3ff1ceaad134b79a",
-        "date_utc": "05 Nov 2026, 03:24 UTC",
-        "day": "2026-11-05",
-        "title": "preview-2026: natural Manglish-style headings - keep Tech/AI/Govt/Guide terms in English, everyday Malayalam around them"
-      },
-      {
-        "sha": "97f7f5b179966005265bb71f346c2bb0a4620e52",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/97f7f5b179966005265bb71f346c2bb0a4620e52",
-        "date_utc": "05 Nov 2026, 03:18 UTC",
-        "day": "2026-11-05",
-        "title": "preview-2026: fix malformed CSS that dropped the filter-bar tucked rule"
-      },
-      {
-        "sha": "1d26c86d64d73aa2fb1a7c4e4518891eea0fe22d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1d26c86d64d73aa2fb1a7c4e4518891eea0fe22d",
-        "date_utc": "05 Nov 2026, 03:15 UTC",
-        "day": "2026-11-05",
-        "title": "preview-2026: bump theme.js cache-buster (v=g carries lang v11 injection)"
       }
     ],
-    "commit_total": 2111,
+    "commit_total": 2115,
     "calendar": [
       {
         "date": "2026-08-07",
