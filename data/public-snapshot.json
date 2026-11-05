@@ -1,30 +1,30 @@
 {
-  "checked_at_utc": "2026-11-05 01:31 UTC",
-  "checked_at_ist": "05 Nov 2026, 07:01 AM IST",
-  "archive_entries": 360,
+  "checked_at_utc": "2026-11-05 03:10 UTC",
+  "checked_at_ist": "05 Nov 2026, 08:40 AM IST",
+  "archive_entries": 337,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
     {
+      "title": "Prof. Joseph Mundassery scholarship award 2026-27: ₹10,000 to ₹15,000 for Kerala minority toppers",
+      "url": "https://aicon-hub.github.io/posts/kerala-minority-prof-joseph-mundassery-scholarship-award-2026-27-rs-10000-15000-apply-by-30-november-guide.html"
+    },
+    {
+      "title": "Kerala minority scholarship for IIT, IIM, IISc and IMSc PG students 2026-27: ₹50,000",
+      "url": "https://aicon-hub.github.io/posts/kerala-minority-iit-iim-iisc-imsc-pg-scholarship-2026-27-rs-50000-apply-by-30-november-guide.html"
+    },
+    {
+      "title": "Kerala minority CM Research Fellowship 2026-27: ₹2.4 lakh a year for PhD scholars",
+      "url": "https://aicon-hub.github.io/posts/kerala-minority-cm-research-fellowship-2026-27-rs-2-40-lakh-phd-apply-by-30-november-guide.html"
+    },
+    {
+      "title": "Kerala minority civil service coaching fee aid 2026-27: ₹20,000, apply by 30 November",
+      "url": "https://aicon-hub.github.io/posts/kerala-minority-civil-service-fee-reimbursement-2026-27-rs-20000-apply-by-30-november-guide.html"
+    },
+    {
       "title": "RRB NTPC graduate 2026: 3,548 posts, apply by 6 November",
       "url": "https://aicon-hub.github.io/posts/rrb-ntpc-graduate-cen-06-2026-3548-posts-apply-by-6-november-guide.html"
-    },
-    {
-      "title": "HackerTube: free YouTube-style site of talks Hacker News recommends",
-      "url": "https://aicon-hub.github.io/posts/hackertube-free-youtube-talks-hacker-news-recommends-no-account-guide.html"
-    },
-    {
-      "title": "BRIC-RGCB PhD admission, January 2027: apply by 8 November",
-      "url": "https://aicon-hub.github.io/posts/rgcb-phd-admission-january-2027-thiruvananthapuram-apply-by-8-november-guide.html"
-    },
-    {
-      "title": "Kerala minority overseas scholarship 2026-27: up to ₹10 lakh, apply by 30 November",
-      "url": "https://aicon-hub.github.io/posts/kerala-minority-overseas-scholarship-2026-27-pg-phd-abroad-up-to-10-lakh-apply-by-30-november-guide.html"
-    },
-    {
-      "title": "RRB Station Master 2026: 1,265 posts for graduates, apply till 25 November",
-      "url": "https://aicon-hub.github.io/posts/rrb-station-master-cen-08-2026-1265-posts-graduates-apply-by-25-november-guide.html"
     }
   ],
   "sources": [
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-11-05",
-        "count": 40
+        "count": 118
       }
     ],
     "commits": [
       {
-        "sha": "3b3de734de9204d9fe286d566fe022b0ebc19bdd",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3b3de734de9204d9fe286d566fe022b0ebc19bdd",
-        "date_utc": "05 Nov 2026, 01:31 UTC",
+        "sha": "69319f9ba38696f45f899ffcb718ac820e037ece",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/69319f9ba38696f45f899ffcb718ac820e037ece",
+        "date_utc": "05 Nov 2026, 03:07 UTC",
         "day": "2026-11-05",
-        "title": "Add-mu-sitemap"
+        "title": "preview-2026: lang toggle boot waits for readyState instead of body (mid-parse race)"
       },
       {
-        "sha": "d12b6f8dc09b0b3b0e61fe5eee5c9e9f052813e6",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d12b6f8dc09b0b3b0e61fe5eee5c9e9f052813e6",
-        "date_utc": "05 Nov 2026, 01:31 UTC",
+        "sha": "71edfe25623ed8851455c25593d462935f2cd3a6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/71edfe25623ed8851455c25593d462935f2cd3a6",
+        "date_utc": "05 Nov 2026, 03:05 UTC",
         "day": "2026-11-05",
-        "title": "Add-mu-card"
+        "title": "preview-2026: fix lang toggle init race (boot at DOMContentLoaded, ordered script injection), fix ml article date typos"
       },
       {
-        "sha": "e92bd4c1aaadb67bf51e957f849d5d04352dbfe1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e92bd4c1aaadb67bf51e957f849d5d04352dbfe1",
-        "date_utc": "05 Nov 2026, 01:31 UTC",
+        "sha": "7a8874346a208310cc44293cb7bc5dd4377c676c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7a8874346a208310cc44293cb7bc5dd4377c676c",
+        "date_utc": "05 Nov 2026, 02:59 UTC",
         "day": "2026-11-05",
-        "title": "Add-ii-registry"
+        "title": "Remove registry lines for removed JET and Margadeepam posts"
       },
       {
-        "sha": "a347525f20c82fd89349a810dc56260ec4f2eac3",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a347525f20c82fd89349a810dc56260ec4f2eac3",
-        "date_utc": "05 Nov 2026, 01:30 UTC",
+        "sha": "384dde2cbe5ecf675f4a821a01eb8560877a57ce",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/384dde2cbe5ecf675f4a821a01eb8560877a57ce",
+        "date_utc": "05 Nov 2026, 02:58 UTC",
         "day": "2026-11-05",
-        "title": "Add-ii-sitemap"
+        "title": "Remove expired Muskaan entry from preview deadlines"
       },
       {
-        "sha": "8801c7a0163061018036e7d032ac9fc59a9dda45",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8801c7a0163061018036e7d032ac9fc59a9dda45",
-        "date_utc": "05 Nov 2026, 01:30 UTC",
+        "sha": "29ff0857ada41e951092932f33874e2c267e7908",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/29ff0857ada41e951092932f33874e2c267e7908",
+        "date_utc": "05 Nov 2026, 02:58 UTC",
         "day": "2026-11-05",
-        "title": "Add-ii-card"
+        "title": "preview-2026: natural Malayalam UI copy, fix ml->en toggle freeze, hide library filter bar on scroll down"
       }
     ],
-    "commit_total": 2026,
+    "commit_total": 2104,
     "calendar": [
       {
         "date": "2026-08-07",
@@ -584,8 +584,8 @@
       },
       {
         "date": "2026-11-05",
-        "level": 1,
-        "count": 58
+        "level": 2,
+        "count": 107
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",

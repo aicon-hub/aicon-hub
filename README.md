@@ -22,9 +22,9 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **05 Nov 2026, 07:01 AM IST** (2026-11-05 01:31 UTC).
+Checked **05 Nov 2026, 08:40 AM IST** (2026-11-05 03:10 UTC).
 
-**360 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
+**337 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
 
 ## Build pulse
@@ -32,7 +32,7 @@ Checked **05 Nov 2026, 07:01 AM IST** (2026-11-05 01:31 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2026 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2104 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`3b3de73`](https://github.com/aicon-hub/aicon-hub.github.io/commit/3b3de734de9204d9fe286d566fe022b0ebc19bdd) · 05 Nov 2026, 01:31 UTC · Add-mu-sitemap
-- [`d12b6f8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d12b6f8dc09b0b3b0e61fe5eee5c9e9f052813e6) · 05 Nov 2026, 01:31 UTC · Add-mu-card
-- [`e92bd4c`](https://github.com/aicon-hub/aicon-hub.github.io/commit/e92bd4c1aaadb67bf51e957f849d5d04352dbfe1) · 05 Nov 2026, 01:31 UTC · Add-ii-registry
-- [`a347525`](https://github.com/aicon-hub/aicon-hub.github.io/commit/a347525f20c82fd89349a810dc56260ec4f2eac3) · 05 Nov 2026, 01:30 UTC · Add-ii-sitemap
-- [`8801c7a`](https://github.com/aicon-hub/aicon-hub.github.io/commit/8801c7a0163061018036e7d032ac9fc59a9dda45) · 05 Nov 2026, 01:30 UTC · Add-ii-card
+- [`69319f9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/69319f9ba38696f45f899ffcb718ac820e037ece) · 05 Nov 2026, 03:07 UTC · preview-2026: lang toggle boot waits for readyState instead of body (mid-parse race)
+- [`71edfe2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/71edfe25623ed8851455c25593d462935f2cd3a6) · 05 Nov 2026, 03:05 UTC · preview-2026: fix lang toggle init race (boot at DOMContentLoaded, ordered script injection), fix ml article date typos
+- [`7a88743`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7a8874346a208310cc44293cb7bc5dd4377c676c) · 05 Nov 2026, 02:59 UTC · Remove registry lines for removed JET and Margadeepam posts
+- [`384dde2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/384dde2cbe5ecf675f4a821a01eb8560877a57ce) · 05 Nov 2026, 02:58 UTC · Remove expired Muskaan entry from preview deadlines
+- [`29ff085`](https://github.com/aicon-hub/aicon-hub.github.io/commit/29ff0857ada41e951092932f33874e2c267e7908) · 05 Nov 2026, 02:58 UTC · preview-2026: natural Malayalam UI copy, fix ml-\>en toggle freeze, hide library filter bar on scroll down
 <!-- AICON:COMMITS:END -->
 
 </details>
@@ -72,9 +72,9 @@ The data and update scripts live in this profile repository. [Compare with the o
 ## Fresh signals
 
 <!-- AICON:LATEST:START -->
-- [RRB NTPC graduate 2026: 3,548 posts, apply by 6 November](https://aicon-hub.github.io/posts/rrb-ntpc-graduate-cen-06-2026-3548-posts-apply-by-6-november-guide.html)
-- [HackerTube: free YouTube-style site of talks Hacker News recommends](https://aicon-hub.github.io/posts/hackertube-free-youtube-talks-hacker-news-recommends-no-account-guide.html)
-- [BRIC-RGCB PhD admission, January 2027: apply by 8 November](https://aicon-hub.github.io/posts/rgcb-phd-admission-january-2027-thiruvananthapuram-apply-by-8-november-guide.html)
+- [Prof. Joseph Mundassery scholarship award 2026-27: ₹10,000 to ₹15,000 for Kerala minority toppers](https://aicon-hub.github.io/posts/kerala-minority-prof-joseph-mundassery-scholarship-award-2026-27-rs-10000-15000-apply-by-30-november-guide.html)
+- [Kerala minority scholarship for IIT, IIM, IISc and IMSc PG students 2026-27: ₹50,000](https://aicon-hub.github.io/posts/kerala-minority-iit-iim-iisc-imsc-pg-scholarship-2026-27-rs-50000-apply-by-30-november-guide.html)
+- [Kerala minority CM Research Fellowship 2026-27: ₹2.4 lakh a year for PhD scholars](https://aicon-hub.github.io/posts/kerala-minority-cm-research-fellowship-2026-27-rs-2-40-lakh-phd-apply-by-30-november-guide.html)
 <!-- AICON:LATEST:END -->
 
 ---
