@@ -1,11 +1,15 @@
 {
-  "checked_at_utc": "2026-11-04 23:57 UTC",
-  "checked_at_ist": "05 Nov 2026, 05:27 AM IST",
-  "archive_entries": 359,
+  "checked_at_utc": "2026-11-05 01:31 UTC",
+  "checked_at_ist": "05 Nov 2026, 07:01 AM IST",
+  "archive_entries": 360,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
+    {
+      "title": "RRB NTPC graduate 2026: 3,548 posts, apply by 6 November",
+      "url": "https://aicon-hub.github.io/posts/rrb-ntpc-graduate-cen-06-2026-3548-posts-apply-by-6-november-guide.html"
+    },
     {
       "title": "HackerTube: free YouTube-style site of talks Hacker News recommends",
       "url": "https://aicon-hub.github.io/posts/hackertube-free-youtube-talks-hacker-news-recommends-no-account-guide.html"
@@ -21,10 +25,6 @@
     {
       "title": "RRB Station Master 2026: 1,265 posts for graduates, apply till 25 November",
       "url": "https://aicon-hub.github.io/posts/rrb-station-master-cen-08-2026-1265-posts-graduates-apply-by-25-november-guide.html"
-    },
-    {
-      "title": "Google Pomelli: AI social posts built from your business website",
-      "url": "https://aicon-hub.github.io/posts/google-pomelli-ai-social-posts-from-business-website-guide.html"
     }
   ],
   "sources": [
@@ -36,10 +36,6 @@
   ],
   "activity": {
     "commit_days": [
-      {
-        "date": "2026-10-22",
-        "count": 325
-      },
       {
         "date": "2026-10-23",
         "count": 171
@@ -91,52 +87,51 @@
       {
         "date": "2026-11-04",
         "count": 58
+      },
+      {
+        "date": "2026-11-05",
+        "count": 40
       }
     ],
     "commits": [
       {
-        "sha": "2a871762beb7623ddce9645898b3797d8bc332f5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2a871762beb7623ddce9645898b3797d8bc332f5",
-        "date_utc": "04 Nov 2026, 22:46 UTC",
-        "day": "2026-11-04",
-        "title": "Record Telegram publishing state"
+        "sha": "3b3de734de9204d9fe286d566fe022b0ebc19bdd",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/3b3de734de9204d9fe286d566fe022b0ebc19bdd",
+        "date_utc": "05 Nov 2026, 01:31 UTC",
+        "day": "2026-11-05",
+        "title": "Add-mu-sitemap"
       },
       {
-        "sha": "725f9f9a20c6a3aae097c304b19bfd829438fc60",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/725f9f9a20c6a3aae097c304b19bfd829438fc60",
-        "date_utc": "04 Nov 2026, 22:46 UTC",
-        "day": "2026-11-04",
-        "title": "Record Telegram publishing state"
+        "sha": "d12b6f8dc09b0b3b0e61fe5eee5c9e9f052813e6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d12b6f8dc09b0b3b0e61fe5eee5c9e9f052813e6",
+        "date_utc": "05 Nov 2026, 01:31 UTC",
+        "day": "2026-11-05",
+        "title": "Add-mu-card"
       },
       {
-        "sha": "c51ffbb62e8e4bb35ff9788b23b30c158df0b9b1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c51ffbb62e8e4bb35ff9788b23b30c158df0b9b1",
-        "date_utc": "04 Nov 2026, 22:46 UTC",
-        "day": "2026-11-04",
-        "title": "Record Telegram publishing state"
+        "sha": "e92bd4c1aaadb67bf51e957f849d5d04352dbfe1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e92bd4c1aaadb67bf51e957f849d5d04352dbfe1",
+        "date_utc": "05 Nov 2026, 01:31 UTC",
+        "day": "2026-11-05",
+        "title": "Add-ii-registry"
       },
       {
-        "sha": "0129868ce20bcd19caecc63b6ba25306fdff4110",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/0129868ce20bcd19caecc63b6ba25306fdff4110",
-        "date_utc": "04 Nov 2026, 22:45 UTC",
-        "day": "2026-11-04",
-        "title": "Record Telegram publishing state"
+        "sha": "a347525f20c82fd89349a810dc56260ec4f2eac3",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a347525f20c82fd89349a810dc56260ec4f2eac3",
+        "date_utc": "05 Nov 2026, 01:30 UTC",
+        "day": "2026-11-05",
+        "title": "Add-ii-sitemap"
       },
       {
-        "sha": "453e04e0adfc6ba154a19d0420baa1cb2723d9e7",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/453e04e0adfc6ba154a19d0420baa1cb2723d9e7",
-        "date_utc": "04 Nov 2026, 22:45 UTC",
-        "day": "2026-11-04",
-        "title": "Record Telegram publishing state"
+        "sha": "8801c7a0163061018036e7d032ac9fc59a9dda45",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8801c7a0163061018036e7d032ac9fc59a9dda45",
+        "date_utc": "05 Nov 2026, 01:30 UTC",
+        "day": "2026-11-05",
+        "title": "Add-ii-card"
       }
     ],
-    "commit_total": 2311,
+    "commit_total": 2026,
     "calendar": [
-      {
-        "date": "2026-08-06",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2026-08-07",
         "level": 0,
@@ -586,6 +581,11 @@
         "date": "2026-11-04",
         "level": 1,
         "count": 26
+      },
+      {
+        "date": "2026-11-05",
+        "level": 1,
+        "count": 58
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
