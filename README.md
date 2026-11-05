@@ -22,7 +22,7 @@ Source-checked guides for Kerala and India.
 <!-- AICON:SNAPSHOT:START -->
 ![Public activity dashboard](assets/public-dashboard.svg)
 
-Checked **05 Nov 2026, 08:40 AM IST** (2026-11-05 03:10 UTC).
+Checked **05 Nov 2026, 09:48 AM IST** (2026-11-05 04:18 UTC).
 
 **337 archive entries** · **Homepage HTTP 200** · **1 site-repo star(s)** · **0 site-repo fork(s)**
 <!-- AICON:SNAPSHOT:END -->
@@ -32,7 +32,7 @@ Checked **05 Nov 2026, 08:40 AM IST** (2026-11-05 03:10 UTC).
 <!-- AICON:ACTIVITY:START -->
 ![Website commit graph](assets/commit-activity.svg)
 
-**2104 website-repo main-branch commits** · 14 UTC days · includes automation.
+**2111 website-repo main-branch commits** · 14 UTC days · includes automation.
 <!-- AICON:ACTIVITY:END -->
 
 ## The contribution snake
@@ -45,11 +45,11 @@ An orange-and-white snake explores **91 days of aicon-hub's public GitHub calend
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
 <!-- AICON:COMMITS:START -->
-- [`69319f9`](https://github.com/aicon-hub/aicon-hub.github.io/commit/69319f9ba38696f45f899ffcb718ac820e037ece) · 05 Nov 2026, 03:07 UTC · preview-2026: lang toggle boot waits for readyState instead of body (mid-parse race)
-- [`71edfe2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/71edfe25623ed8851455c25593d462935f2cd3a6) · 05 Nov 2026, 03:05 UTC · preview-2026: fix lang toggle init race (boot at DOMContentLoaded, ordered script injection), fix ml article date typos
-- [`7a88743`](https://github.com/aicon-hub/aicon-hub.github.io/commit/7a8874346a208310cc44293cb7bc5dd4377c676c) · 05 Nov 2026, 02:59 UTC · Remove registry lines for removed JET and Margadeepam posts
-- [`384dde2`](https://github.com/aicon-hub/aicon-hub.github.io/commit/384dde2cbe5ecf675f4a821a01eb8560877a57ce) · 05 Nov 2026, 02:58 UTC · Remove expired Muskaan entry from preview deadlines
-- [`29ff085`](https://github.com/aicon-hub/aicon-hub.github.io/commit/29ff0857ada41e951092932f33874e2c267e7908) · 05 Nov 2026, 02:58 UTC · preview-2026: natural Malayalam UI copy, fix ml-\>en toggle freeze, hide library filter bar on scroll down
+- [`f36e6a5`](https://github.com/aicon-hub/aicon-hub.github.io/commit/f36e6a575ef447d8609255f2feb9fab10fbb552d) · 05 Nov 2026, 03:29 UTC · preview-2026: bump theme.js cache-buster for lang v13 injection
+- [`d7977f8`](https://github.com/aicon-hub/aicon-hub.github.io/commit/d7977f8194ce208b2784bcb0ea4cd2b7105d7cad) · 05 Nov 2026, 03:26 UTC · preview-2026: drop duplicate period in ml hero
+- [`b48ac58`](https://github.com/aicon-hub/aicon-hub.github.io/commit/b48ac5820d17bf970b7c7d5b3ff1ceaad134b79a) · 05 Nov 2026, 03:24 UTC · preview-2026: natural Manglish-style headings - keep Tech/AI/Govt/Guide terms in English, everyday Malayalam around them
+- [`97f7f5b`](https://github.com/aicon-hub/aicon-hub.github.io/commit/97f7f5b179966005265bb71f346c2bb0a4620e52) · 05 Nov 2026, 03:18 UTC · preview-2026: fix malformed CSS that dropped the filter-bar tucked rule
+- [`1d26c86`](https://github.com/aicon-hub/aicon-hub.github.io/commit/1d26c86d64d73aa2fb1a7c4e4518891eea0fe22d) · 05 Nov 2026, 03:15 UTC · preview-2026: bump theme.js cache-buster (v=g carries lang v11 injection)
 <!-- AICON:COMMITS:END -->
 
 </details>

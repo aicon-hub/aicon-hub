@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-11-05 03:10 UTC",
-  "checked_at_ist": "05 Nov 2026, 08:40 AM IST",
+  "checked_at_utc": "2026-11-05 04:18 UTC",
+  "checked_at_ist": "05 Nov 2026, 09:48 AM IST",
   "archive_entries": 337,
   "homepage_status": 200,
   "stars": 1,
@@ -90,47 +90,47 @@
       },
       {
         "date": "2026-11-05",
-        "count": 118
+        "count": 125
       }
     ],
     "commits": [
       {
-        "sha": "69319f9ba38696f45f899ffcb718ac820e037ece",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/69319f9ba38696f45f899ffcb718ac820e037ece",
-        "date_utc": "05 Nov 2026, 03:07 UTC",
+        "sha": "f36e6a575ef447d8609255f2feb9fab10fbb552d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f36e6a575ef447d8609255f2feb9fab10fbb552d",
+        "date_utc": "05 Nov 2026, 03:29 UTC",
         "day": "2026-11-05",
-        "title": "preview-2026: lang toggle boot waits for readyState instead of body (mid-parse race)"
+        "title": "preview-2026: bump theme.js cache-buster for lang v13 injection"
       },
       {
-        "sha": "71edfe25623ed8851455c25593d462935f2cd3a6",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/71edfe25623ed8851455c25593d462935f2cd3a6",
-        "date_utc": "05 Nov 2026, 03:05 UTC",
+        "sha": "d7977f8194ce208b2784bcb0ea4cd2b7105d7cad",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d7977f8194ce208b2784bcb0ea4cd2b7105d7cad",
+        "date_utc": "05 Nov 2026, 03:26 UTC",
         "day": "2026-11-05",
-        "title": "preview-2026: fix lang toggle init race (boot at DOMContentLoaded, ordered script injection), fix ml article date typos"
+        "title": "preview-2026: drop duplicate period in ml hero"
       },
       {
-        "sha": "7a8874346a208310cc44293cb7bc5dd4377c676c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7a8874346a208310cc44293cb7bc5dd4377c676c",
-        "date_utc": "05 Nov 2026, 02:59 UTC",
+        "sha": "b48ac5820d17bf970b7c7d5b3ff1ceaad134b79a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b48ac5820d17bf970b7c7d5b3ff1ceaad134b79a",
+        "date_utc": "05 Nov 2026, 03:24 UTC",
         "day": "2026-11-05",
-        "title": "Remove registry lines for removed JET and Margadeepam posts"
+        "title": "preview-2026: natural Manglish-style headings - keep Tech/AI/Govt/Guide terms in English, everyday Malayalam around them"
       },
       {
-        "sha": "384dde2cbe5ecf675f4a821a01eb8560877a57ce",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/384dde2cbe5ecf675f4a821a01eb8560877a57ce",
-        "date_utc": "05 Nov 2026, 02:58 UTC",
+        "sha": "97f7f5b179966005265bb71f346c2bb0a4620e52",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/97f7f5b179966005265bb71f346c2bb0a4620e52",
+        "date_utc": "05 Nov 2026, 03:18 UTC",
         "day": "2026-11-05",
-        "title": "Remove expired Muskaan entry from preview deadlines"
+        "title": "preview-2026: fix malformed CSS that dropped the filter-bar tucked rule"
       },
       {
-        "sha": "29ff0857ada41e951092932f33874e2c267e7908",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/29ff0857ada41e951092932f33874e2c267e7908",
-        "date_utc": "05 Nov 2026, 02:58 UTC",
+        "sha": "1d26c86d64d73aa2fb1a7c4e4518891eea0fe22d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1d26c86d64d73aa2fb1a7c4e4518891eea0fe22d",
+        "date_utc": "05 Nov 2026, 03:15 UTC",
         "day": "2026-11-05",
-        "title": "preview-2026: natural Malayalam UI copy, fix ml->en toggle freeze, hide library filter bar on scroll down"
+        "title": "preview-2026: bump theme.js cache-buster (v=g carries lang v11 injection)"
       }
     ],
-    "commit_total": 2104,
+    "commit_total": 2111,
     "calendar": [
       {
         "date": "2026-08-07",
