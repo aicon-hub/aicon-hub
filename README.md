@@ -41,6 +41,8 @@ Checked **05 Nov 2026, 10:50 AM IST** (2026-11-05 05:20 UTC).
 
 An orange-and-white snake explores **91 days of aicon-hub's public GitHub calendar**. Real calendar, playful motion. The animation is decorative, not extra activity.
 
+Seen on Instagram: [a koi that grows with your GitHub contributions](https://www.instagram.com/reel/DfYuPGljANk/) by @tunestechtips 🐟 Its colours come from your languages and its fins fill with your streak. A playful cousin of our snake.
+
 <details>
 <summary><strong>Recent changes, dates and diffs</strong></summary>
 
