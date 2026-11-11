@@ -12,6 +12,8 @@
 AI · Apps · Digital safety · Scholarships · Opportunities<br>
 Source-checked guides for Kerala and India.
 
+Founded by [Muhammed Salman CC](https://salman-cc.github.io/) · [Portfolio](https://salman-cc.github.io/)
+
 [Explore the website](https://aicon-hub.github.io/) · [Browse guides](https://aicon-hub.github.io/posts/index.html)<br>
 [WhatsApp](https://whatsapp.com/channel/0029VawGIGTD38CRJde0fl1c) · [Telegram](https://t.me/AiCoN4tech)
 
