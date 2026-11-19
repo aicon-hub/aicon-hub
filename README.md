@@ -48,7 +48,7 @@
   <img src="cards/calendar-light.svg" alt="91-day public GitHub calendar. Colour levels are not website commit totals." width="100%">
 </picture>
 
-**Snapshot checked 19 Nov 2026, 07:26 AM IST.** Public data only. Hourly refresh target, not real-time.
+**Snapshot checked 19 Nov 2026, 07:28 AM IST.** Public data only. Hourly refresh target, not real-time.
 
 <a href="https://whatsapp.com/channel/0029VawGIGTD38CRJde0fl1c">
 <picture>
