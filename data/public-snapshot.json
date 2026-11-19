@@ -1,22 +1,22 @@
 {
-  "checked_at_utc": "2026-11-19 03:40 UTC",
-  "checked_at_ist": "19 Nov 2026, 09:10 AM IST",
-  "archive_entries": 745,
+  "checked_at_utc": "2026-11-19 13:31 UTC",
+  "checked_at_ist": "19 Nov 2026, 07:01 PM IST",
+  "archive_entries": 747,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
     {
+      "title": "Belles-Lettres 2026: register by 20 November for GLC Mumbai's short-fiction competition",
+      "url": "https://aicon-hub.github.io/posts/belles-lettres-2026-glc-short-fiction-register-20-november-guide.html"
+    },
+    {
+      "title": "IITM Pravartak + BodhBridge: free live online classes for Classes 7-12",
+      "url": "https://aicon-hub.github.io/posts/iitm-pravartak-bodhbridge-free-school-online-training-guide.html"
+    },
+    {
       "title": "Eat Right Photography Contest 2026: FSSAI cash awards, apply by 18 December",
       "url": "https://aicon-hub.github.io/posts/eat-right-photography-contest-2026-fssai-18-december-guide.html"
-    },
-    {
-      "title": "KILE IAS Academy Talent Search 2026: online test on 22 November",
-      "url": "https://aicon-hub.github.io/posts/kile-ias-talent-search-2026-online-test-22-november-qualified-guide.html"
-    },
-    {
-      "title": "INSPIRE-SHE 2025: eligibility, subjects, benefits and how to apply by 7 December 2026",
-      "url": "https://aicon-hub.github.io/posts/inspire-she-2025-december-2026-access-guide.html"
     }
   ],
   "activity": {
@@ -75,47 +75,47 @@
       },
       {
         "date": "2026-11-19",
-        "count": 4
+        "count": 14
       }
     ],
     "commits": [
       {
-        "sha": "c9438a6682f549e15891e76838e76becf77c93cb",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c9438a6682f549e15891e76838e76becf77c93cb",
-        "date_utc": "19 Nov 2026, 03:29 UTC",
+        "sha": "c14d1a1c6bede2216671f51b591f5929c7890031",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c14d1a1c6bede2216671f51b591f5929c7890031",
+        "date_utc": "19 Nov 2026, 07:20 UTC",
         "day": "2026-11-19",
-        "title": "Keep large optional photos invisible to legacy app image parser"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "d261ce4d1d7709079193dd94e5bb29ff4e5a6c82",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d261ce4d1d7709079193dd94e5bb29ff4e5a6c82",
-        "date_utc": "19 Nov 2026, 03:22 UTC",
+        "sha": "e02afaf5a4df8edfe0a43e86a0788dcbe76c41da",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e02afaf5a4df8edfe0a43e86a0788dcbe76c41da",
+        "date_utc": "19 Nov 2026, 07:20 UTC",
         "day": "2026-11-19",
-        "title": "Use verified subject logos in guide cards and add official TRAI launch gallery"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "5fe22d4a22c8eb3c63f055e44ad79a0245ee7595",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5fe22d4a22c8eb3c63f055e44ad79a0245ee7595",
-        "date_utc": "19 Nov 2026, 02:50 UTC",
+        "sha": "8d48ae542d2b6b89186875707770af567966e5df",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8d48ae542d2b6b89186875707770af567966e5df",
+        "date_utc": "19 Nov 2026, 07:20 UTC",
         "day": "2026-11-19",
-        "title": "Redesign AiCoN with bold editorial layout and phone-first guide library"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "c409ec9b1356669901bd36f0ad492b09203a82cb",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c409ec9b1356669901bd36f0ad492b09203a82cb",
-        "date_utc": "19 Nov 2026, 02:33 UTC",
+        "sha": "b1c9536450472ec3d552679abd49dd1628bd7a36",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b1c9536450472ec3d552679abd49dd1628bd7a36",
+        "date_utc": "19 Nov 2026, 07:16 UTC",
         "day": "2026-11-19",
-        "title": "Close Kuttanad local example and update Anki desktop version"
+        "title": "Publish Belles Lettres guide and separate footer contact addresses"
       },
       {
-        "sha": "743abf24aa1a2230f4fc941d31c39c79439ac87a",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/743abf24aa1a2230f4fc941d31c39c79439ac87a",
-        "date_utc": "18 Nov 2026, 16:13 UTC",
-        "day": "2026-11-18",
-        "title": "Separate CSSS fresh deadline from unresolved renewal extension"
+        "sha": "08521bea276cd2d8d4f9f016c982b02f4ad79c3c",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/08521bea276cd2d8d4f9f016c982b02f4ad79c3c",
+        "date_utc": "19 Nov 2026, 06:52 UTC",
+        "day": "2026-11-19",
+        "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 535,
+    "commit_total": 545,
     "calendar": [
       {
         "date": "2026-08-21",
