@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-11-19 01:58 UTC",
-  "checked_at_ist": "19 Nov 2026, 07:28 AM IST",
+  "checked_at_utc": "2026-11-19 03:40 UTC",
+  "checked_at_ist": "19 Nov 2026, 09:10 AM IST",
   "archive_entries": 745,
   "homepage_status": 200,
   "stars": 1,
@@ -75,47 +75,47 @@
       },
       {
         "date": "2026-11-19",
-        "count": 0
+        "count": 4
       }
     ],
     "commits": [
+      {
+        "sha": "c9438a6682f549e15891e76838e76becf77c93cb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c9438a6682f549e15891e76838e76becf77c93cb",
+        "date_utc": "19 Nov 2026, 03:29 UTC",
+        "day": "2026-11-19",
+        "title": "Keep large optional photos invisible to legacy app image parser"
+      },
+      {
+        "sha": "d261ce4d1d7709079193dd94e5bb29ff4e5a6c82",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d261ce4d1d7709079193dd94e5bb29ff4e5a6c82",
+        "date_utc": "19 Nov 2026, 03:22 UTC",
+        "day": "2026-11-19",
+        "title": "Use verified subject logos in guide cards and add official TRAI launch gallery"
+      },
+      {
+        "sha": "5fe22d4a22c8eb3c63f055e44ad79a0245ee7595",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5fe22d4a22c8eb3c63f055e44ad79a0245ee7595",
+        "date_utc": "19 Nov 2026, 02:50 UTC",
+        "day": "2026-11-19",
+        "title": "Redesign AiCoN with bold editorial layout and phone-first guide library"
+      },
+      {
+        "sha": "c409ec9b1356669901bd36f0ad492b09203a82cb",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c409ec9b1356669901bd36f0ad492b09203a82cb",
+        "date_utc": "19 Nov 2026, 02:33 UTC",
+        "day": "2026-11-19",
+        "title": "Close Kuttanad local example and update Anki desktop version"
+      },
       {
         "sha": "743abf24aa1a2230f4fc941d31c39c79439ac87a",
         "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/743abf24aa1a2230f4fc941d31c39c79439ac87a",
         "date_utc": "18 Nov 2026, 16:13 UTC",
         "day": "2026-11-18",
         "title": "Separate CSSS fresh deadline from unresolved renewal extension"
-      },
-      {
-        "sha": "04e41fc68b773078a749fd0938449483c71981a9",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/04e41fc68b773078a749fd0938449483c71981a9",
-        "date_utc": "18 Nov 2026, 13:20 UTC",
-        "day": "2026-11-18",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "e8730e82485910c885337bffa8be042bf48f2cfc",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e8730e82485910c885337bffa8be042bf48f2cfc",
-        "date_utc": "18 Nov 2026, 13:20 UTC",
-        "day": "2026-11-18",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "8b16410bf7de3b83293d63e6e70d1bbeef72a0df",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8b16410bf7de3b83293d63e6e70d1bbeef72a0df",
-        "date_utc": "18 Nov 2026, 13:19 UTC",
-        "day": "2026-11-18",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "d56360e11630776726b9bb30de167b3c061c07b1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d56360e11630776726b9bb30de167b3c061c07b1",
-        "date_utc": "18 Nov 2026, 13:13 UTC",
-        "day": "2026-11-18",
-        "title": "Publish verified FSSAI Eat Right photography contest guide"
       }
     ],
-    "commit_total": 531,
+    "commit_total": 535,
     "calendar": [
       {
         "date": "2026-08-21",
