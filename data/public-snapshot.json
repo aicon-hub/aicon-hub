@@ -1,207 +1,122 @@
 {
-  "checked_at_utc": "2026-11-05 05:20 UTC",
-  "checked_at_ist": "05 Nov 2026, 10:50 AM IST",
-  "archive_entries": 337,
+  "checked_at_utc": "2026-11-19 01:56 UTC",
+  "checked_at_ist": "19 Nov 2026, 07:26 AM IST",
+  "archive_entries": 745,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
     {
-      "title": "Prof. Joseph Mundassery scholarship award 2026-27: ₹10,000 to ₹15,000 for Kerala minority toppers",
-      "url": "https://aicon-hub.github.io/posts/kerala-minority-prof-joseph-mundassery-scholarship-award-2026-27-rs-10000-15000-apply-by-30-november-guide.html"
+      "title": "Eat Right Photography Contest 2026: FSSAI cash awards, apply by 18 December",
+      "url": "https://aicon-hub.github.io/posts/eat-right-photography-contest-2026-fssai-18-december-guide.html"
     },
     {
-      "title": "Kerala minority scholarship for IIT, IIM, IISc and IMSc PG students 2026-27: ₹50,000",
-      "url": "https://aicon-hub.github.io/posts/kerala-minority-iit-iim-iisc-imsc-pg-scholarship-2026-27-rs-50000-apply-by-30-november-guide.html"
+      "title": "KILE IAS Academy Talent Search 2026: online test on 22 November",
+      "url": "https://aicon-hub.github.io/posts/kile-ias-talent-search-2026-online-test-22-november-qualified-guide.html"
     },
     {
-      "title": "Kerala minority CM Research Fellowship 2026-27: ₹2.4 lakh a year for PhD scholars",
-      "url": "https://aicon-hub.github.io/posts/kerala-minority-cm-research-fellowship-2026-27-rs-2-40-lakh-phd-apply-by-30-november-guide.html"
-    },
-    {
-      "title": "Kerala minority civil service coaching fee aid 2026-27: ₹20,000, apply by 30 November",
-      "url": "https://aicon-hub.github.io/posts/kerala-minority-civil-service-fee-reimbursement-2026-27-rs-20000-apply-by-30-november-guide.html"
-    },
-    {
-      "title": "RRB NTPC graduate 2026: 3,548 posts, apply by 6 November",
-      "url": "https://aicon-hub.github.io/posts/rrb-ntpc-graduate-cen-06-2026-3548-posts-apply-by-6-november-guide.html"
+      "title": "INSPIRE-SHE 2025: eligibility, subjects, benefits and how to apply by 7 December 2026",
+      "url": "https://aicon-hub.github.io/posts/inspire-she-2025-december-2026-access-guide.html"
     }
-  ],
-  "sources": [
-    "https://aicon-hub.github.io/",
-    "https://aicon-hub.github.io/posts/index.html",
-    "https://api.github.com/repos/aicon-hub/aicon-hub.github.io",
-    "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
-    "https://github.com/users/aicon-hub/contributions"
   ],
   "activity": {
     "commit_days": [
       {
-        "date": "2026-10-23",
-        "count": 171
+        "date": "2026-11-06",
+        "count": 26
       },
       {
-        "date": "2026-10-24",
-        "count": 441
+        "date": "2026-11-07",
+        "count": 97
       },
       {
-        "date": "2026-10-25",
-        "count": 142
+        "date": "2026-11-08",
+        "count": 34
       },
       {
-        "date": "2026-10-26",
-        "count": 117
+        "date": "2026-11-09",
+        "count": 217
       },
       {
-        "date": "2026-10-27",
-        "count": 241
+        "date": "2026-11-10",
+        "count": 2
       },
       {
-        "date": "2026-10-28",
-        "count": 266
+        "date": "2026-11-11",
+        "count": 6
       },
       {
-        "date": "2026-10-29",
-        "count": 169
+        "date": "2026-11-12",
+        "count": 9
       },
       {
-        "date": "2026-10-30",
-        "count": 125
+        "date": "2026-11-13",
+        "count": 13
       },
       {
-        "date": "2026-10-31",
-        "count": 79
+        "date": "2026-11-14",
+        "count": 17
       },
       {
-        "date": "2026-11-01",
+        "date": "2026-11-15",
+        "count": 9
+      },
+      {
+        "date": "2026-11-16",
+        "count": 7
+      },
+      {
+        "date": "2026-11-17",
+        "count": 53
+      },
+      {
+        "date": "2026-11-18",
+        "count": 41
+      },
+      {
+        "date": "2026-11-19",
         "count": 0
-      },
-      {
-        "date": "2026-11-02",
-        "count": 128
-      },
-      {
-        "date": "2026-11-03",
-        "count": 49
-      },
-      {
-        "date": "2026-11-04",
-        "count": 58
-      },
-      {
-        "date": "2026-11-05",
-        "count": 129
       }
     ],
     "commits": [
       {
-        "sha": "6411a4a7e12acfcfdde65566b3f77a4934667ad4",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6411a4a7e12acfcfdde65566b3f77a4934667ad4",
-        "date_utc": "05 Nov 2026, 05:10 UTC",
-        "day": "2026-11-05",
-        "title": "Go live: Signal redesign shell (home, library, 9 articles) at root; assets in assets/2026; Malayalam dormant (AICON_ML=false), code kept"
+        "sha": "743abf24aa1a2230f4fc941d31c39c79439ac87a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/743abf24aa1a2230f4fc941d31c39c79439ac87a",
+        "date_utc": "18 Nov 2026, 16:13 UTC",
+        "day": "2026-11-18",
+        "title": "Separate CSSS fresh deadline from unresolved renewal extension"
       },
       {
-        "sha": "07d09b700ce5725ab912b0d77a4548a66c5a8954",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/07d09b700ce5725ab912b0d77a4548a66c5a8954",
-        "date_utc": "05 Nov 2026, 05:02 UTC",
-        "day": "2026-11-05",
-        "title": "preview-2026: fix dotted-circle in notice text + grad headline glyph clipping"
+        "sha": "04e41fc68b773078a749fd0938449483c71981a9",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/04e41fc68b773078a749fd0938449483c71981a9",
+        "date_utc": "18 Nov 2026, 13:20 UTC",
+        "day": "2026-11-18",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "689c5dabc0ff3ec3cb398cbd4552e512104fc010",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/689c5dabc0ff3ec3cb398cbd4552e512104fc010",
-        "date_utc": "05 Nov 2026, 04:58 UTC",
-        "day": "2026-11-05",
-        "title": "preview-2026: strict naturalness pass on Malayalam UI (kid-natural or English)"
+        "sha": "e8730e82485910c885337bffa8be042bf48f2cfc",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e8730e82485910c885337bffa8be042bf48f2cfc",
+        "date_utc": "18 Nov 2026, 13:20 UTC",
+        "day": "2026-11-18",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "8adb17e4644830902c52e9ca73174353a5c336cc",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8adb17e4644830902c52e9ca73174353a5c336cc",
-        "date_utc": "05 Nov 2026, 04:51 UTC",
-        "day": "2026-11-05",
-        "title": "preview-2026: Salman's Malayalam word fixes (All, Linux, click, mum-p spelling)"
+        "sha": "8b16410bf7de3b83293d63e6e70d1bbeef72a0df",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8b16410bf7de3b83293d63e6e70d1bbeef72a0df",
+        "date_utc": "18 Nov 2026, 13:19 UTC",
+        "day": "2026-11-18",
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "f36e6a575ef447d8609255f2feb9fab10fbb552d",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f36e6a575ef447d8609255f2feb9fab10fbb552d",
-        "date_utc": "05 Nov 2026, 03:29 UTC",
-        "day": "2026-11-05",
-        "title": "preview-2026: bump theme.js cache-buster for lang v13 injection"
+        "sha": "d56360e11630776726b9bb30de167b3c061c07b1",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d56360e11630776726b9bb30de167b3c061c07b1",
+        "date_utc": "18 Nov 2026, 13:13 UTC",
+        "day": "2026-11-18",
+        "title": "Publish verified FSSAI Eat Right photography contest guide"
       }
     ],
-    "commit_total": 2115,
+    "commit_total": 531,
     "calendar": [
-      {
-        "date": "2026-08-07",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-08",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-09",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-10",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-11",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-12",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-13",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-14",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-15",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-16",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-17",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-18",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-19",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2026-08-20",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2026-08-21",
         "level": 0,
@@ -585,10 +500,87 @@
       {
         "date": "2026-11-05",
         "level": 2,
-        "count": 107
+        "count": 162
+      },
+      {
+        "date": "2026-11-06",
+        "level": 1,
+        "count": 14
+      },
+      {
+        "date": "2026-11-07",
+        "level": 1,
+        "count": 74
+      },
+      {
+        "date": "2026-11-08",
+        "level": 1,
+        "count": 29
+      },
+      {
+        "date": "2026-11-09",
+        "level": 2,
+        "count": 168
+      },
+      {
+        "date": "2026-11-10",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-11-11",
+        "level": 1,
+        "count": 8
+      },
+      {
+        "date": "2026-11-12",
+        "level": 1,
+        "count": 2
+      },
+      {
+        "date": "2026-11-13",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-11-14",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-11-15",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-11-16",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-11-17",
+        "level": 1,
+        "count": 2
+      },
+      {
+        "date": "2026-11-18",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-11-19",
+        "level": 0,
+        "count": 0
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
     "calendar_url": "https://github.com/users/aicon-hub/contributions"
-  }
+  },
+  "sources": [
+    "https://aicon-hub.github.io/",
+    "https://aicon-hub.github.io/posts/",
+    "https://api.github.com/repos/aicon-hub/aicon-hub.github.io",
+    "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
+    "https://github.com/users/aicon-hub/contributions"
+  ]
 }
