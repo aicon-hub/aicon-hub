@@ -18,7 +18,7 @@ def wrap(value,maxchars):
 
 def svg(kind,theme,mobile,s):
  c=THEMES[theme];w=420 if mobile else 840;pad=24 if mobile else 36
- heights={'hero':440 if mobile else 365,'activity':360 if mobile else 290,'calendar':350 if mobile else 310,'guides':160 if mobile else 145,'community':160 if mobile else 145,'source':160 if mobile else 145};h=heights[kind]
+ heights={'hero':440 if mobile else 365,'activity':310 if mobile else 260,'calendar':325 if mobile else 280,'guides':160 if mobile else 145,'community':160 if mobile else 145,'source':160 if mobile else 145};h=heights[kind]
  title={'hero':'AiCoN. Useful tech. Clear answers.','activity':'Website main-branch commits over fourteen UTC days, including automation','calendar':'Ninety-one-day public GitHub account calendar. Decorative moving trail.','guides':'Read the guides','community':'Join the community','source':'Explore the source'}[kind]
  css=FONT+f' :root{{color-scheme:{theme}}} text{{font-family:Outfit,Arial,sans-serif;fill:{c["ink"]}}} .muted{{fill:{c["muted"]}}} .orange{{fill:{ORANGE}}} .rise{{animation:rise .9s ease-out both}} .drift{{animation:drift 6s ease-in-out infinite}} .bar{{transform-box:fill-box;transform-origin:bottom;animation:grow 1.2s cubic-bezier(.2,.7,.2,1) both}} @keyframes grow{{from{{transform:scaleY(.08)}}to{{transform:scaleY(1)}}}} @keyframes drift{{0%,100%{{transform:translateY(0)}}50%{{transform:translateY(-8px)}}}} @keyframes rise{{from{{opacity:.8;transform:translateY(7px)}}to{{opacity:1;transform:translateY(0)}}}} @media(prefers-reduced-motion:reduce){{*{{animation:none!important}} .motion{{display:none}}}}'
  css+=' .signal{transform-box:fill-box;transform-origin:center;animation:signal 8s ease-in-out infinite}.arrow{animation:nudge 2.8s ease-in-out infinite}.bar{animation:grow 1.2s ease-out both,shine 3.6s ease-in-out infinite;animation-delay:0s,var(--delay)}.cell{animation:shimmer 5s ease-in-out infinite;animation-delay:var(--delay)}.orbit{transform-box:fill-box;transform-origin:center;animation:beacon 2.4s ease-in-out infinite}@keyframes signal{0%,35%{transform:rotate(0)}70%,100%{transform:rotate(90deg)}}@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(7px)}}@keyframes shine{0%,100%{opacity:1}50%{opacity:.48}}@keyframes shimmer{0%,65%,100%{opacity:1}82%{opacity:.48}}@keyframes beacon{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.45;transform:scale(.65)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}.motion{display:none}}'
@@ -47,7 +47,7 @@ def svg(kind,theme,mobile,s):
    barh=max(3,gh*d['count']/m);colour=ORANGE if d['count']==m else (c['sage']if d['count']else c['rule']);x=x0+i*bw
    parts.append(f'<rect class="bar" style="--delay:{i*.16:.2f}s" x="{x:.1f}" y="{floor-barh:.1f}" width="{bw-6:.1f}" height="{barh:.1f}" rx="3" fill="{colour}"><title>{d["date"]}: {d["count"]} commits</title></rect>')
   parts.append(text(pad,floor+24,days[0]['date'],15,extra='class="muted"'));parts.append(text(w-pad,floor+24,days[-1]['date'],15,extra='class="muted" text-anchor="end"'))
-  for i,line in enumerate(['Includes automation and Telegram receipts.','Not a count of articles. Today is partial.']if mobile else ['Includes automation and receipt commits, not just articles. Today is partial.']):parts.append(text(pad,h-43+i*23 if mobile else h-21,line,16 if mobile else 18,extra='class="muted"'))
+
  elif kind=='calendar':
   a=s['activity'];days=a['calendar'];parts.append(text(pad,42,'THE PUBLIC CALENDAR',17,600,extra='class="muted" letter-spacing="2"'));parts.append(text(pad,80,'91 days of aicon-hub',28 if mobile else 35,600))
   gx=pad;gy=104;step=(w-2*pad)/13;cell=min(17 if mobile else 14,step-5);rowgap=cell+5
@@ -55,8 +55,7 @@ def svg(kind,theme,mobile,s):
   for i,d in enumerate(days):
    x=gx+(i//7)*step;y=gy+(i%7)*rowgap
    parts.append(f'<rect class="cell" style="--delay:{(i//7)*.24+(i%7)*.06:.2f}s" x="{x:.1f}" y="{y}" width="{step-5:.1f}" height="{cell}" rx="3" fill="{palette[d["level"]]}"><title>{d["date"]}: {d["count"]} contributions</title></rect>')
-  parts.append(text(pad,h-49,days[0]['date']+' to '+days[-1]['date'],15,extra='class="muted"'))
-  parts.append(text(pad,h-23,'GitHub calendar levels. Not website commit totals.',15 if mobile else 18,extra='class="muted"'))
+  parts.append(text(pad,h-23,days[0]['date']+' to '+days[-1]['date'],15,extra='class="muted"'))
   if not STATIC:
    # The moving highlight is intentionally separate from the contribution cells.
    parts.append(f'<circle class="motion" cx="0" cy="0" r="4" fill="{ORANGE}"><animateMotion dur="12s" repeatCount="indefinite" path="M{pad},{h-68} L{w-pad},{h-68} L{pad},{h-68}"/></circle>')
@@ -82,22 +81,9 @@ def main():
     STATIC=True
     (OUT/f'{kind}{"-mobile"if mobile else ""}-{theme}-static.svg').write_text(svg(kind,theme,mobile,s))
  STATIC=original_static
- latest='\n'.join('- ['+re.sub(r'([\\`*_{}\[\]<>|])',r'\\\1',p['title'])+']('+p['url']+')' for p in s['latest'])
- md=picture('hero','AiCoN. Useful tech. Clear answers. Source-checked guides for Kerala and India.','https://aicon-hub.github.io/')+'\n\n[Website](https://aicon-hub.github.io/) · [WhatsApp](https://whatsapp.com/channel/0029VawGIGTD38CRJde0fl1c) · [Telegram](https://t.me/AiCoN4tech) · [Email](mailto:aicon4tech@gmail.com)\n\n'+picture('guides',f'Read the guides. {s["archive_entries"]} public archive links.','https://aicon-hub.github.io/posts/')+'\n\n'+picture('activity','Website main-branch commits over 14 UTC days, including automation.')+'\n\n'+picture('calendar','91-day public GitHub calendar. Colour levels are not website commit totals.')+'\n\n'
- md+='**Snapshot checked '+s['checked_at_ist']+'.** Public data only. Hourly refresh target, not real-time.\n\n'+picture('community','Join AiCoN updates on WhatsApp.','https://whatsapp.com/channel/0029VawGIGTD38CRJde0fl1c')+'\n\n[Prefer Telegram? Follow AiCoN4tech](https://t.me/AiCoN4tech)\n\n'+picture('source','Explore public AiCoN repositories.','https://github.com/aicon-hub?tab=repositories')+'\n\n### Fresh from the guide library\n\n'+latest+'\n\n'
- md+='''<details>
-<summary>What these numbers measure</summary>
-
-- **Guide links:** unique article links in the public archive, not readers or visits.
-- **Build pulse:** website main-branch commits over fourteen UTC dates, including bots, merges and Telegram receipts. The current day is partial. Profile refresh commits are excluded.
-- **Calendar:** GitHub\'s publicly displayed account calendar over 91 days. Colour intensity follows GitHub, not website commits. If anonymised private counts are displayed by the account, they may appear; no private repository details are fetched.
-- **Motion:** decorative. The moving trail and calendar highlights are not extra contributions. Chart motion changes opacity, not the values or bar heights. Reduced-motion preferences turn motion off.
-- **Freshness:** the last successful check is printed above. Failed refreshes keep the previous snapshot. GitHub may delay workflows or cache images.
-- **Sources:** [public guide archive](https://aicon-hub.github.io/posts/), [website history](https://github.com/aicon-hub/aicon-hub.github.io/commits/main/), [GitHub calendar](https://github.com/users/aicon-hub/contributions). No analytics or visitor data.
-
-</details>
-
-[About AiCoN](https://aicon-hub.github.io/posts/about-aicon.html) · [Corrections and contact](mailto:aicon4tech@proton.me)
-'''
+ latest='<br>\n'.join('<a href="'+html.escape(p['url'],quote=True)+'">'+html.escape(p['title'])+'</a>' for p in s['latest'])
+ md=picture('hero','AiCoN. Useful tech. Clear answers. Source-checked guides for Kerala and India.','https://aicon-hub.github.io/')+'\n\n<p align="center"><a href="https://aicon-hub.github.io/"><img src="cards/icons/website.svg" width="44" height="44" alt="AiCoN website"></a> <a href="https://whatsapp.com/channel/0029VawGIGTD38CRJde0fl1c"><img src="cards/icons/whatsapp.svg" width="44" height="44" alt="AiCoN WhatsApp channel"></a> <a href="https://t.me/AiCoN4tech"><img src="cards/icons/telegram.svg" width="44" height="44" alt="AiCoN Telegram channel"></a> <a href="mailto:aicon4tech@gmail.com"><img src="cards/icons/gmail.svg" width="44" height="44" alt="Email AiCoN on Gmail"></a> <a href="mailto:aicon4tech@proton.me"><img src="cards/icons/protonmail.svg" width="44" height="44" alt="Email AiCoN on Proton Mail"></a></p>\n\n'+picture('guides',f'Read the guides. {s["archive_entries"]} public archive links.','https://aicon-hub.github.io/posts/')+'\n\n'+picture('activity','Website main-branch commits over 14 UTC days, including automation.')+'\n\n'+picture('calendar','91-day public GitHub calendar. Colour levels are not website commit totals.')+'\n\n'
+ md+=picture('community','Join AiCoN updates on WhatsApp.','https://whatsapp.com/channel/0029VawGIGTD38CRJde0fl1c')+'\n\n<p align="center"><a href="https://t.me/AiCoN4tech">Prefer Telegram? Follow AiCoN4tech</a></p>\n\n'+picture('source','Explore public AiCoN repositories.','https://github.com/aicon-hub?tab=repositories')+'\n\n<h3 align="center">Fresh from the guide library</h3>\n\n<p align="center">'+latest+'</p>\n\n'
+ md+='<p align="center"><a href="https://aicon-hub.github.io/posts/about-aicon.html">About AiCoN</a> · <a href="mailto:aicon4tech@proton.me">Corrections and contact</a></p>\n'
  (ROOT/'README.md').write_text(md)
 if __name__=='__main__':main()

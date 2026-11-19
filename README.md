@@ -11,7 +11,7 @@
 </picture>
 </a>
 
-[Website](https://aicon-hub.github.io/) · [WhatsApp](https://whatsapp.com/channel/0029VawGIGTD38CRJde0fl1c) · [Telegram](https://t.me/AiCoN4tech) · [Email](mailto:aicon4tech@gmail.com)
+<p align="center"><a href="https://aicon-hub.github.io/"><img src="cards/icons/website.svg" width="44" height="44" alt="AiCoN website"></a> <a href="https://whatsapp.com/channel/0029VawGIGTD38CRJde0fl1c"><img src="cards/icons/whatsapp.svg" width="44" height="44" alt="AiCoN WhatsApp channel"></a> <a href="https://t.me/AiCoN4tech"><img src="cards/icons/telegram.svg" width="44" height="44" alt="AiCoN Telegram channel"></a> <a href="mailto:aicon4tech@gmail.com"><img src="cards/icons/gmail.svg" width="44" height="44" alt="Email AiCoN on Gmail"></a> <a href="mailto:aicon4tech@proton.me"><img src="cards/icons/protonmail.svg" width="44" height="44" alt="Email AiCoN on Proton Mail"></a></p>
 
 <a href="https://aicon-hub.github.io/posts/">
 <picture>
@@ -48,8 +48,6 @@
   <img src="cards/calendar-light.svg" alt="91-day public GitHub calendar. Colour levels are not website commit totals." width="100%">
 </picture>
 
-**Snapshot checked 19 Nov 2026, 07:28 AM IST.** Public data only. Hourly refresh target, not real-time.
-
 <a href="https://whatsapp.com/channel/0029VawGIGTD38CRJde0fl1c">
 <picture>
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: dark)" srcset="cards/community-mobile-dark-static.svg">
@@ -63,7 +61,7 @@
 </picture>
 </a>
 
-[Prefer Telegram? Follow AiCoN4tech](https://t.me/AiCoN4tech)
+<p align="center"><a href="https://t.me/AiCoN4tech">Prefer Telegram? Follow AiCoN4tech</a></p>
 
 <a href="https://github.com/aicon-hub?tab=repositories">
 <picture>
@@ -78,22 +76,10 @@
 </picture>
 </a>
 
-### Fresh from the guide library
+<h3 align="center">Fresh from the guide library</h3>
 
-- [Eat Right Photography Contest 2026: FSSAI cash awards, apply by 18 December](https://aicon-hub.github.io/posts/eat-right-photography-contest-2026-fssai-18-december-guide.html)
-- [KILE IAS Academy Talent Search 2026: online test on 22 November](https://aicon-hub.github.io/posts/kile-ias-talent-search-2026-online-test-22-november-qualified-guide.html)
-- [INSPIRE-SHE 2025: eligibility, subjects, benefits and how to apply by 7 December 2026](https://aicon-hub.github.io/posts/inspire-she-2025-december-2026-access-guide.html)
+<p align="center"><a href="https://aicon-hub.github.io/posts/eat-right-photography-contest-2026-fssai-18-december-guide.html">Eat Right Photography Contest 2026: FSSAI cash awards, apply by 18 December</a><br>
+<a href="https://aicon-hub.github.io/posts/kile-ias-talent-search-2026-online-test-22-november-qualified-guide.html">KILE IAS Academy Talent Search 2026: online test on 22 November</a><br>
+<a href="https://aicon-hub.github.io/posts/inspire-she-2025-december-2026-access-guide.html">INSPIRE-SHE 2025: eligibility, subjects, benefits and how to apply by 7 December 2026</a></p>
 
-<details>
-<summary>What these numbers measure</summary>
-
-- **Guide links:** unique article links in the public archive, not readers or visits.
-- **Build pulse:** website main-branch commits over fourteen UTC dates, including bots, merges and Telegram receipts. The current day is partial. Profile refresh commits are excluded.
-- **Calendar:** GitHub's publicly displayed account calendar over 91 days. Colour intensity follows GitHub, not website commits. If anonymised private counts are displayed by the account, they may appear; no private repository details are fetched.
-- **Motion:** decorative. The moving trail and calendar highlights are not extra contributions. Chart motion changes opacity, not the values or bar heights. Reduced-motion preferences turn motion off.
-- **Freshness:** the last successful check is printed above. Failed refreshes keep the previous snapshot. GitHub may delay workflows or cache images.
-- **Sources:** [public guide archive](https://aicon-hub.github.io/posts/), [website history](https://github.com/aicon-hub/aicon-hub.github.io/commits/main/), [GitHub calendar](https://github.com/users/aicon-hub/contributions). No analytics or visitor data.
-
-</details>
-
-[About AiCoN](https://aicon-hub.github.io/posts/about-aicon.html) · [Corrections and contact](mailto:aicon4tech@proton.me)
+<p align="center"><a href="https://aicon-hub.github.io/posts/about-aicon.html">About AiCoN</a> · <a href="mailto:aicon4tech@proton.me">Corrections and contact</a></p>
