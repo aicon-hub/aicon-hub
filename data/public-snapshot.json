@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-11-19 13:31 UTC",
-  "checked_at_ist": "19 Nov 2026, 07:01 PM IST",
+  "checked_at_utc": "2026-11-20 03:31 UTC",
+  "checked_at_ist": "20 Nov 2026, 09:01 AM IST",
   "archive_entries": 747,
   "homepage_status": 200,
   "stars": 1,
@@ -21,10 +21,6 @@
   ],
   "activity": {
     "commit_days": [
-      {
-        "date": "2026-11-06",
-        "count": 26
-      },
       {
         "date": "2026-11-07",
         "count": 97
@@ -75,53 +71,52 @@
       },
       {
         "date": "2026-11-19",
-        "count": 14
+        "count": 19
+      },
+      {
+        "date": "2026-11-20",
+        "count": 5
       }
     ],
     "commits": [
       {
-        "sha": "c14d1a1c6bede2216671f51b591f5929c7890031",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/c14d1a1c6bede2216671f51b591f5929c7890031",
-        "date_utc": "19 Nov 2026, 07:20 UTC",
-        "day": "2026-11-19",
+        "sha": "35c65b255fe29dc5e5f1d1fdfd523cdb37626a1d",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/35c65b255fe29dc5e5f1d1fdfd523cdb37626a1d",
+        "date_utc": "20 Nov 2026, 02:16 UTC",
+        "day": "2026-11-20",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "e02afaf5a4df8edfe0a43e86a0788dcbe76c41da",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e02afaf5a4df8edfe0a43e86a0788dcbe76c41da",
-        "date_utc": "19 Nov 2026, 07:20 UTC",
-        "day": "2026-11-19",
+        "sha": "f85ea660606078c4ebb0662ce20d24083038e784",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f85ea660606078c4ebb0662ce20d24083038e784",
+        "date_utc": "20 Nov 2026, 02:16 UTC",
+        "day": "2026-11-20",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "8d48ae542d2b6b89186875707770af567966e5df",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8d48ae542d2b6b89186875707770af567966e5df",
-        "date_utc": "19 Nov 2026, 07:20 UTC",
-        "day": "2026-11-19",
+        "sha": "853e7f5830703365bcc68b4e100115451cb850fa",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/853e7f5830703365bcc68b4e100115451cb850fa",
+        "date_utc": "20 Nov 2026, 02:16 UTC",
+        "day": "2026-11-20",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "b1c9536450472ec3d552679abd49dd1628bd7a36",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b1c9536450472ec3d552679abd49dd1628bd7a36",
-        "date_utc": "19 Nov 2026, 07:16 UTC",
-        "day": "2026-11-19",
-        "title": "Publish Belles Lettres guide and separate footer contact addresses"
+        "sha": "8de7849fbc7e4294ef2cfec0e1c0316a8452939f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8de7849fbc7e4294ef2cfec0e1c0316a8452939f",
+        "date_utc": "20 Nov 2026, 02:12 UTC",
+        "day": "2026-11-20",
+        "title": "Repair Apollo official source link and record scoped recheck"
       },
       {
-        "sha": "08521bea276cd2d8d4f9f016c982b02f4ad79c3c",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/08521bea276cd2d8d4f9f016c982b02f4ad79c3c",
-        "date_utc": "19 Nov 2026, 06:52 UTC",
-        "day": "2026-11-19",
-        "title": "Record Telegram publishing state"
+        "sha": "88ed1bc20f684ad60e0c45993b6b3904d4c2e54f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/88ed1bc20f684ad60e0c45993b6b3904d4c2e54f",
+        "date_utc": "20 Nov 2026, 02:11 UTC",
+        "day": "2026-11-20",
+        "title": "Correct ITC reimbursement deadline to 5 December per official extension"
       }
     ],
-    "commit_total": 545,
+    "commit_total": 529,
     "calendar": [
-      {
-        "date": "2026-08-21",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2026-08-22",
         "level": 0,
@@ -569,8 +564,13 @@
       },
       {
         "date": "2026-11-19",
-        "level": 0,
-        "count": 0
+        "level": 1,
+        "count": 6
+      },
+      {
+        "date": "2026-11-20",
+        "level": 1,
+        "count": 2
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
