@@ -22,7 +22,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="cards/guides-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="cards/guides-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="cards/guides-dark.svg">
-  <img src="cards/guides-light.svg" alt="Read the guides. 747 public archive links." width="100%">
+  <img src="cards/guides-light.svg" alt="Read the guides. 746 public archive links." width="100%">
 </picture>
 </a>
 
@@ -78,8 +78,8 @@
 
 <h3 align="center">Fresh from the guide library</h3>
 
-<p align="center"><a href="https://aicon-hub.github.io/posts/belles-lettres-2026-glc-short-fiction-register-20-november-guide.html">Belles-Lettres 2026: register by 20 November for GLC Mumbai&#x27;s short-fiction competition</a><br>
-<a href="https://aicon-hub.github.io/posts/iitm-pravartak-bodhbridge-free-school-online-training-guide.html">IITM Pravartak + BodhBridge: free live online classes for Classes 7-12</a><br>
-<a href="https://aicon-hub.github.io/posts/eat-right-photography-contest-2026-fssai-18-december-guide.html">Eat Right Photography Contest 2026: FSSAI cash awards, apply by 18 December</a></p>
+<p align="center"><a href="https://aicon-hub.github.io/posts/asap-thavanur-vehicle-refinish-painting-free-course-29-november-2026-guide.html">ASAP Thavanur Vehicle Refinish Painting: no course fee,apply by29November</a><br>
+<a href="https://aicon-hub.github.io/posts/asap-kalamassery-pmkvy-warehouse-executive-free-course-23-november-2026-guide.html">Free PMKVY Warehouse Executive course: ASAP Kalamassery, apply by23November</a><br>
+<a href="https://aicon-hub.github.io/posts/obc-medical-allied-girls-special-scholarship-2026-27-reopening-notice-guide.html">OBC medical and allied-course girls: official notice announces e-grantz reopening until 10 December</a></p>
 
 <p align="center"><a href="https://aicon-hub.github.io/posts/about-aicon.html">About AiCoN</a> · <a href="mailto:aicon4tech@proton.me">Corrections and contact</a></p>
