@@ -22,7 +22,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="cards/guides-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="cards/guides-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="cards/guides-dark.svg">
-  <img src="cards/guides-light.svg" alt="Read the guides. 746 public archive links." width="100%">
+  <img src="cards/guides-light.svg" alt="Read the guides. 748 public archive links." width="100%">
 </picture>
 </a>
 
@@ -78,8 +78,8 @@
 
 <h3 align="center">Fresh from the guide library</h3>
 
-<p align="center"><a href="https://aicon-hub.github.io/posts/asap-thavanur-vehicle-refinish-painting-free-course-29-november-2026-guide.html">ASAP Thavanur Vehicle Refinish Painting: no course fee,apply by29November</a><br>
-<a href="https://aicon-hub.github.io/posts/asap-kalamassery-pmkvy-warehouse-executive-free-course-23-november-2026-guide.html">Free PMKVY Warehouse Executive course: ASAP Kalamassery, apply by23November</a><br>
-<a href="https://aicon-hub.github.io/posts/obc-medical-allied-girls-special-scholarship-2026-27-reopening-notice-guide.html">OBC medical and allied-course girls: official notice announces e-grantz reopening until 10 December</a></p>
+<p align="center"><a href="https://aicon-hub.github.io/posts/icts-sn-bhatt-fellowship-2027-eligibility-15-december-guide.html">ICTS Fellowship 2027: check your course year</a><br>
+<a href="https://aicon-hub.github.io/posts/wormhole-expiring-file-links-sender-offline-tested-guide.html">Wormhole: temporary file links, with a sender-offline test</a><br>
+<a href="https://aicon-hub.github.io/posts/emigrate-recruiting-agent-check-kerala-tested-guide.html">eMigrate: check a recruiting agent before paying for an overseas job</a></p>
 
 <p align="center"><a href="https://aicon-hub.github.io/posts/about-aicon.html">About AiCoN</a> · <a href="mailto:aicon4tech@proton.me">Corrections and contact</a></p>
