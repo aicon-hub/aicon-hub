@@ -22,7 +22,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="cards/guides-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="cards/guides-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="cards/guides-dark.svg">
-  <img src="cards/guides-light.svg" alt="Read the guides. 750 public archive links." width="100%">
+  <img src="cards/guides-light.svg" alt="Read the guides. 751 public archive links." width="100%">
 </picture>
 </a>
 
@@ -78,8 +78,8 @@
 
 <h3 align="center">Fresh from the guide library</h3>
 
-<p align="center"><a href="https://aicon-hub.github.io/posts/gs1-smart-consumer-barcode-product-details-tested-guide.html">Smart Consumer: check the product details behind a barcode</a><br>
-<a href="https://aicon-hub.github.io/posts/learnfree-gcfglobal-excel-practical-digital-skills-tested-guide.html">LearnFree: learn Excel, one lesson at a time</a><br>
-<a href="https://aicon-hub.github.io/posts/icts-sn-bhatt-fellowship-2027-eligibility-15-december-guide.html">ICTS Fellowship 2027: check your course year</a></p>
+<p align="center"><a href="https://aicon-hub.github.io/posts/zapfast-unofficial-whatsapp-desktop-client-account-privacy-review.html">ZapFast: meet the unofficial WhatsApp desktop client</a><br>
+<a href="https://aicon-hub.github.io/posts/gs1-smart-consumer-barcode-product-details-tested-guide.html">Smart Consumer: check the product details behind a barcode</a><br>
+<a href="https://aicon-hub.github.io/posts/learnfree-gcfglobal-excel-practical-digital-skills-tested-guide.html">LearnFree: learn Excel, one lesson at a time</a></p>
 
 <p align="center"><a href="https://aicon-hub.github.io/posts/about-aicon.html">About AiCoN</a> · <a href="mailto:aicon4tech@proton.me">Corrections and contact</a></p>
