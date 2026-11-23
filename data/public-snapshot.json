@@ -1,30 +1,26 @@
 {
-  "checked_at_utc": "2026-11-22 22:33 UTC",
-  "checked_at_ist": "23 Nov 2026, 04:03 AM IST",
-  "archive_entries": 748,
+  "checked_at_utc": "2026-11-23 03:48 UTC",
+  "checked_at_ist": "23 Nov 2026, 09:18 AM IST",
+  "archive_entries": 750,
   "homepage_status": 200,
   "stars": 1,
   "forks": 0,
   "latest": [
     {
+      "title": "Smart Consumer: check the product details behind a barcode",
+      "url": "https://aicon-hub.github.io/posts/gs1-smart-consumer-barcode-product-details-tested-guide.html"
+    },
+    {
+      "title": "LearnFree: learn Excel, one lesson at a time",
+      "url": "https://aicon-hub.github.io/posts/learnfree-gcfglobal-excel-practical-digital-skills-tested-guide.html"
+    },
+    {
       "title": "ICTS Fellowship 2027: check your course year",
       "url": "https://aicon-hub.github.io/posts/icts-sn-bhatt-fellowship-2027-eligibility-15-december-guide.html"
-    },
-    {
-      "title": "Wormhole: temporary file links, with a sender-offline test",
-      "url": "https://aicon-hub.github.io/posts/wormhole-expiring-file-links-sender-offline-tested-guide.html"
-    },
-    {
-      "title": "eMigrate: check a recruiting agent before paying for an overseas job",
-      "url": "https://aicon-hub.github.io/posts/emigrate-recruiting-agent-check-kerala-tested-guide.html"
     }
   ],
   "activity": {
     "commit_days": [
-      {
-        "date": "2026-11-09",
-        "count": 217
-      },
       {
         "date": "2026-11-10",
         "count": 2
@@ -75,53 +71,52 @@
       },
       {
         "date": "2026-11-22",
-        "count": 35
+        "count": 36
+      },
+      {
+        "date": "2026-11-23",
+        "count": 9
       }
     ],
     "commits": [
       {
-        "sha": "f6ea6c8ccfee8df7c917fa6a60ff0d44d1204953",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/f6ea6c8ccfee8df7c917fa6a60ff0d44d1204953",
-        "date_utc": "22 Nov 2026, 15:59 UTC",
-        "day": "2026-11-22",
+        "sha": "b1984dfd21263f735806ae37c5bf59aaa871f104",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/b1984dfd21263f735806ae37c5bf59aaa871f104",
+        "date_utc": "23 Nov 2026, 03:37 UTC",
+        "day": "2026-11-23",
+        "title": "Recheck full ITC extension and clarify December deadlines"
+      },
+      {
+        "sha": "371a0d60455a49169d7b34a873c013dfc6259d8f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/371a0d60455a49169d7b34a873c013dfc6259d8f",
+        "date_utc": "23 Nov 2026, 02:51 UTC",
+        "day": "2026-11-23",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "8b50c99a520c651ccab16cf1f9c3f03d25a873e5",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8b50c99a520c651ccab16cf1f9c3f03d25a873e5",
-        "date_utc": "22 Nov 2026, 15:59 UTC",
-        "day": "2026-11-22",
+        "sha": "661a63feffefeca3039b4d76dc60c7ea6ee792be",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/661a63feffefeca3039b4d76dc60c7ea6ee792be",
+        "date_utc": "23 Nov 2026, 02:51 UTC",
+        "day": "2026-11-23",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "a9d192bfcff8211f2f4e23510a4a1d57ed21f4f1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a9d192bfcff8211f2f4e23510a4a1d57ed21f4f1",
-        "date_utc": "22 Nov 2026, 15:59 UTC",
-        "day": "2026-11-22",
+        "sha": "66e4b4b9e2f2bd57f4569479b26a7db23026cd24",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/66e4b4b9e2f2bd57f4569479b26a7db23026cd24",
+        "date_utc": "23 Nov 2026, 02:51 UTC",
+        "day": "2026-11-23",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "d90ebd2c703fbf33715533a4fdecc3e52c11f730",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d90ebd2c703fbf33715533a4fdecc3e52c11f730",
-        "date_utc": "22 Nov 2026, 15:56 UTC",
-        "day": "2026-11-22",
-        "title": "Replace ICTS fellowship social poster with approved logo-first design"
-      },
-      {
-        "sha": "6f0ca525a8cb3d028fed4862f762d2443c380474",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6f0ca525a8cb3d028fed4862f762d2443c380474",
-        "date_utc": "22 Nov 2026, 15:34 UTC",
-        "day": "2026-11-22",
+        "sha": "4cb55382feb766c574c2b86ead8d077092472d49",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/4cb55382feb766c574c2b86ead8d077092472d49",
+        "date_utc": "23 Nov 2026, 02:50 UTC",
+        "day": "2026-11-23",
         "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 453,
+    "commit_total": 246,
     "calendar": [
-      {
-        "date": "2026-08-24",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2026-08-25",
         "level": 0,
@@ -569,6 +564,11 @@
       },
       {
         "date": "2026-11-22",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-11-23",
         "level": 0,
         "count": 0
       }
