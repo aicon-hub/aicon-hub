@@ -22,7 +22,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="cards/guides-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="cards/guides-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="cards/guides-dark.svg">
-  <img src="cards/guides-light.svg" alt="Read the guides. 751 public archive links." width="100%">
+  <img src="cards/guides-light.svg" alt="Read the guides. 750 public archive links." width="100%">
 </picture>
 </a>
 
