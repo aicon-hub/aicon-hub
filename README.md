@@ -22,7 +22,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="cards/guides-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="cards/guides-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="cards/guides-dark.svg">
-  <img src="cards/guides-light.svg" alt="Read the guides. 752 public archive links." width="100%">
+  <img src="cards/guides-light.svg" alt="Read the guides. 755 public archive links." width="100%">
 </picture>
 </a>
 
@@ -78,8 +78,8 @@
 
 <h3 align="center">Fresh from the guide library</h3>
 
-<p align="center"><a href="https://aicon-hub.github.io/posts/pratiksha-trust-anandam-senapathy-scholarship-2026-27-kerala-guide.html">Pratiksha Trust Scholarship 2026-27: Kerala MBBS and Engineering guide</a><br>
-<a href="https://aicon-hub.github.io/posts/abhyas-ai-nta-free-mock-tests-jee-neet-ugc-net-overview.html">Abhyas AI: free NTA mock tests for JEE, NEET and UGC NET</a><br>
-<a href="https://aicon-hub.github.io/posts/zapfast-unofficial-whatsapp-desktop-client-account-privacy-review.html">ZapFast: meet the unofficial WhatsApp desktop client</a></p>
+<p align="center"><a href="https://aicon-hub.github.io/posts/dossier-open-source-job-search-resume-application-tracker-overview.html">Dossier: organise your job search in one place</a><br>
+<a href="https://aicon-hub.github.io/posts/viksit-bharat-samarthya-sankalp-essay-competition-2026-rs15000-31-december-guide.html">Viksit Bharat essay competition: Rs15,000 each for top three</a><br>
+<a href="https://aicon-hub.github.io/posts/ch-muhammedkoya-scholarship-renewal-2026-27-kerala-20-december-guide.html">C. H. Muhammedkoya Scholarship Renewal 2026-27</a></p>
 
 <p align="center"><a href="https://aicon-hub.github.io/posts/about-aicon.html">About AiCoN</a> · <a href="mailto:aicon4tech@proton.me">Corrections and contact</a></p>

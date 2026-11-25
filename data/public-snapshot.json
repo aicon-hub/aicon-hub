@@ -1,30 +1,26 @@
 {
-  "checked_at_utc": "2026-11-24 12:43 UTC",
-  "checked_at_ist": "24 Nov 2026, 06:13 PM IST",
-  "archive_entries": 752,
+  "checked_at_utc": "2026-11-25 05:30 UTC",
+  "checked_at_ist": "25 Nov 2026, 11:00 AM IST",
+  "archive_entries": 755,
   "homepage_status": 200,
   "stars": 2,
   "forks": 0,
   "latest": [
     {
-      "title": "Pratiksha Trust Scholarship 2026-27: Kerala MBBS and Engineering guide",
-      "url": "https://aicon-hub.github.io/posts/pratiksha-trust-anandam-senapathy-scholarship-2026-27-kerala-guide.html"
+      "title": "Dossier: organise your job search in one place",
+      "url": "https://aicon-hub.github.io/posts/dossier-open-source-job-search-resume-application-tracker-overview.html"
     },
     {
-      "title": "Abhyas AI: free NTA mock tests for JEE, NEET and UGC NET",
-      "url": "https://aicon-hub.github.io/posts/abhyas-ai-nta-free-mock-tests-jee-neet-ugc-net-overview.html"
+      "title": "Viksit Bharat essay competition: Rs15,000 each for top three",
+      "url": "https://aicon-hub.github.io/posts/viksit-bharat-samarthya-sankalp-essay-competition-2026-rs15000-31-december-guide.html"
     },
     {
-      "title": "ZapFast: meet the unofficial WhatsApp desktop client",
-      "url": "https://aicon-hub.github.io/posts/zapfast-unofficial-whatsapp-desktop-client-account-privacy-review.html"
+      "title": "C. H. Muhammedkoya Scholarship Renewal 2026-27",
+      "url": "https://aicon-hub.github.io/posts/ch-muhammedkoya-scholarship-renewal-2026-27-kerala-20-december-guide.html"
     }
   ],
   "activity": {
     "commit_days": [
-      {
-        "date": "2026-11-11",
-        "count": 6
-      },
       {
         "date": "2026-11-12",
         "count": 9
@@ -75,53 +71,52 @@
       },
       {
         "date": "2026-11-24",
-        "count": 7
+        "count": 24
+      },
+      {
+        "date": "2026-11-25",
+        "count": 1
       }
     ],
     "commits": [
       {
-        "sha": "1823237867a933214a7b1e9ad8a7640c9ee0b797",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/1823237867a933214a7b1e9ad8a7640c9ee0b797",
-        "date_utc": "24 Nov 2026, 08:30 UTC",
+        "sha": "7b6540638882ca3a4912c2e8f738328403149451",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/7b6540638882ca3a4912c2e8f738328403149451",
+        "date_utc": "25 Nov 2026, 02:11 UTC",
+        "day": "2026-11-25",
+        "title": "Refresh AutoHotkey current version to official 2.0.32 release"
+      },
+      {
+        "sha": "702989606afbe34b7dcb8dbddcf38033f67a8570",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/702989606afbe34b7dcb8dbddcf38033f67a8570",
+        "date_utc": "24 Nov 2026, 18:06 UTC",
         "day": "2026-11-24",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "5d544f4ecaad0e3b1d6f99c1c328075cac03f2f1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5d544f4ecaad0e3b1d6f99c1c328075cac03f2f1",
-        "date_utc": "24 Nov 2026, 08:30 UTC",
+        "sha": "cd2152f9eb60a4274b20fa8b9741664ca919de75",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/cd2152f9eb60a4274b20fa8b9741664ca919de75",
+        "date_utc": "24 Nov 2026, 18:06 UTC",
         "day": "2026-11-24",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "6511468e48c53b4918dbdf11ea1881275940edc1",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6511468e48c53b4918dbdf11ea1881275940edc1",
-        "date_utc": "24 Nov 2026, 08:30 UTC",
+        "sha": "9f8898a18f0ce954749564f269d785190abfb0a6",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9f8898a18f0ce954749564f269d785190abfb0a6",
+        "date_utc": "24 Nov 2026, 18:06 UTC",
         "day": "2026-11-24",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "e9e418898d843839f63d517dc0e9a9c0623b74b7",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e9e418898d843839f63d517dc0e9a9c0623b74b7",
-        "date_utc": "24 Nov 2026, 08:29 UTC",
+        "sha": "bff5885b70db35e70518c493ea51f69329ec978f",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/bff5885b70db35e70518c493ea51f69329ec978f",
+        "date_utc": "24 Nov 2026, 18:04 UTC",
         "day": "2026-11-24",
-        "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "9f3d374f37fb8f0bbcb1c55e5b1d06b931316d25",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/9f3d374f37fb8f0bbcb1c55e5b1d06b931316d25",
-        "date_utc": "24 Nov 2026, 08:29 UTC",
-        "day": "2026-11-24",
-        "title": "Record Telegram publishing state"
+        "title": "Support word-link CTAs to verified AiCoN guides"
       }
     ],
-    "commit_total": 259,
+    "commit_total": 271,
     "calendar": [
-      {
-        "date": "2026-08-26",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2026-08-27",
         "level": 0,
@@ -569,6 +564,11 @@
       },
       {
         "date": "2026-11-24",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-11-25",
         "level": 0,
         "count": 0
       }
