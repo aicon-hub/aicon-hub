@@ -1,22 +1,22 @@
 {
-  "checked_at_utc": "2026-11-26 11:05 UTC",
-  "checked_at_ist": "26 Nov 2026, 04:35 PM IST",
-  "archive_entries": 758,
+  "checked_at_utc": "2026-11-26 20:17 UTC",
+  "checked_at_ist": "27 Nov 2026, 01:47 AM IST",
+  "archive_entries": 760,
   "homepage_status": 200,
   "stars": 2,
   "forks": 0,
   "latest": [
     {
+      "title": "Jago Grahak Jago reel challenge: ten ₹10,000 prizes",
+      "url": "https://aicon-hub.github.io/posts/jago-grahak-jago-reel-making-challenge-2026-10000-6-december-guide.html"
+    },
+    {
+      "title": "IISc Shraman UG fellowships: up to ₹70,000 a year",
+      "url": "https://aicon-hub.github.io/posts/iisc-shraman-foundation-ug-fellowships-2026-70000-31-december-guide.html"
+    },
+    {
       "title": "Samarth Bharat painting contest: ₹15,000 prizes",
       "url": "https://aicon-hub.github.io/posts/samarth-bharat-viksit-bharat-painting-contest-2026-15000-prizes-guide.html"
-    },
-    {
-      "title": "Tata Trusts medical and healthcare merit scholarship 2026-27",
-      "url": "https://aicon-hub.github.io/posts/tata-trusts-medical-healthcare-merit-scholarship-2026-27-9-december-guide.html"
-    },
-    {
-      "title": "BPPR: suggest simpler Kerala government rules",
-      "url": "https://aicon-hub.github.io/posts/bppr-kerala-rule-change-suggestions-portal-english-malayalam-guide.html"
     }
   ],
   "activity": {
@@ -75,47 +75,47 @@
       },
       {
         "date": "2026-11-26",
-        "count": 5
+        "count": 12
       }
     ],
     "commits": [
       {
-        "sha": "6d978ac9d3e539e7ca30b6f4dca1a6955ab843db",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6d978ac9d3e539e7ca30b6f4dca1a6955ab843db",
-        "date_utc": "26 Nov 2026, 04:17 UTC",
+        "sha": "2169290f5f5063c845a243a80d64e8b490076b73",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2169290f5f5063c845a243a80d64e8b490076b73",
+        "date_utc": "26 Nov 2026, 16:53 UTC",
         "day": "2026-11-26",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "ec63380867dd906a14edb80bb715167892c32e1e",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ec63380867dd906a14edb80bb715167892c32e1e",
-        "date_utc": "26 Nov 2026, 04:17 UTC",
+        "sha": "e64aa696df955312d68638afb1f746f50c73c419",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e64aa696df955312d68638afb1f746f50c73c419",
+        "date_utc": "26 Nov 2026, 16:53 UTC",
         "day": "2026-11-26",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "5e77faada9e8eaa33357d99b86874c02c70216f3",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5e77faada9e8eaa33357d99b86874c02c70216f3",
-        "date_utc": "26 Nov 2026, 04:17 UTC",
+        "sha": "8c92604a5c5f113d0119c748a0fa14b4df5838b2",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8c92604a5c5f113d0119c748a0fa14b4df5838b2",
+        "date_utc": "26 Nov 2026, 16:53 UTC",
         "day": "2026-11-26",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "5db6391fade30daf54eae90bac82cc6c7e379126",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/5db6391fade30daf54eae90bac82cc6c7e379126",
-        "date_utc": "26 Nov 2026, 04:13 UTC",
+        "sha": "806f75b2312f98ede6bbbc64cfd18da8275980bc",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/806f75b2312f98ede6bbbc64cfd18da8275980bc",
+        "date_utc": "26 Nov 2026, 16:52 UTC",
         "day": "2026-11-26",
-        "title": "Publish Samarth Bharat painting contest with source conflicts"
+        "title": "Record Telegram publishing state"
       },
       {
-        "sha": "6450427d2edc114ddf9a4faccc18b5e59f69d564",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/6450427d2edc114ddf9a4faccc18b5e59f69d564",
-        "date_utc": "26 Nov 2026, 02:12 UTC",
+        "sha": "a873f2e14e01ec7519c62dd4698ee8964b0033ad",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a873f2e14e01ec7519c62dd4698ee8964b0033ad",
+        "date_utc": "26 Nov 2026, 16:52 UTC",
         "day": "2026-11-26",
-        "title": "Correct Auto Dark Mode AutoClip and Autoheal source claims"
+        "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 280,
+    "commit_total": 287,
     "calendar": [
       {
         "date": "2026-08-28",
