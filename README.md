@@ -22,7 +22,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="cards/guides-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="cards/guides-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="cards/guides-dark.svg">
-  <img src="cards/guides-light.svg" alt="Read the guides. 757 public archive links." width="100%">
+  <img src="cards/guides-light.svg" alt="Read the guides. 758 public archive links." width="100%">
 </picture>
 </a>
 
@@ -78,8 +78,8 @@
 
 <h3 align="center">Fresh from the guide library</h3>
 
-<p align="center"><a href="https://aicon-hub.github.io/posts/tata-trusts-medical-healthcare-merit-scholarship-2026-27-9-december-guide.html">Tata Trusts medical and healthcare merit scholarship 2026-27</a><br>
-<a href="https://aicon-hub.github.io/posts/bppr-kerala-rule-change-suggestions-portal-english-malayalam-guide.html">BPPR: suggest simpler Kerala government rules</a><br>
-<a href="https://aicon-hub.github.io/posts/tata-trusts-means-grant-2026-27-school-college-fee-reimbursement-guide.html">Tata Trusts Means Grant 2026-27: partial fee support</a></p>
+<p align="center"><a href="https://aicon-hub.github.io/posts/samarth-bharat-viksit-bharat-painting-contest-2026-15000-prizes-guide.html">Samarth Bharat painting contest: ₹15,000 prizes</a><br>
+<a href="https://aicon-hub.github.io/posts/tata-trusts-medical-healthcare-merit-scholarship-2026-27-9-december-guide.html">Tata Trusts medical and healthcare merit scholarship 2026-27</a><br>
+<a href="https://aicon-hub.github.io/posts/bppr-kerala-rule-change-suggestions-portal-english-malayalam-guide.html">BPPR: suggest simpler Kerala government rules</a></p>
 
 <p align="center"><a href="https://aicon-hub.github.io/posts/about-aicon.html">About AiCoN</a> · <a href="mailto:aicon4tech@proton.me">Corrections and contact</a></p>
