@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-11-27 02:57 UTC",
-  "checked_at_ist": "27 Nov 2026, 08:27 AM IST",
+  "checked_at_utc": "2026-11-27 12:46 UTC",
+  "checked_at_ist": "27 Nov 2026, 06:16 PM IST",
   "archive_entries": 760,
   "homepage_status": 200,
   "stars": 2,
@@ -75,47 +75,47 @@
       },
       {
         "date": "2026-11-27",
-        "count": 1
+        "count": 6
       }
     ],
     "commits": [
       {
-        "sha": "a84a5d51959b4476c18a7f67378e2512f150a413",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a84a5d51959b4476c18a7f67378e2512f150a413",
-        "date_utc": "27 Nov 2026, 02:11 UTC",
+        "sha": "a03c6edec6afe5c1a90445f9db316c8cd759c569",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a03c6edec6afe5c1a90445f9db316c8cd759c569",
+        "date_utc": "27 Nov 2026, 12:25 UTC",
         "day": "2026-11-27",
-        "title": "Refresh AntennaPod release version to 3.13.0"
-      },
-      {
-        "sha": "2169290f5f5063c845a243a80d64e8b490076b73",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2169290f5f5063c845a243a80d64e8b490076b73",
-        "date_utc": "26 Nov 2026, 16:53 UTC",
-        "day": "2026-11-26",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "e64aa696df955312d68638afb1f746f50c73c419",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/e64aa696df955312d68638afb1f746f50c73c419",
-        "date_utc": "26 Nov 2026, 16:53 UTC",
-        "day": "2026-11-26",
+        "sha": "27ab88c407f4223677373b771ec0e17b40ed5f02",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/27ab88c407f4223677373b771ec0e17b40ed5f02",
+        "date_utc": "27 Nov 2026, 12:25 UTC",
+        "day": "2026-11-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "8c92604a5c5f113d0119c748a0fa14b4df5838b2",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/8c92604a5c5f113d0119c748a0fa14b4df5838b2",
-        "date_utc": "26 Nov 2026, 16:53 UTC",
-        "day": "2026-11-26",
+        "sha": "72a4366efb252cfd3b1b10300ae86ce33f75494a",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/72a4366efb252cfd3b1b10300ae86ce33f75494a",
+        "date_utc": "27 Nov 2026, 12:25 UTC",
+        "day": "2026-11-27",
         "title": "Record Telegram publishing state"
       },
       {
-        "sha": "806f75b2312f98ede6bbbc64cfd18da8275980bc",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/806f75b2312f98ede6bbbc64cfd18da8275980bc",
-        "date_utc": "26 Nov 2026, 16:52 UTC",
-        "day": "2026-11-26",
-        "title": "Record Telegram publishing state"
+        "sha": "d4888c2d29bfa36fd6490fd026c6e1b1d754b6de",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/d4888c2d29bfa36fd6490fd026c6e1b1d754b6de",
+        "date_utc": "27 Nov 2026, 12:15 UTC",
+        "day": "2026-11-27",
+        "title": "Make Funded Abroad easier to discover across the site"
+      },
+      {
+        "sha": "ea7512a3720589b16c96d0b75dbb9eabb748eb10",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/ea7512a3720589b16c96d0b75dbb9eabb748eb10",
+        "date_utc": "27 Nov 2026, 05:30 UTC",
+        "day": "2026-11-27",
+        "title": "Refresh Stipendium Hungaricum upcoming-call notice"
       }
     ],
-    "commit_total": 275,
+    "commit_total": 280,
     "calendar": [
       {
         "date": "2026-08-29",
@@ -570,7 +570,7 @@
       {
         "date": "2026-11-27",
         "level": 1,
-        "count": 35
+        "count": 51
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
