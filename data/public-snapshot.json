@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-11-26 20:17 UTC",
-  "checked_at_ist": "27 Nov 2026, 01:47 AM IST",
+  "checked_at_utc": "2026-11-27 02:57 UTC",
+  "checked_at_ist": "27 Nov 2026, 08:27 AM IST",
   "archive_entries": 760,
   "homepage_status": 200,
   "stars": 2,
@@ -21,10 +21,6 @@
   ],
   "activity": {
     "commit_days": [
-      {
-        "date": "2026-11-13",
-        "count": 13
-      },
       {
         "date": "2026-11-14",
         "count": 17
@@ -76,9 +72,20 @@
       {
         "date": "2026-11-26",
         "count": 12
+      },
+      {
+        "date": "2026-11-27",
+        "count": 1
       }
     ],
     "commits": [
+      {
+        "sha": "a84a5d51959b4476c18a7f67378e2512f150a413",
+        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a84a5d51959b4476c18a7f67378e2512f150a413",
+        "date_utc": "27 Nov 2026, 02:11 UTC",
+        "day": "2026-11-27",
+        "title": "Refresh AntennaPod release version to 3.13.0"
+      },
       {
         "sha": "2169290f5f5063c845a243a80d64e8b490076b73",
         "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/2169290f5f5063c845a243a80d64e8b490076b73",
@@ -106,22 +113,10 @@
         "date_utc": "26 Nov 2026, 16:52 UTC",
         "day": "2026-11-26",
         "title": "Record Telegram publishing state"
-      },
-      {
-        "sha": "a873f2e14e01ec7519c62dd4698ee8964b0033ad",
-        "url": "https://github.com/aicon-hub/aicon-hub.github.io/commit/a873f2e14e01ec7519c62dd4698ee8964b0033ad",
-        "date_utc": "26 Nov 2026, 16:52 UTC",
-        "day": "2026-11-26",
-        "title": "Record Telegram publishing state"
       }
     ],
-    "commit_total": 287,
+    "commit_total": 275,
     "calendar": [
-      {
-        "date": "2026-08-28",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2026-08-29",
         "level": 0,
@@ -315,7 +310,7 @@
       {
         "date": "2026-10-06",
         "level": 2,
-        "count": 184
+        "count": 182
       },
       {
         "date": "2026-10-07",
@@ -380,7 +375,7 @@
       {
         "date": "2026-10-19",
         "level": 1,
-        "count": 72
+        "count": 70
       },
       {
         "date": "2026-10-20",
@@ -465,7 +460,7 @@
       {
         "date": "2026-11-05",
         "level": 2,
-        "count": 162
+        "count": 161
       },
       {
         "date": "2026-11-06",
@@ -545,7 +540,7 @@
       {
         "date": "2026-11-21",
         "level": 1,
-        "count": 3
+        "count": 2
       },
       {
         "date": "2026-11-22",
@@ -569,8 +564,13 @@
       },
       {
         "date": "2026-11-26",
-        "level": 0,
-        "count": 0
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-11-27",
+        "level": 1,
+        "count": 35
       }
     ],
     "history_url": "https://github.com/aicon-hub/aicon-hub.github.io/commits/main/",
